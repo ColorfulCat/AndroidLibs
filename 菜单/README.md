@@ -11,6 +11,8 @@
 
 An implementation of Google design, with Floating Action Button transforming into toolbar.
 
+![](https://github.com/fafaldo/FABToolbar/blob/master/fabtoolbar.gif)
+
 ---
 
 **PickerUI**: [https://github.com/DavidPizarro/PickerUI](https://github.com/DavidPizarro/PickerUI)
