@@ -11,6 +11,6 @@
 
 只是一个业余的 Android 项目而已。
 
-![](https://github.com/xingrz/GankMeizhi/raw/master/screenshots/1.jpg)
+<img src="https://github.com/xingrz/GankMeizhi/raw/master/screenshots/1.jpg" width="320" />
 
 ---
