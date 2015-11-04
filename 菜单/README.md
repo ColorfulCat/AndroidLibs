@@ -19,4 +19,6 @@ An implementation of Google design, with Floating Action Button transforming int
 
 Android library to display a list of items for pick one.
 
+![](https://github.com/DavidPizarro/PickerUI/blob/master/art/demo.gif)
+
 ---
