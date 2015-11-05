@@ -100,3 +100,44 @@ A library to bring fully animated Material Design components to pre-Lolipop Andr
 <img src="https://github.com/rey5137/Material/raw/master/image/theme.gif" width="160" />
 
 ---
+
+**MaterialTextField**: [https://github.com/florent37/MaterialTextField](https://github.com/florent37/MaterialTextField)
+
+A different beautiful Floating Edit Text.
+
+<img src="https://www.youtube.com/watch?v=Rax_o3URazU" width="320" />
+
+---
+
+**MaterialDateRangePicker**: [https://github.com/borax12/MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker)
+
+A material Date Range Picker based on wdullaers MaterialDateTimePicker.
+
+<img src="https://github.com/borax12/MaterialDateRangePicker/blob/master/screenshots/2.png?raw=true" width="320" />
+<img src="https://github.com/borax12/MaterialDateRangePicker/blob/master/screenshots/3.png?raw=true" width="320" />
+
+---
+
+**android_maskable_layout**: [https://github.com/christophesmet/android_maskable_layout](https://github.com/christophesmet/android_maskable_layout)
+
+A library that easily allows you to mask layouts/viewgroups.
+
+<img src="https://github.com/christophesmet/android_maskable_layout/blob/master/Screencast.gif" width="320" />
+
+---
+
+**bubbles-for-android**: [https://github.com/txusballesteros/bubbles-for-android](https://github.com/txusballesteros/bubbles-for-android)
+
+Bubbles for Android is an Android library to provide chat heads capabilities on your apps. With a fast way to integrate with your development.
+
+<img src="https://github.com/txusballesteros/bubbles-for-android/blob/master/assets/bubbles_demo.gif" width="320" />
+
+---
+
+**FloatingView**: [https://github.com/recruit-lifestyle/FloatingView](https://github.com/recruit-lifestyle/FloatingView)
+
+[http://engineer.recruit-lifestyle.co.jp/techblog/2015-07-29-floatingview/](http://engineer.recruit-lifestyle.co.jp/techblog/2015-07-29-floatingview/)
+
+<img src="https://github.com/recruit-lifestyle/FloatingView/blob/master/screenshot/animation.gif" width="320" />
+
+---

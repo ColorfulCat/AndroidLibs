@@ -14,3 +14,10 @@ Android floating action button.
 
 ---
 
+**circular-progress-button**: [https://github.com/dmytrodanylyk/circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)
+
+Android Circular Progress Button. [http://dmytrodanylyk.com/pages/portfolio/circular-progress-button.html](http://dmytrodanylyk.com/pages/portfolio/circular-progress-button.html)
+
+<img src="https://github.com/dmytrodanylyk/circular-progress-button/blob/master/screenshots/intro.gif" width="320" />
+
+---

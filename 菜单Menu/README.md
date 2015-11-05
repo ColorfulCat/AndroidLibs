@@ -55,3 +55,21 @@ Library that implements the floating action button to sheet transition from Goog
 
 ---
 
+**AndroidSwipeLayout**: [https://github.com/daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
+
+The Most Powerful Swipe Layout!
+
+<img src="https://camo.githubusercontent.com/183f464b177ffa9d0b35f396796ec64f37ce87db/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f36313064633033346a7731656a6f7175696476767367323038693036333075342e676966" width="320" />
+<img src="https://camo.githubusercontent.com/878e29e5defd2c64db4a5ec93119e133cab00807/687474703a2f2f7777322e73696e61696d672e636e2f6d773639302f36313064633033346a7731656a6f706c6170777471673230386e3065373464782e676966" width="320" />
+
+---
+
+**ArcLayout**: [https://github.com/ogaclejapan/ArcLayout](https://github.com/ogaclejapan/ArcLayout)
+
+A very simple arc layout library for Android
+
+<img src="https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo1.gif" width="320" />
+<img src="https://raw.githubusercontent.com/ogaclejapan/ArcLayout/master/art/demo2.gif" width="320" />
+
+---
+
