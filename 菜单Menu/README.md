@@ -30,3 +30,12 @@ Visual back-port of the rotating drawer-to-arrow drawable from Android L.
 <img src="https://camo.githubusercontent.com/8f5ee2581e081729156c30ec506c4b70dc1eccb3/687474703a2f2f636872697372656e6b652e636f6d2f6173736574732f696e6c696e655f6472617765726172726f776472617761626c655f73616d706c652e676966" width="320" />
 
 ---
+
+**material-menu**: [https://github.com/balysv/material-menu](https://github.com/balysv/material-menu)
+
+Animations for Android L drawer, back, dismiss and check icons.
+
+<img src="https://camo.githubusercontent.com/642bd91749dce58abfba00fe1cefdf2cf4213fd3/68747470733a2f2f7261772e6769746875622e636f6d2f62616c7973762f6d6174657269616c2d6d656e752f6d61737465722f6172742f64656d6f2e676966" width="320" />
+<img src="https://camo.githubusercontent.com/a45273254d6db820e87b8291a0917420f542612c/68747470733a2f2f7261772e6769746875622e636f6d2f62616c7973762f6d6174657269616c2d6d656e752f6d61737465722f6172742f64656d6f5f6472617765722e676966" width="320" />
+
+---
