@@ -1,7 +1,5 @@
 # AndroidLibs == 布局 Layout
-
-
-收集Android开发中优秀的开源组件库，方便大家查询，欢迎fork和star~
+包括：侧滑菜单、tab栏、ViewPager、自定义Layout等……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 

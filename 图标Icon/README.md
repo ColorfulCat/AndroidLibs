@@ -1,9 +1,16 @@
 # AndroidLibs == 图标 Icon
 
-
-收集Android开发中优秀的开源组件库，方便大家查询，欢迎fork和star~
+包含：各种图标资源库
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
+
+---
+
+- [http://www.easyicon.net/](http://www.easyicon.net/)
+- [http://www.iconpng.com/](http://www.iconpng.com/)
+- [http://findicons.com/](http://findicons.com/)
+- [https://www.iconfinder.com/](https://www.iconfinder.com/)
+
 
 ---
 
@@ -20,4 +27,3 @@ Library containing over 1000 material vector icons that can be easily used as Dr
 <img src="https://camo.githubusercontent.com/802f5408fb1caeae9647d6e72c5905225b24220d/687474703a2f2f692e696d6775722e636f6d2f4b584866586f382e676966" width="320" />
 
 ---
- 

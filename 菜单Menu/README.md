@@ -1,7 +1,6 @@
 # AndroidLibs == 菜单
 
-
-收集Android开发中优秀的开源组件库，方便大家查询，欢迎fork和star~
+包含：各种菜单Menu、列表菜单List、自定义菜单……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 

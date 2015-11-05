@@ -1,7 +1,6 @@
 # AndroidLibs == 特效 Effect
 
-
-收集Android开发中优秀的开源组件库，方便大家查询，欢迎fork和star~
+包含：各种特效……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
