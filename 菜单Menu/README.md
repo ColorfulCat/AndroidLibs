@@ -35,7 +35,24 @@ Visual back-port of the rotating drawer-to-arrow drawable from Android L.
 
 Animations for Android L drawer, back, dismiss and check icons.
 
-<img src="https://camo.githubusercontent.com/642bd91749dce58abfba00fe1cefdf2cf4213fd3/68747470733a2f2f7261772e6769746875622e636f6d2f62616c7973762f6d6174657269616c2d6d656e752f6d61737465722f6172742f64656d6f2e676966" width="320" />
 <img src="https://camo.githubusercontent.com/a45273254d6db820e87b8291a0917420f542612c/68747470733a2f2f7261772e6769746875622e636f6d2f62616c7973762f6d6174657269616c2d6d656e752f6d61737465722f6172742f64656d6f5f6472617765722e676966" width="320" />
 
 ---
+
+**android-floating-action-button**: [https://github.com/futuresimple/android-floating-action-button](https://github.com/futuresimple/android-floating-action-button)
+
+Floating Action Button for Android based on Material Design specification.
+
+<img src="https://github.com/futuresimple/android-floating-action-button/blob/master/screenshots/menu.gif" width="320" />
+<img src="https://github.com/futuresimple/android-floating-action-button/blob/master/screenshots/labels.png" width="320" />
+
+---
+
+**material-sheet-fab**: [https://github.com/gowong/material-sheet-fab](https://github.com/gowong/material-sheet-fab)
+
+Library that implements the floating action button to sheet transition from Google's Material Design documentation.
+
+<img src="https://github.com/gowong/material-sheet-fab/blob/master/art/bgmonitor.gif" width="320" />
+
+---
+

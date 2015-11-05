@@ -13,10 +13,11 @@ Material Design icons by Google.[http://google.github.io/material-design-icons/]
 
 ---
 
-**RippleEffect**: [https://github.com/traex/RippleEffect](https://github.com/traex/RippleEffect)
+**material-icon-lib**: [https://github.com/code-mc/material-icon-lib](https://github.com/code-mc/material-icon-lib)
 
-Implementation of Ripple effect from Material Design for Android API 9+.
+Library containing over 1000 material vector icons that can be easily used as Drawable or as a standalone View.
 
-<img src="https://github.com/traex/RippleEffect/blob/master/demo.gif" width="320" />
+<img src="https://camo.githubusercontent.com/802f5408fb1caeae9647d6e72c5905225b24220d/687474703a2f2f692e696d6775722e636f6d2f4b584866586f382e676966" width="320" />
 
 ---
+ 

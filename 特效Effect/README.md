@@ -22,3 +22,11 @@ Implementation of Ripple effect from Material Design for Android API 9+.
 <img src="https://github.com/traex/RippleEffect/blob/master/demo.gif" width="320" />
 
 ---
+
+**CircularReveal**: [https://github.com/ozodrukh/CircularReveal](https://github.com/ozodrukh/CircularReveal)
+
+Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+
+
+<img src="https://camo.githubusercontent.com/b77f83ee8da9b8d5926597fb7c65a457b4029e98/687474703a2f2f3773626e72702e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f6c6f6c6c69706f70322d43697263756c617252657665616c2e676966" width="320" />
+
+---
