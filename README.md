@@ -32,12 +32,12 @@ Please Pull Request~
 
 Contributors:
 
-- **大花猫** ： [http://www.colorfulcat.xyz/](http://www.colorfulcat.xyz?from=androidlibs)
+- **大花猫(Owner)** ： [http://www.colorfulcat.xyz/](http://www.colorfulcat.xyz?from=androidlibs)
 
+---
 
 Thanks to :
 
 - [http://www.23code.com/](http://www.23code.com/)
 - [https://github.com/wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
-- 
 
