@@ -21,3 +21,35 @@ Android Circular Progress Button. [http://dmytrodanylyk.com/pages/portfolio/circ
 <img src="https://github.com/dmytrodanylyk/circular-progress-button/blob/master/screenshots/intro.gif" width="320" />
 
 ---
+
+**android-process-button**: [https://github.com/dmytrodanylyk/android-process-button](https://github.com/dmytrodanylyk/android-process-button)
+
+Android Buttons With Built-in Progress Meters.[http://dmytrodanylyk.com/pages/portfolio/portfolio-process-button.html](http://dmytrodanylyk.com/pages/portfolio/portfolio-process-button.html)
+
+<img src="https://github.com/dmytrodanylyk/android-process-button/blob/master/screenshots/sample1_small2.gif" width="320" />
+
+---
+
+**android-circlebutton**: [https://github.com/markushi/android-circlebutton](https://github.com/markushi/android-circlebutton)
+
+Circle button widget for Android
+
+<img src="https://github.com/markushi/android-circlebutton/blob/master/example/example.gif" width="320" />
+
+---
+
+**android-flat-button**: [https://github.com/hoang8f/android-flat-button](https://github.com/hoang8f/android-flat-button)
+
+FButton - a flat button library for Android
+
+<img src="https://raw.githubusercontent.com/hoang8f/android-flat-button/master/screenshot/screenshot.gif" width="320" />
+
+---
+
+**MovingButton**: [https://github.com/TheFinestArtist/MovingButton](https://github.com/TheFinestArtist/MovingButton)
+
+Android button which moves in eight direction.
+
+<img src="https://github.com/thefinestartist/movingbutton/blob/master/art/preview.gif" width="320" />
+
+---

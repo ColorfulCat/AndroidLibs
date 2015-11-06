@@ -1,5 +1,5 @@
 # AndroidLibs == 布局 Layout
-包括：侧滑菜单、tab栏、ViewPager、自定义Layout等……
+包括：侧滑菜单、tab栏、ViewPager、Indicator、自定义Layout等……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
@@ -221,5 +221,172 @@ A togglelayout that can be used in setting interface
 swipe right to display drawer with flowing & bouncing effects.[https://android-arsenal.com/details/1/2658](https://android-arsenal.com/details/1/2658)
 
 <img src="https://github.com/mxn21/FlowingDrawer/blob/master/screen.gif" width="320" />
+
+---
+ 
+**ParallaxPagerTransformer**: [https://github.com/xgc1986/ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer)
+
+A pager for Android with parallax effect
+
+<img src="https://github.com/wasabeef/awesome-android-ui/blob/master/art/ParallaxPagerTransformer.gif" width="320" />
+
+---
+ 
+**ViewPagerTransforms**: [https://github.com/ToxicBakery/ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
+
+Library containing common animations needed for transforming ViewPager scrolling for Android v13+.
+
+<img src="https://camo.githubusercontent.com/8dabc7f764609bd8fbe9a7c594251e0e5d20ebdc/687474703a2f2f692e696d6775722e636f6d2f72766845326e732e676966" width="320" />
+
+---
+ 
+**CircleIndicator**: [https://github.com/ongakuer/CircleIndicator](https://github.com/ongakuer/CircleIndicator)
+
+A lightweight viewpager indicator like in nexus 5 launcher.
+
+<img src="https://github.com/ongakuer/CircleIndicator/blob/master/screenshot.gif" width="320" />
+
+---
+ 
+**ViewPagerIndicator**: [https://github.com/JakeWharton/ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
+
+Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.[http://viewpagerindicator.com](http://viewpagerindicator.com)
+
+<img src="https://camo.githubusercontent.com/240ee2f3ebda5f20f73a5750c192a28743227816/68747470733a2f2f7261772e6769746875622e636f6d2f4a616b6557686172746f6e2f416e64726f69642d566965775061676572496e64696361746f722f6d61737465722f73616d706c652f73637265656e732e706e67" width="320" />
+
+---
+ 
+**Android-ParallaxHeaderViewPager**: [https://github.com/kmshack/Android-ParallaxHeaderViewPager](https://github.com/kmshack/Android-ParallaxHeaderViewPager)
+
+NewsStand Application for Android's view of play, such as a pager function that implements the code.[http://www.kmshack.kr/431](http://www.kmshack.kr/431)
+
+<img src="https://github.com/wasabeef/awesome-android-ui/blob/master/art/Android-ParallaxHeaderViewPager.gif" width="320" />
+
+---
+ 
+**freepager**: [https://github.com/alexzaitsev/freepager](https://github.com/alexzaitsev/freepager)
+
+ViewPagers library for Android
+
+<img src="https://github.com/alexzaitsev/freepager/blob/master/04.gif" width="320" />
+
+---
+ 
+**SpringIndicator**: [https://github.com/chenupt/SpringIndicator](https://github.com/chenupt/SpringIndicator)
+
+A spring indicator like Morning Routine guide.
+
+<img src="https://raw.githubusercontent.com/chenupt/SpringIndicator/master/img/si_1.0.0.gif" width="320" />
+
+---
+ 
+**freepager**: [https://github.com/ogaclejapan/SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)
+
+ViewPagers library for Android
+
+<img src="https://github.com/alexzaitsev/freepager/blob/master/04.gif" width="320" />
+
+---
+ 
+**SmartTabLayout**: [https://github.com/alexzaitsev/freepager](https://github.com/alexzaitsev/freepager)
+
+A custom ViewPager title strip which gives continuous feedback to the user when scrolling
+
+<img src="https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif" width="160" />
+<img src="https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo2.gif" width="160" />
+<img src="https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo4.gif" width="160" />
+<img src="https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo6.gif" width="160" />
+
+---
+ 
+**FlipViewPager.Draco**: [https://github.com/Yalantis/FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco)
+
+This project aims to provide a working page flip implementation for usage in ListView.[https://yalantis.com/](https://yalantis.com/)
+
+<img src="https://camo.githubusercontent.com/db312e031e5f5a445b548d35986b0498caa261d3/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313735383239382f39396d696c65732d66696e642d667269656e64732d696e746572666163652d616e696d6174696f6e2e676966" width="320" />
+
+---
+ 
+**MaterialViewPager**: [https://github.com/florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager)
+
+A Material Design ViewPager easy to use library
+
+<img src="http://www.youtube.com/watch?v=r95Tt6AS18c" width="320" />
+
+---
+ 
+**AndroidRubberIndicator**: [https://github.com/LyndonChin/AndroidRubberIndicator](https://github.com/LyndonChin/AndroidRubberIndicator)
+
+A rubber indicator
+
+<img src="https://camo.githubusercontent.com/2ea6152b06aa5f9ca21ab7ff0a83830f73f48fbe/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3330333233342f73637265656e73686f74732f323039303830332f70616765696e64696361746f722e676966" width="320" />
+
+---
+ 
+**HollyViewPager**: [https://github.com/florent37/HollyViewPager](https://github.com/florent37/HollyViewPager)
+
+A different beautiful ViewPager, with quick swipe controls
+
+<img src="https://www.youtube.com/watch?v=4ZmjEde-Xho" width="320" />
+
+---
+ 
+**SCViewPager**: [https://github.com/sacot41/SCViewPager](https://github.com/sacot41/SCViewPager)
+
+A simple ViewPager extends that provide scroll based animation like Jazz Hands for iOS. Jazz Hands library provided by IFTTT :[https://github.com/IFTTT/JazzHands](https://github.com/IFTTT/JazzHands)
+
+<img src="https://github.com/sacot41/SCViewPager/blob/master/example_2.gif?raw=true" width="320" />
+
+---
+
+**AndroidResideMenu**: [https://github.com/SpecialCyCi/AndroidResideMenu](https://github.com/SpecialCyCi/AndroidResideMenu)
+
+The idea of ResideMenu is from Dribbble 1 and 2. It has come true and run in iOS devices. iOS ResideMenu This project is the RefsideMenu Android version. The visual effect is partly referred to iOS version of ResideMenu. And thanks to the authors for the above idea and contribution.
+
+<img src="https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif" width="320" />
+<img src="https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/3Dsupport.png" width="320" />
+
+---
+
+**Folder-ResideMenu**: [https://github.com/dkmeteor/Folder-ResideMenu](https://github.com/dkmeteor/Folder-ResideMenu)
+
+An extension of ResideMenu
+
+<img src="https://github.com/dkmeteor/Folder-ResideMenu/blob/master/Folder-residemenu.gif" width="320" />
+<img src="https://github.com/dkmeteor/Folder-ResideMenu/blob/master/screenshot.png" width="320" />
+
+---
+
+**FadingActionBar**: [https://github.com/ManuelPeinado/FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar)
+
+Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app
+
+<img src="https://camo.githubusercontent.com/4fb0e40bdb047be104b2cefddee62923b8a2da37/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e75656c5065696e61646f2f466164696e67416374696f6e4261722f6d61737465722f6172742f726561646d655f7069632e706e67" width="320" />
+
+---
+
+**GlassActionBar**: [https://github.com/ManuelPeinado/GlassActionBar](https://github.com/ManuelPeinado/GlassActionBar)
+
+Android - a library that adds a glass-like effect to the action bar.
+
+<img src="https://camo.githubusercontent.com/01c80fb941f2ba07f6d9d26d80dd4792a79127d4/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e75656c5065696e61646f2f476c617373416374696f6e4261722f6d61737465722f6172742f726561646d655f7069632e706e67" width="320" />
+
+---
+
+**Reachability**: [https://github.com/sakebook/Reachability](https://github.com/sakebook/Reachability)
+
+You can easily access the top of the screen in Android. Like a iPhone 6 & 6 Plus.
+
+<img src="https://raw.githubusercontent.com/sakebook/Reachability/master/images/demo.gif" width="320" />
+
+---
+
+**android-slidingactivity**: [https://github.com/klinker41/android-slidingactivity](https://github.com/klinker41/android-slidingactivity)
+
+Android library which allows you to swipe down from an activity to close it.
+
+<img src="https://github.com/klinker41/android-slidingactivity/blob/master/preview.gif" width="320" />
+<img src="https://github.com/klinker41/android-slidingactivity/blob/master/preview_landscape.gif" width="320" />
+<img src="https://github.com/klinker41/android-slidingactivity/blob/master/preview_inbox_animation.gif" width="320" />
 
 ---

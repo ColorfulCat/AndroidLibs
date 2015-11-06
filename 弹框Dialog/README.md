@@ -36,3 +36,44 @@ This project can make it easy to theme and custom Android's dialog. Also contain
 <img src="https://github.com/drakeet/MaterialDialog/blob/master/screenshots/s7.png" width="320" />
 
 ---
+
+**dialogplus**: [https://github.com/orhanobut/dialogplus](https://github.com/orhanobut/dialogplus)
+
+Advanced dialog solution for android
+
+<img src="https://github.com/nr4bt/dialogplus/blob/master/art/dialogplus.gif" width="320" />
+<img src="https://github.com/nr4bt/dialogplus/blob/master/art/dialogplusanim.gif" width="320" />
+
+---
+
+**sweet-alert-dialog**: [https://github.com/pedant/sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)
+
+SweetAlert for Android, a beautiful and clever alert dialog.[http://www.pedant.cn](http://www.pedant.cn)
+
+<img src="https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif" width="320" />
+
+---
+
+**FlycoDialog_Master**: [https://github.com/H07000223/FlycoDialog_Master](https://github.com/H07000223/FlycoDialog_Master)
+
+A powerful android dialog library with inner widgets and animations supports customization.Easy to use, easy to customise. Support for Android 2.2 and up.
+
+<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_1.gif" width="320" />
+<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_2.gif" width="320" />
+<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_3.gif" width="320" />
+<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_4.gif" width="320" />
+<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_14.gif" width="320" />
+<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_13.gif" width="320" />
+<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_15.gif" width="320" />
+<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_17.gif" width="320" />
+
+---
+
+**BlurDialogFragment**: [https://github.com/tvbarthel/BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)
+
+Library project to display DialogFragment with a blur effect.
+
+<img src="https://github.com/tvbarthel/BlurDialogFragment/blob/master/static/action_bar_blur.png" width="320" />
+<img src="https://github.com/tvbarthel/BlurDialogFragment/blob/master/static/full_screen_blur.png" width="320" />
+
+---

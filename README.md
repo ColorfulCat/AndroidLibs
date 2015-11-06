@@ -1,6 +1,7 @@
 # AndroidLibs
 
 收集Android开发中优秀的开源组件库，方便大家查询，欢迎fork、PR和star~
+希望各位能帮忙添加一些优秀的内容，为开源做一份贡献~ ^ ^ 
 
 ---
 
@@ -34,5 +35,9 @@ Contributors:
 - **大花猫** ： [http://www.colorfulcat.xyz/](http://www.colorfulcat.xyz?from=androidlibs)
 
 
+Thanks to :
 
+- [http://www.23code.com/](http://www.23code.com/)
+- [https://github.com/wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+- 
 
