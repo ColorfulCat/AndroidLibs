@@ -1,7 +1,6 @@
 # AndroidLibs == 完整开源项目
 
-
-收集Android开发中优秀的开源组件库，方便大家查询，欢迎fork和star~
+包含一些完整的开源项目
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 

@@ -1,20 +1,37 @@
-# AndroidLibs == 菜单
+# AndroidLibs == 网络请求 Network
 
-
-收集Android开发中优秀的开源组件库，方便大家查询，欢迎fork和star~
+包含各种网络请求框架、工具类
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
 ---
 
-**FABToolbar**: [https://github.com/fafaldo/FABToolbar](https://github.com/fafaldo/FABToolbar)
+**okhttp**: [https://github.com/square/okhttp](https://github.com/square/okhttp)
 
-An implementation of Google design, with Floating Action Button transforming into toolbar.
+An HTTP+SPDY client for Android and Java applications.
 
 ---
 
-**PickerUI**: [https://github.com/DavidPizarro/PickerUI](https://github.com/DavidPizarro/PickerUI)
+**android-async-http**: [https://github.com/loopj/android-async-http](https://github.com/loopj/android-async-http)
 
-Android library to display a list of items for pick one.
+An Asynchronous HTTP Library for Android
+
+---
+
+**retrofit**: [https://github.com/square/retrofit](https://github.com/square/retrofit)
+
+Type-safe HTTP client for Android and Java by Square, Inc. 
+
+---
+
+**Netroid**: [http://www.open-open.com/lib/view/open1402825446810.html](http://www.open-open.com/lib/view/open1402825446810.html)
+
+Netroid是一个基于Volley 实现的Android Http库。提供执行网络请求、缓存返回结果、批量图片加载、大文件断点下载的常见Http交互功能。致力于避免每个项目重复开发基础Http功能，实现显著地缩短开发周期的愿景。
+
+---
+
+**Volley的基本用法**: [http://blog.csdn.net/guolin_blog/article/details/17482095](http://blog.csdn.net/guolin_blog/article/details/17482095)
+
+谷歌自产的网络请求框架
 
 ---

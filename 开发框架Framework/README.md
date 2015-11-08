@@ -34,3 +34,27 @@ Android换肤／夜间模式的Android框架，配合theme和换肤控件框架�
 <img src="https://github.com/GcsSloop/AndroidFontsManager/blob/master/Pic/fontsmanagerdemo.gif" width="320" />
 
 ---
+
+**xUtils**: [https://github.com/wyouflf/xUtils](https://github.com/wyouflf/xUtils)
+
+android orm, bitmap, http, view inject...
+
+---
+
+**afinal**: [https://github.com/yangfuhai/afinal](https://github.com/yangfuhai/afinal)
+
+Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。通过finalActivity，我们可以通过注解的方式进行绑定ui和事件。通过finalBitmap，我们可以方便的加载bitmap图片，而无需考虑oom等问题。通过finalDB模块，我们一行代码就可以对android的sqlite数据库进行增删改查。通过FinalHttp模块，我们可以以ajax形式请求http数据。
+
+---
+
+**KJFrameForAndroid**: [https://github.com/kymjs/KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)
+
+An Android library and includes ActivityFrame, KJHttp, KJBitmap, KJDataBase. KJFrameForAndroid is designed to wrap complexity of the Android native SDK and keep things simple.[http://www.kymjs.com/works](http://www.kymjs.com/works)
+
+---
+
+**ThinkAndroid**: [https://github.com/white-cat/ThinkAndroid](https://github.com/white-cat/ThinkAndroid)
+
+ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议发布的Android开发框架，其开发宗旨是简单、快速的进行 Android应用程序的开发，包含Android mvc、简易sqlite orm、ioc模块、封装Android httpclitent的http模块, 具有快速构建文件缓存功能，无需考虑缓存文件的格式，都可以非常轻松的实现缓存，它还基于文件缓存模块实现了图片缓存功能， 在android中加载的图片的时候，对oom的问题，和对加载图片错位的问题都轻易解决。他还包括了一个手机开发中经常应用的实用工具类， 如日志管理，配置文件管理，android下载器模块，网络切换检测等等工具。[http://www.thinkandroid.cn](http://www.thinkandroid.cn)
+
+---

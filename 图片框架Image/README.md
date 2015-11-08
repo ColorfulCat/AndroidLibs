@@ -1,4 +1,4 @@
-# AndroidLibs == 菜单
+# AndroidLibs == 图片 Image
 
 包含：图片加载框架ImageLoader、自定义图片、裁剪Crop、形状Shape……
 
