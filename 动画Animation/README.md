@@ -152,4 +152,12 @@ Parallax everywhere is a library with alternative android widgets with parallax 
 <img src="https://raw.githubusercontent.com/Narfss/ParallaxEverywhere/master/parallax-everywhere-animation-optimize.gif" width="320" />
 
 ---
+
+**EaseInterpolator**: [https://github.com/cimi-chen/EaseInterpolator](https://github.com/cimi-chen/EaseInterpolator)
+
+Thirty different easing animation interpolators for Android.
+
+<img src="http://www.23code.com/wp-content/uploads/2015/07/device-2015-07-24-143320.jpg" width="320" />
+
+---
  

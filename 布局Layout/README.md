@@ -3,6 +3,52 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
+--- 
+
+**Android-StepsView**: [https://github.com/anton46/Android-StepsView](https://github.com/anton46/Android-StepsView)
+
+Android-StepsView [http://anton46.com](http://anton46.com)
+
+<img src="https://github.com/anton46/Android-StepsView/blob/master/image1.png" width="320" />
+
+---
+
+**ProductTour**: [https://github.com/matrixxun/ProductTour](https://github.com/matrixxun/ProductTour)
+
+ProductTour is android sample project implementing a parallax effect welcome page using ViewPager and PageTransformer, similar to the one found in Google's app like Sheet, Drive, Docs...
+
+<img src="https://github.com/matrixxun/ProductTour/blob/master/art/run.gif" width="320" />
+<img src="https://github.com/matrixxun/ProductTour/blob/master/art/run3.gif" width="320" />
+
+---
+
+**ColorfulStatusBar**: [https://github.com/hongyangAndroid/ColorfulStatusBar](https://github.com/hongyangAndroid/ColorfulStatusBar)
+
+Android app状态栏变色。
+
+<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_03.gif" width="320" />
+<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/lalala.gif" width="320" />
+<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_05.gif" width="320" />
+<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_10.gif" width="320" />
+<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_11.gif" width="320" />
+
+---
+
+**CircleIndicator**: [https://github.com/THEONE10211024/CircleIndicator](https://github.com/THEONE10211024/CircleIndicator)
+
+A lightweight viewpager indicator!
+
+<img src="https://github.com/THEONE10211024/CircleIndicator/blob/master/demo/inside.gif" width="320" />
+
+---
+
+**MaterialDrawer**: [https://github.com/mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
+
+The flexible, easy to use, all in one drawer library for your Android project.[http://mikepenz.github.io/MaterialDrawer](http://mikepenz.github.io/MaterialDrawer)
+
+<img src="https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots1.jpg" width="640" />
+<img src="https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots2.jpg" width="640" />
+
 ---
 
 **MaterialTabs**: [https://github.com/neokree/MaterialTabs](https://github.com/neokree/MaterialTabs)

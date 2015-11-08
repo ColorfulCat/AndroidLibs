@@ -6,6 +6,114 @@
 
 ---
 
+**TITLE**: []()
+
+DESC
+
+<img src="" width="320" />
+
+---
+
+**TITLE**: []()
+
+DESC
+
+<img src="" width="320" />
+
+---
+
+**TITLE**: []()
+
+DESC
+
+<img src="" width="320" />
+
+---
+
+**TITLE**: []()
+
+DESC
+
+<img src="" width="320" />
+
+---
+
+**TITLE**: []()
+
+DESC
+
+<img src="" width="320" />
+
+---
+
+**TourGuide**: [https://github.com/worker8/TourGuide](https://github.com/worker8/TourGuide)
+
+TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View
+
+<img src="https://raw.githubusercontent.com/worker8/all_my_media_files/25b3208/device-2015-07-01-114155.gif" width="320" />
+
+---
+
+**DownloadProgressBar**: [https://github.com/panwrona/DownloadProgressBar](https://github.com/panwrona/DownloadProgressBar)
+
+DownloadProgressBar is an android library that delivers awesome custom progress bar. You can manipulate it's state in every way.
+
+<img src="https://github.com/panwrona/DownloadProgressBar/blob/master/success.gif" width="320" />
+<img src="https://github.com/panwrona/DownloadProgressBar/blob/master/error.gif" width="320" />
+
+---
+
+**TagCloudView**: [https://github.com/kingideayou/TagCloudView](https://github.com/kingideayou/TagCloudView)
+
+支持 SingleLine 模式的标签云效果
+
+<img src="https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_1.png" width="320" />
+<img src="https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_2.png" width="320" />
+
+---
+
+**cheesesquare**: [https://github.com/chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare)
+
+Demos the new Android Design library.
+
+<img src="http://www.23code.com/wp-content/uploads/2015/08/device-2015-08-14-153220.jpg" width="320" />
+
+---
+
+**SnailBar**: [https://github.com/android-cjj/SnailBar](https://github.com/android-cjj/SnailBar)
+
+A lovely snail,You can use it as a seekbar or progressbar.
+
+<img src="https://camo.githubusercontent.com/898918cea97a610539213a27e49fe9d8b0cd8e4a/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530392f31342f31353133333971756e76753636753272756b6e72366e2e676966" width="320" />
+
+---
+
+**ImageProcessing**: [https://github.com/pepoc/ImageProcessing](https://github.com/pepoc/ImageProcessing)
+
+这个贴纸Demo是基于 http://blog.isming.me/2015/05/10/sticker-view/ 现有基础的优化。
+
+<img src="https://github.com/pepoc/ImageProcessing/blob/master/demo.png" width="320" />
+
+---
+
+**QuantityView**: [https://github.com/himanshu-soni/QuantityView](https://github.com/himanshu-soni/QuantityView)
+
+Android quantity view with add and remove button.
+
+<img src="https://raw.githubusercontent.com/himanshu-soni/QuantityView/master/screenshots/device-2015-09-29-191352.png" width="320" />
+<img src="https://raw.githubusercontent.com/himanshu-soni/QuantityView/master/screenshots/device-2015-10-09-175354.png" width="320" />
+<img src="https://raw.githubusercontent.com/himanshu-soni/QuantityView/master/screenshots/device-2015-10-09-175420.png" width="320" />
+
+---
+
+**BubbleView**: [https://github.com/lguipeng/BubbleView](https://github.com/lguipeng/BubbleView)
+
+Bubble View 聊天气泡
+
+<img src="https://github.com/lguipeng/BubbleView/blob/master/screenshot/screenshot.png" width="320" />
+
+---
+
 **MaterialDesignLibrary**: [https://github.com/navasmdc/MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary)
 
 This is a library with components of Android L to you use in android 2.2
@@ -411,6 +519,31 @@ A better calendar for Android
 
 ---
 
+**WheelIndicatorView**: [https://github.com/dlazaro66/WheelIndicatorView](https://github.com/dlazaro66/WheelIndicatorView)
+
+A 'Google Fit' like activity indicator for Android
+
+<img src="https://github.com/dlazaro66/WheelIndicatorView/blob/master/art/animated_wheelview.gif?raw=true" width="320" />
+
+---
+
+**CircleTimerView**: [https://github.com/jiahuanyu/CircleTimerView](https://github.com/jiahuanyu/CircleTimerView)
+
+Circular timer on Android platform.
+
+<img src="https://github.com/jiahuanyu/CircleTimerView/blob/master/images/sample.gif" width="320" />
+<img src="https://github.com/jiahuanyu/CircleTimerView/blob/master/images/sample2.gif" width="320" />
+
+---
+
+**Spanny**: [https://github.com/binaryfork/Spanny](https://github.com/binaryfork/Spanny)
+
+A helper class that extends SpannableStringBuilder and adds methods to easily mark the text with multiple spans.
+
+<img src="https://camo.githubusercontent.com/16b6d49cf7481709a8bb43803489e6f43e26c1ac/687474703a2f2f692e696d6775722e636f6d2f4e506e6c3079792e706e673f31" width="320" />
+
+---
+
 **android-times-square**: [https://github.com/square/android-times-square](https://github.com/square/android-times-square)
 
 Standalone Android widget for picking a single date from a calendar view.
@@ -475,6 +608,22 @@ Pick a date or time on Android in style
 
 <img src="https://camo.githubusercontent.com/1467c2b5d209d68aef8ac96cc6bdc28a6c2b1f3d/68747470733a2f2f7261772e6769746875622e636f6d2f7764756c6c6165722f4d6174657269616c4461746554696d655069636b65722f67682d70616765732f696d616765732f646174655f7069636b65722e706e67" width="320" />
 <img src="https://camo.githubusercontent.com/968ac1b84bfe4514fabf2c25c94a1381d3af3973/68747470733a2f2f7261772e6769746875622e636f6d2f7764756c6c6165722f4d6174657269616c4461746554696d655069636b65722f67682d70616765732f696d616765732f74696d655f7069636b65722e706e67" width="320" />
+
+---
+
+**MaterialProgressBar**: [https://github.com/DreaminginCodeZH/MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)
+
+Material design ProgressBar with consistent appearance
+
+<img src="https://github.com/DreaminginCodeZH/MaterialProgressBar/blob/master/screenshot/android_5_0_1_samsung.png" width="320" />
+
+---
+
+**velocimeter-view**: [https://github.com/glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view)
+
+A velocimeter View for Android
+
+<img src="https://github.com/glomadrian/velocimeter-view/blob/master/art/velocimeter.gif" width="320" />
 
 ---
 

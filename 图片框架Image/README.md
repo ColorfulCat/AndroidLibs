@@ -4,7 +4,7 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
----
+--- 
 
 **TouchImageView**: [https://github.com/MikeOrtiz/TouchImageView](https://github.com/MikeOrtiz/TouchImageView)
 
@@ -17,6 +17,14 @@ Adds touch functionality to Android ImageView.
 A circular ImageView for Android
 
 <img src="https://camo.githubusercontent.com/e17a2a83e3e205a822d27172cb3736d4f441344d/68747470733a2f2f7261772e6769746875622e636f6d2f68646f64656e686f662f436972636c65496d616765566965772f6d61737465722f73637265656e73686f742e706e67" width="320" />
+
+---
+
+**KenBurnsView**: [https://github.com/flavioarfaria/KenBurnsView](https://github.com/flavioarfaria/KenBurnsView)
+
+Android ImageViews animated by Ken Burns Effect
+
+<img src="https://camo.githubusercontent.com/64d61cde0875bcfb1636821b2a121af56cc0ecca/687474703a2f2f7777772e70696374757265736861636b2e75732f696d616765732f31353532365f4b656e4275726e73566965772e676966" width="320" />
 
 ---
 
@@ -50,6 +58,14 @@ Android widget for cropping and rotating an image.
 Android library project for cropping images
 
 <img src="https://github.com/jdamcd/android-crop/blob/master/screenshot.png" width="320" />
+
+---
+
+**Android-PictureTagView**: [https://github.com/saiwu-bigkoo/Android-PictureTagView](https://github.com/saiwu-bigkoo/Android-PictureTagView)
+
+仿nice图片上打标签控件
+
+<img src="https://github.com/saiwu-bigkoo/PictureTagView/blob/master/preview/picturetagviewdemo.gif" width="320" />
 
 ---
 

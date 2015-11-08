@@ -4,6 +4,15 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
+--- 
+
+**FabTransitionLayout**: [https://github.com/bowyer-app/FabTransitionLayout](https://github.com/bowyer-app/FabTransitionLayout)
+
+Provides the Floating Action Button Transition as specified in the Material Design Guide in a simple library.
+
+<img src="https://github.com/bowyer-app/FabTransitionLayout/blob/master/art/bottomsheet.gif" width="320" />
+<img src="hhttps://github.com/bowyer-app/FabTransitionLayout/blob/master/art/toolbar.gif" width="320" />
+
 ---
 
 **FABToolbar**: [https://github.com/fafaldo/FABToolbar](https://github.com/fafaldo/FABToolbar)

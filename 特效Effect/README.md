@@ -6,6 +6,14 @@
 
 ---
 
+**ExplosionField**: [https://github.com/tyrantgit/ExplosionField](https://github.com/tyrantgit/ExplosionField)
+
+explosive dust effect for views
+
+<img src="https://github.com/tyrantgit/ExplosionField/blob/master/explosionfield.gif" width="320" />
+
+---
+
 **material-ripple**: [https://github.com/balysv/material-ripple](https://github.com/balysv/material-ripple)
 
 Android L Ripple effect wrapper for Views.
