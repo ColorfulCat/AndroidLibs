@@ -36,8 +36,10 @@ Contributors:
 
 ---
 
+
 Thanks to :
 
 - [http://www.23code.com/](http://www.23code.com/)
 - [https://github.com/wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+- [http://www.jcodecraeer.com/](http://www.jcodecraeer.com/)
 
