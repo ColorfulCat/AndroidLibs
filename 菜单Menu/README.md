@@ -113,3 +113,19 @@ Neat library, that provides a simple way to implement guillotine-styled animatio
 <img src="https://camo.githubusercontent.com/f044b38de3fed4496b98dff747b3bf6555ec67e4/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323131333331342f64726166742d30332e676966" width="320" />
 
 ---
+
+**MultiCardMenu**: [https://github.com/wujingchao/MultiCardMenu](https://github.com/wujingchao/MultiCardMenu)
+
+A multicard menu that can open and close with animation on android
+
+<img src="https://raw.githubusercontent.com/wujingchao/MultiCardMenu/master/multi_card_menu_demo.gif" width="320" />
+
+---
+
+**Curved-Fab-Reveal-Example**: [https://github.com/saulmm/Curved-Fab-Reveal-Example](https://github.com/saulmm/Curved-Fab-Reveal-Example)
+
+An animation that reveals a circular animation starting from a fab while the fab is moving with a curved motion.
+
+<img src="https://raw.githubusercontent.com/saulmm/Curved-Fab-Reveal-Example/master/art/sample1.gif" width="320" />
+
+---

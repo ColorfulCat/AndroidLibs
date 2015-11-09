@@ -6,6 +6,18 @@
 
 ---
 
+**recyclerview-animators**: [https://github.com/wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
+
+An Android Animation library which easily add itemanimator to RecyclerView items.
+
+<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo.gif" width="160" />
+<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo2.gif" width="160" />
+<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo4.gif" width="160" />
+<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo3.gif" width="160" />
+<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo5.gif" width="160" />
+
+---
+
 **android-PullRefreshLayout**: [https://github.com/baoyongzhang/android-PullRefreshLayout](https://github.com/baoyongzhang/android-PullRefreshLayout)
 
 This component like SwipeRefreshLayout, it is more beautiful than SwipeRefreshLayout.
@@ -23,6 +35,25 @@ Ultra Pull to Refresh for Android. Support all the views. [http://android-ultra-
 <img src="https://camo.githubusercontent.com/4dfccd5a50f7d59b512300fce341a1217950603a/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f6d6174657269616c2d7374796c652e676966" width="320" />
 <img src="https://camo.githubusercontent.com/9033435ad82be43ccddc8203450f361ee270c724/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f70756c6c2d746f2d726566726573682e676966" width="320" />
 <img src="https://camo.githubusercontent.com/88cdf877aa0a1fb19506ecf3404447eba59e68cc/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f6175746f2d726566726573682e676966" width="320" />
+
+---
+
+**MultiStateView**: [https://github.com/Kennyc1012/MultiStateView](https://github.com/Kennyc1012/MultiStateView)
+
+Android View that displays different content based on its state
+
+<img src="https://github.com/Kennyc1012/MultiStateView/blob/master/art/content.png" width="160" />
+<img src="https://github.com/Kennyc1012/MultiStateView/blob/master/art/loading.png" width="160" />
+<img src="https://github.com/Kennyc1012/MultiStateView/raw/master/art/empty.png" width="160" />
+<img src="https://github.com/Kennyc1012/MultiStateView/raw/master/art/error.png" width="160" />
+
+---
+
+**FlyRefresh**: [https://github.com/race604/FlyRefresh](https://github.com/race604/FlyRefresh)
+
+The implementation of [https://dribbble.com/shots/2067564-Replace](https://dribbble.com/shots/2067564-Replace)
+
+<img src="https://github.com/race604/FlyRefresh/blob/master/images/flyrefresh.gif" width="320" />
 
 ---
 

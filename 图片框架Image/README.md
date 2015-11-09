@@ -132,3 +132,14 @@ A simple image cropping library for Android.
 <img src="https://camo.githubusercontent.com/7ef872746a0181356ea0b44d94b7bd939f28c5ae/68747470733a2f2f7261772e6769746875622e636f6d2f77696b692f4973736569416f6b692f53696d706c6543726f70566965772f696d616765732f6769662f64656d6f5f62617369635f75736167652e676966" width="320" />
 
 ---
+
+**MultiImageSelector**: [https://github.com/lovetuzitong/MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector)
+
+Image selector for Android device. Support single choice and multi-choice.
+
+<img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/example_1.png" width="320" />
+<img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_1.png" width="320" />
+<img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_2.png" width="320" />
+<img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_3.png" width="320" />
+
+---

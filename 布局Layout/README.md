@@ -436,3 +436,11 @@ Android library which allows you to swipe down from an activity to close it.
 <img src="https://github.com/klinker41/android-slidingactivity/blob/master/preview_inbox_animation.gif" width="320" />
 
 ---
+
+**android-auto-scroll-view-pager**: [https://github.com/Trinea/android-auto-scroll-view-pager](https://github.com/Trinea/android-auto-scroll-view-pager)
+
+Android auto scroll viewpager or viewpager in viewpager
+
+<img src="https://camo.githubusercontent.com/b5c5f75f9876f58b949c77c24e26e03c4a978585/687474703a2f2f6661726d332e737461746963666c69636b722e636f6d2f323834332f31323830353133323437355f653539353636346138315f6f2e676966" width="640" />
+
+---

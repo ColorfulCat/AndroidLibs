@@ -4,45 +4,92 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
----
+--- 
 
-**TITLE**: []()
+**SlideSwitch**: [https://github.com/Leaking/SlideSwitch](https://github.com/Leaking/SlideSwitch)
 
-DESC
+A widget you can slide it to open or close something
 
-<img src="" width="320" />
-
----
-
-**TITLE**: []()
-
-DESC
-
-<img src="" width="320" />
+<img src="https://github.com/Leaking/SlideSwitch/blob/master/Example/TestLibs/res/drawable-hdpi/slide_c.gif" width="320" />
 
 ---
 
-**TITLE**: []()
+**CircleProgress**: [https://github.com/Fichardu/CircleProgress](https://github.com/Fichardu/CircleProgress)
 
-DESC
+A circle progress animation view on Android
 
-<img src="" width="320" />
-
----
-
-**TITLE**: []()
-
-DESC
-
-<img src="" width="320" />
+<img src="https://github.com/Fichardu/CircleProgress/blob/master/art/progress.gif" width="320" />
 
 ---
 
-**TITLE**: []()
+**MaterialSpinner**: [https://github.com/ganfra/MaterialSpinner](https://github.com/ganfra/MaterialSpinner)
 
-DESC
+Spinner with Material Design - Down to API 9
 
-<img src="" width="320" />
+<img src="https://github.com/ganfra/MaterialSpinner/blob/master/screenshots/screenshot.gif" width="320" />
+
+---
+
+**Calligraphy**: [https://github.com/chrisjenx/Calligraphy](https://github.com/chrisjenx/Calligraphy)
+
+Custom fonts in Android the easy way...
+
+<img src="https://github.com/chrisjenx/Calligraphy/raw/master/screenshot.png" width="320" />
+
+---
+
+**loadtoast**: [https://github.com/code-mc/loadtoast](https://github.com/code-mc/loadtoast)
+
+Pretty material design toasts with feedback animations
+
+<img src="https://camo.githubusercontent.com/96592555c77792a317564369f8ff53bafcba2a13/687474703a2f2f692e696d6775722e636f6d2f57776f784c4d752e676966" width="320" />
+
+---
+
+**ToggleButton**: [https://github.com/zcweng/ToggleButton](https://github.com/zcweng/ToggleButton)
+
+ToggleButton Widget For Android Dev
+
+<img src="https://github.com/zcweng/ToggleButton/blob/master/ToggleButtonSample/21879.gif" width="160" />
+<img src="https://github.com/zcweng/ToggleButton/blob/master/ToggleButtonSample/device-2014-08-31-231538.png" width="320" />
+
+---
+
+**justified**: [https://github.com/programingjd/justified](https://github.com/programingjd/justified)
+
+Android TextView or EditText with justified text.
+
+<img src="https://github.com/programingjd/justified/blob/master/screenshot.jpg" width="320" />
+
+---
+
+**DanmakuFlameMaster**: [https://github.com/Bilibili/DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)
+
+大弹幕时代来临了,这里是Android上最好的开源弹幕引擎·烈焰弹幕使 ～ 被弹幕吞噬吧!
+
+<img src="http://www.23code.com/wp-content/uploads/2015/05/device-2015-05-08-105135.jpg" width="320" />
+
+---
+
+**StickerView**: [https://github.com/sangmingming/StickerView](https://github.com/sangmingming/StickerView)
+
+a sticker view for android application
+
+<img src="http://www.23code.com/wp-content/uploads/2015/05/device-2015-05-14-115235.jpg" width="320" />
+
+---
+
+**phrase**: [https://github.com/square/phrase](https://github.com/square/phrase)
+
+Phrase is an Android string resource templating library
+
+---
+
+**ColorPhrase**: [https://github.com/THEONE10211024/ColorPhrase](https://github.com/THEONE10211024/ColorPhrase)
+
+Phrase is an Android string resource color setting library
+
+<img src="https://github.com/THEONE10211024/ColorPhrase/blob/master/screenshot/Screenshot_2015-05-16-18-12-23.jpeg" width="320" />
 
 ---
 
@@ -124,6 +171,14 @@ This is a library with components of Android L to you use in android 2.2
 <img src="https://github.com/navasmdc/MaterialDesignLibrary/blob/master/images/switch.png" width="150" />
 <img src="https://github.com/navasmdc/MaterialDesignLibrary/blob/master/images/progress_bar_circular_indeterminate.png" width="150" />
 <img src="https://github.com/navasmdc/MaterialDesignLibrary/blob/master/images/slider_with_number_indicator.png" width="150" />
+
+---
+
+**SeekArc**: [https://github.com/Triggertrap/SeekArc](https://github.com/Triggertrap/SeekArc)
+
+Circular SeekBar view for Android
+
+<img src="https://camo.githubusercontent.com/1f5a943833fb6f1dc825d12df588dbf34c6da057/68747470733a2f2f7261772e6769746875622e636f6d2f6e65696c643030312f5365656b4172632f6d61737465722f7261772f73616d706c655f6170702e706e67" width="640" />
 
 ---
 
@@ -437,6 +492,15 @@ Android library to display progress like google does in some of his services.
 
 ---
 
+**SHSegmentControl**: [https://github.com/7heaven/SHSegmentControl](https://github.com/7heaven/SHSegmentControl)
+
+segmentcontrol widget for android
+
+<img src="https://github.com/7heaven/SHSegmentControl/blob/master/arts/arts2.gif" width="160" />
+<img src="https://github.com/7heaven/SHSegmentControl/blob/master/arts/arts1.gif" width="320" />
+
+---
+
 **Android-RoundCornerProgressBar**: [https://github.com/akexorcist/Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar)
 
 Round Corner Progress Bar Library for Android
@@ -533,6 +597,14 @@ Circular timer on Android platform.
 
 <img src="https://github.com/jiahuanyu/CircleTimerView/blob/master/images/sample.gif" width="320" />
 <img src="https://github.com/jiahuanyu/CircleTimerView/blob/master/images/sample2.gif" width="320" />
+
+---
+
+**Pugnotification**: [https://github.com/halysongoncalves/Pugnotification](https://github.com/halysongoncalves/Pugnotification)
+
+A powerful library for creating notifications in android platform.
+
+<img src="https://raw.githubusercontent.com/halysongoncalves/pugnotification/master/art/screenshot.png" width="320" />
 
 ---
 
@@ -657,6 +729,14 @@ Bootstrap style widgets for Android, with Glyph Icons
 A fast PDF reader component for Android development.[http://joanzapata.com/android-pdfview/](http://joanzapata.com/android-pdfview/)
 
 <img src="https://play.google.com/store/apps/details?id=com.joanzapata.pdfview.sample" width="320" />
+
+---
+
+**CreditCardEntry**: [https://github.com/dbachelder/CreditCardEntry](https://github.com/dbachelder/CreditCardEntry)
+
+Smooth UI for Credit Card Entry on Android device, regex check for supported credit card types and luhn check. Inspired by Square credit card entry interface
+
+<img src="https://camo.githubusercontent.com/6d7229538227b001c51bf534e0ec05f598d2fa5d/68747470733a2f2f7261772e6769746875622e636f6d2f6462616368656c6465722f43726564697443617264456e7472792f6d61737465722f64656d6f2e676966" width="320" />
 
 ---
 
