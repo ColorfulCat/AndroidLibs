@@ -149,3 +149,13 @@ App+是一个MD风格的用于传送、提取APK文件的开源工具软件。[h
 <img src="https://github.com/maoruibin/AppPlus/blob/master/art/theme.png" width="160" />
 
 --- 
+
+**SimplifyReader**: [https://github.com/SkillCollege/SimplifyReader](https://github.com/SkillCollege/SimplifyReader)
+
+一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！
+
+<img src="https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/project.gif" width="320" />
+<img src="https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/qrcode.gif" width="320" />
+<img src="https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/all_in_one.jpg" width="640" />
+
+--- 
