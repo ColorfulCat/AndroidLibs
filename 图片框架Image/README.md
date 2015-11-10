@@ -143,3 +143,11 @@ Image selector for Android device. Support single choice and multi-choice.
 <img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_3.png" width="320" />
 
 ---
+
+**EasyImage**: https://github.com/jkwiecien/EasyImage
+
+Library for picking pictures from gallery or camera
+
+EasyImage allow you to eaisly take picture from gallery or camera without creating lots of boilerplate.
+
+---

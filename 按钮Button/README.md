@@ -53,3 +53,10 @@ Android button which moves in eight direction.
 <img src="https://github.com/thefinestartist/movingbutton/blob/master/art/preview.gif" width="320" />
 
 ---
+
+**SendMsgbuttonDemo**: https://github.com/xuwj/SendMsgbuttonDemo
+一个带酷炫动画的发送消息按钮
+
+<img src="https://github.com/xuwj/SendMsgbuttonDemo/blob/master/sendmsgbtn.gif" width="320" />
+
+---
