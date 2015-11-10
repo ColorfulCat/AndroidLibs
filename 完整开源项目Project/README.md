@@ -158,4 +158,186 @@ App+是一个MD风格的用于传送、提取APK文件的开源工具软件。[h
 <img src="https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/qrcode.gif" width="320" />
 <img src="https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/all_in_one.jpg" width="640" />
 
---- 
+---  
+
+**ZhiHuDaily-React-Native**: https://github.com/race604/ZhiHuDaily-React-Native
+
+A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).
+
+<img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/home1.jpg" width="320" />
+<img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/drawer.jpg" width="320" />
+<img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/content.jpg" width="320" />
+
+---   
+
+**ToolWizAppLock**: https://github.com/Toolwiz/ToolWizAppLock
+
+Smart App Lock for Android http://www.toolwiz.com/
+
+<img src="https://github.com/Toolwiz/ToolWizAppLock/blob/master/img/5.pic_hd.jpg" width="320" />
+<img src="https://github.com/Toolwiz/ToolWizAppLock/blob/master/img/6.pic_hd.jpg" width="320" />
+<img src="https://github.com/Toolwiz/ToolWizAppLock/blob/master/img/7.pic_hd.jpg" width="320" />
+
+---    
+
+**archi**: https://github.com/ivacf/archi
+
+Repository that showcases 3 Android app architectures: "Standard Android", MVP and MVVM. The exact same app is built 3 times following the different patterns.
+
+<img src="https://github.com/ivacf/archi/blob/master/images/archi-screenshots.png" width="320" />
+<img src="https://github.com/ivacf/archi/blob/master/images/archi-screenshots.png" width="320" />
+
+---     
+
+**Clip-Stack**: https://github.com/heruoxin/Clip-Stack
+
+An Android clipboard history manager app with Material Design.
+
+<img src="https://camo.githubusercontent.com/0c552441a9ec2c0c1c9522c1ebb378ae86dd55a4/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f36366361623336386777316570336b69366f34797a6a3231657130683637616d2e6a7067" width="640" />
+
+---      
+
+**pocket-note-android**: https://github.com/channguyen/pocket-note-android
+
+PocketNote is a simple note application for Android with many useful utilities
+
+<img src="https://raw.githubusercontent.com/channguyen/pocket-note-android/master/appstore/sc1.png" width="320" />
+<img src="https://raw.githubusercontent.com/channguyen/pocket-note-android/master/appstore/sc2.png" width="320" />
+<img src="https://raw.githubusercontent.com/channguyen/pocket-note-android/master/appstore/sc4.png" width="320" />
+<img src="https://raw.githubusercontent.com/channguyen/pocket-note-android/master/appstore/sc7.png" width="320" />
+
+---       
+
+**EWeightScale**: https://github.com/Jhuster/EWeightScale
+
+一款可以记录和查询体重的应用 http://ticktick.blog.51cto.com/823160/1687127
+
+---      
+
+**WeGit**: https://github.com/Leaking/WeGit
+
+An Android App for Github
+
+<img src="https://github.com/Leaking/GithubKnife/blob/master/screenshot/git1.pic.jpg" width="320" />
+<img src="https://github.com/Leaking/GithubKnife/blob/master/screenshot/git2.pic.jpg" width="320" />
+<img src="https://github.com/Leaking/GithubKnife/blob/master/screenshot/git3.pic.jpg" width="320" />
+<img src="https://github.com/Leaking/GithubKnife/blob/master/screenshot/git4.pic.jpg" width="320" />
+
+---     
+
+**Watch**: https://github.com/tuesda/Watch
+
+A project which demonstrate how to develop a custom client on android for dribbble.com
+
+<img src="https://github.com/tuesda/Watch/blob/master/animation/home.gif" width="320" />
+<img src="https://github.com/tuesda/Watch/blob/master/animation/comments.gif" width="320" />
+<img src="https://github.com/tuesda/Watch/blob/master/animation/page.gif" width="320" />
+<img src="https://github.com/tuesda/Watch/blob/master/animation/drawer.gif" width="320" />
+
+---       
+
+**StickerCamera**: https://github.com/Skykai521/StickerCamera
+
+This is an Android application with camera,picture cropping,collage sticking and tagging.贴纸标签相机,功能:拍照,相片裁剪,给图片贴贴纸,打标签。
+
+<img src="https://github.com/Skykai521/StickerCamera/blob/master/screenshot/Screenshot_01.gif" width="320" />
+<img src="https://github.com/Skykai521/StickerCamera/blob/master/screenshot/Screenshot_2015-07-19-11-23-22.png" width="320" />
+<img src="https://github.com/Skykai521/StickerCamera/blob/master/screenshot/Screenshot_2015-07-19-11-23-00.png" width="320" />
+<img src="https://github.com/Skykai521/StickerCamera/blob/master/screenshot/Screenshot_2015-07-19-11-23-04.png" width="320" />
+
+---        
+
+**JianDan**: https://github.com/ZhaoKaiQiang/JianDan
+
+高仿煎蛋客户端
+
+<img src="https://github.com/ZhaoKaiQiang/JianDan/blob/master/images/demo.gif" width="320" />
+
+---          
+
+**v2ex-android**: https://github.com/greatyao/v2ex-android/
+
+掌上V2EX
+
+<img src="https://camo.githubusercontent.com/a40f84e0a72644980f07f7962fc2db4f82e45f88/68747470733a2f2f7261772e6769746875622e636f6d2f677265617479616f2f763265782d616e64726f69642f6d61737465722f736e617073686f74732f6c61746573742e706e67" width="160" />
+<img src="https://camo.githubusercontent.com/63c60941b0380e83a08769561afe7fbff43de92b/68747470733a2f2f7261772e6769746875622e636f6d2f677265617479616f2f763265782d616e64726f69642f6d61737465722f736e617073686f74732f686f742e706e67" width="160" />
+<img src="https://camo.githubusercontent.com/a7cc29cd8ba89e7244cbb008aab4f856a2e495ec/68747470733a2f2f7261772e6769746875622e636f6d2f677265617479616f2f763265782d616e64726f69642f6d61737465722f736e617073686f74732f746f7069635f64657461696c732e706e67" width="160" />
+<img src="https://camo.githubusercontent.com/bfe4171ef32eea1fd6d09471c4aed25daaec8e43/68747470733a2f2f7261772e6769746875622e636f6d2f677265617479616f2f763265782d616e64726f69642f6d61737465722f736e617073686f74732f6472617765722e706e67" width="160" />
+
+---            
+
+**BiliClient**: https://github.com/android-cjj/BiliClient
+
+这是仿bilibili客户端，是我一个刚学android的朋友写的，原作地址：https://github.com/winkstu/ABPlayer
+
+<img src="https://camo.githubusercontent.com/33d99a3ca4afc9b1691eb124a97979aebaa25177/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f616c62756d2f3230313530352f32362f313634303330656e396e623472736d736f396e7170632e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/10a33816c5369e0751184e3486319e9676c1f5a7/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f616c62756d2f3230313530352f32362f3136343033357467713168717437626f79377a6274712e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/15e8545231a50f3485803bd5616984afa452e998/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f616c62756d2f3230313530352f32362f3136343033317770747a6374336a686e6a396e3663362e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/ade7948bd62c4e94e3348a0f4dafe67596c92968/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f616c62756d2f3230313530352f32362f31363430333277367a77727a397a647677366b3164332e6a7067" width="320" />
+<img src="https://camo.githubusercontent.com/9224340e3f03ad8daebf08041b989ccbbdfe2000/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530352f32362f31383136353472677a7776767a356774396d78677a6d2e676966" width="320" />
+
+---            
+
+**AisenWeiBo**: https://github.com/wangdan/AisenWeiBo
+
+新浪微博第三方Android客户端
+
+<img src="https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen1.gif" width="320" />
+<img src="https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen2.gif" width="320" />
+<img src="https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen3.gif" width="320" />
+<img src="https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen4.gif" width="320" />
+<img src="https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen5.gif" width="320" />
+<img src="https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen7.gif" width="320" />
+
+---            
+
+**SmsCodeHelper**: https://github.com/drakeet/SmsCodeHelper
+
+A very beautiful and easy to use app: "SmsCodeHelper" (verification code helper), light, open source, it can automatically copy the code to the user's clipboard, when the user receives the message verification code. Material Design and open source: http://fir.im/codehelper (or Google Play "SmsCodeHelper")
+
+<img src="https://github.com/drakeet/SmsCodeHelper/blob/master/screenshots/s1.png" width="320" />
+<img src="https://github.com/drakeet/SmsCodeHelper/blob/master/screenshots/s2.png" width="320" />
+<img src="https://github.com/drakeet/SmsCodeHelper/blob/master/screenshots/s5.png" width="320" />
+<img src="https://github.com/drakeet/SmsCodeHelper/blob/master/screenshots/s6.png" width="320" />
+
+---            
+
+**wechat**: https://github.com/motianhuo/wechat
+
+A High Copy WeChat ,SNS APP (高仿微信)
+
+<img src="https://camo.githubusercontent.com/c750362668db529cb1bf27a1f5698e4e8ca8df52/687474703a2f2f7777332e73696e61696d672e636e2f626d6964646c652f36373035353637656777316574386663336d3068746a32306d38307a6b7462642e6a7067" width="160" />
+<img src="https://camo.githubusercontent.com/95e3879860097dfc83acd66a80576547ceb8a5a5/687474703a2f2f7777342e73696e61696d672e636e2f626d6964646c652f363730353536376567773165746767616139756b666a32306d38307a6b3076722e6a7067" width="160" />
+<img src="https://camo.githubusercontent.com/af997b2ef0ff4f63db8516b6ad06e3cfe8da4bd4/687474703a2f2f7777342e73696e61696d672e636e2f626d6964646c652f3637303535363765677731657467676162666475726a32306d38307a6b7462352e6a7067" width="160" />
+<img src="https://camo.githubusercontent.com/002c9a612fa76486cf6627ebddc9021779a6acbb/687474703a2f2f7777332e73696e61696d672e636e2f626d6964646c652f363730353536376567773165743866386f38746b706a32306d38307a6b6469372e6a7067" width="160" />
+
+---            
+
+**Notes**: https://github.com/lguipeng/Notes
+
+Material Design Notes App
+
+<img src="https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_1.png" width="160" />
+<img src="https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_2.png" width="160" />
+<img src="https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_3.png" width="160" />
+<img src="https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_5.png" width="160" />
+<img src="https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_4.png" width="160" />
+<img src="https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_6.png" width="160" />
+
+---              
+
+**hubble_gallery**: https://github.com/derekcsm/hubble_gallery
+
+[Android App] View, Save, and Read about Hubble's best images. https://play.google.com/store/apps/details?id=com.derek_s.hubble_gallery
+
+<img src="http://www.jcodecraeer.com/uploads/150606/1-150606011411U9.png" width="320" />
+
+---              
+
+****: 
+
+
+
+<img src="" width="320" />
+
+---  

@@ -129,3 +129,11 @@ An animation that reveals a circular animation starting from a fab while the fab
 <img src="https://raw.githubusercontent.com/saulmm/Curved-Fab-Reveal-Example/master/art/sample1.gif" width="320" />
 
 ---
+
+**PinterestView**: https://github.com/brucetoo/PinterestView
+
+Pinterest like awesome menu control for Android
+
+<img src="https://github.com/brucetoo/PinterestView/blob/master/mine1.gif" width="320" />
+
+---

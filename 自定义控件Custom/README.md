@@ -817,7 +817,31 @@ Android library that allows launching a custom activity when your app crashes, i
 
 This library allows launching a custom activity when the app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
 
-![CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash/blob/master/images/frontpage.png)
+<img src="https://github.com/Ereza/CustomActivityOnCrash/blob/master/images/frontpage.png" width="320" />
+
+---
+
+**MoveMapLocation**: https://github.com/scp504677840/MoveMapLocation
+
+移动地图选址
+
+<img src="https://camo.githubusercontent.com/eff4f945232a44be81cec8a136fa17c52a43aaca/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531303132313332393235353232" width="320" />
+
+---
+
+**SegmentedBarView**: https://github.com/gspd-mobi/SegmentedBarView
+
+Custom UI control for android which is showing data as a segments and a value inside them.
+
+<img src="https://camo.githubusercontent.com/9837de76dfa76929b63d3053b5cc2457516b90d5/687474703a2f2f692e696d6775722e636f6d2f4531697654374e2e706e67" width="320" />
+
+---
+
+**AnimCheckBox**: https://github.com/lguipeng/AnimCheckBox
+
+Animation CheckBox
+
+<img src="https://github.com/lguipeng/AnimCheckBox/blob/master/art/animcheckbox.gif" width="320" />
 
 ---
 
