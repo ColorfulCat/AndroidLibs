@@ -333,11 +333,4 @@ Material Design Notes App
 <img src="http://www.jcodecraeer.com/uploads/150606/1-150606011411U9.png" width="320" />
 
 ---              
-
-****: 
-
-
-
-<img src="" width="320" />
-
----  
+ 
