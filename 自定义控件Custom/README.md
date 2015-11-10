@@ -811,3 +811,13 @@ Useful library to use custom fonts in your android app
 
 ---
 
+**CustomActivityOnCrash**: https://github.com/Ereza/CustomActivityOnCrash
+
+Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
+
+This library allows launching a custom activity when the app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
+
+![CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash/blob/master/images/frontpage.png)
+
+---
+

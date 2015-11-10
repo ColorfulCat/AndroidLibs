@@ -444,3 +444,25 @@ Android auto scroll viewpager or viewpager in viewpager
 <img src="https://camo.githubusercontent.com/b5c5f75f9876f58b949c77c24e26e03c4a978585/687474703a2f2f6661726d332e737461746963666c69636b722e636f6d2f323834332f31323830353133323437355f653539353636346138315f6f2e676966" width="640" />
 
 ---
+
+**FlycoTabLayout**: https://github.com/H07000223/FlycoTabLayout
+
+An Android TabLayout Lib has two kinds of TabLayout at present.
+
+* SlidingTabLayout: deeply modified from [PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip).
+
+* CommonTabLayout:unlike SlidingTabLayout's dependence on ViewPager,it is a tabLayout without dependence on ViewPager and 
+can be used freely with other widgets together.
+
+<img src="https://github.com/H07000223/FlycoTabLayout/blob/master/preview_1.gif" width="320" /><img src="https://github.com/H07000223/FlycoTabLayout/blob/master/preview_2.gif" width="320" />
+
+---
+
+**UIBlock**: https://github.com/tianzhijiexian/UIBlock
+
+代替fragment的轻量级解耦UI的类
+
+<img src="https://github.com/tianzhijiexian/UIBlock/blob/master/demo/top.png" width="640" />
+
+---
+
