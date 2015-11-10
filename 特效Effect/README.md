@@ -80,4 +80,12 @@ explosive dust effect for views
 <img src="https://github.com/tyrantgit/ExplosionField/blob/master/explosionfield.gif" width="320" />
 
 ---
+
+**Motion**: [https://github.com/nvanbenschoten/motion](https://github.com/nvanbenschoten/motion)
+
+An Android library allowing images to exhibit a parallax effect that reacts to the device's tilt
+
+<img src="https://github.com/nvanbenschoten/motion/blob/master/motionImage.png" width="320" />
+
+---
  
