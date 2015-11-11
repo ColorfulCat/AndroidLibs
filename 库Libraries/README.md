@@ -12,7 +12,7 @@ Utilize the window background during cold start time to make your app look faste
 
 Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Preserves visual consistency):
 
-![Blank cold start](preview/blank_cold_start.gif)![Material cold start](preview/material_cold_start.gif)
+![Blank cold start](https://github.com/DreaminginCodeZH/MaterialColdStart/blob/master/preview/blank_cold_start.gif)![Material cold start](https://github.com/DreaminginCodeZH/MaterialColdStart/blob/master/preview/material_cold_start.gif)
 
 ---
 
