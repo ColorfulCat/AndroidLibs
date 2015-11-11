@@ -205,6 +205,22 @@ Drag and drop GridView for Android
 
 ---
 
+**PinterestLikeAdapterView**:  https://github.com/GDG-Korea/PinterestLikeAdapterView
+
+ An Android multi column list view like Pinterest.
+
+<img src="https://camo.githubusercontent.com/97e5e0acd9bce5cc3d98b8dbb2b528cc3e98c3e9/68747470733a2f2f7261772e6769746875622e636f6d2f4744472d4b6f7265612f50696e7465726573744c696b6541646170746572566965772f6d61737465722f73637265656e73686f742e706e67" width="320" />
+
+---
+
+**DragSortAdapter**:  https://github.com/vinc3m1/DragSortAdapter
+
+ Drag and drop re-ordering adapter for RecyclerView
+
+<img src="http://www.23code.com/wp-content/uploads/2015/01/device-2015-01-27-134318.jpg" width="320" />
+
+--- 
+
 **AndroidStaggeredGrid**: [https://github.com/etsy/AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)
 
 An Android staggered grid view which supports multiple columns with rows of varying sizes.[https://github.com/etsy/AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)

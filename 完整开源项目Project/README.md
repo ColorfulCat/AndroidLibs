@@ -332,5 +332,83 @@ Material Design Notes App
 
 <img src="http://www.jcodecraeer.com/uploads/150606/1-150606011411U9.png" width="320" />
 
----              
- 
+--- 
+
+**DoubanMovie-React-Native**:  https://github.com/fengjundev/DoubanMovie-React-Native
+
+ DoubanMovie made with React Native
+
+<img src="https://github.com/fengjundev/DoubanMovie-React-Native/blob/master/screenshot/screenshot-1.png" width="320" />
+<img src="https://github.com/fengjundev/DoubanMovie-React-Native/blob/master/screenshot/screenshot-2.png" width="320" />
+
+---
+
+**RxWeather**:  https://github.com/SmartDengg/RxWeather
+
+ Architecting Android with RxJava
+
+<img src="http://www.jcodecraeer.com/uploads/151111/1-151111021103G4.gif" width="320" />
+
+---
+
+**Sky31Radio**:  https://github.com/linroid/Sky31Radio
+
+ 湘潭大学三翼校园"四季电台" Android客户端 http://linroid.com/2015/02/11/sky31radio/
+
+<img src="https://github.com/linroid/Sky31Radio/blob/master/screenshots/device-2015-01-22-224854.png" width="320" />
+<img src="https://github.com/linroid/Sky31Radio/blob/master/screenshots/device-2015-01-22-224820.png" width="320" />
+<img src="https://github.com/linroid/Sky31Radio/blob/master/screenshots/device-2015-02-07-141957.png" width="320" />
+
+---
+
+**BlackLight**:  https://github.com/PaperAirplane-Dev-Team/BlackLight
+
+ A light Sina Weibo client for Android 新浪微博客户端
+
+---
+
+**superCleanMaster**:  https://github.com/joyoyao/superCleanMaster
+
+ 一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等。
+
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg" width="320" />
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/1.jpg" width="320" />
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/2.jpg" width="320" />
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/3.jpg" width="320" />
+
+--- 
+
+**ZhuanLan**:  https://github.com/bxbxbai/ZhuanLan
+
+ 一个知乎专栏App
+
+<img src="https://camo.githubusercontent.com/e689e52a807b099b59c08a7824928b6f9f1bb47c/687474703a2f2f69322e74696574756b752e636f6d2f303735336462396531383034663662332e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/a09ce4b549e048400597aaf4d40b7866e496678b/687474703a2f2f69322e74696574756b752e636f6d2f323937303233396637313239363339382e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/acdb3d95fd2a0af4c3e1e30aa74872b3140d6387/687474703a2f2f69322e74696574756b752e636f6d2f366661396663306339633264653432382e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/22c8d47c6b3851998af172bbeebea4ab6bd8b3c1/687474703a2f2f69322e74696574756b752e636f6d2f616365346361333230306164376130392e706e67" width="320" />
+
+--- 
+
+**Qiitanium**:  https://github.com/ogaclejapan/Qiitanium
+
+ Qiitanium is an unofficial Android application of Qiita
+
+<img src="https://raw.githubusercontent.com/ogaclejapan/Qiitanium/master/art/qiitanium.gif" width="320" />
+
+--- 
+
+**Launcher3**:  https://github.com/fookwood/Launcher3
+
+ 更改官方的Launcher3使得可以在Android Studio编译 http://www.fookwood.com/android
+
+--- 
+
+**Remindly**:  https://github.com/blanyal/Remindly
+
+ Remindly is a simple and user friendly application to create reminders. https://play.google.com/store/apps/details?id=com.blanyal.remindly
+
+<img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot1.png" width="320" />
+<img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot2.png" width="320" />
+<img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot3.png" width="320" />
+
+--- 

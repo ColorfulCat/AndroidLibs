@@ -108,6 +108,32 @@ Play with bitmaps
 
 ---
 
+**wqgallery**:  https://github.com/wqandroid/wqgallery
+
+android 相册支持单选模式和多选模式
+
+<img src="https://github.com/wqandroid/wqgallery/blob/master/app/screenshort/wqgallert1.gif" width="320" />
+<img src="https://github.com/wqandroid/wqgallery/blob/master/app/screenshort/Screenshot_2015-03-31-18-35.png" width="320" />
+
+---
+
+**Android-Ultra-Photo-Selector**:  https://github.com/AizazAZ/Android-Ultra-Photo-Selector
+
+ Select images from Android devices made easy :-) Start Activity PhotoSelectorActivity, this is the main entry point
+
+<img src="https://github.com/AizazAZ/Android-Ultra-Photo-Selector/blob/master/media/image1.png" width="320" />
+<img src="https://github.com/AizazAZ/Android-Ultra-Photo-Selector/blob/master/media/image2.png" width="320" />
+
+---
+
+**DrawableView**:  https://github.com/PaNaVTEC/DrawableView
+
+A view that allows to paint and saves the result as a bitmap http://panavtec.me
+
+<img src="https://github.com/PaNaVTEC/DrawableView/blob/master/art/DrawableView.gif" width="320" />
+
+--- 
+
 **AndroidScrollingImageView**: [https://github.com/Q42/AndroidScrollingImageView](https://github.com/Q42/AndroidScrollingImageView)
 
 An Android view for displaying repeated continuous side scrolling images. This can be used to create a parallax animation effect.

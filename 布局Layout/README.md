@@ -285,6 +285,41 @@ Library containing common animations needed for transforming ViewPager scrolling
 <img src="https://camo.githubusercontent.com/8dabc7f764609bd8fbe9a7c594251e0e5d20ebdc/687474703a2f2f692e696d6775722e636f6d2f72766845326e732e676966" width="320" />
 
 ---
+
+**Android-PullToNextLayout**:  https://github.com/zzz40500/Android-PullToNextLayout
+
+Android-PullToNextLayout
+
+<img src="https://camo.githubusercontent.com/80fecc586629f42e0b7fbd86561d48d70296571f/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d633938343064666334343735323535302e676966" width="320" />
+<img src="https://camo.githubusercontent.com/62a8435e152a3202d5631516b9ba3ca27f067fc4/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d323630396137663963306438663734302e676966" width="320" />
+<img src="https://camo.githubusercontent.com/a01467c764ed134cd399fad6c6142874293dd3c8/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d336139656438643139366461643738372e676966" width="320" />
+
+---
+
+**KugouLayout**: https://github.com/zhaozhentao/KugouLayout 
+
+ an interesting layout 一个模仿酷狗播放器滑动返回的layout
+
+<img src="https://github.com/zhaozhentao/KugouLayout/blob/master/screenshot/screen2.gif" width="320" />
+<img src="https://github.com/zhaozhentao/KugouLayout/blob/master/screenshot/screen1.gif" width="320" />
+
+---
+
+**AndroidTagGroup**:  https://github.com/2dxgujun/AndroidTagGroup
+
+A beautiful android tag group widget.
+
+<img src="https://camo.githubusercontent.com/8adbb5c44c656151cb108ada6d1383e2c6af38b7/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f62636532646561396a7731657362736279397635666a323075303077386a78782e6a7067" width="320" />
+
+---
+
+**DragTopLayout**:  https://github.com/chenupt/DragTopLayout
+
+Drag down to show a view on the top.
+
+<img src="https://raw.githubusercontent.com/chenupt/DragTopLayout/master/imgs/dragtop_1.1.0.gif" width="320" />
+
+--- 
  
 **CircleIndicator**: [https://github.com/ongakuer/CircleIndicator](https://github.com/ongakuer/CircleIndicator)
 
