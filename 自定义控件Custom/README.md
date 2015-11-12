@@ -920,3 +920,11 @@ Animation CheckBox
 
 ---
 
+**logger**: https://github.com/orhanobut/logger
+
+Simple, pretty and powerful logger for android
+
+<img src="https://github.com/orhanobut/logger/blob/master/images/custom-tag.png" width="320" />
+
+---
+
