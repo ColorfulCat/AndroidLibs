@@ -821,3 +821,11 @@ This library allows launching a custom activity when the app crashes, instead of
 
 ---
 
+**logger**: https://github.com/orhanobut/logger
+
+Simple, pretty and powerful logger for android
+
+<img src="https://github.com/orhanobut/logger/blob/master/images/custom-tag.png" width="320" />
+
+---
+
