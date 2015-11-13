@@ -88,4 +88,14 @@ An Android library allowing images to exhibit a parallax effect that reacts to t
 <img src="https://github.com/nvanbenschoten/motion/blob/master/motionImage.png" width="320" />
 
 ---
+
+**MaterialColdStart**: https://github.com/DreaminginCodeZH/MaterialColdStart
+
+Utilize the window background during cold start time to make your app look faster.
+
+Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Preserves visual consistency):
+
+![Blank cold start](https://github.com/DreaminginCodeZH/MaterialColdStart/blob/master/preview/blank_cold_start.gif)![Material cold start](https://github.com/DreaminginCodeZH/MaterialColdStart/blob/master/preview/material_cold_start.gif)
+
+---
  
