@@ -476,3 +476,11 @@ Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Pre
 
 ---
 
+**DraggableFlagView**: https://github.com/wangjiegulu/DraggableFlagView
+
+可拖拽的红点，（仿新版QQ，tab下面拖拽标记为已读的效果），拖拽一定的距离可以消失回调。
+
+<img src="https://raw.githubusercontent.com/wangjiegulu/DraggableFlagView/master/screenshot/draggableflagview.gif" width="320" />
+
+---
+
