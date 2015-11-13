@@ -920,3 +920,29 @@ Animation CheckBox
 
 ---
 
+**logger**: https://github.com/orhanobut/logger
+
+Simple, pretty and powerful logger for android
+
+<img src="https://github.com/orhanobut/logger/blob/master/images/custom-tag.png" width="320" />
+
+---
+
+**shelly**: https://github.com/jtribe/shelly
+
+Fluent API for common **Intent** use-cases for Android
+
+This library wraps Intents with a clean and simple to understand interface for a number of specific use-cases.
+
+eg: Sharing some text and a url, the url is appended onto the text such that this shares "text with url http://www.jtribe.com.au":
+
+```java
+Shelly.share(context)
+  .text("text with url")
+  .url("http://www.jtribe.com.au")
+  .send();
+```
+
+---
+
+

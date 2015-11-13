@@ -517,3 +517,13 @@ Demo of the onboarding animations of Yahoo News App
 
 ---
 
+**spans**: https://github.com/flavienlaurent/spans
+
+Spans, a powerful concept http://flavienlaurent.com/blog/2014/01/31/spans/
+
+Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Preserves visual consistency):
+
+<img src="http://7xlah4.com1.z0.glb.clouddn.com/Screenshot_2015-11-11-19-52-37_com.inappsquared.d.png" width="320" />
+
+---
+
