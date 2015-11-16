@@ -4,3 +4,70 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
+**Treasure**: https://github.com/baoyongzhang/Treasure
+
+Very easy to use wrapper library for Android SharePreferences
+
+`Treasure`是一个Android平台上基于`SharePreferences`的偏好存储库，只需要定义接口，无需编写实现。运行时0反射，不仅使用方便而且性能和原生写法几乎无差别。
+
+---
+
+**Favor**: https://github.com/soarcn/Favor
+
+A easy way to use android sharepreference http://cocosw.com/Favor/
+
+---
+
+**KLog**: https://github.com/ZhaoKaiQiang/KLog
+
+This is a useful log tool for Android
+
+Android LogCat 工具类，支持行号、所在函数、点击自动跳转、Json格式自定解析打印等功能。
+
+![KLog](https://github.com/ZhaoKaiQiang/KLog/blob/master/image/demo.gif)
+
+---
+
+**logger**: https://github.com/orhanobut/logger
+
+Simple, pretty and powerful logger for android
+
+<img src="https://github.com/orhanobut/logger/blob/master/images/custom-tag.png" width="320" />
+
+---
+
+**shelly**: https://github.com/jtribe/shelly
+
+Fluent API for common **Intent** use-cases for Android
+
+This library wraps Intents with a clean and simple to understand interface for a number of specific use-cases.
+
+eg: Sharing some text and a url, the url is appended onto the text such that this shares "text with url http://www.jtribe.com.au":
+
+```java
+Shelly.share(context)
+  .text("text with url")
+  .url("http://www.jtribe.com.au")
+  .send();
+```
+
+---
+
+**LoganSquare**: https://github.com/bluelinelabs/LoganSquare
+
+Screaming fast JSON parsing and serialization library for Android.
+
+![LoganSquare](https://github.com/bluelinelabs/LoganSquare/blob/master/docs/benchmarks.jpg)
+
+---
+
+**CustomActivityOnCrash**: https://github.com/Ereza/CustomActivityOnCrash
+
+Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
+
+This library allows launching a custom activity when the app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
+
+<img src="https://github.com/Ereza/CustomActivityOnCrash/blob/master/images/frontpage.png" width="320" />
+
+---
+
