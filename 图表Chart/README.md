@@ -1,6 +1,6 @@
 # AndroidLibs == 图表 Chart
 
-包含：各种图标开源库
+包含：各种图表开源库
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
