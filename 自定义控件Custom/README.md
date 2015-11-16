@@ -321,6 +321,81 @@ An Android TextView with a shimmering effect
 
 ---
 
+**colorpicker**:  https://github.com/QuadFlask/colorpicker
+
+color picker for android
+
+<img src="https://github.com/QuadFlask/colorpicker/blob/master/screenshot/screenshot3.png" width="320" />
+<img src="https://github.com/QuadFlask/colorpicker/blob/master/screenshot/screenshot.png" width="320" />
+
+---
+
+**Android-Lock9View**:  https://github.com/TakWolf/Android-Lock9View
+
+ An Android grid lock screen view with a callback interface.
+
+<img src="https://github.com/TakWolf/Android-Lock9View/blob/master/art/screenshot.png" width="320" />
+
+---
+
+**CreditsRoll**:  https://github.com/frakbot/CreditsRoll
+
+[insert Star Wars theme here]
+
+<img src="https://github.com/frakbot/CreditsRoll/blob/master/img/scroll.gif" width="320" />
+
+---
+
+**JumpingBeans**:  https://github.com/frakbot/JumpingBeans
+
+ A Span-based library to make your text jump like Mexican beans. Oh, and the "..."s in Hangouts.
+
+<img src="https://github.com/frakbot/JumpingBeans/blob/master/art/jumpingdots.gif" width="320" />
+<img src="https://github.com/frakbot/JumpingBeans/blob/master/art/jumpingword.gif" width="320" />
+
+---
+
+**BezierDemo**:  https://github.com/chenupt/BezierDemo
+
+A demo to show bezier.
+
+<img src="https://raw.githubusercontent.com/chenupt/BezierDemo/master/pic/bezier.gif" width="320" />
+
+---
+
+**SlideDateTimePicker**:  https://github.com/jjobes/SlideDateTimePicker
+
+ A combined DatePicker and TimePicker in a DialogFragment for Android
+
+<img src="https://camo.githubusercontent.com/4896da076522a1187ebaadc747ed7d437393adab/68747470733a2f2f7261772e6769746875622e636f6d2f6a6a6f6265732f536c6964654461746554696d655069636b65722f6d61737465722f73637265656e73686f74732f312e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/666c1296f27bd9289b72d94b7986336d5ef2f3eb/68747470733a2f2f7261772e6769746875622e636f6d2f6a6a6f6265732f536c6964654461746554696d655069636b65722f6d61737465722f73637265656e73686f74732f322e706e67" width="320" />
+
+---
+
+**MaterialLoadingProgressBar**:  https://github.com/lsjwzh/MaterialLoadingProgressBar
+
+ MaterialLoadingProgressBar provide a styled ProgressBar which looks like SwipeRefreshLayout's loading indicator(support-v4 v21+)
+
+<img src="https://github.com/lsjwzh/MaterialLoadingProgressBar/blob/master/screen.gif" width="320" />
+
+---
+
+**dashed-circular-progress**:  https://github.com/glomadrian/dashed-circular-progress
+
+ A Circular progress animated where you can put any view inside
+
+<img src="https://github.com/glomadrian/dashed-circular-progress/blob/master/art/sample.gif" width="320" />
+
+---
+
+**AutoCompleteBubbleText**:  https://github.com/FrederickRider/AutoCompleteBubbleText
+
+ Android AutoCompleteTextView with attached ListView, and drawable background
+
+<img src="https://github.com/FrederickRider/AutoCompleteBubbleText/blob/master/images/Screenshot_1.png" width="320" />
+
+---
+
 **shimmer-android**: [https://github.com/facebook/shimmer-android](https://github.com/facebook/shimmer-android)
 
 An easy, flexible way to add a shimmering effect to any view in an Android app.[http://facebook.github.io/shimmer-android/](http://facebook.github.io/shimmer-android/)
@@ -494,7 +569,7 @@ Android library to display progress like google does in some of his services.
 
 **SHSegmentControl**: [https://github.com/7heaven/SHSegmentControl](https://github.com/7heaven/SHSegmentControl)
 
-segmentcontrol widget for android
+segmentcontrol widget for android 
 
 <img src="https://github.com/7heaven/SHSegmentControl/blob/master/arts/arts2.gif" width="160" />
 <img src="https://github.com/7heaven/SHSegmentControl/blob/master/arts/arts1.gif" width="320" />
@@ -817,7 +892,31 @@ Android library that allows launching a custom activity when your app crashes, i
 
 This library allows launching a custom activity when the app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
 
-![CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash/blob/master/images/frontpage.png)
+<img src="https://github.com/Ereza/CustomActivityOnCrash/blob/master/images/frontpage.png" width="320" />
+
+---
+
+**MoveMapLocation**: https://github.com/scp504677840/MoveMapLocation
+
+移动地图选址
+
+<img src="https://camo.githubusercontent.com/eff4f945232a44be81cec8a136fa17c52a43aaca/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531303132313332393235353232" width="320" />
+
+---
+
+**SegmentedBarView**: https://github.com/gspd-mobi/SegmentedBarView
+
+Custom UI control for android which is showing data as a segments and a value inside them.
+
+<img src="https://camo.githubusercontent.com/9837de76dfa76929b63d3053b5cc2457516b90d5/687474703a2f2f692e696d6775722e636f6d2f4531697654374e2e706e67" width="320" />
+
+---
+
+**AnimCheckBox**: https://github.com/lguipeng/AnimCheckBox
+
+Animation CheckBox
+
+<img src="https://github.com/lguipeng/AnimCheckBox/blob/master/art/animcheckbox.gif" width="320" />
 
 ---
 

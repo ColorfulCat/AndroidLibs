@@ -1,7 +1,6 @@
 # AndroidLibs
 
-收集Android开发中优秀的开源组件库，方便大家查询，欢迎fork、PR和star~
-希望各位能帮忙添加一些优秀的内容，为开源做一份贡献~ ^ ^ 
+收集Android开发中优秀的开源组件库，方便大家查询，欢迎PR和star~
 
 ---
 
@@ -19,7 +18,7 @@
 - [自定义控件Custom](https://github.com/XXApple/AndroidLibs/tree/master/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8E%A7%E4%BB%B6Custom)
 - [菜单Menu](https://github.com/XXApple/AndroidLibs/tree/master/%E8%8F%9C%E5%8D%95Menu)
 
- 
+
 
 
 ---
@@ -27,6 +26,8 @@
 For better Android developing~
 
 Please Pull Request~
+
+希望各位能帮忙添加一些优秀的内容，为开源做一份贡献~ ^ ^ 
 
 ---
 

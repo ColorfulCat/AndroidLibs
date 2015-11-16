@@ -160,4 +160,13 @@ Thirty different easing animation interpolators for Android.
 <img src="http://www.23code.com/wp-content/uploads/2015/07/device-2015-07-24-143320.jpg" width="320" />
 
 ---
+
+**android-shapeLoadingView**:  https://github.com/zzz40500/android-shapeLoadingView
+
+ 高仿新版58 加载动画
+
+<img src="https://camo.githubusercontent.com/575b98a56c5546043ec045d044429590e4a623fe/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d376434313538646532636534306139612e676966" width="320" />
+<img src="https://camo.githubusercontent.com/cc415e73399ab06a9212eb1ee65f197939213b7f/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d366534303132633139343961616137612e676966" width="320" />
+
+---
  

@@ -79,7 +79,7 @@ ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议�
 
 精致Demo
 
-![demo](http://images0.cnblogs.com/blog2015/275810/201508/232033560975081.jpg)
+<img src="http://images0.cnblogs.com/blog2015/275810/201508/232033560975081.jpg" width="320" />
 
 ---
 
