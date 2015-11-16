@@ -14,14 +14,6 @@ A widget you can slide it to open or close something
 
 ---
 
-**CircleProgress**: [https://github.com/Fichardu/CircleProgress](https://github.com/Fichardu/CircleProgress)
-
-A circle progress animation view on Android
-
-<img src="https://github.com/Fichardu/CircleProgress/blob/master/art/progress.gif" width="320" />
-
----
-
 **MaterialSpinner**: [https://github.com/ganfra/MaterialSpinner](https://github.com/ganfra/MaterialSpinner)
 
 Spinner with Material Design - Down to API 9
@@ -43,15 +35,6 @@ Custom fonts in Android the easy way...
 Pretty material design toasts with feedback animations
 
 <img src="https://camo.githubusercontent.com/96592555c77792a317564369f8ff53bafcba2a13/687474703a2f2f692e696d6775722e636f6d2f57776f784c4d752e676966" width="320" />
-
----
-
-**ToggleButton**: [https://github.com/zcweng/ToggleButton](https://github.com/zcweng/ToggleButton)
-
-ToggleButton Widget For Android Dev
-
-<img src="https://github.com/zcweng/ToggleButton/blob/master/ToggleButtonSample/21879.gif" width="160" />
-<img src="https://github.com/zcweng/ToggleButton/blob/master/ToggleButtonSample/device-2014-08-31-231538.png" width="320" />
 
 ---
 
@@ -98,15 +81,6 @@ Phrase is an Android string resource color setting library
 TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View
 
 <img src="https://raw.githubusercontent.com/worker8/all_my_media_files/25b3208/device-2015-07-01-114155.gif" width="320" />
-
----
-
-**DownloadProgressBar**: [https://github.com/panwrona/DownloadProgressBar](https://github.com/panwrona/DownloadProgressBar)
-
-DownloadProgressBar is an android library that delivers awesome custom progress bar. You can manipulate it's state in every way.
-
-<img src="https://github.com/panwrona/DownloadProgressBar/blob/master/success.gif" width="320" />
-<img src="https://github.com/panwrona/DownloadProgressBar/blob/master/error.gif" width="320" />
 
 ---
 
@@ -372,22 +346,6 @@ A demo to show bezier.
 
 ---
 
-**MaterialLoadingProgressBar**:  https://github.com/lsjwzh/MaterialLoadingProgressBar
-
- MaterialLoadingProgressBar provide a styled ProgressBar which looks like SwipeRefreshLayout's loading indicator(support-v4 v21+)
-
-<img src="https://github.com/lsjwzh/MaterialLoadingProgressBar/blob/master/screen.gif" width="320" />
-
----
-
-**dashed-circular-progress**:  https://github.com/glomadrian/dashed-circular-progress
-
- A Circular progress animated where you can put any view inside
-
-<img src="https://github.com/glomadrian/dashed-circular-progress/blob/master/art/sample.gif" width="320" />
-
----
-
 **AutoCompleteBubbleText**:  https://github.com/FrederickRider/AutoCompleteBubbleText
 
  Android AutoCompleteTextView with attached ListView, and drawable background
@@ -523,65 +481,12 @@ A little animation framework which could help you to show message in a nice look
 
 ---
 
-**SmoothProgressBar**: [https://github.com/castorflex/SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar)
-
-A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar
-
-<img src="https://github.com/castorflex/SmoothProgressBar/blob/master/screenshots/SPB_sample.gif" width="640" />
-
----
-
-**NumberProgressBar**: [https://github.com/daimajia/NumberProgressBar](https://github.com/daimajia/NumberProgressBar)
-
-A beautiful, slim Android ProgressBar.
-
-<img src="https://camo.githubusercontent.com/0c92568af7ec4e04e2e1503acdd2ca99854ab0b5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966" width="320" />
-<img src="https://camo.githubusercontent.com/37341c1a0471d1556cc950448e415dde14b5573e/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f36313064633033346a7731656679736c6d6e3569746a32306633306b303734722e6a7067" width="320" />
-
----
-
-**CircleProgress**: [https://github.com/lzyzsd/CircleProgress](https://github.com/lzyzsd/CircleProgress)
-
-CircleProgress, DonutProgress, ArcProgress
-
-<img src="https://raw.githubusercontent.com/lzyzsd/CircleProgress/master/demos/circle_progress.gif" width="320" />
-
----
-
-**android-square-progressbar**: [https://github.com/mrwonderman/android-square-progressbar](https://github.com/mrwonderman/android-square-progressbar)
-
-An android library to display a progressbar that goes around an image.[http://halcyon.ch/android-square-progressbar-v-1-6-0/](http://halcyon.ch/android-square-progressbar-v-1-6-0/)
-
-<img src="https://camo.githubusercontent.com/3ddc0a0d9ed3c39f806f1459d49e46e87be81e29/68747470733a2f2f6d61766868772d626e313330362e66696c65732e316472762e636f6d2f793270386e736e3035354b30583172663935725743634375686f6b583451453542313953506f686c74513735386174513948635632694b334b5f773830325765673668794d70624c507770574745476f62385f7a5f62725651536e4c572d50664e43773274554e6132672d5930786b344279344c6a4a316e564f7445394a7a6a5737535f6251716c4833796668657a793847646a744d4b717a6e5832486a74463834363163456536394b532d6f512f636f7665725f6769746875622e706e67" width="320" />
-
----
-
-**GoogleProgressBar**: [https://github.com/jpardogo/GoogleProgressBar](https://github.com/jpardogo/GoogleProgressBar)
-
-Android library to display progress like google does in some of his services.
-
-<img src="https://raw.githubusercontent.com/jpardogo/GoogleProgressBar/master/art/GoogleProgressBar.gif" width="160" />
-<img src="https://raw.githubusercontent.com/jpardogo/GoogleProgressBar/dev/art/GoogleDices.gif" width="160" />
-<img src="https://raw.githubusercontent.com/jpardogo/GoogleProgressBar/master/art/NexusRotationCross.gif" width="160" />
-<img src="https://raw.githubusercontent.com/MewX/google-progress-bar/gpb-chrome/art/ChromeFloatingCircles.gif" width="160" />
-
----
-
 **SHSegmentControl**: [https://github.com/7heaven/SHSegmentControl](https://github.com/7heaven/SHSegmentControl)
 
 segmentcontrol widget for android 
 
 <img src="https://github.com/7heaven/SHSegmentControl/blob/master/arts/arts2.gif" width="160" />
 <img src="https://github.com/7heaven/SHSegmentControl/blob/master/arts/arts1.gif" width="320" />
-
----
-
-**Android-RoundCornerProgressBar**: [https://github.com/akexorcist/Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar)
-
-Round Corner Progress Bar Library for Android
-
-<img src="https://raw.githubusercontent.com/akexorcist/Android-RoundCornerProgressBar/master/image/screenshot_02.png" width="640" />
-<img src="https://raw.githubusercontent.com/akexorcist/Android-RoundCornerProgressBar/master/image/screenshot_01.png" width="640" />
 
 ---
 
@@ -758,14 +663,6 @@ Pick a date or time on Android in style
 
 ---
 
-**MaterialProgressBar**: [https://github.com/DreaminginCodeZH/MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)
-
-Material design ProgressBar with consistent appearance
-
-<img src="https://github.com/DreaminginCodeZH/MaterialProgressBar/blob/master/screenshot/android_5_0_1_samsung.png" width="320" />
-
----
-
 **velocimeter-view**: [https://github.com/glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view)
 
 A velocimeter View for Android
@@ -886,16 +783,6 @@ Useful library to use custom fonts in your android app
 
 ---
 
-**CustomActivityOnCrash**: https://github.com/Ereza/CustomActivityOnCrash
-
-Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
-
-This library allows launching a custom activity when the app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
-
-<img src="https://github.com/Ereza/CustomActivityOnCrash/blob/master/images/frontpage.png" width="320" />
-
----
-
 **MoveMapLocation**: https://github.com/scp504677840/MoveMapLocation
 
 移动地图选址
@@ -920,29 +807,6 @@ Animation CheckBox
 
 ---
 
-**logger**: https://github.com/orhanobut/logger
 
-Simple, pretty and powerful logger for android
-
-<img src="https://github.com/orhanobut/logger/blob/master/images/custom-tag.png" width="320" />
-
----
-
-**shelly**: https://github.com/jtribe/shelly
-
-Fluent API for common **Intent** use-cases for Android
-
-This library wraps Intents with a clean and simple to understand interface for a number of specific use-cases.
-
-eg: Sharing some text and a url, the url is appended onto the text such that this shares "text with url http://www.jtribe.com.au":
-
-```java
-Shelly.share(context)
-  .text("text with url")
-  .url("http://www.jtribe.com.au")
-  .send();
-```
-
----
 
 

@@ -61,3 +61,12 @@ Android button which moves in eight direction.
 <img src="https://github.com/xuwj/SendMsgbuttonDemo/blob/master/sendmsgbtn.gif" width="320" />
 
 ---
+
+**ToggleButton**: [https://github.com/zcweng/ToggleButton](https://github.com/zcweng/ToggleButton)
+
+ToggleButton Widget For Android Dev
+
+<img src="https://github.com/zcweng/ToggleButton/blob/master/ToggleButtonSample/21879.gif" width="160" />
+<img src="https://github.com/zcweng/ToggleButton/blob/master/ToggleButtonSample/device-2014-08-31-231538.png" width="320" />
+
+---
