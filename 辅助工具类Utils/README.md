@@ -71,3 +71,8 @@ This library allows launching a custom activity when the app crashes, instead of
 
 ---
 
+**okhttp-utils**: https://github.com/hongyangAndroid/okhttp-utils
+
+okhttp的辅助类 http://blog.csdn.net/lmj623565791/article/details/47911083
+
+---
