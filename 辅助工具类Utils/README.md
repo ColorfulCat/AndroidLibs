@@ -71,8 +71,17 @@ This library allows launching a custom activity when the app crashes, instead of
 
 ---
 
-**okhttp-utils**: https://github.com/hongyangAndroid/okhttp-utils
+**bee**: https://github.com/orhanobut/bee
 
-鸿神出品的okhttp的辅助类 http://blog.csdn.net/lmj623565791/article/details/47911083
+Debug and QA tool for android
 
+<img src="https://github.com/orhanobut/bee/blob/master/images/bee_settings.png" width="320" /> <img src="https://github.com/orhanobut/bee/blob/master/images/bee_info.png" width="320" />
+
+---
+
+**ApkCustomizationTool**: https://github.com/SSOOnline/ApkCustomizationTool
+
+apk多渠道打包定制工具
+
+<img src="https://raw.githubusercontent.com/SSOOnline/ApkCustomizationTool/master/screenshot/a.png" width="480" /> 
 ---

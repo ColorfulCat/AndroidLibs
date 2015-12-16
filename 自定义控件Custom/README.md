@@ -246,15 +246,6 @@ A different beautiful Floating Edit Text.
 
 ---
 
-**MaterialDateRangePicker**: [https://github.com/borax12/MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker)
-
-A material Date Range Picker based on wdullaers MaterialDateTimePicker.
-
-<img src="https://github.com/borax12/MaterialDateRangePicker/blob/master/screenshots/2.png?raw=true" width="320" />
-<img src="https://github.com/borax12/MaterialDateRangePicker/blob/master/screenshots/3.png?raw=true" width="320" />
-
----
-
 **android_maskable_layout**: [https://github.com/christophesmet/android_maskable_layout](https://github.com/christophesmet/android_maskable_layout)
 
 A library that easily allows you to mask layouts/viewgroups.

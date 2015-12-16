@@ -535,3 +535,35 @@ Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Pre
 
 ---
 
+**SwipeableCard**: https://github.com/michelelacorte/SwipeableCard
+
+A simple implementation of swipe card like StreetView
+
+<img src="https://camo.githubusercontent.com/34eb6cf9cafe50eb7cdb711b1b5a0728610a1f54/687474703a2f2f692e67697068792e636f6d2f336f38646f5558786a4f437748773247456f2e676966" width="320" /> <img src="https://camo.githubusercontent.com/0017a533c49257bc23341cff025f9e03b3b5503f/687474703a2f2f692e67697068792e636f6d2f3236745038334a72704e396d704e3577412e676966" width="320" />
+
+---
+
+**androidWheelView**: https://github.com/weidongjian/androidWheelView
+
+仿照iOS的滚轮控件，从请吃饭apk反编译出来的
+
+<img src="http://upload-images.jianshu.io/upload_images/43468-028c429ef0d15498.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="320" />
+
+---
+
+**LondonEyeLayoutManager**: https://github.com/Danylo2006/LondonEyeLayoutManager
+
+A Layoutmanager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory
+
+<img src="https://cloud.githubusercontent.com/assets/2686355/11742412/651bc71e-a008-11e5-9a5e-4f10be4adbd8.gif" width="320" />
+
+---
+
+**overscroll-decor**: https://github.com/EverythingMe/overscroll-decor
+
+Android: iOS-like over-scrolling effect applicable over almost all scrollable Android views
+
+<img src="https://github.com/EverythingMe/overscroll-decor/blob/master/recyclerview_demo.gif" width="320" />
+
+---
+

@@ -12,6 +12,18 @@ An HTTP+SPDY client for Android and Java applications.
 
 ---
 
+**okhttp-utils**: https://github.com/hongyangAndroid/okhttp-utils
+
+鸿神出品的okhttp的辅助类 http://blog.csdn.net/lmj623565791/article/details/47911083
+
+---
+
+**OkHttpPlus**: https://github.com/ZhaoKaiQiang/OkHttpPlus
+
+OkHttp封装，支持GET、POST、UI线程回调、JSON格式解析、链式调用、小文件上传下载及进度监听等功能
+
+---
+
 **android-async-http**: [https://github.com/loopj/android-async-http](https://github.com/loopj/android-async-http)
 
 An Asynchronous HTTP Library for Android
@@ -33,5 +45,11 @@ Netroid是一个基于Volley 实现的Android Http库。提供执行网络请求
 **Volley的基本用法**: [http://blog.csdn.net/guolin_blog/article/details/17482095](http://blog.csdn.net/guolin_blog/article/details/17482095)
 
 谷歌自产的网络请求框架
+
+---
+
+**AndroidNetworkDemo**: https://github.com/dodocat/AndroidNetworkDemo
+
+A demo show how to use Volley with OkHttp and https.同步发于[简书](http://www.jianshu.com/p/e58161cbc3a4)
 
 ---
