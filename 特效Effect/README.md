@@ -98,4 +98,12 @@ Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Pre
 ![Blank cold start](https://github.com/DreaminginCodeZH/MaterialColdStart/blob/master/preview/blank_cold_start.gif)![Material cold start](https://github.com/DreaminginCodeZH/MaterialColdStart/blob/master/preview/material_cold_start.gif)
 
 ---
+
+**WaveLoadingView**: https://github.com/tangqi92/WaveLoadingView
+
+An Android library providing to realize wave loading effect.
+
+<img src="https://github.com/tangqi92/WaveLoadingView/blob/master/screenshots/sample.gif" width="320" />
+
+---
  
