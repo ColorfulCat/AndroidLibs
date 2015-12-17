@@ -70,3 +70,11 @@ Android library to display a list of items for pick one.
 
 ---
 
+**WheelPicker**: https://github.com/AigeStudio/WheelPicker
+
+Simple & Wonderful wheel view in realistic effect for android.
+
+<img src="https://github.com/AigeStudio/WheelPicker/blob/master/Previews/StraightStyle.gif" width="320" /> <img src="https://github.com/AigeStudio/WheelPicker/blob/master/Previews/WheelDatePicker.gif" width="320" />
+
+---
+
