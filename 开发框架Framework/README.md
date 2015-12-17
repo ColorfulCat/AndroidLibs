@@ -62,20 +62,12 @@ ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议�
 **AndroidFine**: [https://github.com/tianshaojie/AndroidFine](https://github.com/tianshaojie/AndroidFine)
 
 * 沉浸式状态栏，界面更漂亮
-* 左滑返回，非常流畅
-* 简单、可复用、易扩展的底部导航
 * PagerSlidingTabStrip，导航标签文字颜色和选中时文字颜色，都可以通过xml设置
-* 轮播图，自动+无限轮播
 * 启动导航图SplashActivity，或许不用改就可以用
 * 查看大图，集成了PhotoView的可用Activity，你不用再写了
 * QuickAdapter快速的Adapter开发，不用在重复写ViewHolder类
-* 如果发现ListView不流畅请告诉我
 * PullToRefresh、PullToZoomView，这些常用的看demo吧
-* HttpClient集成了OkHttpClient，基本的get，post，方便扩展和整合
-* Picasso.with(context).load("url).into(imageView)，舒服且强大的图片加载
-* 各种utils，拿来就可以用
 * [Android编码规范](http://tianshaojie.github.io/android-code-style)，简单才能规范
-
 
 精致Demo
 
@@ -89,17 +81,10 @@ ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议�
 
 主要功能有：网络访问、上传下载、数据库操作、图片加载、View注解等等
 
-项目说明：<br />
-1.在项目中自定义了Header视图,可自定义左右按钮,点击事件以及标题<br />
-2.项目中有演示MVP的源码,请自行翻阅<br />
-3.封装了BaseAdapter,提供了更加完善的方法,具体请查看CustomBaseAdapter源码<br />
-4.以单例模式封装了网络访问层,整个项目的访问接口共用一个,并且初始化时设置了一些访问配置,方便开发者自行修改。请查看NetCenter源码<br />
-5.抽象出公共请求参数及响应参数,所有的请求实体类都继承自BaseRequest,方便设置公共请求参数<br />
-6.所有响应实体类都可通过Response解析获得,Response继承自BaseResponse,请自行查阅源码<br />
-7.请求时可直接传入请求实体类,框架会自动封装成相应的请求参数及公共请求参数.<br />
-8.该框架自定义了Activity的回退栈,方便用户在任何地方获取当前的Context.可自行查阅AppManager源码<br />
-9.框架中新增了一个BaseCameraActivity,该Activity主要用于调用系统摄像头及相册,并自带剪切功能<br />
-10.IBaseView中封装了常用的View操作,如Toast,进度条等等,并通过BaseActivity实现了,所以建议所有Activity都继承自BaseActivity以便更好的使用本框架<br />
-11.TransactionListener该监听是Presenter用于监听Model的处理状态,可接受泛型后在onSuccess(T t)中接受处理结果<br />
+---
+
+**UltimateAndroid**: https://github.com/cymcsg/UltimateAndroid
+
+UltimateAndroid is a rapid development framework for developing your apps http://cymcsg.github.io/UltimateAndroid
 
 ---

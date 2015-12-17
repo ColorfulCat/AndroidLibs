@@ -23,14 +23,6 @@ An implementation of Google design, with Floating Action Button transforming int
 
 ---
 
-**PickerUI**: [https://github.com/DavidPizarro/PickerUI](https://github.com/DavidPizarro/PickerUI)
-
-Android library to display a list of items for pick one.
-
-<img src="https://github.com/DavidPizarro/PickerUI/blob/master/art/demo.gif" width="320" />
-
----
-
 **DrawerArrowDrawable**: [https://github.com/ChrisRenke/DrawerArrowDrawable](https://github.com/ChrisRenke/DrawerArrowDrawable)
 
 Visual back-port of the rotating drawer-to-arrow drawable from Android L.
@@ -135,5 +127,13 @@ An animation that reveals a circular animation starting from a fab while the fab
 Pinterest like awesome menu control for Android
 
 <img src="https://github.com/brucetoo/PinterestView/blob/master/mine1.gif" width="320" />
+
+---
+
+**BubbleActions**: https://github.com/SamThompson/BubbleActions
+
+An open source implementation of the long press actions in the Pinterest app.
+
+<img src="https://camo.githubusercontent.com/a1c3b444734ca8fca1388b41cf5f56c850f8e019/687474703a2f2f692e696d6775722e636f6d2f6a6249364261792e676966" width="320" /> <img src="https://camo.githubusercontent.com/59c05f7b5d3193845954e330e7e7392201a1f60a/687474703a2f2f692e696d6775722e636f6d2f5945744e426d6e2e676966" width="320" /> <img src="https://camo.githubusercontent.com/be675a7fc622ab75d67d3b3cc27dc8ca2d98e4ec/687474703a2f2f692e696d6775722e636f6d2f424b6c6c7946592e676966" width="320" />
 
 ---
