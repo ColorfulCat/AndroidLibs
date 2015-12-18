@@ -412,3 +412,19 @@ Material Design Notes App
 <img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot3.png" width="320" />
 
 --- 
+
+**Leisure**:  https://github.com/MummyDing/Leisure
+
+ Leisure is an Android App,it contains Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban 
+
+<img src="https://github.com/MummyDing/Leisure/blob/master/ScreenShots/home.png" width="320" /> <img src="https://github.com/MummyDing/Leisure/blob/master/ScreenShots/science.png.png" width="320" />
+
+---
+
+**Auro**:  https://github.com/architjn/Auro
+
+1st Most Fastest, Latest Designed and open source `Music player`
+
+<img src="https://raw.githubusercontent.com/architjn/Auro/master/SCREENSHOTS/player.png" width="320" /> <img src="https://raw.githubusercontent.com/architjn/Auro/master/SCREENSHOTS/upnext.png" width="320" />
+
+---
