@@ -101,9 +101,33 @@ Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Pre
 
 **WaveLoadingView**: https://github.com/tangqi92/WaveLoadingView
 
-An Android library providing to realize wave loading effect.
+An Android library providing to realize wave loading effect
 
 <img src="https://github.com/tangqi92/WaveLoadingView/blob/master/screenshots/sample.gif" width="320" />
+
+---
+
+**CircleRefreshLayout**: https://github.com/tuesda/CircleRefreshLayout
+
+a custom pull-to-refresh layout which contains a interesting animation
+
+<img src="https://github.com/tuesda/CircleRefreshLayout/blob/master/gif/circlerefresh.gif" width="320" />
+
+---
+
+**android-card-slide-panel**: https://github.com/xmuSistone/android-card-slide-panel
+
+模仿探探首页卡片左右滑动效果，滑动流畅，卡片view无限重生
+
+<img src="https://github.com/xmuSistone/android-card-slide-panel/blob/master/capture2.gif" width="320" />
+
+---
+
+**CardSlidePanel**: https://github.com/taoliuh/CardSlidePanel
+
+和上一个类似，无限卡片
+
+<img src="https://github.com/taoliuh/CardSlidePanel/blob/branch/capture01.gif" width="320" />
 
 ---
  
