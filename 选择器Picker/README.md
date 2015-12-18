@@ -78,3 +78,11 @@ Simple & Wonderful wheel view in realistic effect for android.
 
 ---
 
+**WheelSelect**: https://github.com/kailaisi/WheelSelect
+
+通过recyclerview实现的滚动选择`年龄`
+
+<img src="https://github.com/kailaisi/WheelSelect/raw/master/app/wheel.gif" width="320" />
+
+---
+
