@@ -98,3 +98,11 @@ A circle progress animation view on Android
 <img src="https://github.com/Fichardu/CircleProgress/blob/master/art/progress.gif" width="320" />
 
 ---
+
+**WhorlView**: https://github.com/Kyson/WhorlView
+
+Progressbar with whorl style
+
+<img src="https://raw.githubusercontent.com/Kyson/WhorlView/master/art/whorl_progress_showcase.gif" width="320" />
+
+---
