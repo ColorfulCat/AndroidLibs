@@ -27,3 +27,19 @@ Library containing over 1000 material vector icons that can be easily used as Dr
 <img src="https://camo.githubusercontent.com/802f5408fb1caeae9647d6e72c5905225b24220d/687474703a2f2f692e696d6775722e636f6d2f4b584866586f382e676966" width="320" />
 
 ---
+
+**Android-Iconics**: https://github.com/mikepenz/Android-Iconics
+
+Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application. http://mikepenz.github.io/Android-Iconics
+
+<img src="https://raw.githubusercontent.com/mikepenz/Android-Iconics/develop/DEV/github/screenshots1.jpg" width="320" />
+
+---
+
+**android-iconify**: https://github.com/JoanZapata/android-iconify
+
+Android integration of multiple icon providers such as FontAwesome, Entypo, Typicons,... http://joanzapata.com/android-iconify
+
+<img src="https://raw.githubusercontent.com/JoanZapata/android-iconify/master/graphics/androids.png" width="320" />
+
+---
