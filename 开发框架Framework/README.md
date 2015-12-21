@@ -75,7 +75,7 @@ ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议�
 
 ---
 
-**FastAndroid**: [https://github.com/huntermr/FastAndroid](https://github.com/huntermr/FastAndroid)
+**FastAndroid**: https://github.com/huntermr/FastAndroid
 
 这是一个封装了多方面开源库后基于MVP模式的一个Android快速开发框架。融入了MVP模式,将Activity或Fragment做为View层、抽象出Presenter用于处理业务逻辑、Model处理网络访问，数据封装等，降低模块之间耦合，提高可维护性及扩展。QQ交流群：310262562
 
@@ -86,5 +86,11 @@ ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议�
 **UltimateAndroid**: https://github.com/cymcsg/UltimateAndroid
 
 UltimateAndroid is a rapid development framework for developing your apps http://cymcsg.github.io/UltimateAndroid
+
+---
+
+**FastDev4Android**: https://github.com/jiangqqlmj/FastDev4Android
+
+Android快速开发框架，采用AndroidStudio进行开发。 预想集成工具包,采用MVP开发模式,EventBus数据分发,沉浸式状态栏,ORM,网络请求(HTTPClint,Volley,OkHttps),数据解析,依赖注入(AndroidAnnotations),xutils,图片异步加载，二维码扫描等等，后续会进行逐步添加 http://blog.csdn.net/developer_jiangqq
 
 ---

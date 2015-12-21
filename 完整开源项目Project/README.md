@@ -428,3 +428,25 @@ Material Design Notes App
 <img src="https://raw.githubusercontent.com/architjn/Auro/master/SCREENSHOTS/player.png" width="320" /> <img src="https://raw.githubusercontent.com/architjn/Auro/master/SCREENSHOTS/upnext.png" width="320" />
 
 ---
+
+**ganchai**:  https://github.com/openproject/ganchai
+
+干柴（客户端、服务端），专注于Android干货资源
+
+<img src="https://camo.githubusercontent.com/8339e46ede8f34532f3fc1bf3d1ca99ef56b460c/687474703a2f2f37786b73706b2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f53637265656e73686f745f323031352d30382d32382d30392d35312d32312e706e673f696d6167654d6f6772322f7468756d626e61696c2f21333070" width="320" /> <img src="https://camo.githubusercontent.com/87c56d95476213f6a43637174ab727d1fb60632e/687474703a2f2f37786b73706b2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f53637265656e73686f745f323031352d30382d32382d30392d35322d33362e706e673f696d6167654d6f6772322f7468756d626e61696c2f21333070" width="320" />
+
+---
+
+**Android-LockScreenSample-DisableHomeButtonKey**:  https://github.com/DUBULEE/Android-LockScreenSample-DisableHomeButtonKey
+
+Android LockScreen Sample Using Service - Disable HomeButton or HomeKey
+
+<img src="https://github.com/DUBULEE/Android-LockScreenSample-DisableHomeButtonKey/blob/master/rawimg/softkey_unlock_lg.gif" width="320" />
+
+---
+
+**RoboBinding-gallery**:  https://github.com/RoboBinding/RoboBinding-gallery
+
+An android app to showcase the usage of `RoboBinding framework`. http://robobinding.org
+
+---
