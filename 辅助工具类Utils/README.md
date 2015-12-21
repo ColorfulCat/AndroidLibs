@@ -84,4 +84,11 @@ Debug and QA tool for android
 apk多渠道打包定制工具
 
 <img src="https://raw.githubusercontent.com/SSOOnline/ApkCustomizationTool/master/screenshot/a.png" width="480" /> 
+
+---
+
+**LessCode**: https://github.com/openproject/LessCode
+
+less code, more efficient for android
+
 ---
