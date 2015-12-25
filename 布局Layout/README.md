@@ -574,3 +574,11 @@ Android Timeline View is used to display views like Tracking of shipment/order, 
 <img src="https://github.com/vipulasri/Timeline-View/blob/master/Screenshot1.png" width="320" />
 
 ---
+
+**WeixinTest**: https://github.com/fengsehng/WeixinTest
+
+仿微信主页面，通过ViewPager实现，高度可定制化，页面可以左右滑动，点击下面那妞也可以切换。
+
+<img src="http://img.blog.csdn.net/20150831234404946" width="320" />
+
+---
