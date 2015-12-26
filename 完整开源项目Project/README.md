@@ -253,7 +253,7 @@ This is an Android application with camera,picture cropping,collage sticking and
 
 <img src="https://github.com/ZhaoKaiQiang/JianDan/blob/master/images/demo.gif" width="320" />
 
----          
+---        
 
 **v2ex-android**: https://github.com/greatyao/v2ex-android/
 
@@ -464,5 +464,21 @@ Monitors and records the CPU and memory usage of Android devices https://play.go
 AcDisplay is a new way of handling `notifications` in Android. http://acdisplay.org
 
 <img src="https://raw.githubusercontent.com/AChep/AcDisplay/master/screenshots/screenshot1.png" width="320" /> <img src="https://raw.githubusercontent.com/AChep/AcDisplay/master/screenshots/screenshot2.png" width="320" />
+
+---
+
+**JNote**:  https://github.com/Jhuster/JNote
+
+一款支持部分Markdown语法的轻量级便签软件。 
+
+<img src="https://camo.githubusercontent.com/64ce94121986c97d46b86126b8bdfe7eeaa0321c/687474703a2f2f7777772e6a6875737465722e636f6d2f6170702f4a4e6f74652f686f6d652e706e67" width="320" />
+
+---
+
+**EWeightScale**:  https://github.com/Jhuster/EWeightScale
+
+一款可以记录和查询体重的应用 http://ticktick.blog.51cto.com/823160/1687127 
+
+<img src="https://camo.githubusercontent.com/986d85bf34d63c5a9091ad63e68950f73ab865fe/687474703a2f2f7777772e6a6875737465722e636f6d2f6170702f455765696768745363616c652f686f6d652e706e67" width="320" />
 
 ---
