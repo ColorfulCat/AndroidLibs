@@ -253,7 +253,13 @@ This is an Android application with camera,picture cropping,collage sticking and
 
 <img src="https://github.com/ZhaoKaiQiang/JianDan/blob/master/images/demo.gif" width="320" />
 
----        
+---
+
+**JianDanRxJava**: https://github.com/ZhaoKaiQiang/JianDanRxJava
+
+使用Rxjava重构煎蛋高仿
+
+---
 
 **v2ex-android**: https://github.com/greatyao/v2ex-android/
 
