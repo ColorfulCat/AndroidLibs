@@ -488,3 +488,11 @@ AcDisplay is a new way of handling `notifications` in Android. http://acdisplay.
 <img src="https://camo.githubusercontent.com/986d85bf34d63c5a9091ad63e68950f73ab865fe/687474703a2f2f7777772e6a6875737465722e636f6d2f6170702f455765696768745363616c652f686f6d652e706e67" width="320" />
 
 ---
+
+**SimpleNews**:  https://github.com/liuling07/SimpleNews
+
+基于Material Design和MVP的新闻客户端
+
+<img src="https://raw.githubusercontent.com/liuling07/SimpleNews/master/screenshot/news.png" width="320" />
+
+---
