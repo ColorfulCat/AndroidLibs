@@ -496,3 +496,9 @@ AcDisplay is a new way of handling `notifications` in Android. http://acdisplay.
 <img src="https://raw.githubusercontent.com/liuling07/SimpleNews/master/screenshot/news.png" width="320" />
 
 ---
+
+**NBAPlus**:  https://github.com/SilenceDut/NBAPlus
+
+A concise APP about NBA News and Event with RxJava and EventBus http://fir.im/nbaplus
+
+---
