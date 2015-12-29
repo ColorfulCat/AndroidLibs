@@ -98,3 +98,11 @@ less code, more efficient for android
 整理的常用的工具类，值得收藏
 
 ---
+
+**FileDownloader**: https://github.com/lingochamp/FileDownloader
+
+Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single-process
+
+<img src="https://raw.githubusercontent.com/lingochamp/FileDownloader/master/art/serial_tasks_demo.gif" width="320" />
+
+---

@@ -177,3 +177,11 @@ Library for picking pictures from gallery or camera
 EasyImage allow you to eaisly take picture from gallery or camera without creating lots of boilerplate.
 
 ---
+
+**GifView**: https://github.com/Cutta/GifView
+
+Library for playing gifs on Android
+
+<img src="https://camo.githubusercontent.com/19b4e43298746358948ac05ce184fa4d99029159/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236745073594c356841344945474166752f67697068792e676966" width="320" />
+
+---
