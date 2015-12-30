@@ -106,3 +106,16 @@ Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single-proces
 <img src="https://raw.githubusercontent.com/lingochamp/FileDownloader/master/art/serial_tasks_demo.gif" width="320" />
 
 ---
+
+**android-appversion-gradle-plugin**: https://github.com/hamsterksu/android-appversion-gradle-plugin
+
+下一代Android渠道打包工具Gradle插件，支持极速打包，1000个渠道包只需要5秒钟
+
+---
+
+**packer-ng-plugin**: https://github.com/mcxiaoke/packer-ng-plugin
+
+Add extra information to output file name. Add build number to the application version
+批量命名应用输出文件名
+
+---
