@@ -10,6 +10,9 @@
 - [http://www.iconpng.com/](http://www.iconpng.com/)
 - [http://findicons.com/](http://findicons.com/)
 - [https://www.iconfinder.com/](https://www.iconfinder.com/)
+- [http://www.iconfont.cn/](http://www.iconfont.cn/)
+
+- [http://www.58pic.com/](http://www.58pic.com/)
 
 
 ---
