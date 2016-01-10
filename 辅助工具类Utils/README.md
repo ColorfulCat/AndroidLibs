@@ -119,3 +119,9 @@ Add extra information to output file name. Add build number to the application v
 批量命名应用输出文件名
 
 ---
+
+**dexcount-gradle-plugin**: https://github.com/KeepSafe/dexcount-gradle-plugin
+
+A Gradle plugin to report the number of method references in your APK on every build.
+
+---
