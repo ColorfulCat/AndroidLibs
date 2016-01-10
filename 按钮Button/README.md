@@ -70,3 +70,11 @@ ToggleButton Widget For Android Dev
 <img src="https://github.com/zcweng/ToggleButton/blob/master/ToggleButtonSample/device-2014-08-31-231538.png" width="320" />
 
 ---
+
+**LikeButton**: https://github.com/jd-alexander/LikeButton
+
+Twitter's heart animation for Android
+
+<img src="https://camo.githubusercontent.com/c75e0c73a4fd9a0b03ff6abab44221060be9d14a/687474703a2f2f692e67697068792e636f6d2f336f386470347571334b34767652314d4a4f2e676966" width="320" />
+
+---

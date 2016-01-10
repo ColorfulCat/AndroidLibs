@@ -253,7 +253,13 @@ This is an Android application with camera,picture cropping,collage sticking and
 
 <img src="https://github.com/ZhaoKaiQiang/JianDan/blob/master/images/demo.gif" width="320" />
 
----          
+---
+
+**JianDanRxJava**: https://github.com/ZhaoKaiQiang/JianDanRxJava
+
+使用Rxjava重构煎蛋高仿
+
+---
 
 **v2ex-android**: https://github.com/greatyao/v2ex-android/
 
@@ -426,5 +432,73 @@ Material Design Notes App
 1st Most Fastest, Latest Designed and open source `Music player`
 
 <img src="https://raw.githubusercontent.com/architjn/Auro/master/SCREENSHOTS/player.png" width="320" /> <img src="https://raw.githubusercontent.com/architjn/Auro/master/SCREENSHOTS/upnext.png" width="320" />
+
+---
+
+**ganchai**:  https://github.com/openproject/ganchai
+
+干柴（客户端、服务端），专注于Android干货资源
+
+<img src="https://camo.githubusercontent.com/8339e46ede8f34532f3fc1bf3d1ca99ef56b460c/687474703a2f2f37786b73706b2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f53637265656e73686f745f323031352d30382d32382d30392d35312d32312e706e673f696d6167654d6f6772322f7468756d626e61696c2f21333070" width="320" /> <img src="https://camo.githubusercontent.com/87c56d95476213f6a43637174ab727d1fb60632e/687474703a2f2f37786b73706b2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f53637265656e73686f745f323031352d30382d32382d30392d35322d33362e706e673f696d6167654d6f6772322f7468756d626e61696c2f21333070" width="320" />
+
+---
+
+**Android-LockScreenSample-DisableHomeButtonKey**:  https://github.com/DUBULEE/Android-LockScreenSample-DisableHomeButtonKey
+
+Android LockScreen Sample Using Service - Disable HomeButton or HomeKey
+
+<img src="https://github.com/DUBULEE/Android-LockScreenSample-DisableHomeButtonKey/blob/master/rawimg/softkey_unlock_lg.gif" width="320" />
+
+---
+
+**RoboBinding-gallery**:  https://github.com/RoboBinding/RoboBinding-gallery
+
+An android app to showcase the usage of `RoboBinding framework`. http://robobinding.org
+
+---
+
+**AnotherMonitor**:  https://github.com/AntonioRedondo/AnotherMonitor
+
+Monitors and records the CPU and memory usage of Android devices https://play.google.com/store/apps/details?id=org.anothermonitor
+
+<img src="https://camo.githubusercontent.com/e8a643e7373bfa716cc54ac949a12c6c760639c9/68747470733a2f2f6c68342e67677068742e636f6d2f6766774d683449683056443041617849385f656831316d364352755f7a5357362d5536463235416a43646c556a436b6c69574842674a4d684462336550646c5f454d6f54" width="320" />
+
+---
+
+**AcDisplay**:  https://github.com/AChep/AcDisplay
+
+AcDisplay is a new way of handling `notifications` in Android. http://acdisplay.org
+
+<img src="https://raw.githubusercontent.com/AChep/AcDisplay/master/screenshots/screenshot1.png" width="320" /> <img src="https://raw.githubusercontent.com/AChep/AcDisplay/master/screenshots/screenshot2.png" width="320" />
+
+---
+
+**JNote**:  https://github.com/Jhuster/JNote
+
+一款支持部分Markdown语法的轻量级便签软件。 
+
+<img src="https://camo.githubusercontent.com/64ce94121986c97d46b86126b8bdfe7eeaa0321c/687474703a2f2f7777772e6a6875737465722e636f6d2f6170702f4a4e6f74652f686f6d652e706e67" width="320" />
+
+---
+
+**EWeightScale**:  https://github.com/Jhuster/EWeightScale
+
+一款可以记录和查询体重的应用 http://ticktick.blog.51cto.com/823160/1687127 
+
+<img src="https://camo.githubusercontent.com/986d85bf34d63c5a9091ad63e68950f73ab865fe/687474703a2f2f7777772e6a6875737465722e636f6d2f6170702f455765696768745363616c652f686f6d652e706e67" width="320" />
+
+---
+
+**SimpleNews**:  https://github.com/liuling07/SimpleNews
+
+基于Material Design和MVP的新闻客户端
+
+<img src="https://raw.githubusercontent.com/liuling07/SimpleNews/master/screenshot/news.png" width="320" />
+
+---
+
+**NBAPlus**:  https://github.com/SilenceDut/NBAPlus
+
+A concise APP about NBA News and Event with RxJava and EventBus http://fir.im/nbaplus
 
 ---

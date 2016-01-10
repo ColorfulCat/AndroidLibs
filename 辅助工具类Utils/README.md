@@ -84,4 +84,44 @@ Debug and QA tool for android
 apk多渠道打包定制工具
 
 <img src="https://raw.githubusercontent.com/SSOOnline/ApkCustomizationTool/master/screenshot/a.png" width="480" /> 
+
+---
+
+**LessCode**: https://github.com/openproject/LessCode
+
+less code, more efficient for android
+
+---
+
+**LessCode**: https://github.com/l123456789jy/Lazy
+
+整理的常用的工具类，值得收藏
+
+---
+
+**FileDownloader**: https://github.com/lingochamp/FileDownloader
+
+Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single-process
+
+<img src="https://raw.githubusercontent.com/lingochamp/FileDownloader/master/art/serial_tasks_demo.gif" width="320" />
+
+---
+
+**android-appversion-gradle-plugin**: https://github.com/hamsterksu/android-appversion-gradle-plugin
+
+下一代Android渠道打包工具Gradle插件，支持极速打包，1000个渠道包只需要5秒钟
+
+---
+
+**packer-ng-plugin**: https://github.com/mcxiaoke/packer-ng-plugin
+
+Add extra information to output file name. Add build number to the application version
+批量命名应用输出文件名
+
+---
+
+**dexcount-gradle-plugin**: https://github.com/KeepSafe/dexcount-gradle-plugin
+
+A Gradle plugin to report the number of method references in your APK on every build.
+
 ---

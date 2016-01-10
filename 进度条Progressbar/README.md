@@ -98,3 +98,19 @@ A circle progress animation view on Android
 <img src="https://github.com/Fichardu/CircleProgress/blob/master/art/progress.gif" width="320" />
 
 ---
+
+**WhorlView**: https://github.com/Kyson/WhorlView
+
+Progressbar with whorl style
+
+<img src="https://raw.githubusercontent.com/Kyson/WhorlView/master/art/whorl_progress_showcase.gif" width="320" />
+
+---
+
+**SuperLoadingProgress**: https://github.com/835127729/SuperLoadingProgress
+
+一款优美的加载器，根据进度设置加载效果 http://blog.csdn.net/crazy__chen/article/details/50270281
+
+<img src="https://camo.githubusercontent.com/f30d954898def7285cc73573cb7b68d33ba0bdd1/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531323131323330383039363032" width="320" />
+
+---
