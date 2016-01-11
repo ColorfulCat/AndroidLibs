@@ -137,3 +137,11 @@ An open source implementation of the long press actions in the Pinterest app.
 <img src="https://camo.githubusercontent.com/a1c3b444734ca8fca1388b41cf5f56c850f8e019/687474703a2f2f692e696d6775722e636f6d2f6a6249364261792e676966" width="320" /> <img src="https://camo.githubusercontent.com/59c05f7b5d3193845954e330e7e7392201a1f60a/687474703a2f2f692e696d6775722e636f6d2f5945744e426d6e2e676966" width="320" /> <img src="https://camo.githubusercontent.com/be675a7fc622ab75d67d3b3cc27dc8ca2d98e4ec/687474703a2f2f692e696d6775722e636f6d2f424b6c6c7946592e676966" width="320" />
 
 ---
+
+**FloatingActionMenu**: https://github.com/TristanWiley/FloatingActionMenu
+
+一个改进的浮动菜单
+
+<img src="https://camo.githubusercontent.com/21a922247f937a93bc8cf74288a939cf17d4963a/687474703a2f2f376c727a76622e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7465737430372e676966" width="320" />
+
+---
