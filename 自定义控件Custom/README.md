@@ -807,6 +807,14 @@ Animation CheckBox
 
 ---
 
+**AndroidTagView**: https://github.com/whilu/AndroidTagView
+
+A TagView library for Android. Customize your own & `Drag` effect.
+
+<img src="https://github.com/whilu/AndroidTagView/blob/master/screenshots/androidtagview_record_1.gif" width="320" />
+
+---
+
 
 
 
