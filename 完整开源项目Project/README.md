@@ -502,3 +502,11 @@ AcDisplay is a new way of handling `notifications` in Android. http://acdisplay.
 A concise APP about NBA News and Event with RxJava and EventBus http://fir.im/nbaplus
 
 ---
+
+**MaterialLife**:  https://github.com/juankysoriano/MaterialLife
+
+A Material Design styled Game of Life for Android
+
+<img src="https://camo.githubusercontent.com/3192f67d306cb3fed97c79e4719cf8c3809561e3/687474703a2f2f73382e706f7374696d672e6f72672f787770726d71706d642f6465766963655f636f70792e706e67" width="320" />
+
+---

@@ -86,3 +86,11 @@ Simple & Wonderful wheel view in realistic effect for android.
 
 ---
 
+**AndroidPicker**: https://github.com/gzu-liyujiang/AndroidPicker
+
+安卓选择器类库，包括日期时间选择器、单项选择器、地址选择器、颜色选择器、文件目录选择器、数字选择器、星座选择器等
+
+<img src="https://github.com/gzu-liyujiang/AndroidPicker/blob/master/screenshots/date.gif" width="320" />
+
+---
+
