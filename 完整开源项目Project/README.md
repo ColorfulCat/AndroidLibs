@@ -514,6 +514,15 @@ A Material Design styled Game of Life for Android
 **CoCoin**:  https://github.com/Nightonke/CoCoin
 
 CoCoin是一款记账APP，有记账、多种方式显示支出占比和支出变化、云同步、智能提醒等功能。
+
 <img src="https://github.com/Nightonke/CoCoin/blob/master/Gif/%E8%AE%B0%E5%BD%95.gif" width="320" />
+
+---
+
+**growth**:  https://github.com/phodal/growth
+
+一个帮你成为顶尖开发者的APP http://www.growth.ren/
+
+<img src="https://github.com/phodal/growth/blob/master/www/img/help/start.jpg" width="320" />
 
 ---
