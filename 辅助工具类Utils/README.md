@@ -125,3 +125,19 @@ Add extra information to output file name. Add build number to the application v
 A Gradle plugin to report the number of method references in your APK on every build.
 
 ---
+
+**leakcanary**: https://github.com/square/leakcanary
+
+A memory leak detection library for Android and Java.
+
+<img src="https://github.com/square/leakcanary/blob/master/assets/screenshot.png" width="480" />
+
+---
+
+**blockcanary**: https://github.com/moduth/blockcanary
+
+A ui-block detection library for Android. http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/
+
+<img src="https://github.com/moduth/blockcanary/blob/master/art/shot1.png" width="320" />
+
+---
