@@ -141,3 +141,11 @@ A ui-block detection library for Android. http://blog.zhaiyifan.cn/2016/01/16/Bl
 <img src="https://github.com/moduth/blockcanary/blob/master/art/shot1.png" width="320" />
 
 ---
+
+**GT**: https://github.com/TencentOpen/GT
+
+GT（随身调）是APP的`随身调试`平台，它是直接运行在手机上的“集成调试环境”(IDTE, Integrated Debug Environment)。
+
+<img src="https://cloud.githubusercontent.com/assets/7868514/12535227/6b03940a-c2b7-11e5-91c7-c0c71d76295d.png" width="320" />
+
+---
