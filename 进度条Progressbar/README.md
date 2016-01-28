@@ -114,3 +114,11 @@ Progressbar with whorl style
 <img src="https://camo.githubusercontent.com/f30d954898def7285cc73573cb7b68d33ba0bdd1/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531323131323330383039363032" width="320" />
 
 ---
+
+**AnimProgressBar**:https://github.com/xrealm/AnimProgressBar
+
+一个可以定制进度动画的ProgressBar https://github.com/Xrealm/AnimProgressBar
+
+<img src="https://github.com/Xrealm/AnimProgressBar/blob/master/screenshots/progressbar_screenshots.png" width="320" />
+
+---
