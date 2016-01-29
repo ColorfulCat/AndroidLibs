@@ -6,6 +6,23 @@
 
 ---
 
+**FileDownloader**：https://github.com/lingochamp/FileDownloader
+
+Android multi-task file download engine.
+
+Android 文件下载引擎，稳定、高效、简单易用
+
+- 简单易用
+- 高并发
+- 独立进程
+- 自动断点续传
+- 使用okHttp并使用其中的一些默认属性
+
+![FileDownloader](https://github.com/lingochamp/FileDownloader/blob/master/art/avoid_drop_frames1.gif)
+<img src="https://github.com/lingochamp/FileDownloader/blob/master/art/filedownload_sample_description.png" width="320" />
+
+---
+
 **okhttp**: [https://github.com/square/okhttp](https://github.com/square/okhttp)
 
 An HTTP+SPDY client for Android and Java applications.
