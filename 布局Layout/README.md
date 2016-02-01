@@ -598,3 +598,27 @@ For resolve keybord & panel switch layout conflict(Android键盘面板冲突 布
 <img src="https://raw.githubusercontent.com/Jacksgong/JKeybordPanelSwitch/master/img/resolve_mv.gif" width="320" />
 
 ---
+
+**MaterialPageStateLayout**: https://github.com/Syehunter/MaterialPageStateLayout
+
+PageStateLayout could let you show [Loading][Empty][Error][Succeed][Requesting] state in Activity, Fragment, ViewGroup as you want.
+
+<img src="https://camo.githubusercontent.com/7f8b84dfd761480c284df204672d8fcf7cbbe429/687474703a2f2f37786e347a342e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f5061676553746174654c61796f75742e676966" width="320" />
+
+---
+
+**MaterialLogin**: https://github.com/shem8/MaterialLogin
+
+Login view with material design
+
+<img src="https://github.com/shem8/MaterialLogin/blob/master/example.gif" width="320" />
+
+---
+
+**RecyclerView-FastScroll**: https://github.com/timusus/RecyclerView-FastScroll
+
+A simple FastScroller for Android's RecyclerView
+
+<img src="https://github.com/timusus/RecyclerView-FastScroll/blob/master/screenshot.jpg" width="320" />
+
+---

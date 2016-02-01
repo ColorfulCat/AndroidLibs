@@ -398,3 +398,9 @@ WaterDropListView，just like the iOS
 <img src="https://camo.githubusercontent.com/3bf0a5b5dfa2b78d6a1e1654d9d2aa599ca8449d/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573686c61796f7574372e676966" width="160" />
 
 --- 
+
+**FastAdapter**: https://github.com/mikepenz/FastAdapter
+
+The bullet proof, fast and easy to use adapter library, which minimizes developing time when use RecyclerView... http://mikepenz.github.io/FastAdapter
+
+---
