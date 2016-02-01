@@ -19,3 +19,13 @@ Animation effects to TextView
 ![demo](https://github.com/hanks-zyh/HTextView/blob/master/screenshot/demo5.gif)
 
 ---
+
+**showhidepasswordedittext**: https://github.com/scottyab/showhidepasswordedittext
+
+Show/Hide Password EditText is a very simple extension of Android's EditText that puts a clickable hide/show icon in the right hand side of the EditText that allows showing of the password.
+
+<img src="https://github.com/scottyab/showhidepasswordedittext/blob/master/docs/sample_screen_shot.png" width="320" />
+
+
+
+---

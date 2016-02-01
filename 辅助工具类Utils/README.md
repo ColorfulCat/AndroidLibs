@@ -149,3 +149,9 @@ GT（随身调）是APP的`随身调试`平台，它是直接运行在手机上�
 <img src="https://cloud.githubusercontent.com/assets/7868514/12535227/6b03940a-c2b7-11e5-91c7-c0c71d76295d.png" width="320" />
 
 ---
+
+**moshi**: https://github.com/square/moshi
+
+A modern JSON library for Android and Java.
+
+---
