@@ -148,7 +148,7 @@ App+是一个MD风格的用于传送、提取APK文件的开源工具软件。[h
 <img src="https://github.com/maoruibin/AppPlus/blob/master/art/setting.png" width="160" />
 <img src="https://github.com/maoruibin/AppPlus/blob/master/art/theme.png" width="160" />
 
---- 
+---
 
 **SimplifyReader**: [https://github.com/SkillCollege/SimplifyReader](https://github.com/SkillCollege/SimplifyReader)
 
@@ -338,7 +338,7 @@ Material Design Notes App
 
 <img src="http://www.jcodecraeer.com/uploads/150606/1-150606011411U9.png" width="320" />
 
---- 
+---
 
 **DoubanMovie-React-Native**:  https://github.com/fengjundev/DoubanMovie-React-Native
 
@@ -382,7 +382,7 @@ Material Design Notes App
 <img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/2.jpg" width="320" />
 <img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/3.jpg" width="320" />
 
---- 
+---
 
 **ZhuanLan**:  https://github.com/bxbxbai/ZhuanLan
 
@@ -393,7 +393,7 @@ Material Design Notes App
 <img src="https://camo.githubusercontent.com/acdb3d95fd2a0af4c3e1e30aa74872b3140d6387/687474703a2f2f69322e74696574756b752e636f6d2f366661396663306339633264653432382e706e67" width="320" />
 <img src="https://camo.githubusercontent.com/22c8d47c6b3851998af172bbeebea4ab6bd8b3c1/687474703a2f2f69322e74696574756b752e636f6d2f616365346361333230306164376130392e706e67" width="320" />
 
---- 
+---
 
 **Qiitanium**:  https://github.com/ogaclejapan/Qiitanium
 
@@ -401,13 +401,13 @@ Material Design Notes App
 
 <img src="https://raw.githubusercontent.com/ogaclejapan/Qiitanium/master/art/qiitanium.gif" width="320" />
 
---- 
+---
 
 **Launcher3**:  https://github.com/fookwood/Launcher3
 
  更改官方的Launcher3使得可以在Android Studio编译 http://www.fookwood.com/android
 
---- 
+---
 
 **Remindly**:  https://github.com/blanyal/Remindly
 
@@ -417,11 +417,11 @@ Material Design Notes App
 <img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot2.png" width="320" />
 <img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot3.png" width="320" />
 
---- 
+---
 
 **Leisure**:  https://github.com/MummyDing/Leisure
 
- Leisure is an Android App,it contains Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban 
+ Leisure is an Android App,it contains Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban
 
 <img src="https://github.com/MummyDing/Leisure/blob/master/ScreenShots/home.png" width="320" /> <img src="https://github.com/MummyDing/Leisure/blob/master/ScreenShots/science.png.png" width="320" />
 
@@ -475,7 +475,7 @@ AcDisplay is a new way of handling `notifications` in Android. http://acdisplay.
 
 **JNote**:  https://github.com/Jhuster/JNote
 
-一款支持部分Markdown语法的轻量级便签软件。 
+一款支持部分Markdown语法的轻量级便签软件。
 
 <img src="https://camo.githubusercontent.com/64ce94121986c97d46b86126b8bdfe7eeaa0321c/687474703a2f2f7777772e6a6875737465722e636f6d2f6170702f4a4e6f74652f686f6d652e706e67" width="320" />
 
@@ -483,7 +483,7 @@ AcDisplay is a new way of handling `notifications` in Android. http://acdisplay.
 
 **EWeightScale**:  https://github.com/Jhuster/EWeightScale
 
-一款可以记录和查询体重的应用 http://ticktick.blog.51cto.com/823160/1687127 
+一款可以记录和查询体重的应用 http://ticktick.blog.51cto.com/823160/1687127
 
 <img src="https://camo.githubusercontent.com/986d85bf34d63c5a9091ad63e68950f73ab865fe/687474703a2f2f7777772e6a6875737465722e636f6d2f6170702f455765696768745363616c652f686f6d652e706e67" width="320" />
 
@@ -524,5 +524,13 @@ CoCoin是一款记账APP，有记账、多种方式显示支出占比和支出�
 一个帮你成为顶尖开发者的APP http://www.growth.ren/
 
 <img src="https://github.com/phodal/growth/blob/master/www/img/help/start.jpg" width="320" />
+
+---
+
+**ZhihuDailyRRD**:  https://github.com/lsxiao/ZhihuDailyRRD
+
+知乎日报，created by RRD(Retrofit,RxJava,Dagger2).
+
+<img src="https://github.com/lsxiao/ZhihuDailyRRD/blob/master/screenshot/structure.png?raw=true" width="320" />
 
 ---
