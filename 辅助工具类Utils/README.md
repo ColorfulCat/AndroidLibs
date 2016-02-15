@@ -83,7 +83,7 @@ Debug and QA tool for android
 
 apk多渠道打包定制工具
 
-<img src="https://raw.githubusercontent.com/SSOOnline/ApkCustomizationTool/master/screenshot/a.png" width="480" /> 
+<img src="https://raw.githubusercontent.com/SSOOnline/ApkCustomizationTool/master/screenshot/a.png" width="480" />
 
 ---
 
@@ -153,5 +153,11 @@ GT（随身调）是APP的`随身调试`平台，它是直接运行在手机上�
 **moshi**: https://github.com/square/moshi
 
 A modern JSON library for Android and Java.
+
+---
+
+**LocationManager**: https://github.com/yayaa/LocationManager
+
+Simplify getting user's location for Android
 
 ---
