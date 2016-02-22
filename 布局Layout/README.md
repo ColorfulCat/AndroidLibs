@@ -638,3 +638,11 @@ A morphing toolbar that can expand/collapse at anytime
 <img src="https://github.com/badoualy/morphy-toolbar/blob/master/ART/gif1.gif" width="480" />
 
 ---
+
+**CRAudioVisualizationView**: https://github.com/Cleveroad/CRAudioVisualizationView
+
+Live Audio Equalizer with wave effect https://www.cleveroad.com
+
+<img src="https://github.com/Cleveroad/CRAudioVisualizationView/blob/master/images/demo.gif" width="320" />
+
+---
