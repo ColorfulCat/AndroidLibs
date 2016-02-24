@@ -130,4 +130,20 @@ a custom pull-to-refresh layout which contains a interesting animation
 <img src="https://github.com/taoliuh/CardSlidePanel/blob/branch/capture01.gif" width="320" />
 
 ---
+
+**SwipeCardView**: https://github.com/xiepeijie/SwipeCardView
+
+一个带渐变层叠动画的左右滑动效果（类似于探探左右刷脸）
+
+<img src="https://github.com/xiepeijie/SwipeCardView/blob/master/ezgif.com-1.gif" width="320" />
+
+---
+
+**TimelineView**: https://github.com/alorma/TimelineView
+
+Cute timeline view for android
+
+<img src="https://github.com/alorma/TimelineView/blob/master/screenshot.png" width="320" />
+
+---
  
