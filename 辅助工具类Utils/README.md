@@ -22,7 +22,7 @@ A easy way to use android sharepreference http://cocosw.com/Favor/
 
 jlog是一款针对Android开发者的日志工具
 
-<img src="https://camo.githubusercontent.com/753ce906b6ba7cff9d2d0c3e66c783139e934bfd/687474703a2f2f3778697a65382e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f6a6c6f675f73616d706c652e676966" width="480" />
+<img src="https://camo.githubusercontent.com/753ce906b6ba7cff9d2d0c3e66c783139e934bfd/687474703a2f2f3778697a65382e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f6a6c6f675f73616d706c652e676966" width="640" />
 
 ---
 
@@ -32,7 +32,7 @@ This is a useful log tool for Android
 
 Android LogCat 工具类，支持行号、所在函数、点击自动跳转、Json格式自定解析打印等功能。
 
-![KLog](https://github.com/ZhaoKaiQiang/KLog/blob/master/image/demo.gif)
+<img src="https://github.com/ZhaoKaiQiang/KLog/blob/master/image/demo.gif" width="640" />
 
 ---
 
