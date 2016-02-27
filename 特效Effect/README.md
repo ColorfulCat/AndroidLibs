@@ -130,4 +130,13 @@ Cute timeline view for android
 <img src="https://github.com/alorma/TimelineView/blob/master/screenshot.png" width="320" />
 
 ---
+
+**ViewPager3D**: https://github.com/renard314/ViewPager3D/tree/master/ViewPager3D
+
+Extension of Android ViewPager with a 3D swipe effect
+
+<img src="https://raw.githubusercontent.com/inovex/ViewPager3D/master/ViewPager3D/screenshot1.png" width="320" /> <img src="https://raw.githubusercontent.com/inovex/ViewPager3D/master/ViewPager3D/screenshot2.png" width="320" />
+
+
+---
  
