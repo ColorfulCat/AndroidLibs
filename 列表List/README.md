@@ -386,10 +386,26 @@ WaterDropListView，just like the iOS
 <img src="https://camo.githubusercontent.com/1a6566286ba2a8a69b20fc3433f264720a1b4a5e/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573685f776562766965772e676966" width="160" />
 <img src="https://camo.githubusercontent.com/3bf0a5b5dfa2b78d6a1e1654d9d2aa599ca8449d/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573686c61796f7574372e676966" width="160" />
 
---- 
+---
 
 **FastAdapter**: https://github.com/mikepenz/FastAdapter
 
 The bullet proof, fast and easy to use adapter library, which minimizes developing time when use RecyclerView... http://mikepenz.github.io/FastAdapter
+
+---
+
+**NestedTimeLineRecyclerView**: https://github.com/ishratkhan/NestedTimeLineRecyclerView
+
+It is a custom implementation of nested timeline view using RecyclerView
+
+<img src="https://imgur.com/IsuDF6g" width="320" />
+
+---
+
+**YLListView**: https://github.com/yll2wcf/YLListView
+
+YLListView仿IOS弹簧效果的ListView
+
+<img src="https://raw.githubusercontent.com/yll2wcf/YLListView/master/gif/1.gif" width="320" />
 
 ---
