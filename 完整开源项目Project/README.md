@@ -550,3 +550,19 @@ Mr. lock screen is a simple, cool lock screen software, the ability to provide c
 <img src="https://github.com/Rogero0o/ScreenLocker/blob/master/images/1.gif" width="320" />
 
 ---
+
+**WallpaperStore**:  https://github.com/zzhoujay/WallpaperStore
+
+完全使用Kotlin开发的一个壁纸应用
+
+<img src="https://github.com/zzhoujay/WallpaperStore/blob/master/image/image_1.jpg" width="320" /> <img src="https://github.com/zzhoujay/WallpaperStore/blob/master/image/image_2.jpg" width="320" />
+
+---
+
+**Douya**:  https://github.com/DreaminginCodeZH/Douya
+
+开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）
+
+<img src="https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/00-main.png" width="320" /> <img src="https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/01-immersive.jpg" width="320" />
+
+---

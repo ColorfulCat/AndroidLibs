@@ -115,10 +115,10 @@ Progressbar with whorl style
 
 ---
 
-**AnimProgressBar**:https://github.com/xrealm/AnimProgressBar
+**ColorArcProgressBar**: https://github.com/Shinelw/ColorArcProgressBar
 
-一个可以定制进度动画的ProgressBar https://github.com/Xrealm/AnimProgressBar
+This is beautiful color arc progress bar.
 
-<img src="https://github.com/Xrealm/AnimProgressBar/blob/master/screenshots/progressbar_screenshots.png" width="320" />
+<img src="https://raw.githubusercontent.com/Shinelw/ColorArcProgressBar/master/Demo.gif" width="320" />
 
 ---
