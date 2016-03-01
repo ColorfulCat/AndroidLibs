@@ -646,3 +646,11 @@ Live Audio Equalizer with wave effect https://www.cleveroad.com
 <img src="https://github.com/Cleveroad/CRAudioVisualizationView/blob/master/images/demo.gif" width="320" />
 
 ---
+
+**bubbles-for-android**: https://github.com/txusballesteros/bubbles-for-android
+
+Bubbles for Android is an Android library to provide chat heads capabilities on your apps. With a fast way to integrate with your development.
+
+<img src="https://github.com/txusballesteros/bubbles-for-android/blob/master/assets/bubbles_demo.gif" width="320" />
+
+---
