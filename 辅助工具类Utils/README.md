@@ -18,13 +18,21 @@ A easy way to use android sharepreference http://cocosw.com/Favor/
 
 ---
 
+**jlog**: https://github.com/JiongBull/jlog
+
+jlog是一款针对Android开发者的日志工具
+
+<img src="https://camo.githubusercontent.com/753ce906b6ba7cff9d2d0c3e66c783139e934bfd/687474703a2f2f3778697a65382e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f6a6c6f675f73616d706c652e676966" width="640" />
+
+---
+
 **KLog**: https://github.com/ZhaoKaiQiang/KLog
 
 This is a useful log tool for Android
 
 Android LogCat 工具类，支持行号、所在函数、点击自动跳转、Json格式自定解析打印等功能。
 
-![KLog](https://github.com/ZhaoKaiQiang/KLog/blob/master/image/demo.gif)
+<img src="https://github.com/ZhaoKaiQiang/KLog/blob/master/image/demo.gif" width="640" />
 
 ---
 
@@ -83,7 +91,7 @@ Debug and QA tool for android
 
 apk多渠道打包定制工具
 
-<img src="https://raw.githubusercontent.com/SSOOnline/ApkCustomizationTool/master/screenshot/a.png" width="480" /> 
+<img src="https://raw.githubusercontent.com/SSOOnline/ApkCustomizationTool/master/screenshot/a.png" width="480" />
 
 ---
 
@@ -93,7 +101,7 @@ less code, more efficient for android
 
 ---
 
-**LessCode**: https://github.com/l123456789jy/Lazy
+**Lazy**: https://github.com/l123456789jy/Lazy
 
 整理的常用的工具类，值得收藏
 
@@ -153,5 +161,31 @@ GT（随身调）是APP的`随身调试`平台，它是直接运行在手机上�
 **moshi**: https://github.com/square/moshi
 
 A modern JSON library for Android and Java.
+
+---
+
+**LocationManager**: https://github.com/yayaa/LocationManager
+
+Simplify getting user's location for Android
+
+---
+
+**MarsDaemon**: https://github.com/Marswin/MarsDaemon
+
+一个轻量级的库，配置几行代码，就可以实现在 android 上实现进程常驻，也就是在系统强杀下，以及 360 获取 root 权限下，clean master 获取 root 权限下都无法杀死进程
+
+---
+
+**RxBluetooth**: https://github.com/IvBaranov/RxBluetooth
+
+Android reactive bluetooth
+
+---
+
+**AndroidDevMetrics**: https://github.com/frogermcs/AndroidDevMetrics
+
+Performance metrics library for Android development (includes dagger2metrics)
+
+<img src="https://raw.githubusercontent.com/frogermcs/androiddevmetrics/master/art/activities_metrics.png" width="320" />
 
 ---
