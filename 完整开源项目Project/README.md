@@ -14,15 +14,6 @@
 
 ---
 
-**ComicReader**: [https://github.com/android-cjj/ComicReader](https://github.com/android-cjj/ComicReader)
-
-漫画阅读器 ComicReader
-
-<img src="https://camo.githubusercontent.com/e43d83c43fdbefe9a41582cf676c6d792df09d58/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530342f31342f30393136303165626f783975747a6d39663931316d632e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/e5851858c3e548a46604f950a38f6617d310cc63/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530342f31342f3039333135356f7275736d6477756a6d7661347576772e706e67" width="320" />
-
----
-
 **Meizhi**: [https://github.com/drakeet/Meizhi](https://github.com/drakeet/Meizhi)
 
 gank.io unofficial client, RxJava & Retrofit
@@ -34,7 +25,41 @@ gank.io unofficial client, RxJava & Retrofit
 <img src="https://github.com/drakeet/Meizhi/blob/master/screenshots/s8.png" width="160" />
 <img src="https://github.com/drakeet/Meizhi/blob/master/screenshots/s9.png" width="160" />
 
---- 
+---
+
+**RealStuff**: https://github.com/IvorHu/RealStuff
+
+一个看妹纸与开发资讯的Android APP，具有本地缓存、分享与添加收藏的功能，新手向大神学习的练手项目，来自代码家的API http://gank.io
+
+<img src="https://github.com/IvorHu/RealStuff/blob/master/screenshoots/Meizhi.PNG" width="320" /><img src="https://github.com/IvorHu/RealStuff/blob/master/screenshoots/collections.PNG" width="320" /><img src="https://github.com/IvorHu/RealStuff/blob/master/screenshoots/drawermenu.PNG" width="320" />
+
+---
+
+**GankDaily**: https://github.com/maoruibin/GankDaily
+
+每日提供技术干货的App
+
+<img src="https://github.com/maoruibin/GankDaily/blob/master/art/gank_introduce.png" width="480"/>
+
+---
+
+**ComicReader**: [https://github.com/android-cjj/ComicReader](https://github.com/android-cjj/ComicReader)
+
+漫画阅读器 ComicReader
+
+<img src="https://camo.githubusercontent.com/e43d83c43fdbefe9a41582cf676c6d792df09d58/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530342f31342f30393136303165626f783975747a6d39663931316d632e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/e5851858c3e548a46604f950a38f6617d310cc63/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530342f31342f3039333135356f7275736d6477756a6d7661347576772e706e67" width="320" />
+
+---
+
+**Joker**: [https://github.com/ColorfulCat/Joker](https://github.com/ColorfulCat/Joker)
+
+基于糗事百科接口数据的Android客户端，简单版的，有图文笑话，蹲厕所的时候可以看看 0 - 0 ~~(14年6月份写的，相对有点旧~)
+
+<img src="https://github.com/ColorfulCat/Joker/blob/master/img1.png" width="320" />
+<img src="https://github.com/ColorfulCat/Joker/blob/master/img2.png" width="320" />
+
+---
 
 **plaid**: [https://github.com/nickbutcher/plaid](https://github.com/nickbutcher/plaid)
 
@@ -555,84 +580,5 @@ Mr. lock screen is a simple, cool lock screen software, the ability to provide c
 开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）
 
 <img src="https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/00-main.png" width="320" /> <img src="https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/01-immersive.jpg" width="320" />
-
----
-
-**AndroidReview**:  https://github.com/envyfan/AndroidReview
-
-AndroidReview (Android面试复习)
-为了更好地准备面试Android开发这一职位，于是就到应用市场查找相关的复习App,结果发现只有寥寥无几的几款，而且很不好用，AndroidReview因此而诞生。
-
-<img src="https://github.com/envyfan/AndroidReview/blob/master/pic/pics.png?raw=true" width="320" />  
-
----
-
-**SeeWeather**:  https://github.com/xcc3641/SeeWeather
-
-RxJava+RxAndroid+Retrofit+Glide+Material Design Weather App:octocat:
-就看天气——是一款遵循Material Design风格的只看天气的APP。无流氓权限，无自启，xxx，用最少的权限做最优的体验。
-
-卡片展现（当前天气情况，未来几小时天气情况，生活建议，一周七天概况）
-补全城市（第一版本因为自己偷懒所以城市有缺陷对不起各位）
-自动定位
-缓存数据，减少网络请求，保证离线查看
-内置两套图标（设置里更改）
-彩蛋（自动夜间状态）
-
-
-<img src="https://camo.githubusercontent.com/e349ccaa7d587551751c3c1791312b8b992ec028/687474703a2f2f786363333634312e71696e6975646e2e636f6d2f6170702d2545352542302542312545372539432538422545352541342541392545362542302539342d2545372539392542442545352541342541392545362541382541312545352542432538462e706e67" width="640" />
-<img src="https://camo.githubusercontent.com/57ee8d72fa5ba4f6dcdbfd84b7bfb24d40bb72c8/687474703a2f2f786363333634312e71696e6975646e2e636f6d2f6170702d2545352542302542312545372539432538422545352541342541392545362542302539342d2545352541342539432545362539392539412545362541382541312545352542432538462e706e67" width="640" />   
-
----
-
-**kickmaterial**:  https://github.com/byoutline/kickmaterial
-
-Crowdfunding app concept for Android. Created to showcase new trends in Android development with strong focus on Material Design.
-
-<img src="https://github.com/byoutline/kickmaterial/blob/master/screenshots/1_small.png" width="320" /> 
-<img src="https://github.com/byoutline/kickmaterial/blob/master/screenshots/4_small.png" width="320" /> 
-<img src="https://github.com/byoutline/kickmaterial/blob/master/screenshots/project_anim.gif" width="640" /> 
-<img src="https://github.com/byoutline/kickmaterial/blob/master/screenshots/categories_anim.gif" width="640" /> 
-
----
-
-**Memo**:  https://github.com/yezhidong/Memo
-
-一款基于Google Material Design设计开发的Android密码管理客户端--怕死我的（PassWord）
-
-<img src="https://github.com/yezhidong/Memo/blob/master/screenshots/index.png" width="160" /> 
-<img src="https://github.com/yezhidong/Memo/blob/master/screenshots/nav.png" width="160" /> 
-<img src="https://github.com/yezhidong/Memo/blob/master/screenshots/add.png" width="160" /> 
-<img src="https://github.com/yezhidong/Memo/blob/master/screenshots/gesture.png" width="160" /> 
-
----
-
-**EasyGank**:  https://github.com/CaMnter/EasyGank
-
-The project build framework based on the Rx series and MVP pattern
-
-<img src="https://github.com/CaMnter/EasyGank/raw/master/screenshots/sss_1.png" width="160" /> 
-<img src="https://github.com/CaMnter/EasyGank/raw/master/screenshots/sss_2.png" width="160" /> 
-<img src="https://github.com/CaMnter/EasyGank/raw/master/screenshots/sss_3.png" width="160" /> 
-<img src="https://github.com/CaMnter/EasyGank/raw/master/screenshots/sss_6.gif" width="160" /> 
-
----
-
-**PhotoNoter**:  https://github.com/yydcdut/PhotoNoter
-
-Material Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载)
-
-<img src="https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/animation.gif" width="160" /> 
-<img src="https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/screen2.png" width="160" /> 
-<img src="https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/screen5.png" width="160" /> 
-<img src="https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/screen9.png" width="160" /> 
-
----
-
-**GankDaily**:  https://github.com/maoruibin/GankDaily
-
-A application used to show technical information in every working days, use MVP pattern. 
-
-<img src="https://github.com/maoruibin/GankDaily/blob/master/art/gank_introduce.png" width="640" /> 
 
 ---

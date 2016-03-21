@@ -4,15 +4,6 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
-
---- 
-
-**FloatViewFinal**：[https://github.com/pengjianbo/FloatViewFinal](https://github.com/pengjianbo/FloatViewFinal)
-
-泡椒游戏网悬浮控件 ，android4.4以下使用TYPE_TOAST不需要权限，4.4以上使用TYPE_PHONE需要SYSTEM_ALERT_WINDOW权限，兼容坑爹MIUI系统
-
-<img src="https://github.com/pengjianbo/FloatViewFinal/blob/master/images/screenshot0.png" width="320" />
-
 --- 
 
 **SlideSwitch**: [https://github.com/Leaking/SlideSwitch](https://github.com/Leaking/SlideSwitch)

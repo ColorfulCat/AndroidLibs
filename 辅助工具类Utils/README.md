@@ -101,7 +101,7 @@ less code, more efficient for android
 
 ---
 
-**LessCode**: https://github.com/l123456789jy/Lazy
+**Lazy**: https://github.com/l123456789jy/Lazy
 
 整理的常用的工具类，值得收藏
 
@@ -167,5 +167,25 @@ A modern JSON library for Android and Java.
 **LocationManager**: https://github.com/yayaa/LocationManager
 
 Simplify getting user's location for Android
+
+---
+
+**MarsDaemon**: https://github.com/Marswin/MarsDaemon
+
+一个轻量级的库，配置几行代码，就可以实现在 android 上实现进程常驻，也就是在系统强杀下，以及 360 获取 root 权限下，clean master 获取 root 权限下都无法杀死进程
+
+---
+
+**RxBluetooth**: https://github.com/IvBaranov/RxBluetooth
+
+Android reactive bluetooth
+
+---
+
+**AndroidDevMetrics**: https://github.com/frogermcs/AndroidDevMetrics
+
+Performance metrics library for Android development (includes dagger2metrics)
+
+<img src="https://raw.githubusercontent.com/frogermcs/androiddevmetrics/master/art/activities_metrics.png" width="320" />
 
 ---
