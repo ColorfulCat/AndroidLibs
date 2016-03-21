@@ -14,15 +14,6 @@
 
 ---
 
-**ComicReader**: [https://github.com/android-cjj/ComicReader](https://github.com/android-cjj/ComicReader)
-
-漫画阅读器 ComicReader
-
-<img src="https://camo.githubusercontent.com/e43d83c43fdbefe9a41582cf676c6d792df09d58/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530342f31342f30393136303165626f783975747a6d39663931316d632e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/e5851858c3e548a46604f950a38f6617d310cc63/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530342f31342f3039333135356f7275736d6477756a6d7661347576772e706e67" width="320" />
-
----
-
 **Meizhi**: [https://github.com/drakeet/Meizhi](https://github.com/drakeet/Meizhi)
 
 gank.io unofficial client, RxJava & Retrofit
@@ -33,6 +24,31 @@ gank.io unofficial client, RxJava & Retrofit
 <img src="https://github.com/drakeet/Meizhi/blob/master/screenshots/s5.png" width="160" />
 <img src="https://github.com/drakeet/Meizhi/blob/master/screenshots/s8.png" width="160" />
 <img src="https://github.com/drakeet/Meizhi/blob/master/screenshots/s9.png" width="160" />
+
+---
+
+**RealStuff**: https://github.com/IvorHu/RealStuff
+
+一个看妹纸与开发资讯的Android APP，具有本地缓存、分享与添加收藏的功能，新手向大神学习的练手项目，来自代码家的API http://gank.io
+
+<img src="https://github.com/IvorHu/RealStuff/blob/master/screenshoots/Meizhi.PNG" width="320" /><img src="https://github.com/IvorHu/RealStuff/blob/master/screenshoots/collections.PNG" width="320" /><img src="https://github.com/IvorHu/RealStuff/blob/master/screenshoots/drawermenu.PNG" width="320" />
+
+---
+
+**GankDaily**: https://github.com/maoruibin/GankDaily
+
+每日提供技术干货的App
+
+<img src="https://github.com/maoruibin/GankDaily/blob/master/art/gank_introduce.png" width="480"/>
+
+---
+
+**ComicReader**: [https://github.com/android-cjj/ComicReader](https://github.com/android-cjj/ComicReader)
+
+漫画阅读器 ComicReader
+
+<img src="https://camo.githubusercontent.com/e43d83c43fdbefe9a41582cf676c6d792df09d58/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530342f31342f30393136303165626f783975747a6d39663931316d632e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/e5851858c3e548a46604f950a38f6617d310cc63/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530342f31342f3039333135356f7275736d6477756a6d7661347576772e706e67" width="320" />
 
 ---
 

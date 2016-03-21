@@ -5,6 +5,23 @@
 
 ---
 
+**BottomBar**: https://github.com/roughike/BottomBar
+
+A custom view component that mimics the new Material Design Bottom Navigation pattern.
+
+<img src="https://github.com/roughike/BottomBar/blob/master/demo1.gif" width="320" /> <img src="https://github.com/roughike/BottomBar/blob/master/demo2.gif" width="320" />
+<img src="https://github.com/roughike/BottomBar/blob/master/scrolling_demo.gif" width="320" /> <img src="https://github.com/roughike/BottomBar/blob/master/tablet.png" width="320" /> 
+
+---
+
+**ahbottomnavigation**: https://github.com/aurelhubert/ahbottomnavigation
+
+A library to reproduce the behavior of the `Bottom Navigation guidelines` from Material Design.
+
+<img src="https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo1.gif" width="160" /> <img src="https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo2.gif" width="160" /> <img src="https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo3.gif" width="160" />
+
+---
+
 **Android-StepsView**: [https://github.com/anton46/Android-StepsView](https://github.com/anton46/Android-StepsView)
 
 Android-StepsView [http://anton46.com](http://anton46.com)

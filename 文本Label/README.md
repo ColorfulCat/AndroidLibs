@@ -26,6 +26,12 @@ Show/Hide Password EditText is a very simple extension of Android's EditText tha
 
 <img src="https://github.com/scottyab/showhidepasswordedittext/blob/master/docs/sample_screen_shot.png" width="320" />
 
+---
 
+**EasyCountDownTextureView**: https://github.com/CaMnter/EasyCountDownTextureView
+
+Easy count down by TextureView
+
+![TextureView](https://raw.githubusercontent.com/CaMnter/EasyCountDownTextureView/master/screenshot/textureview_1.gif)
 
 ---
