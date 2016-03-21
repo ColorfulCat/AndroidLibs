@@ -254,6 +254,17 @@ ListView with blur/parallax/sticky capabilities.
 
 ---
 
+**recyclerview-animators**: [https://github.com/wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
+
+An Android Animation library which easily add itemanimator to RecyclerView items.
+
+<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo.gif" width="320" />
+<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo2.gif" width="320" />
+<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo3.gif" width="320" />
+<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo5.gif" width="320" />
+
+---
+
 **RecyclerView-FlexibleDivider**: [https://github.com/yqritc/RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider)
 
 Android library providing simple way to control divider items of RecyclerView.

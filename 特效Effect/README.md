@@ -73,6 +73,14 @@ Override the Holo EdgeEffect colors.
 
 ---
 
+**ExplosionField**: [https://github.com/tyrantgit/ExplosionField](https://github.com/tyrantgit/ExplosionField)
+
+explosive dust effect for views
+
+<img src="https://github.com/tyrantgit/ExplosionField/blob/master/explosionfield.gif" width="320" />
+
+---
+
 **Motion**: [https://github.com/nvanbenschoten/motion](https://github.com/nvanbenschoten/motion)
 
 An Android library allowing images to exhibit a parallax effect that reacts to the device's tilt
@@ -96,6 +104,14 @@ Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Pre
 An Android library providing to realize wave loading effect
 
 <img src="https://github.com/tangqi92/WaveLoadingView/blob/master/screenshots/sample.gif" width="320" />
+
+---
+
+**CircleRefreshLayout**: https://github.com/tuesda/CircleRefreshLayout
+
+a custom pull-to-refresh layout which contains a interesting animation
+
+<img src="https://github.com/tuesda/CircleRefreshLayout/blob/master/gif/circlerefresh.gif" width="320" />
 
 ---
 
