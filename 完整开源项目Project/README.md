@@ -43,6 +43,14 @@ gank.io unofficial client, RxJava & Retrofit
 
 ---
 
+**GankMM**: https://github.com/maning0303/GankMM
+
+干货集中营提供的API，有美女福利图片，Android，IOS，前端，APP等资源。
+
+![](https://github.com/maning0303/GankMM/raw/master/screenshots/001.jpg) 
+
+---
+
 **ComicReader**: [https://github.com/android-cjj/ComicReader](https://github.com/android-cjj/ComicReader)
 
 漫画阅读器 ComicReader
