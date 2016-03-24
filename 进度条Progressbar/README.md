@@ -4,6 +4,16 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
+**ArcProgressStackView**: https://github.com/GIGAMOLE/ArcProgressStackView
+
+Present your progress bars in arc mode with information and total control.
+
+View size, CB controls     |Typeface, animation     |Draw width, offset, gradient   |Angle, orientation          |Shadow
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://lh3.googleusercontent.com/-5wahrBgdCTw/VuwHChXS3FI/AAAAAAAACNQ/eqpqhfnN5G0l3EnETDQ_I5qu4kqQYSysA/w327-h551-no/apsv_preview_size_cb.gif)|![](https://lh4.googleusercontent.com/-c6X1XyKY1go/VuwHCkNghpI/AAAAAAAACNQ/x_xtWAytFPkNrbuEDylIGKNR8mh1jW-rg/w323-h552-no/apsv_preview_typeface_animation.gif)|![](https://lh6.googleusercontent.com/-mz_x7ViHvpQ/VuwHCrwvy-I/AAAAAAAACNQ/vShu09gRxDYv1eekjOLDeSKoHMSluph3w/w325-h552-no/apsv_preview_offset.gif)|![](https://lh6.googleusercontent.com/-iuYi_G-OGrc/VuwHCgvlRNI/AAAAAAAACNQ/LNaGspht3gYsAMJfclfF9InQBzTamHj0Q/w325-h552-no/apsv_preview_angle.gif)|![](https://lh6.googleusercontent.com/-ifOq29FoVrE/VuwHCprAWrI/AAAAAAAACNQ/wLdEYiyV2kwd2rQDQf0QSMe-amHIbhogQ/w325-h552-no/apsv_preview_shadow.gif)
+
+---
+
 **MaterialProgressBar**: [https://github.com/DreaminginCodeZH/MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)
 
 Material design ProgressBar with consistent appearance

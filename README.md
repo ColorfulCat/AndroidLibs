@@ -1,6 +1,6 @@
 # AndroidLibs
 
-收集Android开发中优秀的开源组件库，方便大家查询，欢迎PR和star~
+收集Android开发中优秀的开源组件库，方便大家查询，欢迎 PR 和 star~
 
 ---
 
@@ -42,7 +42,7 @@ Please Pull Request~
 Contributors:
 
 - **大花猫(Owner)** ： [http://www.colorfulcat.xyz/](http://www.colorfulcat.xyz?from=androidlibs)
-- **jp1017** : http://jp1017.gitcafe.io/
+- **jp1017** : http://jp1017.github.io/
 
 ---
 

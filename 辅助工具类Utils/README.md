@@ -4,6 +4,22 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
+**apkReSign**: https://github.com/pengwei1024/apkReSign
+
+安卓一键重签名工具
+
+<img src="https://github.com/pengwei1024/apkReSign/blob/master/screenshots/screenshot01.png" width="320" />
+
+---
+
+**AndroidKeyboardWatcher**: https://github.com/AzimoLabs/AndroidKeyboardWatcher
+
+Software keyboard open/close watcher for Android
+
+<img src="https://raw.githubusercontent.com/AzimoLabs/AndroidKeyboardWatcher/master/art/keyboard_shown.png" width="320" />
+
+---
+
 **Treasure**: https://github.com/baoyongzhang/Treasure
 
 Very easy to use wrapper library for Android SharePreferences
