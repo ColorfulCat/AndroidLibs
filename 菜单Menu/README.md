@@ -6,6 +6,14 @@
 
 ---
 
+**BoomMenu**: https://github.com/Nightonke/BoomMenu
+
+A menu which can ... BOOM!
+
+![Circle](https://github.com/Nightonke/BoomMenu/blob/master/Pictures/show_circle.gif?raw=true) ![Ham](https://github.com/Nightonke/BoomMenu/blob/master/Pictures/show_ham.gif?raw=true)
+
+---
+
 **FabTransitionLayout**: [https://github.com/bowyer-app/FabTransitionLayout](https://github.com/bowyer-app/FabTransitionLayout)
 
 Provides the Floating Action Button Transition as specified in the Material Design Guide in a simple library.
