@@ -4,7 +4,15 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
---- 
+---
+
+**Genius-Android**: https://github.com/qiujuer/Genius-Android
+
+Android Material Design Theme UI and Tool Library. http://genius.qiujuer.net
+
+<img src="https://raw.githubusercontent.com/qiujuer/Genius-Android/master/caprice/release/pic_ui.png" width="480" />
+
+---
 
 **SlideSwitch**: [https://github.com/Leaking/SlideSwitch](https://github.com/Leaking/SlideSwitch)
 

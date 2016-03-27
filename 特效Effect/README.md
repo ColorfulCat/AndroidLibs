@@ -6,6 +6,14 @@
 
 ---
 
+**StatusBarUtil**: https://github.com/laobie/StatusBarUtil
+
+A util for setting status bar style on Android App. http://laobie.github.io/android/2016/03/27/statusbar-util.html
+
+<img src="https://github.com/laobie/StatusBarUtil/blob/master/img/set_color_for_drawer_layout.png" width="480" />
+
+---
+
 **ExplosionField**: [https://github.com/tyrantgit/ExplosionField](https://github.com/tyrantgit/ExplosionField)
 
 explosive dust effect for views
@@ -70,14 +78,6 @@ Android StackBlur is a library that can perform a blurry effect on a Bitmap base
 Override the Holo EdgeEffect colors.
 
 <img src="https://camo.githubusercontent.com/9fced7c0252e200e32cfc041f8ee8f7f9451e058/687474703a2f2f692e696d6775722e636f6d2f366435765637382e6a7067" width="640" />
-
----
-
-**ExplosionField**: [https://github.com/tyrantgit/ExplosionField](https://github.com/tyrantgit/ExplosionField)
-
-explosive dust effect for views
-
-<img src="https://github.com/tyrantgit/ExplosionField/blob/master/explosionfield.gif" width="320" />
 
 ---
 
