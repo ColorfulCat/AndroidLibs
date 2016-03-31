@@ -6,6 +6,14 @@
 
 ---
 
+**Android-SpinKit**: https://github.com/ybq/Android-SpinKit
+
+Android loading animations
+
+<img src="https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/screen.gif" width="320" />
+
+---
+
 **FAB-Loading**: [https://github.com/smasoumi/FAB-Loading](https://github.com/smasoumi/FAB-Loading)
 
 A loading animation based on Floating Action Button.
