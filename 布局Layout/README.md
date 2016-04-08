@@ -9,8 +9,8 @@
 
 A custom view component that mimics the new Material Design Bottom Navigation pattern.
 
-<img src="https://github.com/roughike/BottomBar/blob/master/demo1.gif" width="320" /> <img src="https://github.com/roughike/BottomBar/blob/master/demo2.gif" width="320" />
-<img src="https://github.com/roughike/BottomBar/blob/master/scrolling_demo.gif" width="320" /> <img src="https://github.com/roughike/BottomBar/blob/master/tablet.png" width="320" /> 
+<img src="https://github.com/roughike/BottomBar/blob/master/demo1.gif" width="320" /> <img src="https://github.com/roughike/BottomBar/blob/master/demo2.gif" width="320" /> <img src="https://github.com/roughike/BottomBar/blob/master/scrolling_demo.gif" width="320" /> 
+<img src="https://github.com/roughike/BottomBar/blob/master/tablet.png" width="640" /> 
 
 ---
 
@@ -18,7 +18,15 @@ A custom view component that mimics the new Material Design Bottom Navigation pa
 
 A library to reproduce the behavior of the `Bottom Navigation guidelines` from Material Design.
 
-<img src="https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo1.gif" width="160" /> <img src="https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo2.gif" width="160" /> <img src="https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo3.gif" width="160" />
+<img src="https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo1.gif" width="320" /> <img src="https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo2.gif" width="320" /> <img src="https://raw.githubusercontent.com/aurelhubert/ahbottomnavigation/master/demo3.gif" width="320" />
+
+---
+
+**NavigationTabBar**: https://github.com/DevLight-Mobile-Agency/NavigationTabBar
+
+Navigation tab bar with colorful interactions.
+
+<img src="https://camo.githubusercontent.com/eec5a364f658c57cb9ec65ea9b3a26e9c9c66b46/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f2d33524b71682d4d717571412f56774c5778484b76326a492f41414141414141414351672f576a6d57394f7261766a49417a696e4c564658456469744e4e34444666527436412f773332322d683535322d6e6f2f7474626e74622e676966" width="320" /> <img src="https://camo.githubusercontent.com/5e33a49760066acf1373a9134c4e354a15b723f3/68747470733a2f2f6c68342e676f6f676c6575736572636f6e74656e742e636f6d2f2d687858484b47347a4d4f552f56774c57784464687851492f41414141414141414351672f674572666f647a5a6c70494e466d6c576c6c7675467336646c526e705f724739772f773332322d683535312d6e6f2f74626e74622e676966" width="320" />
 
 ---
 
