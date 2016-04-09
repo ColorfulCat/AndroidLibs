@@ -814,6 +814,17 @@ A TagView library for Android. Customize your own & `Drag` effect.
 
 ---
 
+**SwipeableCard**: https://github.com/michelelacorte/SwipeableCard
+
+A simple implementation of swipe card like StreetView!!
+
+<img src="http://i.giphy.com/3ornjQLD95Osp4qlm8.gif" width="320" />
+<img src="http://i.giphy.com/26FPDYox55jE0UBVu.gif" width="320" />
+<img src="http://i.giphy.com/3o8doUXxjOCwHw2GEo.gif" width="320" />
+<img src="http://i.giphy.com/3o8doQxv28CVTGdM6Q.gif" width="320" />
+
+---
+
 
 
 
