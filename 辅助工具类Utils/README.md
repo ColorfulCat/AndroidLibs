@@ -4,6 +4,14 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
+**BGAQRCode-Android**: https://github.com/bingoogolapple/BGAQRCode-Android
+
+Android QRCode Library
+
+<img src="https://camo.githubusercontent.com/0f5a59e7eb6809567c6e7ee1baffe9257625e066/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f7a6261723130332e676966" width="320" /> <img src="https://camo.githubusercontent.com/592a5ae13ae4c01c298b68d27f179a23843d398a/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f7a78696e673130332e676966" width="320" />
+
+---
+
 **apkReSign**: https://github.com/pengwei1024/apkReSign
 
 安卓一键重签名工具
