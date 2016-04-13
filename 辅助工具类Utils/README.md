@@ -4,6 +4,22 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
+**redex**: https://github.com/facebook/redex
+
+facebook 出品的 apk 包优化工具
+
+[Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
+
+---
+
+**Bugtags-Android**: https://github.com/bugtags/Bugtags-Android
+
+Simple and effective bug & crash reporting tool for Android apps http://bugtags.com/
+
+<img src="https://github.com/bugtags/Bugtags-Android/blob/master/screenshot/usage.gif" width="320" />
+
+---
+
 **BGAQRCode-Android**: https://github.com/bingoogolapple/BGAQRCode-Android
 
 Android QRCode Library
