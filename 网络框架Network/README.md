@@ -6,6 +6,40 @@
 
 ---
 
+**RestVolley**: https://github.com/HujiangTechnology/RestVolley
+
+A Http request framework based on Volley and OkHttp that supports rest api requesting, image loading, downloading, uploading etc.
+
+---
+
+**httpie**: https://github.com/jkbrzt/httpie
+
+CLI HTTP client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. http://httpie.org
+
+<img src="https://raw.githubusercontent.com/jkbrzt/httpie/master/httpie.png" width="320" />
+
+---
+
+**LiteHttpPrj**: https://github.com/hyongbai/LiteHttpPrj
+
+A lite android http library
+
+---
+
+**XDroidRequest**: https://github.com/robinxdroid/XDroidRequest
+
+一款Android 网络请求框架
+
+<img src="https://raw.githubusercontent.com/robinxdroid/XDroidRequest/master/1.jpg" width="320" /> <img src="https://raw.githubusercontent.com/robinxdroid/XDroidRequest/master/2.jpg" width="320" />
+
+---
+
+**AndroidSocketClient**: https://github.com/vilyever/AndroidSocketClient
+
+一个封装好的 android socket 网络请求库
+
+---
+
 **okhttp**: [https://github.com/square/okhttp](https://github.com/square/okhttp)
 
 An HTTP+SPDY client for Android and Java applications.
