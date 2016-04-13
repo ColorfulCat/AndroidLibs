@@ -60,7 +60,15 @@ gank.io unofficial client, RxJava & Retrofit
 
 ---
 
-**Joker**: [https://github.com/ColorfulCat/Joker](https://github.com/ColorfulCat/Joker)
+**AndroidTVLauncher**: https://github.com/JackyAndroid/AndroidTVLauncher
+
+This is a better android-tv-launcher,it can running on the tv box.Build with gradle.
+
+<img src="https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/img/setting.png" width = "400" height = "225" alt="logo" align=center />  <img src="https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/img/%E5%BA%94%E7%94%A8%E5%8D%B8%E8%BD%BD.jpg" width = "400" height = "225" alt="logo" align=center />
+
+---
+
+**Joker**: https://github.com/ColorfulCat/Joker
 
 基于糗事百科接口数据的Android客户端，简单版的，有图文笑话，蹲厕所的时候可以看看 0 - 0 ~~(14年6月份写的，相对有点旧~)
 
