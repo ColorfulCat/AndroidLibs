@@ -10,16 +10,6 @@ facebook 出品的 apk 包优化工具
 
 [Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
 
----s
-
-**ActivityRouter**: https://github.com/mzule/ActivityRouter
-
-Router activities.
-
-<img src="https://raw.githubusercontent.com/mzule/ActivityRouter/master/gif/router.gif" width="320" /> <img src="https://raw.githubusercontent.com/mzule/ActivityRouter/master/gif/http.gif" width="320" />
-
----
-
 **ActivityRouter**: https://github.com/mzule/ActivityRouter
 
 Router activities.
