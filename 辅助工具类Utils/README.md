@@ -12,6 +12,14 @@ facebook 出品的 apk 包优化工具
 
 ---
 
+**ActivityRouter**: https://github.com/mzule/ActivityRouter
+
+Router activities.
+
+<img src="https://raw.githubusercontent.com/mzule/ActivityRouter/master/gif/router.gif" width="320" /> <img src="https://raw.githubusercontent.com/mzule/ActivityRouter/master/gif/http.gif" width="320" />
+
+---
+
 **Bugtags-Android**: https://github.com/bugtags/Bugtags-Android
 
 Simple and effective bug & crash reporting tool for Android apps http://bugtags.com/
