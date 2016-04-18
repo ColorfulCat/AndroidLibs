@@ -139,7 +139,7 @@ Debug and QA tool for android
 
 apk多渠道打包定制工具
 
-<img src="https://raw.githubusercontent.com/SSOOnline/ApkCustomizationTool/master/screenshot/a.png" width="480" />
+<img src="https://raw.githubusercontent.com/SSOOnline/ApkCustomizationTool/master/screenshot/2.png" width="480" />
 
 ---
 
