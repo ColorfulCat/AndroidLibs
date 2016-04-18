@@ -10,7 +10,7 @@ facebook 出品的 apk 包优化工具
 
 [Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
 
----
+---s
 
 **ActivityRouter**: https://github.com/mzule/ActivityRouter
 
@@ -88,7 +88,7 @@ Android LogCat 工具类，支持行号、所在函数、点击自动跳转、Js
 
 Simple, pretty and powerful logger for android
 
-<img src="https://github.com/orhanobut/logger/blob/master/images/custom-tag.png" width="320" />
+<img src="https://github.com/orhanobut/logger/blob/master/images/custom-tag.png" width="480" />
 
 ---
 
@@ -123,7 +123,7 @@ Android library that allows launching a custom activity when your app crashes, i
 
 This library allows launching a custom activity when the app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
 
-<img src="https://github.com/Ereza/CustomActivityOnCrash/blob/master/images/frontpage.png" width="320" />
+<img src="https://github.com/Ereza/CustomActivityOnCrash/blob/master/images/frontpage.png" width="640" />
 
 ---
 
@@ -234,6 +234,6 @@ Android reactive bluetooth
 
 Performance metrics library for Android development (includes dagger2metrics)
 
-<img src="https://raw.githubusercontent.com/frogermcs/androiddevmetrics/master/art/activities_metrics.png" width="320" />
+<img src="https://raw.githubusercontent.com/frogermcs/androiddevmetrics/master/art/activities_metrics.png" width="480" />
 
 ---
