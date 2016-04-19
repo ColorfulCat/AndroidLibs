@@ -14,6 +14,14 @@ View size, CB controls     |Typeface, animation     |Draw width, offset, gradien
 
 ---
 
+**AnimateHorizontalProgressBar**: https://github.com/MasayukiSuda/AnimateHorizontalProgressBar
+
+A tiny customView makes very easier ProgressBar anitmation horizontal
+
+<img src="https://github.com/MasayukiSuda/AnimateHorizontalProgressBar/blob/master/art/ahp.gif" width="640" />
+
+---
+
 **MaterialProgressBar**: [https://github.com/DreaminginCodeZH/MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)
 
 Material design ProgressBar with consistent appearance
