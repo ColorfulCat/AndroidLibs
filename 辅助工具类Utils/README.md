@@ -64,6 +64,14 @@ A easy way to use android sharepreference http://cocosw.com/Favor/
 
 ---
 
+**LogcatViewer**: https://github.com/fatangare/LogcatViewer
+
+可在手机上查看 `logcat`
+
+<img src="https://github.com/fatangare/LogcatViewer/blob/master/Images/mainview.png" width="240" /> <img src="https://github.com/fatangare/LogcatViewer/blob/master/Images/filter.png" width="320" /> <img
+
+---
+
 **jlog**: https://github.com/JiongBull/jlog
 
 jlog是一款针对Android开发者的日志工具
