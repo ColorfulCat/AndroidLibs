@@ -6,9 +6,17 @@
 
 ---
 
-**material-dialogs**: [https://github.com/afollestad/material-dialogs](https://github.com/afollestad/material-dialogs)
+**LovelyDialog**: https://github.com/yarolegovich/LovelyDialog
 
-A beautiful, easy-to-use, and customizable dialogs API, enabling you to use Material designed dialogs down to API 8.[http://aidanfollestad.com](http://aidanfollestad.com)
+This library is a set of simple wrapper classes that are aimed to help you easily create fancy material dialogs
+
+<img src="https://raw.githubusercontent.com/yarolegovich/lovelydialog/master/art/lovelydialogs_framed.png" width="640" />
+
+---
+
+**material-dialogs**: https://github.com/afollestad/material-dialogs
+
+A beautiful dialogs API, enabling you to use Material designed dialogs down to API 8.http://aidanfollestad.com
 
 <img src="https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/mddemoshowcase.png" width="640" />
 
