@@ -50,6 +50,7 @@ Contributors:
 Thanks to :
 
 - http://gank.io/
+- https://android-arsenal.com/
 - http://www.23code.com/
 - https://github.com/wasabeef/awesome-android-ui
 - http://www.jcodecraeer.com/
