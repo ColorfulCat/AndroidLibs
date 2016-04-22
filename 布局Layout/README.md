@@ -5,6 +5,14 @@
 
 ---
 
+**MaterialSearchView**: https://github.com/Mauker1/MaterialSearchView
+
+Android Search View based on Material design guidelines
+
+<img src="https://camo.githubusercontent.com/6676f599bcaac6b35b57a4c9729c52725b32d4c5/687474703a2f2f692e737461636b2e696d6775722e636f6d2f43354c41342e676966" width="320" />
+
+---
+
 **BottomBar**: https://github.com/roughike/BottomBar
 
 A custom view component that mimics the new Material Design Bottom Navigation pattern.
