@@ -34,6 +34,20 @@ Android QRCode Library
 
 ---
 
+**gradle-android-javadocs**: https://github.com/Commit451/gradle-android-javadocs
+
+Helper to generate Javadocs within a Gradle Android library
+
+---
+
+**Ask**: https://github.com/00ec454/Ask
+
+Android runtime permission make easy
+
+<img src="https://github.com/00ec454/Ask/blob/master/asset/permission_1.png" width="320" /> <img src="https://github.com/00ec454/Ask/blob/master/asset/rationale.png" width="320" />
+
+---
+
 **apkReSign**: https://github.com/pengwei1024/apkReSign
 
 安卓一键重签名工具
