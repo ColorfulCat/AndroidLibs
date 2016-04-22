@@ -57,3 +57,11 @@ Android library to create charts.
 <img src="https://github.com/diogobernardino/WilliamChart/blob/master/art/demo2.gif" width="320" />
 
 ---
+
+**spark**: https://github.com/robinhood/spark
+
+A simple Android sparkline chart view
+
+<img src="https://github.com/robinhood/spark/blob/master/images/sample.png" width="480" />
+
+---
