@@ -4,6 +4,14 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
+**ReadMoreTextView**: https://github.com/borjabravo10/ReadMoreTextView
+
+A Custom TextView with trim text
+
+<img src="https://github.com/borjabravo10/ReadMoreTextView/blob/master/screenshots/expanded.png" width="320" /> <img src="https://github.com/borjabravo10/ReadMoreTextView/blob/master/screenshots/collapsed.png" width="320" />
+
+---
+
 **AnimTextView**: https://github.com/z56402344/AnimTextView
 
 一个textView的动画
