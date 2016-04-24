@@ -4,11 +4,123 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
+**LicenseTextView**: https://github.com/jgabrielfreitas/LicenseTextView
+
+Easy License View for Android
+
+<img src="https://raw.githubusercontent.com/jgabrielfreitas/LicenseTextView/master/img/license_print.jpg" width="320" />
+
+---
+
+**Shimmer-android**: https://github.com/RomainPiel/Shimmer-android
+
+An Android TextView with a shimmering effect
+
+<img src="https://raw.githubusercontent.com/RomainPiel/Shimmer-android/master/shimmer.gif" width="480" />
+
+---
+
+**shimmer-android**: https://github.com/facebook/shimmer-android
+
+An easy, flexible way to add a shimmering effect to any view in an Android app
+
+<img src="https://github.com/facebook/shimmer-android/blob/master/shimmer.gif?raw=true" width="480" />
+
+---
+
+**Titanic**: https://github.com/RomainPiel/Titanic
+
+Android experiment showing a sinking TextView
+
+<img src="https://github.com/RomainPiel/Titanic/blob/master/titanic.gif" width="320" />
+
+---
+
+**MatchView**: https://github.com/Rogero0o/MatchView
+
+Include MatchTextView and MatchButton..Come..you will like it
+
+<img src="https://camo.githubusercontent.com/a71e9d26a7f90ea70270b3681d99785a29f83be5/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f6136393561636465677731656d79746e6b347334356732306567306d6b3439302e676966" width="320" />
+
+---
+
+**android-autofittextview**: https://github.com/grantland/android-autofittextview
+
+A TextView that automatically resizes text to fit perfectly within its bounds
+
+<img src="https://github.com/grantland/android-autofittextview/blob/master/website/static/autofittextview.gif?raw=true" width="480" />
+
+---
+
+**SecretTextView**: https://github.com/matthewrkula/SecretTextView
+
+A TextView that simulates the effect from the app Secret where the characters fade in/out at different speeds
+
+<img src="https://camo.githubusercontent.com/bbb38412d3ae652f565556711e7aa6db67ebb4c7/68747470733a2f2f692e696d67666c69702e636f6d2f39356d39312e676966" width="200" />
+
+---
+
+**TextJustify-Android**: https://github.com/bluejamesbond/TextJustify-Android
+
+Android Text Full Jusiftication / Wrapping / Justify / Hyphenate - V2.0
+
+<img src="https://camo.githubusercontent.com/061a4a460340c26422b2a2f43d7fe39e73246297/687474703a2f2f692e696d6775722e636f6d2f6b3662415764302e6a7067" width="480" />
+
+---
+
+**RoundedLetterView**: https://github.com/pavlospt/RoundedLetterView
+
+RoundedLetterView like the one in Android 5.0 Contacts app
+
+<img src="https://github.com/pavlospt/RoundedLetterView/blob/master/Screenshots/device-2014-11-13-191000.png" width="320" />
+
+---
+
+**TextDrawable**: https://github.com/amulyakhare/TextDrawable
+
+This light-weight library provides images with letter/text like the Gmail app
+
+<img src="https://github.com/amulyakhare/TextDrawable/blob/master/screens/screen1-material.png" width="320" /> <img src="https://github.com/amulyakhare/TextDrawable/blob/master/screens/screen2-material.png" width="320" />
+
+---
+
+**BabushkaText**: https://github.com/quiqueqs/BabushkaText
+
+A simpler way to style your TextViews
+
+<img src="https://github.com/quiqueqs/BabushkaText/blob/master/images/example.png" width="320" />
+
+---
+
+**material-code-input**: https://github.com/glomadrian/material-code-input
+
+A material style input for codes
+
+<img src="https://github.com/glomadrian/material-code-input/blob/master/art/codeInput1.gif" width="320" /> <img src="https://github.com/glomadrian/material-code-input/blob/master/art/codeInput2.gif" width="240" />
+
+---
+
+**ExpandableTextView**: https://github.com/Manabu-GT/ExpandableTextView
+
+Android's TextView that can expand/collapse like the Google Play's app description
+
+<img src="https://github.com/Manabu-GT/ExpandableTextView/blob/master/art/readme_demo.gif?raw=true" width="320" />
+
+---
+
 **ReadMoreTextView**: https://github.com/borjabravo10/ReadMoreTextView
 
 A Custom TextView with trim text
 
 <img src="https://github.com/borjabravo10/ReadMoreTextView/blob/master/screenshots/expanded.png" width="320" /> <img src="https://github.com/borjabravo10/ReadMoreTextView/blob/master/screenshots/collapsed.png" width="320" />
+
+---
+
+**ParkedTextView**: https://github.com/gotokatsuya/ParkedTextView
+
+A editable text with a constant text/placeholder for Android
+
+<img src="https://github.com/gotokatsuya/ParkedTextView/blob/master/doc/demo-gif.gif" width="320" />
 
 ---
 
