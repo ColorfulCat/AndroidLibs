@@ -155,3 +155,27 @@ Easy count down by TextureView
 ![TextureView](https://raw.githubusercontent.com/CaMnter/EasyCountDownTextureView/master/screenshot/textureview_1.gif)
 
 ---
+
+**TextSurface**: https://github.com/elevenetc/TextSurface
+
+A little animation framework which could help you to show message in a nice looking way
+
+<img src="https://github.com/elevenetc/TextSurface/blob/master/docs/demo.gif" width="480" />
+
+---
+
+**RichTextView**: https://github.com/androidessence/RichTextView
+
+A library that enhances the TextView and allows the user to format various spans of the string
+
+<img src="https://camo.githubusercontent.com/60fbf17a28013bcb7e5c1b925a5c2713e74a44e5/687474703a2f2f692e696d6775722e636f6d2f6d6e666b4d62772e706e67" width="320" />
+
+---
+
+**EmailAutoCompleteTextView**: https://github.com/tasomaniac/EmailAutoCompleteTextView
+
+An AutoCompleteTextView with builtin Adapter with the emails in the device
+
+<img src="https://github.com/tasomaniac/EmailAutoCompleteTextView/blob/master/demo.gif" width="320" />
+
+---
