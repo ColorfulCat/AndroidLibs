@@ -10,6 +10,9 @@ facebook 出品的 apk 包优化工具
 
 [Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
 
+<<<<<<< HEAD
+---s
+=======
 **enjarify**: https://github.com/google/enjarify
 
 Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode
@@ -21,6 +24,7 @@ Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode
 A framework for hook java methods
 
 ---
+>>>>>>> 4b13b1ccb0e367dc796cce62587a550cad782852
 
 **ActivityRouter**: https://github.com/mzule/ActivityRouter
 

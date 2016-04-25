@@ -6,6 +6,14 @@
 
 ---
 
+**EasyForm**: https://github.com/emmasuzuki/EasyForm
+
+EasyForm makes a form creation and field validation easy
+
+<img src="https://raw.githubusercontent.com/emmasuzuki/EasyForm/master/demo1.gif" width="320" /> <img src="https://raw.githubusercontent.com/emmasuzuki/EasyForm/master/demo2.gif" width="320" /> 
+
+---
+
 **EazeGraph**: [https://github.com/blackfizz/EazeGraph](https://github.com/blackfizz/EazeGraph)
 
 An Android chart and graph library
