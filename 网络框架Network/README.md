@@ -40,9 +40,15 @@ A lite android http library
 
 ---
 
-**okhttp**: [https://github.com/square/okhttp](https://github.com/square/okhttp)
+**okhttp**: https://github.com/square/okhttp
 
 An HTTP+SPDY client for Android and Java applications.
+
+---
+
+**retrofit1-okhttp3-client**: https://github.com/JakeWharton/retrofit1-okhttp3-client
+
+A OkHttp 3 client implementation for Retrofit 1
 
 ---
 
@@ -58,13 +64,13 @@ OkHttp封装，支持GET、POST、UI线程回调、JSON格式解析、链式调�
 
 ---
 
-**android-async-http**: [https://github.com/loopj/android-async-http](https://github.com/loopj/android-async-http)
+**android-async-http**: https://github.com/loopj/android-async-http
 
 An Asynchronous HTTP Library for Android
 
 ---
 
-**retrofit**: [https://github.com/square/retrofit](https://github.com/square/retrofit)
+**retrofit**: https://github.com/square/retrofit
 
 Type-safe HTTP client for Android and Java by Square, Inc. 
 
