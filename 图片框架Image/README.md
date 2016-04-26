@@ -45,7 +45,15 @@ Android ImageView that handles animated GIF images
 
 ---
 
-**cropper**: [https://github.com/edmodo/cropper](https://github.com/edmodo/cropper)
+**Android-Image-Cropper**: https://github.com/ArthurHub/Android-Image-Cropper
+
+Image Cropping Library for Android, optimized for Camera / Gallery
+
+<img src="https://github.com/ArthurHub/Android-Image-Cropper/blob/master/art/zoom%20sample.gif?raw=true" width="320" />
+
+---
+
+**cropper**: https://github.com/edmodo/cropper
 
 Android widget for cropping and rotating an image.
 
@@ -53,7 +61,7 @@ Android widget for cropping and rotating an image.
 
 ---
 
-**android-crop**: [https://github.com/jdamcd/android-crop](https://github.com/jdamcd/android-crop)
+**android-crop**: https://github.com/jdamcd/android-crop
 
 Android library project for cropping images
 
