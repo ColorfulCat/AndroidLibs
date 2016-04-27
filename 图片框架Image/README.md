@@ -6,6 +6,14 @@
 
 --- 
 
+**image-zoom**: https://github.com/oliveiradev/image-zoom
+
+A simple lib for zoom images on event click
+
+<img src="https://github.com/oliveiradev/image-zoom/blob/master/art/12ynog.gif" width="320" />
+
+---
+
 **TouchImageView**: [https://github.com/MikeOrtiz/TouchImageView](https://github.com/MikeOrtiz/TouchImageView)
 
 Adds touch functionality to Android ImageView.
