@@ -46,6 +46,14 @@ More powerful than LinearLayout and RelativeLayout which use java expression in 
 
 ---
 
+**MapView**: https://github.com/onlylemi/MapView
+
+A MapView on Android platform
+
+<img src="https://raw.githubusercontent.com/onlylemi/notes/master/images/android_mapview_2.gif" width="320" /> <img src="https://raw.githubusercontent.com/onlylemi/notes/master/images/android_mapview_3.gif" width="320" />
+
+---
+
 **Android-StepsView**: [https://github.com/anton46/Android-StepsView](https://github.com/anton46/Android-StepsView)
 
 Android-StepsView [http://anton46.com](http://anton46.com)
@@ -140,6 +148,14 @@ Navigation Drawer Activity with material design style and simplified methods.
 A wave view of android,can be used as progress bar.
 
 <img src="https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966" width="320" />
+
+---
+
+**CursorWheelLayout**: https://github.com/BCsl/CursorWheelLayout
+
+An Android Widget for selecting items that rotate on a wheel
+
+<img src="https://github.com/BCsl/CursorWheelLayout/blob/master/screenshot/gif2.gif" width="320" /> <img src="https://github.com/BCsl/CursorWheelLayout/blob/master/screenshot/gif3.gif" width="320" />
 
 ---
 

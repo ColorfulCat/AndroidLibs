@@ -10,9 +10,6 @@ facebook 出品的 apk 包优化工具
 
 [Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
 
-<<<<<<< HEAD
----s
-=======
 **enjarify**: https://github.com/google/enjarify
 
 Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode
@@ -22,9 +19,6 @@ Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode
 **legend**: https://github.com/asLody/legend
 
 A framework for hook java methods
-
----
->>>>>>> 4b13b1ccb0e367dc796cce62587a550cad782852
 
 **ActivityRouter**: https://github.com/mzule/ActivityRouter
 
@@ -42,11 +36,19 @@ Simple and effective bug & crash reporting tool for Android apps http://bugtags.
 
 ---
 
+**zxing-barcode**: https://github.com/ThePacific/zxing-barcode
+
+A barcode scanner based on zxing for android
+
+<img src="https://github.com/ThePacific/Zxing-Barcode/blob/master/gif/example.gif" width="320" />
+
+---
+
 **BGAQRCode-Android**: https://github.com/bingoogolapple/BGAQRCode-Android
 
 Android QRCode Library
 
-<img src="https://camo.githubusercontent.com/0f5a59e7eb6809567c6e7ee1baffe9257625e066/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f7a6261723130332e676966" width="320" /> <img src="https://camo.githubusercontent.com/592a5ae13ae4c01c298b68d27f179a23843d398a/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f7a78696e673130332e676966" width="320" />
+<img src="https://camo.githubusercontent.com/9925f6660c608bc6b25bbeb623d0184d5dca6968/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f7a78696e673130362e676966" width="320" /> <img src="https://camo.githubusercontent.com/592a5ae13ae4c01c298b68d27f179a23843d398a/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f7a78696e673130332e676966" width="320" />
 
 ---
 
@@ -149,7 +151,7 @@ Shelly.share(context)
 
 Screaming fast JSON parsing and serialization library for Android.
 
-![LoganSquare](https://github.com/bluelinelabs/LoganSquare/blob/master/docs/benchmarks.jpg)
+<img src="https://github.com/bluelinelabs/LoganSquare/blob/master/docs/benchmarks.jpg" width="640" />
 
 ---
 
