@@ -5,6 +5,14 @@
 
 ---
 
+**android-widget-ticktock**: https://github.com/BCGDV-ASIA/android-widget-ticktock
+
+Count down, count up, tick... tock...
+
+<img src="https://camo.githubusercontent.com/a99213ab9cbd3056b71b34d551d984ed422a438c/687474703a2f2f692e67697068792e636f6d2f50647835314a426635663930412e676966" width="320" />
+
+---
+
 **MaterialSearchView**: https://github.com/Mauker1/MaterialSearchView
 
 Android Search View based on Material design guidelines

@@ -14,9 +14,17 @@ A menu which can ... BOOM!
 
 ---
 
-**FabTransitionLayout**: [https://github.com/bowyer-app/FabTransitionLayout](https://github.com/bowyer-app/FabTransitionLayout)
+**android-widget-fanmenu**: https://github.com/BCGDV-ASIA/android-widget-fanmenu
 
-Provides the Floating Action Button Transition as specified in the Material Design Guide in a simple library.
+A simple widget that can be used to display menu's which can be animated in and out
+
+<img src="https://camo.githubusercontent.com/bab8d4d1061dca2957e0ad34b027faa7c5f76951/687474703a2f2f692e67697068792e636f6d2f6c3044454b484e7166777743546d5338552e676966" width="320" />
+
+---
+
+**FabTransitionLayout**: https://github.com/bowyer-app/FabTransitionLayout
+
+Provides the Floating Action Button Transition as specified in the Material Design Guide in a simple library
 
 <img src="https://github.com/bowyer-app/FabTransitionLayout/blob/master/art/bottomsheet.gif" width="320" />
 <img src="hhttps://github.com/bowyer-app/FabTransitionLayout/blob/master/art/toolbar.gif" width="320" />
