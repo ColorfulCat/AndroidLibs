@@ -6,6 +6,14 @@
 
 ---
 
+**SwipeAwayDialog**: https://github.com/kakajika/SwipeAwayDialog
+
+DialogFragment swipeable away like Tinder UI
+
+<img src="https://raw.githubusercontent.com/wiki/kakajika/SwipeAwayDialog/images/octocats.gif" width="320" /> <img src="https://raw.githubusercontent.com/wiki/kakajika/SwipeAwayDialog/images/dialogs.gif" width="320" />
+
+---
+
 **LovelyDialog**: https://github.com/yarolegovich/LovelyDialog
 
 This library is a set of simple wrapper classes that are aimed to help you easily create fancy material dialogs

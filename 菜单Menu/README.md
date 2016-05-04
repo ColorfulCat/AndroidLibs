@@ -31,6 +31,15 @@ Provides the Floating Action Button Transition as specified in the Material Desi
 
 ---
 
+**FloatMenuSample**: https://github.com/fanOfDemo/FloatMenuSample
+
+android 悬浮窗菜单，可在launcher或app中使用
+
+<img src="https://github.com/fanOfDemo/FloatMenuSample/blob/master/pickture/201605031543.gif" width="320" />
+<img src="https://github.com/fanOfDemo/FloatMenuSample/blob/master/pickture/201605041543.gif" width="320" />
+
+---
+
 **FABToolbar**: [https://github.com/fafaldo/FABToolbar](https://github.com/fafaldo/FABToolbar)
 
 An implementation of Google design, with Floating Action Button transforming into toolbar.
