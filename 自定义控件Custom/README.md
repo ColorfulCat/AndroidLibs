@@ -6,6 +6,14 @@
 
 ---
 
+**GithubWidget**: https://github.com/Nightonke/GithubWidget
+
+A simple implementation of swipe card like StreetView!!
+
+<img src="https://raw.githubusercontent.com/Nightonke/GithubWidget/master/Pic/color.png" width="640" />
+
+---
+
 **SwipeableCard**: https://github.com/michelelacorte/SwipeableCard
 
 A simple implementation of swipe card like StreetView!!

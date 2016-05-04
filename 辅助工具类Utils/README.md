@@ -58,11 +58,41 @@ Helper to generate Javadocs within a Gradle Android library
 
 ---
 
+**TedPermission**: https://github.com/ParkSangGwon/TedPermission
+
+Easy check permission library for Android Marshmallow
+
+<img src="https://raw.githubusercontent.com/ParkSangGwon/TedPermission/master/Screenshot.png" width="480" />
+
+---
+
+**Dexter**: https://github.com/Karumi/Dexter
+
+Android library that simplifies the process of requesting permissions at runtime. http://karumi.com
+
+<img src="https://github.com/Karumi/Dexter/blob/master/art/sample.gif" width="320" />
+
+---
+
 **Ask**: https://github.com/00ec454/Ask
 
 Android runtime permission make easy
 
 <img src="https://github.com/00ec454/Ask/blob/master/asset/permission_1.png" width="320" /> <img src="https://github.com/00ec454/Ask/blob/master/asset/rationale.png" width="320" />
+
+---
+
+**AndroidPopWinPermission**: https://github.com/bunnyblue/AndroidPopWinPermission
+
+Android SYSTEM_ALERT PERMISSION CHECK
+
+---
+
+**PermissionEverywhere**: https://github.com/kaknazaveshtakipishi/PermissionEverywhere
+
+Library enables to request a permission from any Context(Service, IntentService, etc)
+
+<img src="https://github.com/kaknazaveshtakipishi/PermissionEverywhere/blob/master/art/screenshot.png" width="320" />
 
 ---
 

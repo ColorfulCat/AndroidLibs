@@ -5,6 +5,23 @@
 
 ---
 
+**MaryPopup**: https://github.com/Meetic/MaryPopup
+
+Expand your view with no problem
+
+<img src="https://github.com/Meetic/MaryPopup/blob/master/media/draggable.gif" width="320" /> <img src="https://github.com/Meetic/MaryPopup/blob/master/media/photo.gif" width="320" />
+
+---
+
+**WoWoViewPager**: https://github.com/Nightonke/WoWoViewPager
+
+WoWo可以优化你的App介绍/引导页面，制作你的App简历
+
+![WoWoViewPager App Intros Example](https://github.com/Nightonke/WoWoViewPager/blob/master/Pictures/AppIntroExample.gif) 
+![WoWoViewPager CV Example](https://github.com/Nightonke/WoWoViewPager/blob/master/Pictures/CVExample.gif)
+
+---
+
 **android-widget-ticktock**: https://github.com/BCGDV-ASIA/android-widget-ticktock
 
 Count down, count up, tick... tock...

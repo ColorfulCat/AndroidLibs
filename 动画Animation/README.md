@@ -6,6 +6,14 @@
 
 ---
 
+**FragmentAnimations**: https://github.com/kakajika/FragmentAnimations
+
+3D animations for support-v4 Fragment transition
+
+<img src="https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/cube.gif" width="320" /> <img src="https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/pushmove.gif" width="320" />
+
+---
+
 **JJSearchViewAnim**: https://github.com/android-cjj/JJSearchViewAnim
 
 A cool search view animation library
