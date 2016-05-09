@@ -4,14 +4,6 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
-**country-picker-android**: https://github.com/mukeshsolanki/country-picker-android
-
-CountryPicker is a simple library that can be show a country picker
-
-<img src="https://raw.githubusercontent.com/mukeshsolanki/country-picker/master/Screenshot_20160506-152951.png" width="320" />
-
----
-
 **Android-PickerView**: https://github.com/saiwu-bigkoo/Android-PickerView
 
 仿iOS的PickerView控件，有时间选择、地名选择和选项选择并支持一二三级联动效果

@@ -20,17 +20,9 @@ Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode
 
 A framework for hook java methods
 
-**easydeviceinfo**: https://github.com/nisrulz/easydeviceinfo
-
-Android library to get device information in a super easy way
-
-<img src="https://lh3.googleusercontent.com/AP5TSBhKZPshN1XR_0ifvU6D0_sU7rL6GJb3Pn0Czlwp4EhwW69adKGh_8558_L_2A=h900-rw" width="320" />
-
----
-
 **ActivityRouter**: https://github.com/mzule/ActivityRouter
 
-Router activities
+Router activities.
 
 <img src="https://raw.githubusercontent.com/mzule/ActivityRouter/master/gif/router.gif" width="320" /> <img src="https://raw.githubusercontent.com/mzule/ActivityRouter/master/gif/http.gif" width="320" />
 
