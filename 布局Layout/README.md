@@ -5,6 +5,15 @@
 
 ---
 
+**MagicViewPager**: https://github.com/hongyangAndroid/MagicViewPager
+
+单页显示3个Item的ViewPager炫酷切换效果，适用于Banner等
+
+![111](https://raw.githubusercontent.com/hongyangAndroid/MagicViewPager/master/screenshot/rotate_down.gif)
+![111](https://raw.githubusercontent.com/hongyangAndroid/MagicViewPager/master/screenshot/scaleIn.gif)
+
+---
+
 **MaryPopup**: https://github.com/Meetic/MaryPopup
 
 Expand your view with no problem
