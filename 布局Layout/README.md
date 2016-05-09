@@ -5,7 +5,6 @@
 
 ---
 
-<<<<<<< HEAD
 **MaryPopup**: https://github.com/Meetic/MaryPopup
 
 Expand your view with no problem
@@ -23,8 +22,6 @@ WoWo可以优化你的App介绍/引导页面，制作你的App简历
 
 ---
 
-=======
->>>>>>> refs/remotes/XXApple/master
 **android-widget-ticktock**: https://github.com/BCGDV-ASIA/android-widget-ticktock
 
 Count down, count up, tick... tock...
