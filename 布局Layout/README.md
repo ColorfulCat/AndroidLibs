@@ -5,6 +5,22 @@
 
 ---
 
+**BubbleLayout**: https://github.com/MasayukiSuda/BubbleLayout
+
+Bubble View for Android
+
+<img src="https://raw.githubusercontent.com/MasayukiSuda/BubbleLayout/master/art/all.gif" width="320" />
+
+---
+
+**EffectiveShapeView**: https://github.com/TangXiaoLv/EffectiveShapeView
+
+Effective custom shape imageview
+
+<img src="https://raw.githubusercontent.com/TangXiaoLv/EffectiveShapeView/master/png/first.jpg" width="320" /> <img src="https://raw.githubusercontent.com/TangXiaoLv/EffectiveShapeView/master/png/second.jpg" width="320" />
+
+---
+
 **MagicViewPager**: https://github.com/hongyangAndroid/MagicViewPager
 
 单页显示3个Item的ViewPager炫酷切换效果，适用于Banner等
