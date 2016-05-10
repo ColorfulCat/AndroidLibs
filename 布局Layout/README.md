@@ -5,6 +5,14 @@
 
 ---
 
+**TagCloudView**: https://github.com/kingideayou/TagCloudView
+
+支持 SingleLine 模式的标签云效果 http://kingideayou.github.io/TagCloudView/
+
+<img src="https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_1.png" width="320" /> <img src="https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_3.gif" width="320" />
+
+---
+
 **BubbleLayout**: https://github.com/MasayukiSuda/BubbleLayout
 
 Bubble View for Android
