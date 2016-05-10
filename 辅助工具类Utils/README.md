@@ -6,13 +6,37 @@
 
 **redex**: https://github.com/facebook/redex
 
-facebook 出品的 apk 包优化工具
-
-[Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
+facebook 出品的 apk 包优化工具 —— [Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
 
 **enjarify**: https://github.com/google/enjarify
 
 Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode
+
+---
+
+**permissions-dispatcher-plugin**:https://github.com/shiraji/permissions-dispatcher-plugin
+
+IntelliJ plugin for supporting PermissionsDispatcher
+
+<img src="https://github.com/shiraji/permissions-dispatcher-plugin/blob/master/website/images/generate.png" width="480" />
+
+---
+
+**CompositeAndroid**: https://github.com/passsy/CompositeAndroid
+
+Composition over inheritance for Android components like Activity or Fragment
+
+---
+
+**android-classyshark**: https://github.com/google/android-classyshark
+
+apk 查看工具
+
+---
+
+**Prefs**: https://github.com/GrenderG/Prefs
+
+Simple Android SharedPreferences wrapper
 
 ---
 

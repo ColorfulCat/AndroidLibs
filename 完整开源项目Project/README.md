@@ -76,6 +76,15 @@ This is a better android-tv-launcher,it can running on the tv box.Build with gra
 
 ---
 
+**TLint**: https://github.com/gzsll/TLint
+
+TLint for 虎扑体育 基于Dagger2+RxJava+Retrofit开发，采用MVP模式
+
+<img src="https://raw.githubusercontent.com/gzsll/TLint/master/resource/Screenshot1.png" width="320" />
+<img src="https://raw.githubusercontent.com/gzsll/TLint/master/resource/Screenshot8.png" width="320" />
+
+---
+
 **Joker**: https://github.com/ColorfulCat/Joker
 
 基于糗事百科接口数据的Android客户端，简单版的，有图文笑话，蹲厕所的时候可以看看 0 - 0 ~~(14年6月份写的，相对有点旧~)

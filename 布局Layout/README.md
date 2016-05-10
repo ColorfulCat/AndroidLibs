@@ -5,6 +5,30 @@
 
 ---
 
+**TagCloudView**: https://github.com/kingideayou/TagCloudView
+
+支持 SingleLine 模式的标签云效果 http://kingideayou.github.io/TagCloudView/
+
+<img src="https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_1.png" width="320" /> <img src="https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_3.gif" width="320" />
+
+---
+
+**BubbleLayout**: https://github.com/MasayukiSuda/BubbleLayout
+
+Bubble View for Android
+
+<img src="https://raw.githubusercontent.com/MasayukiSuda/BubbleLayout/master/art/all.gif" width="320" />
+
+---
+
+**EffectiveShapeView**: https://github.com/TangXiaoLv/EffectiveShapeView
+
+Effective custom shape imageview
+
+<img src="https://raw.githubusercontent.com/TangXiaoLv/EffectiveShapeView/master/png/first.jpg" width="320" /> <img src="https://raw.githubusercontent.com/TangXiaoLv/EffectiveShapeView/master/png/second.jpg" width="320" />
+
+---
+
 **MagicViewPager**: https://github.com/hongyangAndroid/MagicViewPager
 
 单页显示3个Item的ViewPager炫酷切换效果，适用于Banner等
