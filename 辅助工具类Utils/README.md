@@ -16,6 +16,18 @@ Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode
 
 ---
 
+**android-classyshark**: https://github.com/google/android-classyshark
+
+apk 查看工具
+
+---
+
+**Prefs**: https://github.com/GrenderG/Prefs
+
+Simple Android SharedPreferences wrapper
+
+---
+
 **legend**: https://github.com/asLody/legend
 
 A framework for hook java methods
