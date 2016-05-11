@@ -18,7 +18,7 @@ Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode
 
 IntelliJ plugin for supporting PermissionsDispatcher
 
-<img src="https://github.com/shiraji/permissions-dispatcher-plugin/blob/master/website/images/generate.png" width="480" />
+<img src="https://raw.githubusercontent.com/shiraji/permissions-dispatcher-plugin/master/website/images/pd.gif" width="600" />
 
 ---
 
