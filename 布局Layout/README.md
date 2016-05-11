@@ -38,6 +38,14 @@ Effective custom shape imageview
 
 ---
 
+**ScalableTabIndicator**: https://github.com/jiang111/ScalableTabIndicator
+
+可定制的Indicator,结合ViewPager使用
+
+<img src="https://raw.githubusercontent.com/jiang111/ScalableTabIndicator/master/art/7.gif" width="320" />
+
+---
+
 **MaryPopup**: https://github.com/Meetic/MaryPopup
 
 Expand your view with no problem
