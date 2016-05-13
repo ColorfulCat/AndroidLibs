@@ -5,6 +5,38 @@
 
 ---
 
+**TagView**: https://github.com/Cutta/TagView
+
+Android TagView-HashTagView
+
+<img src="https://camo.githubusercontent.com/397c91d68dc6e496f194391481fa3a4408bb83f1/687474703a2f2f7331312e706f7374696d672e6f72672f727279376c773837372f53637265656e73686f745f323031355f30395f32395f32315f31375f35332e706e67" width="320" /> <img src="https://camo.githubusercontent.com/6bf012e1526dd04ccf9f8a71083f1d52c44250d3/687474703a2f2f692e67697068792e636f6d2f336f456475466c7332744177724f414c7a472e676966" width="320" />
+
+---
+
+**Android-Cloud-TagView-Plus**: https://github.com/kaedea/Android-Cloud-TagView-Plus
+
+An Android Cloud Tag Widget
+
+<img src="https://camo.githubusercontent.com/c89ab52cbc45a4929dafaff12e7d8d06b02eaa7b/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f4e332d72365a5f463055753368543546733448347930534e5735706a615575424d7533714c5a7350676f513d73363030" width="320" />
+
+---
+
+**android-tagview**: https://github.com/VEINHORN/android-tagview
+
+Android library for creating beautiful tags for your content.
+
+<img src="https://camo.githubusercontent.com/497b96c5ca035e8692ab5108d9f26b4711f9dcc5/687474703a2f2f692e696d6775722e636f6d2f4b6975356a73492e706e673f32" width="320" /> <img src="https://camo.githubusercontent.com/a4f3c0624b0c016535b6c6517956904eb70d80ae/687474703a2f2f692e696d6775722e636f6d2f716654746c57762e706e673f32" width="320" />
+
+---
+
+**TagViewLayout**: https://github.com/jjhesk/TagViewLayout
+
+Fast manage your TagViewLayouts
+
+<img src="https://camo.githubusercontent.com/67c7881c1ffbc58332d3ec8ad2cf55a7bcb42344/687474703a2f2f692e67697068792e636f6d2f32596b39656b38516166676c322e676966" width="320" />
+
+---
+
 **TagCloudView**: https://github.com/kingideayou/TagCloudView
 
 支持 SingleLine 模式的标签云效果 http://kingideayou.github.io/TagCloudView/

@@ -8,17 +8,23 @@
 
 facebook 出品的 apk 包优化工具 —— [Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
 
-**enjarify**: https://github.com/google/enjarify
+**AndroidUnitTest**: https://github.com/florent37/AndroidUnitTest
 
-Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode
+Save time & clear your unit tests on Android
 
 ---
 
-**permissions-dispatcher-plugin**:https://github.com/shiraji/permissions-dispatcher-plugin
+**sharp**: https://github.com/Pixplicity/sharp
 
-IntelliJ plugin for supporting PermissionsDispatcher
+Scalable vector graphics for Android
 
-<img src="https://raw.githubusercontent.com/shiraji/permissions-dispatcher-plugin/master/website/images/pd.gif" width="600" />
+<img src="https://raw.githubusercontent.com/Pixplicity/sharp/master/sample-imageview/screenshots/cartman1.png" width="320" /> <img src="https://raw.githubusercontent.com/Pixplicity/sharp/master/sample-imageview/screenshots/cartman2.png" width="320" />
+
+---
+
+**enjarify**: https://github.com/google/enjarify
+
+Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode
 
 ---
 
@@ -44,11 +50,15 @@ Simple Android SharedPreferences wrapper
 
 A framework for hook java methods
 
+---
+
 **easydeviceinfo**: https://github.com/nisrulz/easydeviceinfo
 
 Android library to get device information in a super easy way
 
 <img src="https://lh3.googleusercontent.com/AP5TSBhKZPshN1XR_0ifvU6D0_sU7rL6GJb3Pn0Czlwp4EhwW69adKGh_8558_L_2A=h900-rw" width="320" />
+
+---
 
 **ActivityRouter**: https://github.com/mzule/ActivityRouter
 
@@ -85,6 +95,14 @@ Android QRCode Library
 **gradle-android-javadocs**: https://github.com/Commit451/gradle-android-javadocs
 
 Helper to generate Javadocs within a Gradle Android library
+
+---
+
+**permissions-dispatcher-plugin**:https://github.com/shiraji/permissions-dispatcher-plugin
+
+IntelliJ plugin for supporting PermissionsDispatcher
+
+<img src="https://raw.githubusercontent.com/shiraji/permissions-dispatcher-plugin/master/website/images/pd.gif" width="600" />
 
 ---
 
