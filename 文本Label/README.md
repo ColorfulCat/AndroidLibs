@@ -4,6 +4,14 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
+**TagsEditText**: https://github.com/mabbas007/TagsEditText
+
+Android EditText for view tags
+
+<img src="https://camo.githubusercontent.com/3a26ca3308d07d4040d9b6bea3dd65b0cc605516/687474703a2f2f692e696d6775722e636f6d2f5a4a596c734e4c2e706e673f33" width="320" />
+
+---
+
 **LicenseTextView**: https://github.com/jgabrielfreitas/LicenseTextView
 
 Easy License View for Android
