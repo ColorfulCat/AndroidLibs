@@ -4,6 +4,8 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
+---
+
 **redex**: https://github.com/facebook/redex
 
 facebook 出品的 apk 包优化工具 —— [Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
@@ -14,11 +16,17 @@ Save time & clear your unit tests on Android
 
 ---
 
-**sharp**: https://github.com/Pixplicity/sharp
+**drawable-optimizer**: https://github.com/fabiomsr/drawable-optimizer
 
-Scalable vector graphics for Android
+Gradle plugin to optimize png files and reduce resultant apk size within an Android project
 
-<img src="https://raw.githubusercontent.com/Pixplicity/sharp/master/sample-imageview/screenshots/cartman1.png" width="320" /> <img src="https://raw.githubusercontent.com/Pixplicity/sharp/master/sample-imageview/screenshots/cartman2.png" width="320" />
+---
+
+**easy-video-player**: https://github.com/afollestad/easy-video-player
+
+Video playback on Android, made easy, wrapping around the stock MediaPlayer API. https://aidanfollestad.com
+
+<img src="https://raw.githubusercontent.com/afollestad/easy-video-player/master/art/showcase1.png" width="320" />
 
 ---
 

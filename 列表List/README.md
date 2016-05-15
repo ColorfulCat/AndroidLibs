@@ -18,6 +18,12 @@ An Android Animation library which easily add itemanimator to RecyclerView items
 
 ---
 
+**recyclerviewhelper**: https://github.com/nisrulz/recyclerviewhelper
+
+RecyclerView 超强助手
+
+---
+
 **pull-to-make-soup**: https://github.com/Yalantis/pull-to-make-soup
 
 RecyclerView 下拉刷新

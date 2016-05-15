@@ -4,7 +4,29 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
---- 
+---
+
+**ScratchView**: https://github.com/cooltechworks/ScratchView
+
+刮开图层查看图片和文字
+
+<img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/2ec97c9a539d5976b68bf62ec07df8c727d72be2/screenshots/scratch_image_view_demo.gif" width="320" /> <img src="https://raw.githubusercontent.com/cooltechworks/ScratchView/master/screenshots/scratch_text_view_demo.gif" width="320" />
+
+---
+
+**android-ndk-gif**: https://github.com/waynejo/android-ndk-gif
+
+Android Gif library
+
+---
+
+**sharp**: https://github.com/Pixplicity/sharp
+
+Scalable vector graphics for Android
+
+<img src="https://raw.githubusercontent.com/Pixplicity/sharp/master/sample-imageview/screenshots/cartman1.png" width="320" /> <img src="https://raw.githubusercontent.com/Pixplicity/sharp/master/sample-imageview/screenshots/cartman2.png" width="320" />
+
+---
 
 **image-zoom**: https://github.com/oliveiradev/image-zoom
 
