@@ -5,7 +5,6 @@
 
 ---
 
-<<<<<<< HEAD
 **SineView**: https://github.com/guiguegon/SineView
 
 正弦曲线绘制动画
@@ -14,8 +13,6 @@
 
 ---
 
-=======
->>>>>>> refs/remotes/XXApple/master
 **TagView**: https://github.com/Cutta/TagView
 
 Android TagView-HashTagView
