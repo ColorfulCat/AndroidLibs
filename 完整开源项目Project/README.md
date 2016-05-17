@@ -19,7 +19,6 @@
 gank.io unofficial client, RxJava & Retrofit
 
 <img src="https://github.com/drakeet/Meizhi/blob/master/screenshots/s0.png" width="160" />
-<img src="https://github.com/drakeet/Meizhi/blob/master/screenshots/s6.png" width="160" />
 <img src="https://github.com/drakeet/Meizhi/blob/master/screenshots/s7.jpg" width="160" />
 <img src="https://github.com/drakeet/Meizhi/blob/master/screenshots/s5.png" width="160" />
 <img src="https://github.com/drakeet/Meizhi/blob/master/screenshots/s8.png" width="160" />
@@ -31,7 +30,7 @@ gank.io unofficial client, RxJava & Retrofit
 
 一个看妹纸与开发资讯的Android APP，具有本地缓存、分享与添加收藏的功能，新手向大神学习的练手项目，来自代码家的API http://gank.io
 
-<img src="https://github.com/IvorHu/RealStuff/blob/master/screenshoots/Meizhi.PNG" width="320" /><img src="https://github.com/IvorHu/RealStuff/blob/master/screenshoots/collections.PNG" width="320" /><img src="https://github.com/IvorHu/RealStuff/blob/master/screenshoots/drawermenu.PNG" width="320" />
+<img src="https://github.com/IvorHu/RealStuff/blob/master/screenshoots/Meizhi.PNG" width="260" /><img src="https://github.com/IvorHu/RealStuff/blob/master/screenshoots/collections.PNG" width="260" /><img src="https://github.com/IvorHu/RealStuff/blob/master/screenshoots/drawermenu.PNG" width="260" />
 
 ---
 
@@ -47,7 +46,7 @@ gank.io unofficial client, RxJava & Retrofit
 
 干货集中营提供的API，有美女福利图片，Android，IOS，前端，APP等资源。
 
-![](https://github.com/maning0303/GankMM/raw/master/screenshots/001.jpg) 
+<img src="https://github.com/maning0303/GankMM/raw/master/screenshots/001.jpg" width="640"/>
 
 ---
 
@@ -63,8 +62,8 @@ gank.io unofficial client, RxJava & Retrofit
 **AndroidTVLauncher**: https://github.com/JackyAndroid/AndroidTVLauncher
 
 This is a better android-tv-launcher,it can running on the tv box.Build with gradle.
-
-<img src="https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/img/setting.png" width = "400" height = "225" alt="logo" align=center />  <img src="https://github.com/JackyAndroid/AndroidTVLauncher/blob/master/img/%E5%BA%94%E7%94%A8%E5%8D%B8%E8%BD%BD.jpg" width = "400" height = "225" alt="logo" align=center />
+https://raw.githubusercontent.com/JackyAndroid/AndroidTVLauncher/master/screenshots/androidtv-leanback-sample.png
+<img src="https://raw.githubusercontent.com/JackyAndroid/AndroidTVLauncher/master/screenshots/androidtv-leanback-sample.png" width = "640"/>
 
 ---
 
@@ -106,11 +105,8 @@ Plaid is a showcase of material design that we hope you will keep installed. It 
 
 Hide音乐播放器
 
-<img src="https://camo.githubusercontent.com/995254d7501fabdee6a1bde4328e81a5efcbb604/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3835643265303937677731657869776b61623033366a323038323064707439362e6a7067" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/1.jpg?raw=true" width="160" />
 <img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/3.jpg?raw=true" width="160" />
 <img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/5.5.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/6.jpg?raw=true" width="160" />
 <img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/9.jpg?raw=true" width="160" />
 <img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/10.jpg?raw=true" width="160" />
 <img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/12.jpg?raw=true" width="160" />
@@ -152,9 +148,7 @@ GitHot is an Android App that will help you to find the world most popular proje
 A beautiful app 简诗 for recording anything in your life with traditional Chinese style.
 
 <img src="https://camo.githubusercontent.com/b5cd7b49447c88ceac096b4e969b8c1b94f3b10a/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3238313636352d623563343465393034323639376539332e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="320" />
-<img src="https://camo.githubusercontent.com/d68b66652366a51bdd112fac411813baef69c7c4/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3238313636352d663938653163636135373737623466642e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="320" />
 <img src="https://camo.githubusercontent.com/3f9940a080521d28fa2ad1e6bc40c25d104f411f/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3238313636352d613539613063336165326532616630342e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="320" />
-<img src="https://camo.githubusercontent.com/a968cbae7d14b273916a0486de775ab016afe535/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3238313636352d633763636437386463323666323063352e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="320" />
 
 ---
 
@@ -213,9 +207,9 @@ App+是一个MD风格的用于传送、提取APK文件的开源工具软件。[h
 
 A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native (Android and iOS).
 
-<img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/home1.jpg" width="320" />
-<img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/drawer.jpg" width="320" />
-<img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/content.jpg" width="320" />
+<img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/home1.jpg" width="260" />
+<img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/drawer.jpg" width="260" />
+<img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/content.jpg" width="260" />
 
 ---   
 
@@ -223,9 +217,9 @@ A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native
 
 Smart App Lock for Android http://www.toolwiz.com/
 
-<img src="https://github.com/Toolwiz/ToolWizAppLock/blob/master/img/5.pic_hd.jpg" width="320" />
-<img src="https://github.com/Toolwiz/ToolWizAppLock/blob/master/img/6.pic_hd.jpg" width="320" />
-<img src="https://github.com/Toolwiz/ToolWizAppLock/blob/master/img/7.pic_hd.jpg" width="320" />
+<img src="https://github.com/Toolwiz/ToolWizAppLock/blob/master/img/5.pic_hd.jpg" width="260" />
+<img src="https://github.com/Toolwiz/ToolWizAppLock/blob/master/img/6.pic_hd.jpg" width="260" />
+<img src="https://github.com/Toolwiz/ToolWizAppLock/blob/master/img/7.pic_hd.jpg" width="260" />
 
 ---    
 
@@ -251,9 +245,7 @@ An Android clipboard history manager app with Material Design.
 PocketNote is a simple note application for Android with many useful utilities
 
 <img src="https://raw.githubusercontent.com/channguyen/pocket-note-android/master/appstore/sc1.png" width="320" />
-<img src="https://raw.githubusercontent.com/channguyen/pocket-note-android/master/appstore/sc2.png" width="320" />
 <img src="https://raw.githubusercontent.com/channguyen/pocket-note-android/master/appstore/sc4.png" width="320" />
-<img src="https://raw.githubusercontent.com/channguyen/pocket-note-android/master/appstore/sc7.png" width="320" />
 
 ---       
 
@@ -268,9 +260,7 @@ PocketNote is a simple note application for Android with many useful utilities
 An Android App for Github
 
 <img src="https://github.com/Leaking/GithubKnife/blob/master/screenshot/git1.pic.jpg" width="320" />
-<img src="https://github.com/Leaking/GithubKnife/blob/master/screenshot/git2.pic.jpg" width="320" />
 <img src="https://github.com/Leaking/GithubKnife/blob/master/screenshot/git3.pic.jpg" width="320" />
-<img src="https://github.com/Leaking/GithubKnife/blob/master/screenshot/git4.pic.jpg" width="320" />
 
 ---     
 
@@ -279,9 +269,7 @@ An Android App for Github
 A project which demonstrate how to develop a custom client on android for dribbble.com
 
 <img src="https://github.com/tuesda/Watch/blob/master/animation/home.gif" width="320" />
-<img src="https://github.com/tuesda/Watch/blob/master/animation/comments.gif" width="320" />
 <img src="https://github.com/tuesda/Watch/blob/master/animation/page.gif" width="320" />
-<img src="https://github.com/tuesda/Watch/blob/master/animation/drawer.gif" width="320" />
 
 ---       
 
@@ -291,8 +279,6 @@ This is an Android application with camera,picture cropping,collage sticking and
 
 <img src="https://github.com/Skykai521/StickerCamera/blob/master/screenshot/Screenshot_01.gif" width="320" />
 <img src="https://github.com/Skykai521/StickerCamera/blob/master/screenshot/Screenshot_2015-07-19-11-23-22.png" width="320" />
-<img src="https://github.com/Skykai521/StickerCamera/blob/master/screenshot/Screenshot_2015-07-19-11-23-00.png" width="320" />
-<img src="https://github.com/Skykai521/StickerCamera/blob/master/screenshot/Screenshot_2015-07-19-11-23-04.png" width="320" />
 
 ---        
 
@@ -325,10 +311,7 @@ This is an Android application with camera,picture cropping,collage sticking and
 
 这是仿bilibili客户端，是我一个刚学android的朋友写的，原作地址：https://github.com/winkstu/ABPlayer
 
-<img src="https://camo.githubusercontent.com/33d99a3ca4afc9b1691eb124a97979aebaa25177/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f616c62756d2f3230313530352f32362f313634303330656e396e623472736d736f396e7170632e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/10a33816c5369e0751184e3486319e9676c1f5a7/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f616c62756d2f3230313530352f32362f3136343033357467713168717437626f79377a6274712e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/15e8545231a50f3485803bd5616984afa452e998/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f616c62756d2f3230313530352f32362f3136343033317770747a6374336a686e6a396e3663362e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/ade7948bd62c4e94e3348a0f4dafe67596c92968/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f616c62756d2f3230313530352f32362f31363430333277367a77727a397a647677366b3164332e6a7067" width="320" />
+<img src="https://camo.githubusercontent.com/33d99a3ca4afc9b1691eb124a97979aebaa25177/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f616c62756d2f3230313530352f32362f313634303330656e396e623472736d736f396e7170632e706e67" width="320" /> 
 <img src="https://camo.githubusercontent.com/9224340e3f03ad8daebf08041b989ccbbdfe2000/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530352f32362f31383136353472677a7776767a356774396d78677a6d2e676966" width="320" />
 
 ---            
@@ -339,10 +322,6 @@ This is an Android application with camera,picture cropping,collage sticking and
 
 <img src="https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen1.gif" width="320" />
 <img src="https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen2.gif" width="320" />
-<img src="https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen3.gif" width="320" />
-<img src="https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen4.gif" width="320" />
-<img src="https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen5.gif" width="320" />
-<img src="https://github.com/wangdan/AisenWeibo/raw/master/resource/aisen7.gif" width="320" />
 
 ---            
 
@@ -352,8 +331,6 @@ A very beautiful and easy to use app: "SmsCodeHelper" (verification code helper)
 
 <img src="https://github.com/drakeet/SmsCodeHelper/blob/master/screenshots/s1.png" width="320" />
 <img src="https://github.com/drakeet/SmsCodeHelper/blob/master/screenshots/s2.png" width="320" />
-<img src="https://github.com/drakeet/SmsCodeHelper/blob/master/screenshots/s5.png" width="320" />
-<img src="https://github.com/drakeet/SmsCodeHelper/blob/master/screenshots/s6.png" width="320" />
 
 ---            
 
@@ -377,7 +354,6 @@ Material Design Notes App
 <img src="https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_3.png" width="160" />
 <img src="https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_5.png" width="160" />
 <img src="https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_4.png" width="160" />
-<img src="https://github.com/lguipeng/Notes/blob/master/screenshot/screenshot_6.png" width="160" />
 
 ---              
 
@@ -393,8 +369,8 @@ Material Design Notes App
 
  DoubanMovie made with React Native
 
-<img src="https://github.com/fengjundev/DoubanMovie-React-Native/blob/master/screenshot/screenshot-1.png" width="320" />
-<img src="https://github.com/fengjundev/DoubanMovie-React-Native/blob/master/screenshot/screenshot-2.png" width="320" />
+<img src="https://github.com/fengjundev/DoubanMovie-React-Native/blob/master/screenshot/3.png" width="320" />
+<img src="https://github.com/fengjundev/DoubanMovie-React-Native/blob/master/screenshot/7.png" width="320" />
 
 ---
 
@@ -410,9 +386,9 @@ Material Design Notes App
 
  湘潭大学三翼校园"四季电台" Android客户端 http://linroid.com/2015/02/11/sky31radio/
 
-<img src="https://github.com/linroid/Sky31Radio/blob/master/screenshots/device-2015-01-22-224854.png" width="320" />
-<img src="https://github.com/linroid/Sky31Radio/blob/master/screenshots/device-2015-01-22-224820.png" width="320" />
-<img src="https://github.com/linroid/Sky31Radio/blob/master/screenshots/device-2015-02-07-141957.png" width="320" />
+<img src="https://github.com/linroid/Sky31Radio/blob/master/screenshots/device-2015-01-22-224854.png" width="270" />
+<img src="https://github.com/linroid/Sky31Radio/blob/master/screenshots/device-2015-01-22-224820.png" width="270" />
+<img src="https://github.com/linroid/Sky31Radio/blob/master/screenshots/device-2015-02-07-141957.png" width="270" />
 
 ---
 
@@ -426,10 +402,10 @@ Material Design Notes App
 
  一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等。
 
-<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg" width="320" />
-<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/1.jpg" width="320" />
-<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/2.jpg" width="320" />
-<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/3.jpg" width="320" />
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg" width="180" />
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/1.jpg" width="180" />
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/2.jpg" width="180" />
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/3.jpg" width="180" />
 
 ---
 
@@ -437,10 +413,8 @@ Material Design Notes App
 
  一个知乎专栏App
 
-<img src="https://camo.githubusercontent.com/e689e52a807b099b59c08a7824928b6f9f1bb47c/687474703a2f2f69322e74696574756b752e636f6d2f303735336462396531383034663662332e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/a09ce4b549e048400597aaf4d40b7866e496678b/687474703a2f2f69322e74696574756b752e636f6d2f323937303233396637313239363339382e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/acdb3d95fd2a0af4c3e1e30aa74872b3140d6387/687474703a2f2f69322e74696574756b752e636f6d2f366661396663306339633264653432382e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/22c8d47c6b3851998af172bbeebea4ab6bd8b3c1/687474703a2f2f69322e74696574756b752e636f6d2f616365346361333230306164376130392e706e67" width="320" />
+<img src="https://raw.githubusercontent.com/bxbxbai/ZhuanLan/master/images/home.png" width="320" />
+<img src="https://raw.githubusercontent.com/bxbxbai/ZhuanLan/master/images/list.png" width="320" />
 
 ---
 
@@ -462,9 +436,9 @@ Material Design Notes App
 
  Remindly is a simple and user friendly application to create reminders. https://play.google.com/store/apps/details?id=com.blanyal.remindly
 
-<img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot1.png" width="320" />
-<img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot2.png" width="320" />
-<img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot3.png" width="320" />
+<img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot1.png" width="270" />
+<img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot2.png" width="270" />
+<img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot3.png" width="270" />
 
 ---
 
@@ -572,7 +546,7 @@ CoCoin是一款记账APP，有记账、多种方式显示支出占比和支出�
 
 一个帮你成为顶尖开发者的APP http://www.growth.ren/
 
-<img src="https://github.com/phodal/growth/blob/master/www/img/help/start.jpg" width="320" />
+<img src="https://raw.githubusercontent.com/phodal/growth/master/screenshot/1.pic.jpg" width="320" /> <img src="https://raw.githubusercontent.com/phodal/growth/master/screenshot/2.pic.jpg" width="320" />
 
 ---
 
@@ -580,7 +554,7 @@ CoCoin是一款记账APP，有记账、多种方式显示支出占比和支出�
 
 知乎日报，created by RRD(Retrofit,RxJava,Dagger2).
 
-<img src="https://github.com/lsxiao/ZhihuDailyRRD/blob/master/screenshot/structure.png?raw=true" width="320" />
+<img src="https://raw.githubusercontent.com/lsxiao/ZhihuDailyFluxRRD/master/screenshot/Screenshot_20151116-231003.png" width="320" />
 
 ---
 
