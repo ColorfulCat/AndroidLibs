@@ -59,6 +59,24 @@ gank.io unofficial client, RxJava & Retrofit
 
 ---
 
+**AmazeFileManager**: https://github.com/arpitkh96/AmazeFileManager
+
+一个很精美的文件管理器
+
+<img src="https://lh3.googleusercontent.com/Yu5NTq5Tt74ZEdZ2lUEd2ctxM_8XmY5fbMIKGR4w18D5sz01DOGt9WcUP9jqTS8gEaU=h900-rw" width="320" />
+<img src="https://lh3.googleusercontent.com/wWa9VIanEJFgH7mKU693A6PoGASvc_qfytXd7yH8t4OYp7LHDSLZflhsFOiSIOf2OBVq=h900-rw" width="320" />
+
+---
+
+**FileExplorer**: https://github.com/jp1017/FileExplorer
+
+MIUI开源的文件管理器
+
+<img src="https://cloud.githubusercontent.com/assets/7868514/15324122/bf13f7f0-1c77-11e6-850b-8539aff3e065.png" width="320" /> 
+<img src="https://cloud.githubusercontent.com/assets/7868514/15324123/bf462284-1c77-11e6-8c0e-f23de968756c.png" width="320" />
+
+---
+
 **AndroidTVLauncher**: https://github.com/JackyAndroid/AndroidTVLauncher
 
 This is a better android-tv-launcher,it can running on the tv box.Build with gradle.
