@@ -6,6 +6,22 @@
 
 ---
 
+**UpdatePlugin**: https://github.com/yjfnypeu/UpdatePlugin
+
+可任意定制的app更新组件
+
+<img src="https://raw.githubusercontent.com/yjfnypeu/UpdatePlugin/master/screenshots/default_strategy.gif" width="270" /> <img src="https://raw.githubusercontent.com/yjfnypeu/UpdatePlugin/master/screenshots/default_all_dialog_show.gif" width="270" /> <img src="https://raw.githubusercontent.com/yjfnypeu/UpdatePlugin/master/screenshots/default_auto_install.gif" width="270" />
+
+---
+
+**android-auto-update**: https://github.com/feicien/android-auto-update
+
+Android 应用自动更新
+
+<img src="https://camo.githubusercontent.com/8e0be231005184234cf715c5fc40bfbc0dac5bbb/68747470733a2f2f7261772e6769746875622e636f6d2f6665696369656e2f616e64726f69642d6175746f2d7570646174652f6d61737465722f73637265656e73686f74732f73616d706c652e706e67" width="320" /> <img src="https://camo.githubusercontent.com/039c92955ce092a2e81cd6d4cd5203f31bf32c92/68747470733a2f2f7261772e6769746875622e636f6d2f6665696369656e2f616e64726f69642d6175746f2d7570646174652f6d61737465722f73637265656e73686f74732f6469616c6f672e706e67" width="320" />
+
+---
+
 **redex**: https://github.com/facebook/redex
 
 facebook 出品的 apk 包优化工具 —— [Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
