@@ -6,11 +6,19 @@
 
 ---
 
+**BeerProgressView**: https://github.com/andyb129/BeerProgressView
+
+A library that lets you create a beer styled progress view with bubbles and all
+
+<img src="https://raw.githubusercontent.com/andyb129/BeerProgressView/master/screenshots/beer_progress_view_anim.gif" width="320" />
+
+---
+
 **AnimSideBar**: https://github.com/AlexLiuSheng/AnimSideBar
 
 A SiderBar base on Android that has a beautiful anim
 
-<img src="https://cloud.githubusercontent.com/assets/12408339/15278798/0df854a2-1b50-11e6-962e-15cb94ecc113.gif" width="480" />
+<img src="https://cloud.githubusercontent.com/assets/12408339/15278798/0df854a2-1b50-11e6-962e-15cb94ecc113.gif" width="320" />
 
 ---
 
