@@ -6,6 +6,14 @@
 
 ---
 
+**AnimSideBar**: https://github.com/AlexLiuSheng/AnimSideBar
+
+A SiderBar base on Android that has a beautiful anim
+
+<img src="https://cloud.githubusercontent.com/assets/12408339/15278798/0df854a2-1b50-11e6-962e-15cb94ecc113.gif" width="480" />
+
+---
+
 **StatusBarUtil**: https://github.com/laobie/StatusBarUtil
 
 A util for setting status bar style on Android App. http://laobie.github.io/android/2016/03/27/statusbar-util.html
