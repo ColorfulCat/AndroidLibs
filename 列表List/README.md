@@ -6,6 +6,22 @@
 
 ---
 
+**BaseRecyclerViewAdapterHelper**: https://github.com/CymChad/BaseRecyclerViewAdapterHelper
+
+Powerful and flexible RecyclerAdapter,www.recyclerview.org
+
+<img src="https://github.com/CymChad/BaseRecyclerViewAdapterHelper/blob/master/demo_res/demo.gif" width="320" />
+
+---
+
+**RecyclerViewPresenter**: https://github.com/kibotu/RecyclerViewPresenter
+
+Convenience library to handle different view types with different presenters in a single RecyclerView
+
+<img src="https://raw.githubusercontent.com/kibotu/RecyclerViewPresenter/master/screenshot.png" width="300" />
+
+---
+
 **recyclerview-animators**: [https://github.com/wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
 
 An Android Animation library which easily add itemanimator to RecyclerView items.
