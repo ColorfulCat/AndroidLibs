@@ -46,6 +46,14 @@ Gradle plugin to optimize png files and reduce resultant apk size within an Andr
 
 ---
 
+**VCL-Android**: https://github.com/hanhailong/VCL-Android
+
+编译好的VCL-Android版本，打了四种架构的so包，armeabi-v7a、armeabi、x86、mips
+
+<img src="https://raw.githubusercontent.com/hanhailong/AndroidStudyResources/master/screenshot/vlc_2.png" width="320" /> <img src="https://raw.githubusercontent.com/hanhailong/AndroidStudyResources/master/screenshot/vlc_3.png" width="320" />
+
+---
+
 **easy-video-player**: https://github.com/afollestad/easy-video-player
 
 Video playback on Android, made easy, wrapping around the stock MediaPlayer API. https://aidanfollestad.com

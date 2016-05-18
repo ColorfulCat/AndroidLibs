@@ -111,15 +111,6 @@ TourGuide is an Android library that aims to provide an easy way to add pointers
 
 ---
 
-**TagCloudView**: [https://github.com/kingideayou/TagCloudView](https://github.com/kingideayou/TagCloudView)
-
-支持 SingleLine 模式的标签云效果
-
-<img src="https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_1.png" width="320" />
-<img src="https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_2.png" width="320" />
-
----
-
 **cheesesquare**: [https://github.com/chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare)
 
 Demos the new Android Design library.
