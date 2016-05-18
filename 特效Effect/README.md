@@ -6,6 +6,14 @@
 
 ---
 
+**GooView**: https://github.com/smartbetter/GooView
+
+一个Android自定义粘性控件
+
+<img src="https://raw.githubusercontent.com/smartbetter/GooView/master/Preview.gif" width="270" />
+
+---
+
 **BeerProgressView**: https://github.com/andyb129/BeerProgressView
 
 A library that lets you create a beer styled progress view with bubbles and all

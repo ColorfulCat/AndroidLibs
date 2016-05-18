@@ -5,6 +5,14 @@
 
 ---
 
+**materiallogindemo**: https://github.com/sourcey/materiallogindemo
+
+MD 风格的登录、注册界面布局
+
+<img src="http://sourcey.com/beautiful-android-logn-and-signup-screens-with-material-design/screenshot-login.png" width="320" /> <img src="http://sourcey.com/beautiful-android-logn-and-signup-screens-with-material-design/screenshot-signup.png" width="320" />
+
+---
+
 **SineView**: https://github.com/guiguegon/SineView
 
 正弦曲线绘制动画
