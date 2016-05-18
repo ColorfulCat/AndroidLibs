@@ -6,6 +6,14 @@
 
 ---
 
+**LowPoly**: https://github.com/zzhoujay/LowPoly
+
+Low Poly风格图片生成器
+
+<img src="https://raw.githubusercontent.com/zzhoujay/LowPoly/master/img/image.png" width="640" />
+
+---
+
 **ScratchView**: https://github.com/cooltechworks/ScratchView
 
 刮开图层查看图片和文字
