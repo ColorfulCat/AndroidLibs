@@ -46,6 +46,13 @@ An HTTP+SPDY client for Android and Java applications.
 
 ---
 
+**OkHttpFinal**: https://github.com/pengjianbo/OkHttpFinal
+
+OkHttp封装的一个简单易用HTTP请求, OkHttp文件下载管理地址https://github.com/pengjianbo/FileDownloaderFinal
+
+<img src="https://raw.githubusercontent.com/pengjianbo/OkHttpFinal/master/images/okhttpfinal.jpg" width="640" />
+---
+
 **retrofit1-okhttp3-client**: https://github.com/JakeWharton/retrofit1-okhttp3-client
 
 A OkHttp 3 client implementation for Retrofit 1
