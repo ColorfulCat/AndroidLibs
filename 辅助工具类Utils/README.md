@@ -6,6 +6,14 @@
 
 ---
 
+**AndroidKeyboardWatcher**: https://github.com/AzimoLabs/AndroidKeyboardWatcher
+
+Software keyboard open/close watcher for Android
+
+<img src="https://raw.githubusercontent.com/AzimoLabs/AndroidKeyboardWatcher/master/art/keyboard_shown.png" width="320" />
+
+---
+
 **JKeyboardPanelSwitch**: https://github.com/Jacksgong/JKeyboardPanelSwitch
 
 Android键盘面板冲突 布局闪动处理方案
