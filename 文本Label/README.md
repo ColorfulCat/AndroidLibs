@@ -4,11 +4,37 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
+---
+
+**ColorPhrase**: https://github.com/THEONE10211024/ColorPhrase
+
+Phrase is an Android string resource color setting library
+
+<img src="https://github.com/THEONE10211024/ColorPhrase/blob/master/screenshot/Screenshot_2015-05-16-18-12-23.jpeg" width="320" />
+
+---
+
 **android-phone-field**: https://github.com/lamudi-gmbh/android-phone-field
 
 电话号码归属国家识别库
 
 <img src="https://raw.githubusercontent.com/lamudi-gmbh/android-phone-field/master/raw/phone-field.gif" width="320" />
+
+---
+
+**Calligraphy**: [https://github.com/chrisjenx/Calligraphy](https://github.com/chrisjenx/Calligraphy)
+
+Custom fonts in Android the easy way...
+
+<img src="https://github.com/chrisjenx/Calligraphy/raw/master/screenshot.png" width="320" />
+
+---
+
+**justified**: https://github.com/programingjd/justified
+
+Android TextView or EditText with justified text.
+
+<img src="https://github.com/programingjd/justified/blob/master/screenshot.jpg" width="320" />
 
 ---
 
@@ -49,6 +75,14 @@ An Android TextView with a shimmering effect
 An easy, flexible way to add a shimmering effect to any view in an Android app
 
 <img src="https://github.com/facebook/shimmer-android/blob/master/shimmer.gif?raw=true" width="480" />
+
+---
+
+**MaterialEditText**: https://github.com/rengwuxian/MaterialEditText
+
+EditText in Material Design
+
+<img src="https://github.com/rengwuxian/MaterialEditText/blob/master/images/material_edittext.png" width="320" />
 
 ---
 

@@ -93,6 +93,15 @@ An Android Holo themed colorpicker designed by Marie Schweiz
 
 ---
 
+**colorpicker**:  https://github.com/QuadFlask/colorpicker
+
+color picker for android
+
+<img src="https://github.com/QuadFlask/colorpicker/blob/master/screenshot/screenshot3.png" width="320" />
+<img src="https://github.com/QuadFlask/colorpicker/blob/master/screenshot/screenshot.png" width="320" />
+
+---
+
 **PickerUI**: [https://github.com/DavidPizarro/PickerUI](https://github.com/DavidPizarro/PickerUI)
 
 Android library to display a list of items for pick one.

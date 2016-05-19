@@ -6,12 +6,6 @@
 
 ---
 
-**DanmakuFlameMaster**: https://github.com/Bilibili/DanmakuFlameMaster
-
-B 站出品的 Android 开源弹幕引擎 —— 烈焰弹幕使
-
----
-
 **KeyBoardDemo**: https://github.com/wobiancao/KeyBoardDemo
 
 Android 软键盘和emoji表情切换方案，和微信几乎一样的体验

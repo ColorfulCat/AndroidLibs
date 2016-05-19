@@ -18,10 +18,9 @@ A simple implementation of swipe card like StreetView!!
 
 A simple implementation of swipe card like StreetView!!
 
-<img src="http://i.giphy.com/3ornjQLD95Osp4qlm8.gif" width="320" />
-<img src="http://i.giphy.com/26FPDYox55jE0UBVu.gif" width="320" />
-<img src="http://i.giphy.com/3o8doUXxjOCwHw2GEo.gif" width="320" />
-<img src="http://i.giphy.com/3o8doQxv28CVTGdM6Q.gif" width="320" />
+<img src="http://i.giphy.com/3ornjQLD95Osp4qlm8.gif" width="270" />
+<img src="http://i.giphy.com/26FPDYox55jE0UBVu.gif" width="270" />
+<img src="http://i.giphy.com/3o8doUXxjOCwHw2GEo.gif" width="270" />
 
 ---
 
@@ -49,14 +48,6 @@ Spinner with Material Design - Down to API 9
 
 ---
 
-**Calligraphy**: [https://github.com/chrisjenx/Calligraphy](https://github.com/chrisjenx/Calligraphy)
-
-Custom fonts in Android the easy way...
-
-<img src="https://github.com/chrisjenx/Calligraphy/raw/master/screenshot.png" width="320" />
-
----
-
 **loadtoast**: [https://github.com/code-mc/loadtoast](https://github.com/code-mc/loadtoast)
 
 Pretty material design toasts with feedback animations
@@ -65,11 +56,9 @@ Pretty material design toasts with feedback animations
 
 ---
 
-**justified**: [https://github.com/programingjd/justified](https://github.com/programingjd/justified)
+**DanmakuFlameMaster**: https://github.com/Bilibili/DanmakuFlameMaster
 
-Android TextView or EditText with justified text.
-
-<img src="https://github.com/programingjd/justified/blob/master/screenshot.jpg" width="320" />
+B 站出品的 Android 开源弹幕引擎 —— 烈焰弹幕使
 
 ---
 
@@ -92,14 +81,6 @@ a sticker view for android application
 **phrase**: [https://github.com/square/phrase](https://github.com/square/phrase)
 
 Phrase is an Android string resource templating library
-
----
-
-**ColorPhrase**: [https://github.com/THEONE10211024/ColorPhrase](https://github.com/THEONE10211024/ColorPhrase)
-
-Phrase is an Android string resource color setting library
-
-<img src="https://github.com/THEONE10211024/ColorPhrase/blob/master/screenshot/Screenshot_2015-05-16-18-12-23.jpeg" width="320" />
 
 ---
 
@@ -139,9 +120,9 @@ A lovely snail,You can use it as a seekbar or progressbar.
 
 Android quantity view with add and remove button.
 
-<img src="https://raw.githubusercontent.com/himanshu-soni/QuantityView/master/screenshots/device-2015-09-29-191352.png" width="320" />
-<img src="https://raw.githubusercontent.com/himanshu-soni/QuantityView/master/screenshots/device-2015-10-09-175354.png" width="320" />
-<img src="https://raw.githubusercontent.com/himanshu-soni/QuantityView/master/screenshots/device-2015-10-09-175420.png" width="320" />
+<img src="https://raw.githubusercontent.com/himanshu-soni/QuantityView/master/screenshots/device-2015-09-29-191352.png" width="270" />
+<img src="https://raw.githubusercontent.com/himanshu-soni/QuantityView/master/screenshots/device-2015-10-09-175354.png" width="270" />
+<img src="https://raw.githubusercontent.com/himanshu-soni/QuantityView/master/screenshots/device-2015-10-09-175420.png" width="270" />
 
 ---
 
@@ -174,14 +155,6 @@ Circular SeekBar view for Android
 
 ---
 
-**MaterialEditText**: [https://github.com/rengwuxian/MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
-
-EditText in Material Design
-
-<img src="https://github.com/rengwuxian/MaterialEditText/blob/master/images/material_edittext.png" width="320" />
-
----
-
 **materialish-progress**: [https://github.com/pnikosis/materialish-progress](https://github.com/pnikosis/materialish-progress)
 
 A material style progress wheel compatible with 2.3
@@ -210,26 +183,25 @@ A skeleton of google's appcompat android navigation drawer with material design.
 
 Material Design implementation for Android 2.2+. Shadows, ripples, vectors, fonts, animations, widgets, rounded corners and more.[https://androidreclib.wordpress.com/](https://androidreclib.wordpress.com/)
 
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/anchors.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/spinner.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/buttonsusage.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/autocomplete.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/powermenu.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/progress.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/textappearances.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/calculator.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/sampleapp.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/recyclercards.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/pagertabstrip.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/drawer.png" width="320" />
+<img src="https://github.com/ZieIony/Carbon/blob/master/images/anchors.png" width="270" />
+<img src="https://github.com/ZieIony/Carbon/blob/master/images/spinner.png" width="270" />
+<img src="https://github.com/ZieIony/Carbon/blob/master/images/buttonsusage.png" width="270" />
+<img src="https://github.com/ZieIony/Carbon/blob/master/images/autocomplete.png" width="270" />
+<img src="https://github.com/ZieIony/Carbon/blob/master/images/powermenu.png" width="270" />
+<img src="https://github.com/ZieIony/Carbon/blob/master/images/progress.png" width="270" />
+<img src="https://github.com/ZieIony/Carbon/blob/master/images/textappearances.png" width="270" />
+<img src="https://github.com/ZieIony/Carbon/blob/master/images/calculator.png" width="270" />
+<img src="https://github.com/ZieIony/Carbon/blob/master/images/sampleapp.png" width="270" />
+<img src="https://github.com/ZieIony/Carbon/blob/master/images/recyclercards.png" width="270" />
+<img src="https://github.com/ZieIony/Carbon/blob/master/images/pagertabstrip.png" width="270" />
+<img src="https://github.com/ZieIony/Carbon/blob/master/images/drawer.png" width="270" />
 
 ---
 
-**material-calendarview**: [https://github.com/prolificinteractive/material-calendarview](https://github.com/prolificinteractive/material-calendarview)
+**material-calendarview**: https://github.com/prolificinteractive/material-calendarview
 
 A Material design back port of Android's CalendarView.[https://prolificinteractive.github.io/material-calendarview/](https://prolificinteractive.github.io/material-calendarview/)
 
-<img src="https://github.com/prolificinteractive/material-calendarview/blob/master/images/ic_launcher-web.png" width="320" />
 <img src="https://github.com/prolificinteractive/material-calendarview/blob/master/images/screencast.gif" width="320" />
 
 ---
@@ -260,7 +232,7 @@ A library to bring fully animated Material Design components to pre-Lolipop Andr
 
 A different beautiful Floating Edit Text.
 
-<img src="https://www.youtube.com/watch?v=Rax_o3URazU" width="320" />
+<img src="https://camo.githubusercontent.com/d5eb5d6991d4bde93d8ac0e0c958e3ce66c75082/687474703a2f2f692e67697068792e636f6d2f6c34316c566b4130596b615a574e5430492e676966" width="320" />
 
 ---
 
@@ -293,23 +265,6 @@ Bubbles for Android is an Android library to provide chat heads capabilities on 
 Sometimes, we need to show a label above an ImageView or any other views. Well, LabelView will be able to help you. It's easy to implement as well!
 
 <img src="https://github.com/linger1216/labelview/blob/master/img/img1.png" width="320" />
-
----
-
-**Shimmer-android**: [https://github.com/RomainPiel/Shimmer-android](https://github.com/RomainPiel/Shimmer-android)
-
-An Android TextView with a shimmering effect
-
-<img src="http://youtu.be/7EOsegp4J2o" width="320" />
-
----
-
-**colorpicker**:  https://github.com/QuadFlask/colorpicker
-
-color picker for android
-
-<img src="https://github.com/QuadFlask/colorpicker/blob/master/screenshot/screenshot3.png" width="320" />
-<img src="https://github.com/QuadFlask/colorpicker/blob/master/screenshot/screenshot.png" width="320" />
 
 ---
 
