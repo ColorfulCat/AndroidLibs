@@ -150,7 +150,6 @@ MD 风格的启动引导页面
 
 <img src="https://raw.githubusercontent.com/Ramotion/paper-onboarding-android/master/onboarding_preview.gif" width="600" />
 
-
 ---
 
 **WoWoViewPager**: https://github.com/Nightonke/WoWoViewPager
@@ -159,6 +158,14 @@ WoWo可以优化你的App介绍/引导页面，制作你的App简历
 
 ![WoWoViewPager App Intros Example](https://github.com/Nightonke/WoWoViewPager/blob/master/Pictures/AppIntroExample.gif) 
 ![WoWoViewPager CV Example](https://github.com/Nightonke/WoWoViewPager/blob/master/Pictures/CVExample.gif)
+
+---
+
+**YahooNewsOnboarding**: https://github.com/rahulrj/YahooNewsOnboarding
+
+Demo of the onboarding animations of Yahoo News App
+
+<img src="https://raw.githubusercontent.com/rahulrj/YahooNewsOnboarding/master/yahoo-news-demo.gif" width="320" />
 
 ---
 
@@ -715,27 +722,11 @@ can be used freely with other widgets together.
 
 ---
 
-**UIBlock**: https://github.com/tianzhijiexian/UIBlock
-
-代替fragment的轻量级解耦UI的类
-
-<img src="https://github.com/tianzhijiexian/UIBlock/blob/master/demo/top.png" width="640" />
-
----
-
 **FlycoPageIndicator**: https://github.com/H07000223/FlycoPageIndicator
 
 A Page Indicator Lib is realized in a different way.
 
 <img src="https://github.com/H07000223/FlycoPageIndicator/blob/master/preview_FlycoPageIndicator.gif" width="320" />
-
----
-
-**YahooNewsOnboarding**: https://github.com/rahulrj/YahooNewsOnboarding
-
-Demo of the onboarding animations of Yahoo News App
-
-<img src="https://camo.githubusercontent.com/8c53eab0a0296a5ea9f8db289e44cc424fbf4a57/68747470733a2f2f73332d75732d776573742d322e616d617a6f6e6177732e636f6d2f68656c70746573746275636b65742f7961686f6f2d6e6577732d64656d6f2e676966" width="320" />
 
 ---
 

@@ -138,6 +138,14 @@ Router activities
 
 ---
 
+**UIBlock**: https://github.com/tianzhijiexian/UIBlock
+
+代替 fragment 的轻量级解耦UI的类，解决 fragment 嵌套问题
+
+<img src="https://raw.githubusercontent.com/tianzhijiexian/UiBlock/master/images/demo02.png" width="480" /> <img src="https://raw.githubusercontent.com/tianzhijiexian/UiBlock/master/images/demo03.jpg" width="480" />
+
+---
+
 **Bugtags-Android**: https://github.com/bugtags/Bugtags-Android
 
 Simple and effective bug & crash reporting tool for Android apps http://bugtags.com/
