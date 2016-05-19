@@ -6,6 +6,14 @@
 
 ---
 
+**animated-circle-progress-view**: https://github.com/tuenti/animated-circle-progress-view
+
+Progress view that animates its state changes
+
+<img src="https://raw.githubusercontent.com/tuenti/animated-circle-progress-view/master/media/sample.gif" width="400" />
+
+---
+
 **FragmentAnimations**: https://github.com/kakajika/FragmentAnimations
 
 3D animations for support-v4 Fragment transition
