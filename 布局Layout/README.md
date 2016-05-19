@@ -5,6 +5,14 @@
 
 ---
 
+**android-widget-connectpattern**: https://github.com/BCGDV-ASIA/android-widget-connectpattern
+
+Draw a pattern to confirm the action, unlock the screen etc
+
+<img src="https://camo.githubusercontent.com/5ccff9236a09156ec4b0dff27854850df3753045/687474703a2f2f692e67697068792e636f6d2f7177303330426757793538492e676966" width="270" /> <img src="https://camo.githubusercontent.com/c31b09fdd29904340a1e54506f357dcaa17dc1a0/687474703a2f2f692e67697068792e636f6d2f617744654a41434a635a5443552e676966" width="270" />
+
+---
+
 **NavigationTabStrip**: https://github.com/DevLight-Mobile-Agency/NavigationTabStrip
 
 Navigation tab strip with smooth interaction
