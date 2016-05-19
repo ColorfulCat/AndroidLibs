@@ -183,22 +183,6 @@ Android's TextView that can expand/collapse like the Google Play's app descripti
 
 ---
 
-**shimmer-android**: [https://github.com/facebook/shimmer-android](https://github.com/facebook/shimmer-android)
-
-An easy, flexible way to add a shimmering effect to any view in an Android app.[http://facebook.github.io/shimmer-android/](http://facebook.github.io/shimmer-android/)
-
-<img src="https://github.com/facebook/shimmer-android/blob/master/shimmer.gif?raw=true" width="320" />
-
----
-
-**Titanic**: [https://github.com/RomainPiel/Titanic](https://github.com/RomainPiel/Titanic)
-
-Android experiment showing a sinking TextView
-
-<img src="https://github.com/RomainPiel/Titanic/blob/master/titanic.gif" width="320" />
-
----
-
 **android-autofittextview**: [https://github.com/grantland/android-autofittextview](https://github.com/grantland/android-autofittextview)
 
 A TextView that automatically resizes text to fit perfectly within its bounds.
@@ -212,14 +196,6 @@ A TextView that automatically resizes text to fit perfectly within its bounds.
 Android Text Full Jusiftication / Wrapping / Justify / Hyphenate - V2.0 [https://github.com/bluejamesbond/TextJustify-Android/wiki](https://github.com/bluejamesbond/TextJustify-Android/wiki)
 
 <img src="https://camo.githubusercontent.com/061a4a460340c26422b2a2f43d7fe39e73246297/687474703a2f2f692e696d6775722e636f6d2f6b3662415764302e6a7067" width="320" />
-
----
-
-**BabushkaText**: [https://github.com/quiqueqs/BabushkaText](https://github.com/quiqueqs/BabushkaText)
-
-A simpler way to style your TextViews
-
-<img src="https://github.com/quiqueqs/BabushkaText/blob/master/images/example.png" width="320" />
 
 ---
 
