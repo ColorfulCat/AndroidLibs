@@ -6,6 +6,14 @@
 
 ---
 
+**JKeyboardPanelSwitch**: https://github.com/Jacksgong/JKeyboardPanelSwitch
+
+Android键盘面板冲突 布局闪动处理方案
+
+<img src="https://raw.githubusercontent.com/Jacksgong/JKeybordPanelSwitch/master/art/non-fullscreen_resolved.gif" width="320" /> <img src="https://raw.githubusercontent.com/Jacksgong/JKeybordPanelSwitch/master/art/adjust_resolved.gif" width="320" />
+
+---
+
 **CustomizeKeyboard**: https://github.com/ziyeyouhu/CustomizeKeyboard
 
 完全自定义的Android安全键盘
