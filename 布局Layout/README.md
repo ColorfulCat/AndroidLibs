@@ -127,6 +127,15 @@ Expand your view with no problem
 
 ---
 
+**welcome-android**: https://github.com/stephentuso/welcome-android
+
+A customizable welcome screen http://stephentuso.github.io/welcome-android/
+
+<img src="https://raw.githubusercontent.com/stephentuso/welcome-android/master/media/sample-video.gif" width="270" />
+
+
+---
+
 **paper-onboarding-android**: https://github.com/Ramotion/paper-onboarding-android
 
 MD 风格的启动引导页面
