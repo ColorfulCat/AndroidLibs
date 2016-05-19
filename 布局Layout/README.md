@@ -78,6 +78,15 @@ Android library for creating beautiful tags for your content.
 
 ---
 
+**AndroidTagView**: https://github.com/whilu/AndroidTagView
+
+A TagView library for Android. Customize your own & `Drag` effect.
+
+<img src="https://github.com/whilu/AndroidTagView/blob/master/screenshots/androidtagview_record_1.gif" width="320" />
+
+---
+
+
 **TagViewLayout**: https://github.com/jjhesk/TagViewLayout
 
 Fast manage your TagViewLayouts
@@ -255,11 +264,9 @@ ProductTour is android sample project implementing a parallax effect welcome pag
 
 Android app状态栏变色。
 
-<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_03.gif" width="320" />
-<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/lalala.gif" width="320" />
-<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_05.gif" width="320" />
-<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_10.gif" width="320" />
-<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_11.gif" width="320" />
+<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_03.gif" width="270" />
+<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_10.gif" width="270" />
+<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_11.gif" width="270" />
 
 ---
 
@@ -271,12 +278,12 @@ A lightweight viewpager indicator!
 
 ---
 
-**MaterialDrawer**: [https://github.com/mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
+**MaterialDrawer**: https://github.com/mikepenz/MaterialDrawer
 
 The flexible, easy to use, all in one drawer library for your Android project.[http://mikepenz.github.io/MaterialDrawer](http://mikepenz.github.io/MaterialDrawer)
 
-<img src="https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots1.jpg" width="640" />
-<img src="https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots2.jpg" width="640" />
+<img src="https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots1.jpg" width="400" />
+<img src="https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots2.jpg" width="400" />
 
 ---
 
@@ -610,7 +617,7 @@ This project aims to provide a working page flip implementation for usage in Lis
 
 超级强大的 MD 风格 ViewPager
 
-<img src="https://camo.githubusercontent.com/490c9be79fb31220e8020e1e56fb2b7b193888cb/687474703a2f2f692e67697068792e636f6d2f785469546e6d457364716137495a614d58532e676966" width="270" /> <img src="https://camo.githubusercontent.com/a35e24983540672f83b59973c09afcd2d320582f/687474703a2f2f73686172652e676966796f75747562652e636f6d2f793556384a582e676966" width="270" /> <img src="https://camo.githubusercontent.com/b38dc667e5cc098cc00fbdea5a98c2d22a974d78/687474703a2f2f73686172652e676966796f75747562652e636f6d2f796f326f4a6e2e676966" width="270" /> <img src="https://camo.githubusercontent.com/2dfce263123ee1f7c45a12571e1b4ebd8a57aa1d/687474703a2f2f73686172652e676966796f75747562652e636f6d2f7941426b67572e676966" width="270" />
+<img src="https://camo.githubusercontent.com/490c9be79fb31220e8020e1e56fb2b7b193888cb/687474703a2f2f692e67697068792e636f6d2f785469546e6d457364716137495a614d58532e676966" width="270" /> <img src="https://camo.githubusercontent.com/a35e24983540672f83b59973c09afcd2d320582f/687474703a2f2f73686172652e676966796f75747562652e636f6d2f793556384a582e676966" width="270" /> <img src="https://camo.githubusercontent.com/b38dc667e5cc098cc00fbdea5a98c2d22a974d78/687474703a2f2f73686172652e676966796f75747562652e636f6d2f796f326f4a6e2e676966" width="270" />
 
 ---
 

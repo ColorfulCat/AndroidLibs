@@ -18,6 +18,31 @@ CountryPicker is a simple library that can be show a country picker
 
 ---
 
+**android-betterpickers**: [https://github.com/derekbrameyer/android-betterpickers](https://github.com/derekbrameyer/android-betterpickers)
+
+Android library for better Picker DialogFragments
+
+<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_calendar_date.png" width="100" />
+<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_date.png" width="100" />
+<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_expiration.png" width="100" />
+<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_hms.png" width="100" />
+<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_number.png" width="100" />
+<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_radial_time.png" width="100" />
+<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_recurrence.png" width="100" />
+<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_time.png" width="100" />
+
+---
+
+**SublimePicker**: [https://github.com/vikramkakkar/SublimePicker](https://github.com/vikramkakkar/SublimePicker)
+
+A material-styled android view that provisions picking of a date, time & recurrence option, all from a single user-interface.
+
+<img src="https://github.com/vikramkakkar/SublimePicker/blob/master/img/date_picker.png?raw=true" width="270" />
+<img src="https://github.com/vikramkakkar/SublimePicker/blob/master/img/time_picker.png?raw=true" width="270" />
+<img src="https://github.com/vikramkakkar/SublimePicker/blob/master/img/recurrence_picker.png?raw=true" width="270" />
+
+---
+
 **SlideDateTimePicker**: https://github.com/jjobes/SlideDateTimePicker
 
 A combined DatePicker and TimePicker in a DialogFragment for Android

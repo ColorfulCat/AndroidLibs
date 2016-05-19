@@ -346,143 +346,6 @@ A demo to show bezier.
 
 ---
 
-**SlideDateTimePicker**:  https://github.com/jjobes/SlideDateTimePicker
-
- A combined DatePicker and TimePicker in a DialogFragment for Android
-
-<img src="https://camo.githubusercontent.com/4896da076522a1187ebaadc747ed7d437393adab/68747470733a2f2f7261772e6769746875622e636f6d2f6a6a6f6265732f536c6964654461746554696d655069636b65722f6d61737465722f73637265656e73686f74732f312e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/666c1296f27bd9289b72d94b7986336d5ef2f3eb/68747470733a2f2f7261772e6769746875622e636f6d2f6a6a6f6265732f536c6964654461746554696d655069636b65722f6d61737465722f73637265656e73686f74732f322e706e67" width="320" />
-
----
-
-**AutoCompleteBubbleText**:  https://github.com/FrederickRider/AutoCompleteBubbleText
-
- Android AutoCompleteTextView with attached ListView, and drawable background
-
-<img src="https://github.com/FrederickRider/AutoCompleteBubbleText/blob/master/images/Screenshot_1.png" width="320" />
-
----
-
-**shimmer-android**: [https://github.com/facebook/shimmer-android](https://github.com/facebook/shimmer-android)
-
-An easy, flexible way to add a shimmering effect to any view in an Android app.[http://facebook.github.io/shimmer-android/](http://facebook.github.io/shimmer-android/)
-
-<img src="https://github.com/facebook/shimmer-android/blob/master/shimmer.gif?raw=true" width="320" />
-
----
-
-**Titanic**: [https://github.com/RomainPiel/Titanic](https://github.com/RomainPiel/Titanic)
-
-Android experiment showing a sinking TextView
-
-<img src="https://github.com/RomainPiel/Titanic/blob/master/titanic.gif" width="320" />
-
----
-
-**MatchView**: [https://github.com/Rogero0o/MatchView](https://github.com/Rogero0o/MatchView)
-
-Include MatchTextView and MatchButton..Come..you will like it
-
-<img src="https://camo.githubusercontent.com/a71e9d26a7f90ea70270b3681d99785a29f83be5/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f6136393561636465677731656d79746e6b347334356732306567306d6b3439302e676966" width="320" />
-
----
-
-**android-autofittextview**: [https://github.com/grantland/android-autofittextview](https://github.com/grantland/android-autofittextview)
-
-A TextView that automatically resizes text to fit perfectly within its bounds.
-
-<img src="https://github.com/grantland/android-autofittextview/blob/master/website/static/autofittextview.gif?raw=true" width="640" />
-
----
-
-**SecretTextView**: [https://github.com/matthewrkula/SecretTextView](https://github.com/matthewrkula/SecretTextView)
-
-A TextView that simulates the effect from the app Secret where the characters fade in/out at different speeds.
-
-<img src="https://camo.githubusercontent.com/bbb38412d3ae652f565556711e7aa6db67ebb4c7/68747470733a2f2f692e696d67666c69702e636f6d2f39356d39312e676966" width="320" />
-
----
-
-**TextJustify-Android**: [https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
-
-Android Text Full Jusiftication / Wrapping / Justify / Hyphenate - V2.0 [https://github.com/bluejamesbond/TextJustify-Android/wiki](https://github.com/bluejamesbond/TextJustify-Android/wiki)
-
-<img src="https://camo.githubusercontent.com/061a4a460340c26422b2a2f43d7fe39e73246297/687474703a2f2f692e696d6775722e636f6d2f6b3662415764302e6a7067" width="320" />
-
----
-
-**RoundedLetterView**: [https://github.com/pavlospt/RoundedLetterView](https://github.com/pavlospt/RoundedLetterView)
-
-RoundedLetterView like the one in Android 5.0 Contacts app
-
-<img src="https://github.com/pavlospt/RoundedLetterView/blob/master/Screenshots/device-2014-11-13-191000.png" width="320" />
-
----
-
-**TextDrawable**: [https://github.com/amulyakhare/TextDrawable](https://github.com/amulyakhare/TextDrawable)
-
-This light-weight library provides images with letter/text like the Gmail app. It extends the Drawable class thus can be used with existing/custom/network ImageView classes. Also included is a fluent interface for creating drawables and a customizable ColorGenerator.
-
-<img src="https://github.com/amulyakhare/TextDrawable/blob/master/screens/screen1-material.png" width="320" />
-<img src="https://github.com/amulyakhare/TextDrawable/blob/master/screens/screen2-material.png" width="320" />
-
----
-
-**BabushkaText**: [https://github.com/quiqueqs/BabushkaText](https://github.com/quiqueqs/BabushkaText)
-
-A simpler way to style your TextViews
-
-<img src="https://github.com/quiqueqs/BabushkaText/blob/master/images/example.png" width="320" />
-
----
-
-**ExpandableTextView**: [https://github.com/Manabu-GT/ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView)
-
-Android's TextView that can expand/collapse like the Google Play's app description
-
-<img src="https://camo.githubusercontent.com/8bf46083b3bd152c2051ae4c234649dbbb975376/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e6162752d47542f457870616e6461626c6554657874566965772f6d61737465722f6172742f726561646d655f64656d6f2e676966" width="320" />
-
----
-
-**floatlabelededittext**: [https://github.com/wrapp/floatlabelededittext](https://github.com/wrapp/floatlabelededittext)
-
-Floating hint from edit text - inspired by Matt D. Smith's design:[http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users](http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users)
-
-<img src="https://camo.githubusercontent.com/9b15f9bfcdacc9bf053fff9d06e7a91a0d1b5070/687474703a2f2f692e696d6775722e636f6d2f75635264316a6d2e676966" width="320" />
-
----
-
-**SizeAdjustingTextView**: [https://github.com/erchenger/SizeAdjustingTextView](https://github.com/erchenger/SizeAdjustingTextView)
-
-This is based on an open source autosizing textview for Android.
-
----
-
-**ParkedTextView**: [https://github.com/gotokatsuya/ParkedTextView](https://github.com/gotokatsuya/ParkedTextView)
-
-A editable text with a constant text/placeholder for Android.
-
-<img src="https://github.com/gotokatsuya/ParkedTextView/blob/master/doc/demo-gif.gif" width="320" />
-
----
-
-**material-code-input**: [https://github.com/glomadrian/material-code-input](https://github.com/glomadrian/material-code-input)
-
-A material style input for codes
-
-<img src="https://github.com/glomadrian/material-code-input/blob/master/art/codeInput1.gif" width="320" />
-<img src="https://github.com/glomadrian/material-code-input/blob/master/art/codeInput2.gif" width="320" />
-
----
-
-**TextSurface**: [https://github.com/elevenetc/TextSurface](https://github.com/elevenetc/TextSurface)
-
-A little animation framework which could help you to show message in a nice looking way
-
-<img src="https://github.com/elevenetc/TextSurface/blob/master/docs/demo.gif" width="320" />
-
----
-
 **discreteSeekBar**: [https://github.com/AnderWeb/discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar)
 
 <img src="https://camo.githubusercontent.com/b1c5e00bc9164c24b995a95942dbb731edd8d39e/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d4a6a7678564d436d3175672f56485550575642667062492f41414141414141414874512f5450746f4f6a4849354d412f773633392d683335362f7365656b626172322e676966" width="320" />
@@ -597,14 +460,6 @@ A powerful library for creating notifications in android platform.
 
 ---
 
-**Spanny**: [https://github.com/binaryfork/Spanny](https://github.com/binaryfork/Spanny)
-
-A helper class that extends SpannableStringBuilder and adds methods to easily mark the text with multiple spans.
-
-<img src="https://camo.githubusercontent.com/16b6d49cf7481709a8bb43803489e6f43e26c1ac/687474703a2f2f692e696d6775722e636f6d2f4e506e6c3079792e706e673f31" width="320" />
-
----
-
 **android-times-square**: [https://github.com/square/android-times-square](https://github.com/square/android-times-square)
 
 Standalone Android widget for picking a single date from a calendar view.
@@ -621,21 +476,6 @@ A simple example of a responsive Month Calendar app widget for Android
 
 ---
 
-**android-betterpickers**: [https://github.com/derekbrameyer/android-betterpickers](https://github.com/derekbrameyer/android-betterpickers)
-
-Android library for better Picker DialogFragments
-
-<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_calendar_date.png" width="80" />
-<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_date.png" width="80" />
-<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_expiration.png" width="80" />
-<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_hms.png" width="80" />
-<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_number.png" width="80" />
-<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_radial_time.png" width="80" />
-<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_recurrence.png" width="80" />
-<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_time.png" width="80" />
-
----
-
 **Android-Week-View**: [https://github.com/alamkanak/Android-Week-View](https://github.com/alamkanak/Android-Week-View)
 
 Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.
@@ -649,17 +489,6 @@ Android Week View is an android library to display calendars (week view or day v
 Android calendar view inspired by Sunrise calendar and iOS7 stock calendar
 
 <img src="https://github.com/NLMartian/SilkCal/raw/master/images/screenshot.gif" width="320" />
-
----
-
-**SublimePicker**: [https://github.com/vikramkakkar/SublimePicker](https://github.com/vikramkakkar/SublimePicker)
-
-A material-styled android view that provisions picking of a date, time & recurrence option, all from a single user-interface.
-
-<img src="https://github.com/vikramkakkar/SublimePicker/blob/master/img/date_picker.png?raw=true" width="320" />
-<img src="https://github.com/vikramkakkar/SublimePicker/blob/master/img/time_picker.png?raw=true" width="320" />
-<img src="https://github.com/vikramkakkar/SublimePicker/blob/master/img/recurrence_picker.png?raw=true" width="320" />
-<img src="https://github.com/vikramkakkar/SublimePicker/blob/master/img/recurrence_option_creator.png?raw=true" width="320" />
 
 ---
 
@@ -709,7 +538,7 @@ Bootstrap style widgets for Android, with Glyph Icons
 
 A fast PDF reader component for Android development.[http://joanzapata.com/android-pdfview/](http://joanzapata.com/android-pdfview/)
 
-<img src="https://play.google.com/store/apps/details?id=com.joanzapata.pdfview.sample" width="320" />
+<img src="https://camo.githubusercontent.com/7712406b4e86c0260f6fd35ed4a1fb77a73a29ce/68747470733a2f2f7261772e6769746875622e636f6d2f4a6f616e5a61706174612f616e64726f69642d706466766965772f6d61737465722f6465766963652e706e67" width="320" />
 
 ---
 
@@ -750,9 +579,9 @@ A view that allows to paint and saves the result as a bitmap.[http://panavtec.me
 
 Provides 9-patch based drop shadow for view elements. Works on API level 9 or later.
 
-<img src="https://github.com/h6ah4i/android-materialshadowninepatch/blob/master/pic/gb.png?raw=true" width="320" />
-<img src="https://github.com/h6ah4i/android-materialshadowninepatch/blob/master/pic/ics.png?raw=true" width="320" />
-<img src="https://github.com/h6ah4i/android-materialshadowninepatch/blob/master/pic/lollipop.png?raw=true" width="320" />
+<img src="https://github.com/h6ah4i/android-materialshadowninepatch/blob/master/pic/gb.png?raw=true" width="270" />
+<img src="https://github.com/h6ah4i/android-materialshadowninepatch/blob/master/pic/ics.png?raw=true" width="270" />
+<img src="https://github.com/h6ah4i/android-materialshadowninepatch/blob/master/pic/lollipop.png?raw=true" width="270" />
 
 ---
 
@@ -760,10 +589,9 @@ Provides 9-patch based drop shadow for view elements. Works on API level 9 or la
 
 Android
 
-<img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/screens/1.gif" width="320" />
-<img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/screens/2.gif" width="320" />
-<img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/screens/4.gif" width="320" />
-<img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/screens/3.gif" width="320" />
+<img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/screens/1.gif" width="270" />
+<img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/screens/2.gif" width="270" />
+<img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/screens/4.gif" width="270" />
 
 ---
 
@@ -779,16 +607,7 @@ Android layout decorators : Injecting custom attributes in layout files, Using d
 
 Simple Visualizer from mic input for Android.
 
-<img src="http://www.youtube.com/watch?v=fJTl1bgQ3j4" width="320" />
-
----
-
-**easyfonts**: [https://github.com/vsvankhede/easyfonts](https://github.com/vsvankhede/easyfonts)
-
-Useful library to use custom fonts in your android app
-
-<img src="https://github.com/vsvankhede/easyfonts/blob/master/images/fontface_list.png" width="320" />
-<img src="https://github.com/vsvankhede/easyfonts/blob/master/images/banner.png" width="320" />
+<img src="https://camo.githubusercontent.com/dec65b58525ce17eff5e0318d3c39ae33760284a/687474703a2f2f696d672e796f75747562652e636f6d2f76692f664a546c31626751336a342f302e6a7067" width="320" />
 
 ---
 
@@ -816,13 +635,6 @@ Animation CheckBox
 
 ---
 
-**AndroidTagView**: https://github.com/whilu/AndroidTagView
-
-A TagView library for Android. Customize your own & `Drag` effect.
-
-<img src="https://github.com/whilu/AndroidTagView/blob/master/screenshots/androidtagview_record_1.gif" width="320" />
-
----
 
 
 
