@@ -14,7 +14,7 @@ B 站出品的 Android 开源弹幕引擎 —— 烈焰弹幕使
 
 **KeyBoardDemo**: https://github.com/wobiancao/KeyBoardDemo
 
-表情输入和键盘切换解决方案
+Android 软键盘和emoji表情切换方案，和微信几乎一样的体验
 
 <img src="https://camo.githubusercontent.com/df05b7b65a599ff861770b06e2d78f459defc0da/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313231363033322d396363316635393663353835643433642e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="320" />
 

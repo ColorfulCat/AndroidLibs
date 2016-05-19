@@ -38,6 +38,14 @@ MD 风格的登录、注册界面布局
 
 ---
 
+**MaterialLogin**: https://github.com/shem8/MaterialLogin
+
+Login view with material design
+
+<img src="https://raw.githubusercontent.com/shem8/MaterialLogin/master/art/example.gif" width="320" /> <img src="https://raw.githubusercontent.com/shem8/MaterialLogin/master/art/custom.gif" width="320" />
+
+---
+
 **SineView**: https://github.com/guiguegon/SineView
 
 正弦曲线绘制动画
@@ -761,7 +769,7 @@ A simple implementation of swipe card like StreetView
 
 仿照iOS的滚轮控件，从请吃饭apk反编译出来的
 
-<img src="http://upload-images.jianshu.io/upload_images/43468-028c429ef0d15498.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="320" />
+<img src="https://cloud.githubusercontent.com/assets/7868514/15390811/7269dbac-1df0-11e6-92a7-899ef62bbbb4.png" width="320" />
 
 ---
 
@@ -781,14 +789,6 @@ Android: iOS-like over-scrolling effect applicable over almost all scrollable An
 
 ---
 
-**Timeline-View**: https://github.com/vipulasri/Timeline-View
-
-Android Timeline View is used to display views like Tracking of shipment/order, steppers etc
-
-<img src="https://github.com/vipulasri/Timeline-View/blob/master/Screenshot1.png" width="320" />
-
----
-
 **WeixinTest**: https://github.com/fengsehng/WeixinTest
 
 仿微信主页面，通过ViewPager实现，高度可定制化，页面可以左右滑动，点击下面那妞也可以切换。
@@ -797,51 +797,11 @@ Android Timeline View is used to display views like Tracking of shipment/order, 
 
 ---
 
-**KeyBoardDemo**: https://github.com/a12a15a05/KeyBoardDemo
-
-Android 软键盘和emoji表情切换方案，和微信几乎一样的体验
-
-<img src="https://camo.githubusercontent.com/df05b7b65a599ff861770b06e2d78f459defc0da/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313231363033322d396363316635393663353835643433642e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="320" />
-
----
-
-**JKeyboardPanelSwitch**: https://github.com/Jacksgong/JKeyboardPanelSwitch
-
-For resolve keybord & panel switch layout conflict(Android键盘面板冲突 布局闪动处理方案) http://blog.dreamtobe.cn/2015/09/01/keyboard-panel-switch/。
-
-<img src="https://raw.githubusercontent.com/Jacksgong/JKeybordPanelSwitch/master/img/resolve_mv.gif" width="320" />
-
----
-
 **MaterialPageStateLayout**: https://github.com/Syehunter/MaterialPageStateLayout
 
 PageStateLayout could let you show [Loading][Empty][Error][Succeed][Requesting] state in Activity, Fragment, ViewGroup as you want.
 
 <img src="https://camo.githubusercontent.com/7f8b84dfd761480c284df204672d8fcf7cbbe429/687474703a2f2f37786e347a342e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f5061676553746174654c61796f75742e676966" width="320" />
-
----
-
-**MaterialLogin**: https://github.com/shem8/MaterialLogin
-
-Login view with material design
-
-<img src="https://github.com/shem8/MaterialLogin/blob/master/example.gif" width="320" />
-
----
-
-**RecyclerView-FastScroll**: https://github.com/timusus/RecyclerView-FastScroll
-
-A simple FastScroller for Android's RecyclerView
-
-<img src="https://github.com/timusus/RecyclerView-FastScroll/blob/master/screenshot.jpg" width="320" />
-
----
-
-**Chris-Android-PullToRefresh**: https://github.com/bboyfeiyu/Chris-Android-PullToRefresh
-
-下拉刷新，上拉加载库
-
-<img src="https://raw.githubusercontent.com/chrisbanes/Android-PullToRefresh/master/header_graphic.png" width="480" />
 
 ---
 
@@ -857,6 +817,6 @@ A morphing toolbar that can expand/collapse at anytime
 
 Live Audio Equalizer with wave effect https://www.cleveroad.com
 
-<img src="https://github.com/Cleveroad/CRAudioVisualizationView/blob/master/images/demo.gif" width="320" />
+<img src="https://github.com/Cleveroad/CRAudioVisualizationView/blob/master/images/demo.gif" width="640" />
 
 ---

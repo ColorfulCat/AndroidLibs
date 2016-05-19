@@ -76,6 +76,30 @@ Ultra Pull to Refresh for Android. Support all the views. [http://android-ultra-
 
 ---
 
+**Chris-Android-PullToRefresh**: https://github.com/bboyfeiyu/Chris-Android-PullToRefresh
+
+下拉刷新，上拉加载库
+
+<img src="https://raw.githubusercontent.com/chrisbanes/Android-PullToRefresh/master/header_graphic.png" width="480" />
+
+---
+
+**RecyclerView-FastScroll**: https://github.com/timusus/RecyclerView-FastScroll
+
+A simple FastScroller for Android's RecyclerView
+
+<img src="https://github.com/timusus/RecyclerView-FastScroll/blob/master/screenshot.jpg" width="320" />
+
+---
+
+**Timeline-View**: https://github.com/vipulasri/Timeline-View
+
+Android Timeline View is used to display views like Tracking of shipment/order, steppers etc
+
+<img src="https://github.com/vipulasri/Timeline-View/blob/master/Screenshot1.png" width="320" />
+
+---
+
 **MultiStateView**: [https://github.com/Kennyc1012/MultiStateView](https://github.com/Kennyc1012/MultiStateView)
 
 Android View that displays different content based on its state
