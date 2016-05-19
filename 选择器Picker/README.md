@@ -100,3 +100,12 @@ Simple & Wonderful wheel view in realistic effect for android.
 
 ---
 
+**AndroidSweetSheet**: [https://github.com/zzz40500/AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet)
+
+一个富有动感的Sheet(选择器)
+
+<img src="https://github.com/zzz40500/AndroidSweetSheet/raw/master/screenshot/Design.gif" width="320" />
+<img src="https://github.com/zzz40500/AndroidSweetSheet/raw/master/screenshot/SweetSheet.gif" width="320" />
+
+---
+

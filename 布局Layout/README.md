@@ -94,6 +94,14 @@ Fast manage your TagViewLayouts
 
 ---
 
+**AndroidTagGroup**:  https://github.com/2dxgujun/AndroidTagGroup
+
+A beautiful android tag group widget.
+
+<img src="https://camo.githubusercontent.com/8adbb5c44c656151cb108ada6d1383e2c6af38b7/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f62636532646561396a7731657362736279397635666a323075303077386a78782e6a7067" width="320" />
+
+---
+
 **BubbleLayout**: https://github.com/MasayukiSuda/BubbleLayout
 
 Bubble View for Android
@@ -360,10 +368,10 @@ Implementation of ExpandableListview with custom header and custom content.
 
 The TileView widget is a subclass of android.view.ViewGroup that asynchronously displays tile-based images, with pan and zoom functionality, and features like markers, hotspots, paths, multiple levels of detail, and arbitrary coordinate systems.[http://moagrius.github.io/TileView/](http://moagrius.github.io/TileView/)
 
-<img src="https://cloud.githubusercontent.com/assets/701344/10954033/d20843bc-8310-11e5-83ad-4e062b9b1be0.gif" width="640" />
-<img src="https://cloud.githubusercontent.com/assets/701344/10954031/d2059c3e-8310-11e5-821d-26dd8691d4d3.gif" width="640" />
-<img src="https://cloud.githubusercontent.com/assets/701344/10954032/d207ffc4-8310-11e5-926d-038549987d47.gif" width="640" />
-<img src="https://cloud.githubusercontent.com/assets/701344/10954035/d20aee5a-8310-11e5-9027-ff06bc921a23.gif" width="640" />
+<img src="https://cloud.githubusercontent.com/assets/701344/10954033/d20843bc-8310-11e5-83ad-4e062b9b1be0.gif" width="400" />
+<img src="https://cloud.githubusercontent.com/assets/701344/10954031/d2059c3e-8310-11e5-821d-26dd8691d4d3.gif" width="400" />
+<img src="https://cloud.githubusercontent.com/assets/701344/10954032/d207ffc4-8310-11e5-926d-038549987d47.gif" width="400" />
+<img src="https://cloud.githubusercontent.com/assets/701344/10954035/d20aee5a-8310-11e5-9027-ff06bc921a23.gif" width="400" />
 
 ---
 
@@ -380,10 +388,9 @@ Highlight the best bits of your app to users quickly, simply, and cool...ly.
 
 Android library used to create an awesome Android UI based on a draggable element similar to the last YouTube graphic component.
 
-<img src="https://github.com/pedrovgs/DraggablePanel/blob/develop/art/screenshot1.gif" width="320" />
-<img src="https://github.com/pedrovgs/DraggablePanel/blob/develop/art/screenshot3.gif" width="320" />
-<img src="https://github.com/pedrovgs/DraggablePanel/blob/develop/art/screenshot4.gif" width="320" />
-<img src="https://github.com/pedrovgs/DraggablePanel/blob/develop/art/screenshot2.gif" width="320" />
+<img src="https://github.com/pedrovgs/DraggablePanel/blob/develop/art/screenshot1.gif" width="270" />
+<img src="https://github.com/pedrovgs/DraggablePanel/blob/develop/art/screenshot3.gif" width="270" />
+<img src="https://github.com/pedrovgs/DraggablePanel/blob/develop/art/screenshot4.gif" width="270" />
 
 ---
 
@@ -433,9 +440,9 @@ Android layout that simulates physics using JBox2D
 
 Android component which presents a dismissible view from the bottom of the screen
 
-<img src="https://camo.githubusercontent.com/d81602913dd3f1e40268cbe4dfffa9d9697f58a3/687474703a2f2f692e696d6775722e636f6d2f3265335a686f552e676966" width="320" />
-<img src="https://camo.githubusercontent.com/86b90121dd237cc370209cd710708df3528c5a78/687474703a2f2f692e696d6775722e636f6d2f777239484a44312e676966" width="320" />
-<img src="https://camo.githubusercontent.com/fce3d0f29234bac59e8641e0a9198ae64e0d7bd8/687474703a2f2f692e696d6775722e636f6d2f66326a395935652e676966" width="320" />
+<img src="https://camo.githubusercontent.com/d81602913dd3f1e40268cbe4dfffa9d9697f58a3/687474703a2f2f692e696d6775722e636f6d2f3265335a686f552e676966" width="270" />
+<img src="https://camo.githubusercontent.com/86b90121dd237cc370209cd710708df3528c5a78/687474703a2f2f692e696d6775722e636f6d2f777239484a44312e676966" width="270" />
+<img src="https://camo.githubusercontent.com/fce3d0f29234bac59e8641e0a9198ae64e0d7bd8/687474703a2f2f692e696d6775722e636f6d2f66326a395935652e676966" width="270" />
 
 ---
 
@@ -451,10 +458,9 @@ This library provides a simple way to add a draggable sliding up panel (populari
 
 Allows the easy creation of animated transition effects when the state of Android UI has changed
 
-<img src="https://github.com/kaichunlin/android-transition/blob/master/github/animation_transition.gif" width="320" />
-<img src="https://github.com/kaichunlin/android-transition/blob/master/github/slideup_default.gif" width="320" />
-<img src="https://github.com/kaichunlin/android-transition/blob/master/github/slideup_default.gif" width="320" />
-<img src="https://github.com/kaichunlin/android-transition/blob/master/github/slideup_anticipate.gif" width="320" />
+<img src="https://github.com/kaichunlin/android-transition/blob/master/github/animation_transition.gif" width="270" />
+<img src="https://github.com/kaichunlin/android-transition/blob/master/github/slideup_default.gif" width="270" />
+<img src="https://github.com/kaichunlin/android-transition/blob/master/github/slideup_default.gif" width="270" />
 
 ---
 
@@ -463,15 +469,6 @@ Allows the easy creation of animated transition effects when the state of Androi
 Stale Android Toasts made tasty.
 
 <img src="https://github.com/pyricau/frenchtoast/blob/master/assets/demo.gif" width="320" />
-
----
-
-**AndroidSweetSheet**: [https://github.com/zzz40500/AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet)
-
-一个富有动感的Sheet(选择器)
-
-<img src="https://github.com/zzz40500/AndroidSweetSheet/raw/master/screenshot/Design.gif" width="320" />
-<img src="https://github.com/zzz40500/AndroidSweetSheet/raw/master/screenshot/SweetSheet.gif" width="320" />
 
 ---
 
@@ -519,9 +516,9 @@ Library containing common animations needed for transforming ViewPager scrolling
 
 Android-PullToNextLayout
 
-<img src="https://camo.githubusercontent.com/80fecc586629f42e0b7fbd86561d48d70296571f/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d633938343064666334343735323535302e676966" width="320" />
-<img src="https://camo.githubusercontent.com/62a8435e152a3202d5631516b9ba3ca27f067fc4/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d323630396137663963306438663734302e676966" width="320" />
-<img src="https://camo.githubusercontent.com/a01467c764ed134cd399fad6c6142874293dd3c8/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d336139656438643139366461643738372e676966" width="320" />
+<img src="https://camo.githubusercontent.com/80fecc586629f42e0b7fbd86561d48d70296571f/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d633938343064666334343735323535302e676966" width="270" />
+<img src="https://camo.githubusercontent.com/62a8435e152a3202d5631516b9ba3ca27f067fc4/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d323630396137663963306438663734302e676966" width="270" />
+<img src="https://camo.githubusercontent.com/a01467c764ed134cd399fad6c6142874293dd3c8/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d336139656438643139366461643738372e676966" width="270" />
 
 ---
 
@@ -531,14 +528,6 @@ Android-PullToNextLayout
 
 <img src="https://github.com/zhaozhentao/KugouLayout/blob/master/screenshot/screen2.gif" width="320" />
 <img src="https://github.com/zhaozhentao/KugouLayout/blob/master/screenshot/screen1.gif" width="320" />
-
----
-
-**AndroidTagGroup**:  https://github.com/2dxgujun/AndroidTagGroup
-
-A beautiful android tag group widget.
-
-<img src="https://camo.githubusercontent.com/8adbb5c44c656151cb108ada6d1383e2c6af38b7/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f62636532646561396a7731657362736279397635666a323075303077386a78782e6a7067" width="320" />
 
 ---
 
@@ -617,11 +606,11 @@ This project aims to provide a working page flip implementation for usage in Lis
 
 ---
 
-**MaterialViewPager**: [https://github.com/florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager)
+**MaterialViewPager**: https://github.com/florent37/MaterialViewPager
 
-A Material Design ViewPager easy to use library
+超级强大的 MD 风格 ViewPager
 
-<img src="http://www.youtube.com/watch?v=r95Tt6AS18c" width="320" />
+<img src="https://camo.githubusercontent.com/490c9be79fb31220e8020e1e56fb2b7b193888cb/687474703a2f2f692e67697068792e636f6d2f785469546e6d457364716137495a614d58532e676966" width="270" /> <img src="https://camo.githubusercontent.com/a35e24983540672f83b59973c09afcd2d320582f/687474703a2f2f73686172652e676966796f75747562652e636f6d2f793556384a582e676966" width="270" /> <img src="https://camo.githubusercontent.com/b38dc667e5cc098cc00fbdea5a98c2d22a974d78/687474703a2f2f73686172652e676966796f75747562652e636f6d2f796f326f4a6e2e676966" width="270" /> <img src="https://camo.githubusercontent.com/2dfce263123ee1f7c45a12571e1b4ebd8a57aa1d/687474703a2f2f73686172652e676966796f75747562652e636f6d2f7941426b67572e676966" width="270" />
 
 ---
 
@@ -637,7 +626,7 @@ A rubber indicator
 
 A different beautiful ViewPager, with quick swipe controls
 
-<img src="https://www.youtube.com/watch?v=4ZmjEde-Xho" width="320" />
+<img src="https://raw.githubusercontent.com/florent37/HollyViewPager/master/screens/1024_small.png" width="640" />
 
 ---
 
@@ -671,7 +660,7 @@ An extension of ResideMenu
 
 Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app
 
-<img src="https://camo.githubusercontent.com/4fb0e40bdb047be104b2cefddee62923b8a2da37/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e75656c5065696e61646f2f466164696e67416374696f6e4261722f6d61737465722f6172742f726561646d655f7069632e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/4fb0e40bdb047be104b2cefddee62923b8a2da37/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e75656c5065696e61646f2f466164696e67416374696f6e4261722f6d61737465722f6172742f726561646d655f7069632e706e67" width="640" />
 
 ---
 
@@ -679,7 +668,7 @@ Android library implementing a fading effect for the action bar, similar to the 
 
 Android - a library that adds a glass-like effect to the action bar.
 
-<img src="https://camo.githubusercontent.com/01c80fb941f2ba07f6d9d26d80dd4792a79127d4/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e75656c5065696e61646f2f476c617373416374696f6e4261722f6d61737465722f6172742f726561646d655f7069632e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/01c80fb941f2ba07f6d9d26d80dd4792a79127d4/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e75656c5065696e61646f2f476c617373416374696f6e4261722f6d61737465722f6172742f726561646d655f7069632e706e67" width="640" />
 
 ---
 
@@ -691,12 +680,11 @@ You can easily access the top of the screen in Android. Like a iPhone 6 & 6 Plus
 
 ---
 
-**android-slidingactivity**: [https://github.com/klinker41/android-slidingactivity](https://github.com/klinker41/android-slidingactivity)
+**android-slidingactivity**: https://github.com/klinker41/android-slidingactivity
 
 Android library which allows you to swipe down from an activity to close it.
 
 <img src="https://github.com/klinker41/android-slidingactivity/blob/master/preview.gif" width="320" />
-<img src="https://github.com/klinker41/android-slidingactivity/blob/master/preview_landscape.gif" width="320" />
 <img src="https://github.com/klinker41/android-slidingactivity/blob/master/preview_inbox_animation.gif" width="320" />
 
 ---
