@@ -6,9 +6,25 @@
 
 ---
 
-**干·妹纸 (Gān Mèizhi) GankMeizhi**: [https://github.com/xingrz/GankMeizhi](https://github.com/xingrz/GankMeizhi)
+**AndroidWeekly**: https://github.com/mzule/AndroidWeekly
 
-只是一个业余的 Android 项目而已。
+A third party app for androidweekly.net
+
+<img src="https://raw.githubusercontent.com/mzule/AndroidWeekly/master/art/article.jpg" width="270" /> <img src="https://raw.githubusercontent.com/mzule/AndroidWeekly/master/art/home.jpg" width="270" /> <img src="https://raw.githubusercontent.com/mzule/AndroidWeekly/master/art/translation.gif" width="270" />
+
+---
+
+**PlayTogether**: https://github.com/Chenantao/PlayTogether
+
+一款以兴趣为驱动的陌生人社交app
+
+<img src="https://raw.githubusercontent.com/Chenantao/PlayTogether/master/screenshot/1.png" width="270" /> <img src="https://raw.githubusercontent.com/Chenantao/PlayTogether/master/screenshot/4.png" width="270" /> <img src="https://raw.githubusercontent.com/Chenantao/PlayTogether/master/screenshot/9.png" width="270" />
+
+---
+
+**干·妹纸 (Gān Mèizhi) GankMeizhi**: https://github.com/xingrz/GankMeizhi
+
+只是一个业余的 Android 项目而已
 
 <img src="https://github.com/xingrz/GankMeizhi/raw/master/screenshots/1.jpg" width="320" />
 
