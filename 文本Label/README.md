@@ -6,6 +6,22 @@
 
 ---
 
+**icarus-android**: https://github.com/mr5/icarus-android
+
+The best rich text editor for android platform
+
+<img src="https://raw.githubusercontent.com/mr5/icarus-android/master/demo.gif" width="240" />
+
+---
+
+**ImageTextView**: https://github.com/vipinagrahari/ImageTextView
+
+A Library to show Round ImageView with text labels on right side
+
+<img src="https://raw.githubusercontent.com/vipinagrahari/ImageTextView/master/screenshots/screen1.png" width="320" />
+
+---
+
 **ColorPhrase**: https://github.com/THEONE10211024/ColorPhrase
 
 Phrase is an Android string resource color setting library
