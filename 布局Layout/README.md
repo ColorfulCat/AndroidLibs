@@ -5,6 +5,14 @@
 
 ---
 
+**WindRoseDiagramView**: https://github.com/timqi/WindRoseDiagramView
+
+a view widget of WindRoseDiagram in android platform http://timqi.com
+
+![Screenshots](https://github.com/timqi/WindRoseDiagramView/raw/master/art/WindRoseDiagram.gif)
+
+---
+
 **FlipView**: https://github.com/davideas/FlipView
 
 安卓反转 View
