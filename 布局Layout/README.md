@@ -5,6 +5,22 @@
 
 ---
 
+**MaterialPreferences**: https://github.com/yarolegovich/MaterialPreferences
+
+MD 风格的设置界面，兼容5.0以下
+
+![Screenshots](https://raw.githubusercontent.com/yarolegovich/materialpreferences/master/art/screenshots.png)
+
+---
+
+**BreadcrumbLayout**: https://github.com/ayvazj/BreadcrumbLayout
+
+A Breadcrumb view based on the TabLayout
+
+<img src="https://raw.githubusercontent.com/ayvazj/BreadcrumbLayout/master/docs/breadcrumb.gif" width="320" />
+
+---
+
 **SpringView**: https://github.com/liaoinstan/SpringView
 
 A custom view can pull up and down,support ScrollView,ListView,RecyclerView,WebView
@@ -200,6 +216,13 @@ Android Search View based on Material design guidelines
 
 <img src="https://camo.githubusercontent.com/6676f599bcaac6b35b57a4c9729c52725b32d4c5/687474703a2f2f692e737461636b2e696d6775722e636f6d2f43354c41342e676966" width="320" />
 
+---
+
+**BottomNavigation**: https://github.com/Ashok-Varma/BottomNavigation
+
+底部导航栏
+
+<img src="https://raw.githubusercontent.com/Ashok-Varma/BottomNavigation/master/all.gif" width="320" />
 ---
 
 **BottomBar**: https://github.com/roughike/BottomBar
