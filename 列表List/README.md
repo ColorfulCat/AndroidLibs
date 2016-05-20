@@ -6,6 +6,14 @@
 
 ---
 
+**StickyHeaders**: https://github.com/ShamylZakariya/StickyHeaders
+
+Adapter and LayoutManager for Android RecyclerView which enables sticky header positioning
+
+<img src="https://raw.githubusercontent.com/ShamylZakariya/StickyHeaders/master/readme-assets/video-addressbook.gif" width="320" /> <img src="https://raw.githubusercontent.com/ShamylZakariya/StickyHeaders/master/readme-assets/video-callbacks.gif" width="320" />
+
+---
+
 **CalendarListview**: https://github.com/traex/CalendarListview
 
 CalendarListview provides a easy way to select dates with a calendar for API 10+
