@@ -5,6 +5,14 @@
 
 ---
 
+**FlipView**: https://github.com/davideas/FlipView
+
+安卓反转 View
+
+![Screenshots](https://raw.githubusercontent.com/davideas/FlipView/master/showcase/showcase1.gif) ![Screenshots](https://raw.githubusercontent.com/davideas/FlipView/master/showcase/showcase2.gif) 
+
+---
+
 **MaterialPreferences**: https://github.com/yarolegovich/MaterialPreferences
 
 MD 风格的设置界面，兼容5.0以下
@@ -67,6 +75,14 @@ Login view with material design
 正弦曲线绘制动画
 
 <img src="https://raw.githubusercontent.com/guiguegon/SineView/master/screenshots/screenshot.png" width="320" /> <img src="https://raw.githubusercontent.com/guiguegon/SineView/master/screenshots/animating.gif" width="320" />
+
+---
+
+**FlowTag**: https://github.com/hanhailong/FlowTag
+
+Android流式布局，支持点击、单选、多选等，适合用于产品标签等
+
+<img src="https://raw.githubusercontent.com/hanhailong/AndroidStudyResources/master/screenshot/flow_tag.gif" width="320" />
 
 ---
 
