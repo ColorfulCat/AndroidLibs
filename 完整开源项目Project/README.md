@@ -96,7 +96,7 @@ MIUI开源的文件管理器
 **AndroidTVLauncher**: https://github.com/JackyAndroid/AndroidTVLauncher
 
 This is a better android-tv-launcher,it can running on the tv box.Build with gradle.
-https://raw.githubusercontent.com/JackyAndroid/AndroidTVLauncher/master/screenshots/androidtv-leanback-sample.png
+
 <img src="https://raw.githubusercontent.com/JackyAndroid/AndroidTVLauncher/master/screenshots/androidtv-leanback-sample.png" width = "640"/>
 
 ---
@@ -281,13 +281,7 @@ PocketNote is a simple note application for Android with many useful utilities
 <img src="https://raw.githubusercontent.com/channguyen/pocket-note-android/master/appstore/sc1.png" width="320" />
 <img src="https://raw.githubusercontent.com/channguyen/pocket-note-android/master/appstore/sc4.png" width="320" />
 
----       
-
-**EWeightScale**: https://github.com/Jhuster/EWeightScale
-
-一款可以记录和查询体重的应用 http://ticktick.blog.51cto.com/823160/1687127
-
----      
+---
 
 **WeGit**: https://github.com/Leaking/WeGit
 
@@ -296,7 +290,7 @@ An Android App for Github
 <img src="https://github.com/Leaking/GithubKnife/blob/master/screenshot/git1.pic.jpg" width="320" />
 <img src="https://github.com/Leaking/GithubKnife/blob/master/screenshot/git3.pic.jpg" width="320" />
 
----     
+---
 
 **Watch**: https://github.com/tuesda/Watch
 
@@ -305,7 +299,7 @@ A project which demonstrate how to develop a custom client on android for dribbb
 <img src="https://github.com/tuesda/Watch/blob/master/animation/home.gif" width="320" />
 <img src="https://github.com/tuesda/Watch/blob/master/animation/page.gif" width="320" />
 
----       
+---
 
 **StickerCamera**: https://github.com/Skykai521/StickerCamera
 
@@ -557,6 +551,8 @@ AcDisplay is a new way of handling `notifications` in Android. http://acdisplay.
 **NBAPlus**:  https://github.com/SilenceDut/NBAPlus
 
 A concise APP about NBA News and Event with RxJava and EventBus http://fir.im/nbaplus
+
+<img src="https://github.com/SilenceDut/NBAPlus/blob/master/screenshot/1.png" width="400" /> <img src="https://github.com/SilenceDut/NBAPlus/blob/master/screenshot/2.png" width="400" />
 
 ---
 
