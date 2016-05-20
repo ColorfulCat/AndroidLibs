@@ -50,6 +50,12 @@ An Android Animation library which easily add itemanimator to RecyclerView items
 
 ---
 
+**EasyAdapter**: https://github.com/mzule/EasyAdapter
+
+一种简单的 Adapter 解决方案，支持多种 ViewType，轻松创建 ViewHolder 模式 Adapter. 支持 ListView 和 RecyclerView
+
+---
+
 **recyclerviewhelper**: https://github.com/nisrulz/recyclerviewhelper
 
 RecyclerView 超强助手
