@@ -4,6 +4,18 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
+---
+
+**LoadingDrawable**: https://github.com/dinuscxj/LoadingDrawable
+
+some beautiful android loading drawable
+
+![](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/AnimalDrawable.gif?width=300)
+![](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/SceneryDrawable.gif?width=300)
+![](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleJumpDrawable.gif?width=300)
+
+---
+
 **ArcProgressStackView**: https://github.com/GIGAMOLE/ArcProgressStackView
 
 Present your progress bars in arc mode with information and total control.
