@@ -6,6 +6,12 @@
 
 ---
 
+**VRDroid**：https://github.com/babysource/VRDroid
+
+VR Player for android
+
+---
+
 **AndRouter**：https://github.com/AppLozic/Applozic-Android-SDK
 
 安卓实时聊天框架
