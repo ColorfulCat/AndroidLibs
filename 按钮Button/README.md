@@ -6,6 +6,14 @@
 
 ---
 
+**FaceOffToggleButton**: https://github.com/Nightonke/FaceOffToggleButton
+
+Toggle button which shows a happy face for checked or unhappy for unchecked
+
+![FaceOffToggleButton](https://github.com/Nightonke/FaceOffToggleButton/blob/master/img/Animation.gif?raw=true)
+
+---
+
 **FloatingActionButton**: [https://github.com/makovkastar/FloatingActionButton](https://github.com/makovkastar/FloatingActionButton)
 
 Android floating action button.
