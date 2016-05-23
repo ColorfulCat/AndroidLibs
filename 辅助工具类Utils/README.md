@@ -6,6 +6,12 @@
 
 ---
 
+**android-UCToast**: https://github.com/liaohuqiu/android-UCToast
+
+开机自动启动的 Service 监听剪切板。复制之后，在屏幕顶部显示一个悬浮窗，显示剪贴板内容。点击悬浮窗，跳转到 Activity 页面显示
+
+---
+
 **KeyBoardDemo**: https://github.com/wobiancao/KeyBoardDemo
 
 Android 软键盘和emoji表情切换方案，和微信几乎一样的体验
