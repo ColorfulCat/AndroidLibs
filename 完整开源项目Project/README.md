@@ -6,6 +6,14 @@
 
 ---
 
+**TranslateToast**: https://github.com/jiang111/TranslateToast
+
+翻译助手 
+
+<img src="https://raw.githubusercontent.com/jiang111/TranslateToast/master/7.gif" width="320" />
+
+---
+
 **AndroidWeekly**: https://github.com/mzule/AndroidWeekly
 
 A third party app for androidweekly.net
