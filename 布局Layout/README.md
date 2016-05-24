@@ -5,6 +5,14 @@
 
 ---
 
+**swipe-action-layout**: https://github.com/prolificinteractive/swipe-action-layout
+
+A nice swipe layout that provides new actions with a material design look and feel
+
+<img src="https://github.com/prolificinteractive/swipe-action-layout/blob/master/images/demo1.gif" width="320" /> <img src="https://raw.githubusercontent.com/prolificinteractive/swipe-action-layout/master/images/demo2.gif" width="320" />
+
+---
+
 **presenter-layout**: https://github.com/CROSP/presenter-layout
 
 安卓覆盖的 View， 可显示成功，错误，加载，文本等
