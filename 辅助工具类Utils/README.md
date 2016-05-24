@@ -323,11 +323,15 @@ Screaming fast JSON parsing and serialization library for Android.
 
 ---
 
+**FireCrasher**: https://github.com/osama-raddad/FireCrasher
+
+FireCrasher is a Uncaught Exceptions handler library for android
+
+---
+
 **CustomActivityOnCrash**: https://github.com/Ereza/CustomActivityOnCrash
 
 Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
-
-This library allows launching a custom activity when the app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
 
 <img src="https://github.com/Ereza/CustomActivityOnCrash/blob/master/images/frontpage.png" width="640" />
 
