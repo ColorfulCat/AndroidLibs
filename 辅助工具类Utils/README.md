@@ -6,6 +6,12 @@
 
 ---
 
+**ASimpleCache**: https://github.com/yangfuhai/ASimpleCache
+
+一个为android制定的 轻量级的 开源缓存框架
+
+---
+
 **android-UCToast**: https://github.com/liaohuqiu/android-UCToast
 
 开机自动启动的 Service 监听剪切板。复制之后，在屏幕顶部显示一个悬浮窗，显示剪贴板内容。点击悬浮窗，跳转到 Activity 页面显示
