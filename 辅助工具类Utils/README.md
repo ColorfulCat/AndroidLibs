@@ -48,14 +48,6 @@ Android键盘面板冲突 布局闪动处理方案
 
 ---
 
-**CustomizeKeyboard**: https://github.com/ziyeyouhu/CustomizeKeyboard
-
-完全自定义的Android安全键盘
-
-<img src="https://raw.githubusercontent.com/ziyeyouhu/CustomizeKeyboard/master/images/aaa.gif" width="240" />
-
----
-
 **UpdatePlugin**: https://github.com/yjfnypeu/UpdatePlugin
 
 可任意定制的app更新组件

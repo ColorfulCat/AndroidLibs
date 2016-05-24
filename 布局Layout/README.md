@@ -17,10 +17,6 @@ A nice swipe layout that provides new actions with a material design look and fe
 
 安卓覆盖的 View， 可显示成功，错误，加载，文本等
 
-**BreadcrumbLayout**: https://github.com/ayvazj/BreadcrumbLayout
-
-A Breadcrumb view based on the TabLayout
-
 <img src="https://raw.githubusercontent.com/CROSP/presenter-layout/master/screenshots/screen1.png" width="200" /> <img src="https://raw.githubusercontent.com/CROSP/presenter-layout/master/screenshots/screen3.png" width="200" /> <img src="https://raw.githubusercontent.com/CROSP/presenter-layout/master/screenshots/screen5.png" width="200" /> <img src="https://raw.githubusercontent.com/CROSP/presenter-layout/master/screenshots/screen6.png" width="200" />
 
 ---
