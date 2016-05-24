@@ -6,6 +6,12 @@
 
 ---
 
+**android-gif-drawable**: https://github.com/koral--/android-gif-drawable
+
+Views and Drawable for displaying animated GIFs on Android
+
+---
+
 **recent-images**: https://github.com/amirarcane/recent-images
 
 获取手机里的所有图片
