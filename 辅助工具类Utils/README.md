@@ -355,6 +355,14 @@ less code, more efficient for android
 
 ---
 
+**JustWeTools**: https://github.com/lfkdsk/JustWeTools
+
+Some useful tools
+
+<img src="https://raw.githubusercontent.com/lfkdsk/JustWeTools/master/picture/markdown.png" width="320" /> <img src="https://raw.githubusercontent.com/lfkdsk/JustWeTools/master/picture/VerTextView.png" width="320" /> <img src="https://raw.githubusercontent.com/lfkdsk/JustWeTools/master/picture/gif.gif" width="480" /> <img src="https://raw.githubusercontent.com/lfkdsk/JustWeTools/master/picture/clock.png" width="240" /> 
+
+--
+
 **android-common**: https://github.com/litesuits/android-common
 
 安卓开发通用类、辅助类、工具类的集合
