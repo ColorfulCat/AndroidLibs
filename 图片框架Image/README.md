@@ -6,6 +6,14 @@
 
 ---
 
+**recent-images**: https://github.com/amirarcane/recent-images
+
+获取手机里的所有图片
+
+<img src="https://raw.githubusercontent.com/amirarcane/recent-images/master/demo/Screenshot_2015-10-31-15-40-49.png" width="320" />
+
+---
+
 **LowPoly**: https://github.com/zzhoujay/LowPoly
 
 Low Poly风格图片生成器
