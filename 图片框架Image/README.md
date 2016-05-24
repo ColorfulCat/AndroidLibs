@@ -6,6 +6,14 @@
 
 ---
 
+**MagicalCamera**: https://github.com/fabian7593/MagicalCamera
+
+A library to take picture easy, trasnfrom your data and save photos in your device
+
+<img src="https://raw.githubusercontent.com/fabian7593/MagicalCamera/master/magicalcamera.gif" width="270" />
+
+---
+
 **android-gif-drawable**: https://github.com/koral--/android-gif-drawable
 
 Views and Drawable for displaying animated GIFs on Android
