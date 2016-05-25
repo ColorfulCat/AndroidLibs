@@ -6,6 +6,12 @@
 
 ---
 
+**OptimusHTTP**: https://github.com/nisrulz/OptimusHTTP
+
+Android library that simplifies networking in android via an async http client http://nisrulz.github.io/OptimusHTTP
+
+---
+
 **RestVolley**: https://github.com/HujiangTechnology/RestVolley
 
 A Http request framework based on Volley and OkHttp that supports rest api requesting, image loading, downloading, uploading etc.
