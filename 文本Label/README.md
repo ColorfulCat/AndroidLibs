@@ -6,6 +6,32 @@
 
 ---
 
+**advancedtextview**: https://github.com/oktayayr/advancedtextview
+
+AdvancedTextView provides advanced features that simplifies complicated UI processes
+
+<img src="https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/justifytext_ss.png" width="320" /> <img src="https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/autofit_ss.png" width="480" />
+
+![Aller](https://raw.githubusercontent.com/oktayayr/advancedtextview/master//arts/aller.png)
+
+![Bebas](https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/bebas.png)
+
+![Capture It](https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/capture.png)
+
+![Caviar Dreams](https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/caviar_dreams.png)
+
+![Droid Sans](https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/droid_sans.png)
+
+![Journal](https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/journal.png)
+
+![Open Sans](https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/open_sans.png)
+
+![Pacifico](https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/pacifico.png)
+
+![Roboto](https://raw.githubusercontent.com/oktayayr/advancedtextview/master/arts/roboto.png)
+
+---
+
 **icarus-android**: https://github.com/mr5/icarus-android
 
 The best rich text editor for android platform
