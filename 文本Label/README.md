@@ -6,6 +6,14 @@
 
 ---
 
+**NumberMorphView4Android**: https://github.com/Even201314/NumberMorphView4Android
+
+数字动态变化的 View
+
+<img src="https://raw.githubusercontent.com/Even201314/NumberMorphView4Android/master/raw/master/screenshot/sample.gif" width="320" />
+
+---
+
 **advancedtextview**: https://github.com/oktayayr/advancedtextview
 
 AdvancedTextView provides advanced features that simplifies complicated UI processes
