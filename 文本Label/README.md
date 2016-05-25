@@ -6,6 +6,14 @@
 
 ---
 
+**RichEditText**: https://github.com/chen-xiao-dong/RichEditText
+
+可替换 EditText 的富文本 View
+
+<img src="https://raw.githubusercontent.com/eastearly/RichEditText/master/raw/screen-shot/addlink.png" width="320" />
+
+---
+
 **NumberMorphView4Android**: https://github.com/Even201314/NumberMorphView4Android
 
 数字动态变化的 View
