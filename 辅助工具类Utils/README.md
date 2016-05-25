@@ -6,6 +6,12 @@
 
 ---
 
+**ParcelCheck**: https://github.com/Commit451/ParcelCheck
+
+Simple test to see if all models in project correctly implement Parcelable
+
+---
+
 **license-tools-plugin**: https://github.com/cookpad/license-tools-plugin
 
 Gradle plugin to check library licenses and generate license pages
