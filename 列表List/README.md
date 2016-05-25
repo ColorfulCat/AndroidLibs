@@ -78,15 +78,15 @@ This component like SwipeRefreshLayout, it is more beautiful than SwipeRefreshLa
 
 ---
 
-**android-Ultra-Pull-To-Refresh**: [https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
+**android-Ultra-Pull-To-Refresh**: https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
 
 Ultra Pull to Refresh for Android. Support all the views. [http://android-ultra-ptr.liaohuqiu.net/](http://android-ultra-ptr.liaohuqiu.net/)
 
-<img src="https://camo.githubusercontent.com/588a2ef2cdcfb6c71e88437df486226dd15605b3/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f73746f72652d686f7573652d737472696e672d61727261792e676966" width="320" />
-<img src="https://camo.githubusercontent.com/d3fbe757c87fddc94e998ebdd08ac55956aed1cf/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f73746f72652d686f7573652d737472696e672e676966" width="320" />
-<img src="https://camo.githubusercontent.com/4dfccd5a50f7d59b512300fce341a1217950603a/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f6d6174657269616c2d7374796c652e676966" width="320" />
-<img src="https://camo.githubusercontent.com/9033435ad82be43ccddc8203450f361ee270c724/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f70756c6c2d746f2d726566726573682e676966" width="320" />
-<img src="https://camo.githubusercontent.com/88cdf877aa0a1fb19506ecf3404447eba59e68cc/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f6175746f2d726566726573682e676966" width="320" />
+<img src="https://camo.githubusercontent.com/588a2ef2cdcfb6c71e88437df486226dd15605b3/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f73746f72652d686f7573652d737472696e672d61727261792e676966" width="160" />
+<img src="https://camo.githubusercontent.com/d3fbe757c87fddc94e998ebdd08ac55956aed1cf/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f73746f72652d686f7573652d737472696e672e676966" width="160" />
+<img src="https://camo.githubusercontent.com/4dfccd5a50f7d59b512300fce341a1217950603a/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f6d6174657269616c2d7374796c652e676966" width="160" />
+<img src="https://camo.githubusercontent.com/9033435ad82be43ccddc8203450f361ee270c724/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f70756c6c2d746f2d726566726573682e676966" width="160" />
+<img src="https://camo.githubusercontent.com/88cdf877aa0a1fb19506ecf3404447eba59e68cc/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f6175746f2d726566726573682e676966" width="160" />
 
 ---
 
@@ -305,14 +305,6 @@ An Android staggered grid view which supports multiple columns with rows of vary
 
 ---
 
-**android-swipelistview**: [https://github.com/47deg/android-swipelistview](https://github.com/47deg/android-swipelistview)
-
-An Android List View implementation with support for drawable cells and many other swipe related features
-
-<img src="https://www.youtube.com/watch?v=E0352OH488M" width="320" />
-
----
-
 **android-parallax-recyclerview**: [https://github.com/kanytu/android-parallax-recyclerview](https://github.com/kanytu/android-parallax-recyclerview)
 
 An adapter which could be used to achieve a parallax effect on RecyclerView.
@@ -327,17 +319,6 @@ An adapter which could be used to achieve a parallax effect on RecyclerView.
 ListView with blur/parallax/sticky capabilities.
 
 <img src="https://github.com/wasabeef/awesome-android-ui/blob/master/art/BlurStickyHeaderListView.gif" width="320" />
-
----
-
-**recyclerview-animators**: [https://github.com/wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
-
-An Android Animation library which easily add itemanimator to RecyclerView items.
-
-<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo.gif" width="320" />
-<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo2.gif" width="320" />
-<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo3.gif" width="320" />
-<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo5.gif" width="320" />
 
 ---
 
@@ -429,8 +410,8 @@ Easy to implement Google Photos style multi-selection for RecyclerViews.[http://
 
 Sticky Headers decorator for Android's RecyclerView
 
-<img src="https://www.youtube.com/watch?v=zluBwbf3aew" width="320" />
-<img src="https://www.youtube.com/watch?v=zluBwbf3aew" width="320" />
+<img src="https://camo.githubusercontent.com/2712b977a781964db02085035e43281773ab4ffa/687474703a2f2f692e696d6775722e636f6d2f49307a746f50772e676966" width="320" />
+<img src="https://camo.githubusercontent.com/9fe2a23efb0ab8222910a09e21234c0c313afc10/687474703a2f2f692e696d6775722e636f6d2f6235704a6a744c2e676966" width="480" />
 
 ---
 
@@ -479,13 +460,15 @@ WaterDropListView，just like the iOS
 
 The bullet proof, fast and easy to use adapter library, which minimizes developing time when use RecyclerView... http://mikepenz.github.io/FastAdapter
 
+<img src="https://raw.githubusercontent.com/mikepenz/FastAdapter/develop/DEV/github/screenshots1.jpg" width="640"/>
+
 ---
 
 **NestedTimeLineRecyclerView**: https://github.com/ishratkhan/NestedTimeLineRecyclerView
 
 It is a custom implementation of nested timeline view using RecyclerView
 
-<img src="https://imgur.com/IsuDF6g" width="320" />
+<img src="https://camo.githubusercontent.com/8c9d67b4ad583b72f61f87ebc0ea9e34bce7544e/687474703a2f2f692e696d6775722e636f6d2f497375444636672e676966" width="320" />
 
 ---
 
