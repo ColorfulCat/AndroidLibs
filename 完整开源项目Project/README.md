@@ -30,6 +30,14 @@ A third party app for androidweekly.net
 
 ---
 
+**GankGirl**: https://github.com/gaolonglong/GankGirl
+
+RxJava+Retrofit+Glide构建的gank.io第三方客户端，包含妹子图和技术干货等
+
+<img src="https://github.com/gaolonglong/GankGirl/raw/master/Screenshot/666.gif" width="320" /><img src="https://raw.githubusercontent.com/gaolonglong/GankGirl/master/Screenshot/33.png" width="320" />
+
+---
+
 **GanHuoIO**: https://github.com/burgessjp/GanHuoIO
 
 基于Gank.IO提供的API的第三方客户端 http://www.jianshu.com/p/3f137269a942
