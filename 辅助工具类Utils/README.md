@@ -6,6 +6,12 @@
 
 ---
 
+**license-tools-plugin**: https://github.com/cookpad/license-tools-plugin
+
+Gradle plugin to check library licenses and generate license pages
+
+---
+
 **nordpol**: https://github.com/fidesmo/nordpol
 
 The Android Support Library for NFC
