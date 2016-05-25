@@ -6,6 +6,14 @@
 
 ---
 
+**FABtransitions**: https://github.com/Adirockzz95/FABtransitions
+
+悬浮的 FAB
+
+<img src="https://github.com/Adirockzz95/FABtransitions/blob/master/demo%20(1).gif" width="320" /> <img src="https://github.com/Adirockzz95/FABtransitions/blob/master/demo%20(2).gif" width="320" />
+
+---
+
 **FaceOffToggleButton**: https://github.com/Nightonke/FaceOffToggleButton
 
 Toggle button which shows a happy face for checked or unhappy for unchecked
