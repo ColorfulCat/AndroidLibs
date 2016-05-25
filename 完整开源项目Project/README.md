@@ -6,6 +6,14 @@
 
 ---
 
+**DiyCodeForAndroid**: https://github.com/Yasic/DiyCodeForAndroid
+
+Diycode社区Android客户端
+
+<img src="https://camo.githubusercontent.com/28850b86582c5124e106bd4b820dc2e870f82c86/687474703a2f2f646979636f64652e62302e7570616979756e2e636f6d2f70686f746f2f323031362f66343134623730366139343131623434663866363365386530303232303334302e6a7067" width="270" />
+
+---
+
 **TranslateToast**: https://github.com/jiang111/TranslateToast
 
 翻译助手 
