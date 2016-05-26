@@ -38,6 +38,14 @@ A util for setting status bar style on Android App. http://laobie.github.io/andr
 
 ---
 
+**SparkScreen**: https://github.com/a396901990/SparkScreen
+
+通过SurfaceView模拟火花粒子的滑动喷射效果. Create spark jet effect by SurfaceView
+
+<img src="https://camo.githubusercontent.com/300f9daee53228f9af23c470c4ff9b6fa70fa3c2/687474703a2f2f696d672e6d792e6373646e2e6e65742f75706c6f6164732f3230313530322f32352f313432343837383736325f393931312e676966" width="320" /> <img src="https://camo.githubusercontent.com/518ee05e6557253c9c066d5fe04904957bc7be29/687474703a2f2f696d672e6d792e6373646e2e6e65742f75706c6f6164732f3230313530322f32352f313432343837383736315f313834352e676966" width="320" />
+
+---
+
 **ExplosionField**: [https://github.com/tyrantgit/ExplosionField](https://github.com/tyrantgit/ExplosionField)
 
 explosive dust effect for views
