@@ -6,6 +6,13 @@
 
 ---
 
+**FabActionAnimations**: https://github.com/qs-lll/FabActionAnimations
+
+TAB 动画显示
+
+<img src="https://raw.githubusercontent.com/qs-lll/FabActionAnimations/master/img/QsAnimation12.gif" width="240" />
+---
+
 **FABtransitions**: https://github.com/Adirockzz95/FABtransitions
 
 悬浮的 FAB
