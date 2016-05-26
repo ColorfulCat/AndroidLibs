@@ -6,6 +6,22 @@
 
 ---
 
+**IPTVFree**: https://github.com/michelelacorte/IPTVFree
+
+Simple IPTV
+
+<img src="https://camo.githubusercontent.com/553b6dbbc319eb280221f91d6ca54085f6f7c97f/687474703a2f2f7333322e706f7374696d672e6f72672f636469306672676f352f73637265656e312e706e67" width="270" /> <img src="https://camo.githubusercontent.com/441f7cda6342de392b288611c008a98cefebe1b6/687474703a2f2f7333322e706f7374696d672e6f72672f3567617a30726533702f73637265656e322e706e67" width="270" /> <img src="https://camo.githubusercontent.com/2e5425d81011b38834f85b761d7ac6c68b0b877b/687474703a2f2f7333322e706f7374696d672e6f72672f3462637331306a36742f73637265656e342e706e67" width="270" />
+
+---
+
+**FriendCircle**: https://github.com/razerdp/FriendCircle
+
+高仿微信朋友圈项目
+
+<img src="https://github.com/razerdp/FriendCircle/blob/main-dev/img/2016-04-21_dot_indicator.gif" width="320" />
+
+---
+
 **DiyCodeForAndroid**: https://github.com/Yasic/DiyCodeForAndroid
 
 Diycode社区Android客户端
