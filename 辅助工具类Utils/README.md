@@ -6,6 +6,18 @@
 
 ---
 
+**UVCCamera**: https://github.com/saki4510t/UVCCamera
+
+library and sample to access to UVC web camera on non-rooted Android device
+
+---
+
+**AndroidUsbCamera**: https://github.com/quanhua92/AndroidUsbCamera
+
+Use USB Webcam on non-rooted Android devices with UVCCamera library from saki4510t(above)
+
+---
+
 **ParcelCheck**: https://github.com/Commit451/ParcelCheck
 
 Simple test to see if all models in project correctly implement Parcelable
