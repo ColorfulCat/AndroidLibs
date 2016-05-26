@@ -5,6 +5,22 @@
 
 ---
 
+**FlycoSystemBar**: https://github.com/H07000223/FlycoSystemBar
+
+A Tool for SystemBar include StatusBar and NavigationBar. http://app.bilibili.com/
+
+<img src="https://github.com/H07000223/FlycoSystemBar/blob/master/art/5.0.gif" width="320" />
+
+---
+
+**StatusBarUtil**: https://github.com/laobie/StatusBarUtil
+
+A util for setting status bar style on Android App. http://laobie.github.io/android/2016/03/27/statusbar-util.html
+
+<img src="https://github.com/laobie/StatusBarUtil/blob/master/img/set_color_for_drawer_layout.png" width="480" />
+
+---
+
 **swipe-action-layout**: https://github.com/prolificinteractive/swipe-action-layout
 
 A nice swipe layout that provides new actions with a material design look and feel

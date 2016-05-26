@@ -30,14 +30,6 @@ A SiderBar base on Android that has a beautiful anim
 
 ---
 
-**StatusBarUtil**: https://github.com/laobie/StatusBarUtil
-
-A util for setting status bar style on Android App. http://laobie.github.io/android/2016/03/27/statusbar-util.html
-
-<img src="https://github.com/laobie/StatusBarUtil/blob/master/img/set_color_for_drawer_layout.png" width="480" />
-
----
-
 **SparkScreen**: https://github.com/a396901990/SparkScreen
 
 通过SurfaceView模拟火花粒子的滑动喷射效果. Create spark jet effect by SurfaceView
