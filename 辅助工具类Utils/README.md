@@ -6,6 +6,18 @@
 
 ---
 
+**multibackstack**: https://github.com/JetradarMobile/multibackstack
+
+安卓 回退栈管理
+
+---
+
+**phrase**: https://github.com/square/phrase
+
+安卓 格式化字符串的库
+
+---
+
 **UVCCamera**: https://github.com/saki4510t/UVCCamera
 
 library and sample to access to UVC web camera on non-rooted Android device
