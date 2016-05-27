@@ -6,6 +6,14 @@
 
 ---
 
+**Calligraphy**: https://github.com/chrisjenx/Calligraphy
+
+简单的自定义文本字体
+
+<img src="https://raw.githubusercontent.com/chrisjenx/Calligraphy/master/screenshot.png" width="320" />
+
+---
+
 **RichEditText**: https://github.com/chen-xiao-dong/RichEditText
 
 可替换 EditText 的富文本 View
