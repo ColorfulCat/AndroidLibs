@@ -6,6 +6,14 @@
 
 ---
 
+**HungerMoji**: https://github.com/mikeroelens/HungerMoji
+
+在通知栏操作的游戏
+
+<img src="https://cloud.githubusercontent.com/assets/7868514/15606990/2076bea2-2442-11e6-96b4-7cce38a41126.png" width="320" />
+
+---
+
 **CallerInfo**: https://github.com/xdtianyu/CallerInfo
 
 一个获取号码归属地和其他信息（诈骗、骚扰等）的开源 Android 应用

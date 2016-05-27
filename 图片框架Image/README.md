@@ -36,6 +36,14 @@ Low Poly风格图片生成器
 
 ---
 
+**LowPolyAndroid**: https://github.com/zzhoujay/LowPolyAndroid
+
+Low Poly 风格图片生成器，Android实现版
+
+<img src="https://raw.githubusercontent.com/zzhoujay/LowPoly/master/img/image.png" width="640" />
+
+---
+
 **ScratchView**: https://github.com/cooltechworks/ScratchView
 
 刮开图层查看图片和文字
