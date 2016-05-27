@@ -5,6 +5,14 @@
 
 ---
 
+**FloatView**: https://github.com/AlexLiuSheng/FloatView
+
+类似来电秀的可自由浮动的 View
+
+<img src="https://raw.githubusercontent.com/AlexLiuSheng/FloatView/master/z3.gif" width="270" /> <img src="https://raw.githubusercontent.com/AlexLiuSheng/FloatView/master/z.gif" width="270" />
+
+---
+
 **FlycoSystemBar**: https://github.com/H07000223/FlycoSystemBar
 
 A Tool for SystemBar include StatusBar and NavigationBar. http://app.bilibili.com/
