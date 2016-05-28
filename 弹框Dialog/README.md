@@ -6,6 +6,14 @@
 
 ---
 
+**android-simple-tooltip**: https://github.com/douglasjunior/android-simple-tooltip
+
+ simple library based on PopupWindow to create Tooltips on Android
+
+<img src="https://raw.githubusercontent.com/douglasjunior/android-simple-tooltip/master/screenshots/demo.gif" width="320" />
+
+---
+
 **SwipeAwayDialog**: https://github.com/kakajika/SwipeAwayDialog
 
 DialogFragment swipeable away like Tinder UI

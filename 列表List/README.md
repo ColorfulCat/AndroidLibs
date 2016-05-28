@@ -6,6 +6,14 @@
 
 ---
 
+**InfiniteListView**: https://github.com/ugurcany/InfiniteListView
+
+上拉加载更多，下拉刷新
+
+<img src="https://raw.githubusercontent.com/ugurcany/InfiniteListView/master/infinitelistview.gif" width="320" />
+
+---
+
 **StickyHeaders**: https://github.com/ShamylZakariya/StickyHeaders
 
 Adapter and LayoutManager for Android RecyclerView which enables sticky header positioning
