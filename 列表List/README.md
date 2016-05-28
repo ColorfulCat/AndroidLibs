@@ -14,6 +14,14 @@
 
 ---
 
+**StickyHeaderListView**: https://github.com/sfsheng0322/StickyHeaderListView
+
+功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等
+
+<img src="https://raw.githubusercontent.com/sfsheng0322/StickyHeaderListView/master/screenshots/stickyheader.gif" width="320" /> <img src="https://raw.githubusercontent.com/sfsheng0322/StickyHeaderListView/master/screenshots/StickyHeaderListView4.png" width="320" />
+
+---
+
 **StickyHeaders**: https://github.com/ShamylZakariya/StickyHeaders
 
 Adapter and LayoutManager for Android RecyclerView which enables sticky header positioning
