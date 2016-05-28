@@ -5,6 +5,14 @@
 
 ---
 
+**fenster**: https://github.com/malmstein/fenster
+
+利用TextureView 播放视频，并可控制播放，暂停等。
+
+<img src="https://raw.githubusercontent.com/malmstein/Fenster/master/art/video_example.gif" width="640" />
+
+---
+
 **FloatView**: https://github.com/AlexLiuSheng/FloatView
 
 类似来电秀的可自由浮动的 View
