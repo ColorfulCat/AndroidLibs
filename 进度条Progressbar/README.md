@@ -6,6 +6,14 @@
 
 ---
 
+**uberprogressview**: https://github.com/ishan1604/uberprogressview
+
+An android progress view developed after taking inspiration from Uber app
+
+<img src="https://raw.githubusercontent.com/ishan1604/uberprogressview/master/UberProgressViewDemo.gif" width="300" />
+
+---
+
 **LoadingDrawable**: https://github.com/dinuscxj/LoadingDrawable
 
 some beautiful android loading drawable
