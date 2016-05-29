@@ -6,6 +6,12 @@
 
 ---
 
+**InstaCapture**: https://github.com/tarek360/InstaCapture
+
+截图
+
+---
+
 **MagicalCamera**: https://github.com/fabian7593/MagicalCamera
 
 A library to take picture easy, trasnfrom your data and save photos in your device
