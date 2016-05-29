@@ -6,6 +6,14 @@
 
 ---
 
+**stackedhorizontalprogressbar**: https://github.com/nisrulz/stackedhorizontalprogressbar
+
+Android Library to implement stacked horizontal progressbar http://nisrulz.github.io/stackedhorizontalprogressbar
+
+<img src="https://cloud.githubusercontent.com/assets/7868514/15633753/c8bd4b48-25e7-11e6-80ed-08fa534e6e61.png" width="300" />
+
+---
+
 **uberprogressview**: https://github.com/ishan1604/uberprogressview
 
 An android progress view developed after taking inspiration from Uber app
