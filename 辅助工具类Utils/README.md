@@ -6,6 +6,12 @@
 
 ---
 
+**PiracyChecker**: https://github.com/javiersantos/PiracyChecker
+
+保护你的 app 以防破解
+
+---
+
 **gimBUS**: https://github.com/PGSSoft/gimBUS
 
 Event bus for Android with fine-grained delivery thread control
