@@ -6,6 +6,24 @@
 
 ---
 
+**Kolumbus**: https://github.com/MGaetan89/Kolumbus
+
+浏览应用 Realm 数据库
+
+---
+
+**android-hidden-api**: https://github.com/anggrayudi/android-hidden-api
+
+可直接访问安卓隐藏 APIs 和资源的库
+
+---
+
+**RNCryptorNative**: https://github.com/TGIO/RNCryptorNative
+
+安卓加解密
+
+---
+
 **PiracyChecker**: https://github.com/javiersantos/PiracyChecker
 
 保护你的 app 以防破解
