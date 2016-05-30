@@ -6,6 +6,12 @@
 
 ---
 
+**Sensey**: https://github.com/nisrulz/Sensey
+
+手势检测
+
+---
+
 **thinr**: https://github.com/bjoernQ/thinr
 
 AsyncTask 替代者
