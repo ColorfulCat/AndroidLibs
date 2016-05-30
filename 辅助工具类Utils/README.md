@@ -352,11 +352,19 @@ A easy way to use android sharepreference http://cocosw.com/Favor/
 
 ---
 
+**Lynx**：https://github.com/pedrovgs/Lynx
+
+可在手机上查看 `logcat`
+
+<img src="https://github.com/pedrovgs/Lynx/blob/master/art/screenshot_demo_1.gif" width="320" />
+
+---
+
 **LogcatViewer**: https://github.com/fatangare/LogcatViewer
 
 可在手机上查看 `logcat`
 
-<img src="https://github.com/fatangare/LogcatViewer/blob/master/Images/mainview.png" width="240" /> <img src="https://github.com/fatangare/LogcatViewer/blob/master/Images/filter.png" width="320" /> <img
+<img src="https://github.com/fatangare/LogcatViewer/blob/master/Images/mainview.png" width="240" /> <img src="https://github.com/fatangare/LogcatViewer/blob/master/Images/filter.png" width="320" />
 
 ---
 

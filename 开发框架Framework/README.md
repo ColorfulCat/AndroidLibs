@@ -6,6 +6,12 @@
 
 ---
 
+**LoonAndroid3**：https://github.com/gdpancheng/LoonAndroid3
+
+完全用注解的方式开发安卓应用，外包专用
+
+---
+
 **ConditionWatcher**：https://github.com/AzimoLabs/ConditionWatcher
 
 自动测试框架
@@ -59,12 +65,6 @@ PalDB is an embeddable write-once key-value store written in Java.
 
 ---
 
-**Lynx**：[https://github.com/pedrovgs/Lynx](https://github.com/pedrovgs/Lynx)
-
-Lynx is an Android library created to show a custom view with all the information logcat is printing
-
----
-
 **MultipleTheme**：[https://github.com/dersoncheng/MultipleTheme](https://github.com/dersoncheng/MultipleTheme)
 
 Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity when you switch theme-mode.
@@ -97,9 +97,9 @@ Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAc
 
 ---
 
-**KJFrameForAndroid**: [https://github.com/kymjs/KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)
+**KJFrameForAndroid**: https://github.com/kymjs/KJFrameForAndroid
 
-An Android library and includes ActivityFrame, KJHttp, KJBitmap, KJDataBase. KJFrameForAndroid is designed to wrap complexity of the Android native SDK and keep things simple.[http://www.kymjs.com/works](http://www.kymjs.com/works)
+安卓快速开发框架，简单易用，快速，安全
 
 ---
 
