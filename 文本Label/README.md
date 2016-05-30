@@ -6,6 +6,14 @@
 
 ---
 
+**android-edittextpassword**: https://github.com/pucamafra/android-edittextpassword
+
+密码的显示隐藏
+
+<img src="https://raw.githubusercontent.com/pucamafra/android-edittextpassword/master/screenshots/sample.png" width="320" />
+
+---
+
 **Calligraphy**: https://github.com/chrisjenx/Calligraphy
 
 简单的自定义文本字体
