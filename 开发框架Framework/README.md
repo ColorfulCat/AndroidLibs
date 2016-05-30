@@ -79,9 +79,15 @@ Android换肤／夜间模式的Android框架，配合theme和换肤控件框架�
 
 ---
 
-**xUtils**: [https://github.com/wyouflf/xUtils](https://github.com/wyouflf/xUtils)
+**xUtils3**: https://github.com/wyouflf/xUtils3
 
-android orm, bitmap, http, view inject...
+android 快速开发框架 xUtils 的升级版本
+
+---
+
+**xUtils**: https://github.com/wyouflf/xUtils
+
+android 快速开发框架 orm, bitmap, http, view inject...
 
 ---
 
