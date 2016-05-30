@@ -5,6 +5,14 @@
 
 ---
 
+**flexbox-layout**: https://github.com/google/flexbox-layout
+
+FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android
+
+<img src="https://raw.githubusercontent.com/google/flexbox-layout/master/assets/flex-direction.gif" width="270" /> <img src="https://raw.githubusercontent.com/google/flexbox-layout/master/assets/flex-wrap.gif" width="270" /> <img src="https://raw.githubusercontent.com/google/flexbox-layout/master/assets/justify-content.gif" width="270" />
+
+---
+
 **fenster**: https://github.com/malmstein/fenster
 
 利用TextureView 播放视频，并可控制播放，暂停等。
