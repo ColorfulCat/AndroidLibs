@@ -6,6 +6,12 @@
 
 ---
 
+**IntentShare**: https://github.com/tvbarthel/IntentShare
+
+提升"分享"体验的库 
+
+---
+
 **Sensey**: https://github.com/nisrulz/Sensey
 
 手势检测
