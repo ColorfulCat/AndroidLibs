@@ -6,6 +6,12 @@
 
 ---
 
+**thinr**: https://github.com/bjoernQ/thinr
+
+AsyncTask 替代者
+
+---
+
 **Kolumbus**: https://github.com/MGaetan89/Kolumbus
 
 浏览应用 Realm 数据库
@@ -14,7 +20,7 @@
 
 **android-hidden-api**: https://github.com/anggrayudi/android-hidden-api
 
-可直接访问安卓隐藏 APIs 和资源的库
+可直接查看、访问安卓 hide 与 internal API
 
 ---
 
