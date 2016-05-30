@@ -170,12 +170,6 @@ Android 应用自动更新
 
 facebook 出品的 apk 包优化工具 —— [Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
 
-**AndroidUnitTest**: https://github.com/florent37/AndroidUnitTest
-
-Save time & clear your unit tests on Android
-
----
-
 **drawable-optimizer**: https://github.com/fabiomsr/drawable-optimizer
 
 Gradle plugin to optimize png files and reduce resultant apk size within an Android project
