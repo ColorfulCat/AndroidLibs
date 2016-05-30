@@ -6,6 +6,12 @@
 
 ---
 
+**ConditionWatcher**：https://github.com/AzimoLabs/ConditionWatcher
+
+自动测试框架
+
+---
+
 **Folio**：https://github.com/frostymarvelous/Folio
 
 A Page based navigation framework for Android with a simplified lifecycle and easy transition animations
@@ -109,9 +115,7 @@ ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议�
 
 **FastAndroid**: https://github.com/huntermr/FastAndroid
 
-这是一个封装了多方面开源库后基于 MVP 模式的一个 Android 快速开发框架。融入了 MVP 模式,将 Activity 或 Fragment 做为View层、抽象出Presenter用于处理业务逻辑、Model 处理网络访问，数据封装等，降低模块之间耦合，提高可维护性及扩展。QQ交流群：310262562
-
-主要功能有：网络访问、上传下载、数据库操作、图片加载、View 注解等等
+一个封装了多方面开源库后基于 MVP 模式的一个 Android 快速开发框架。
 
 ---
 
