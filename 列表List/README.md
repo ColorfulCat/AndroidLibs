@@ -6,6 +6,14 @@
 
 ---
 
+**EasyRecyclerView**: https://github.com/Jude95/EasyRecyclerView
+
+常用的RecyclerView的各种需求封装进库
+
+<img src="https://github.com/Jude95/EasyRecyclerView/blob/master/recycler3.gif" width="320" />
+
+---
+
 **InfiniteListView**: https://github.com/ugurcany/InfiniteListView
 
 上拉加载更多，下拉刷新
