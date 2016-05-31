@@ -6,7 +6,13 @@
 
 ---
 
-**Fuse**: hhttps://github.com/kittinunf/Fuse
+**Fuse**: https://github.com/wangdanlizhiyun/lib_download
+
+Kotlin 语言编写的安卓 cache 库
+
+---
+
+**Fuse**: https://github.com/kittinunf/Fuse
 
 Kotlin 语言编写的安卓 cache 库
 
