@@ -6,9 +6,9 @@
 
 ---
 
-**Fuse**: https://github.com/wangdanlizhiyun/lib_download
+**lib_download**: https://github.com/wangdanlizhiyun/lib_download
 
-Kotlin 语言编写的安卓 cache 库
+处理异步下载的库
 
 ---
 
