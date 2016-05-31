@@ -5,6 +5,14 @@
 
 ---
 
+**material-tip**: https://github.com/fcannizzaro/material-tip
+
+Android Library for prompt tip
+
+<img src="https://raw.githubusercontent.com/Jude95/RollViewPager/master/example.jpg" width="320" />
+
+---
+
 **RollViewPager**: https://github.com/Jude95/RollViewPager
 
 自动轮播的Viewpager
