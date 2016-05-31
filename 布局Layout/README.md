@@ -5,6 +5,14 @@
 
 ---
 
+**RollViewPager**: https://github.com/Jude95/RollViewPager
+
+自动轮播的Viewpager
+
+<img src="https://raw.githubusercontent.com/Jude95/RollViewPager/master/example.jpg" width="320" />
+
+---
+
 **flexbox-layout**: https://github.com/google/flexbox-layout
 
 FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android
