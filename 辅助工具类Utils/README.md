@@ -6,6 +6,12 @@
 
 ---
 
+**Fuse**: hhttps://github.com/kittinunf/Fuse
+
+Kotlin 语言编写的安卓 cache 库
+
+---
+
 **ObservableScheduler**: https://github.com/jiang111/ObservableScheduler
 
 更好的管理线程间跳转的库
