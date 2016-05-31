@@ -6,6 +6,14 @@
 
 ---
 
+**SelectionDialogs**: https://github.com/coreORB/SelectionDialogs
+
+快速选择 图标和颜色 的 Dialog
+
+<img src="https://raw.githubusercontent.com/coreORB/SelectionDialogs/master/screens/Screenshot_Fragment.png" width="270" /> <img src="https://raw.githubusercontent.com/coreORB/SelectionDialogs/master/screens/Screenshot_ColorSelectionDialog.png" width="270" /> <img src="https://raw.githubusercontent.com/coreORB/SelectionDialogs/master/screens/Screenshot_IconSelectionDialog.png" width="270" />
+
+---
+
 **android-simple-tooltip**: https://github.com/douglasjunior/android-simple-tooltip
 
  simple library based on PopupWindow to create Tooltips on Android
@@ -53,11 +61,10 @@ This project can make it easy to theme and custom Android's dialog. Also contain
 
 （Deprecated）An Android dialog library, has strong extensibility, customizability, and for conveniently building Material Design Dialog in Android version 2.2 ~ L.
 
-<img src="https://github.com/drakeet/MaterialDialog/blob/master/screenshots/s1.png" width="320" />
-<img src="https://github.com/drakeet/MaterialDialog/blob/master/screenshots/s4.png" width="320" />
-<img src="https://github.com/drakeet/MaterialDialog/blob/master/screenshots/s5.png" width="320" />
-<img src="https://github.com/drakeet/MaterialDialog/blob/master/screenshots/s6.png" width="320" />
-<img src="https://github.com/drakeet/MaterialDialog/blob/master/screenshots/s7.png" width="320" />
+<img src="https://github.com/drakeet/MaterialDialog/blob/master/screenshots/s1.png" width="240" />
+<img src="https://github.com/drakeet/MaterialDialog/blob/master/screenshots/s4.png" width="240" />
+<img src="https://github.com/drakeet/MaterialDialog/blob/master/screenshots/s5.png" width="240" />
+<img src="https://github.com/drakeet/MaterialDialog/blob/master/screenshots/s6.png" width="240" />
 
 ---
 
@@ -82,14 +89,14 @@ SweetAlert for Android, a beautiful and clever alert dialog.[http://www.pedant.c
 
 A powerful android dialog library with inner widgets and animations supports customization.Easy to use, easy to customise. Support for Android 2.2 and up.
 
-<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_1.gif" width="320" />
-<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_2.gif" width="320" />
-<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_3.gif" width="320" />
-<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_4.gif" width="320" />
-<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_14.gif" width="320" />
-<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_13.gif" width="320" />
-<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_15.gif" width="320" />
-<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_17.gif" width="320" />
+<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_1.gif" width="240" />
+<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_2.gif" width="240" />
+<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_3.gif" width="240" />
+<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_4.gif" width="240" />
+<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_14.gif" width="240" />
+<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_13.gif" width="240" />
+<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_15.gif" width="240" />
+<img src="https://github.com/H07000223/FlycoDialog_Master/blob/master/gif/preview_17.gif" width="240" />
 
 ---
 
