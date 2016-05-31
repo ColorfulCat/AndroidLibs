@@ -5,6 +5,14 @@
 
 ---
 
+**youtube-android-player-helper**: https://github.com/JackDinealKIM/youtube-android-player-helper
+
+YouTube 控制播放
+
+<img src="https://raw.githubusercontent.com/JackDinealKIM/youtube-android-player-helper/master/capture1.png" width="320" /> <img src="https://raw.githubusercontent.com/JackDinealKIM/youtube-android-player-helper/master/capture2.png" width="320" />
+
+---
+
 **material-tip**: https://github.com/fcannizzaro/material-tip
 
 Android Library for prompt tip
