@@ -6,6 +6,14 @@
 
 ---
 
+**DateSelecter**: https://github.com/chsmy/DateSelecter
+
+基于第三方 WheelView 实现的一个时间选择器
+
+<img src="https://raw.githubusercontent.com/chsmy/DateSelecter/master/DateSelecter/117.gif" width="360"/> <img src="https://raw.githubusercontent.com/chsmy/DateSelecter/master/DateSelecter/118.gif" width="360"/> 
+
+---
+
 **MaterialFilePicker**: https://github.com/nbsp-team/MaterialFilePicker
 
 MD 风格文件选择器
