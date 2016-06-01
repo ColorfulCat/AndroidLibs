@@ -6,6 +6,16 @@
 
 ---
 
+**Android-Lib-VerticalMarqueeTextView**: https://github.com/ayltai/Android-Lib-VerticalMarqueeTextView
+
+竖向跑马灯效果
+
+<img src="https://raw.github.com/ayltai/Android-Lib-VerticalMarqueeTextView/master/screenshots/device-2014-02-22-000150.png" width="270" height="400" alt="Screenshot-1" />&nbsp;
+<img src="https://raw.github.com/ayltai/Android-Lib-VerticalMarqueeTextView/master/screenshots/device-2014-02-22-000158.png" width="270" height="400" alt="Screenshot-2" />&nbsp;
+<img src="https://raw.github.com/ayltai/Android-Lib-VerticalMarqueeTextView/master/screenshots/device-2014-02-22-000208.png" width="270" height="400" alt="Screenshot-3" />
+
+---
+
 **MaskedEditText**: https://github.com/VicMikhailau/MaskedEditText
 
 包含隐藏文本的 EditText，可快速输入电话，网址等文本

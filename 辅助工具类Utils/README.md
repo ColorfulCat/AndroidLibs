@@ -6,6 +6,14 @@
 
 ---
 
+**ECTranslation**: https://github.com/Skykai521/ECTranslation
+
+Android Studio 翻译插件,可以将英文翻译为中文.
+
+<img src="https://raw.githubusercontent.com/Skykai521/ECTranslation/master/img/translation_img.png" width="640" />
+
+---
+
 **lib_download**: https://github.com/wangdanlizhiyun/lib_download
 
 处理异步下载的库
