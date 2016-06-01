@@ -6,6 +6,14 @@
 
 ---
 
+**MaskedEditText**: https://github.com/VicMikhailau/MaskedEditText
+
+包含隐藏文本的 EditText，可快速输入电话，网址等文本
+
+<img src="https://raw.githubusercontent.com/VicMikhailau/MaskedEditText/master/resources/masked_edit_text.gif" width="320" />
+
+---
+
 **android-edittextpassword**: https://github.com/pucamafra/android-edittextpassword
 
 密码的显示隐藏
