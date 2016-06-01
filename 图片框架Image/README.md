@@ -6,6 +6,12 @@
 
 ---
 
+**belvedere**: https://github.com/zendesk/belvedere
+
+An image picker library for Android
+
+---
+
 **InstaCapture**: https://github.com/tarek360/InstaCapture
 
 截图
