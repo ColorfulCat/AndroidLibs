@@ -296,6 +296,12 @@ Helper to generate Javadocs within a Gradle Android library
 
 ---
 
+**easypermissions**: https://github.com/googlesamples/easypermissions
+
+Simplify Android M system permissions
+
+---
+
 **permissions-dispatcher-plugin**:https://github.com/shiraji/permissions-dispatcher-plugin
 
 IntelliJ plugin for supporting PermissionsDispatcher
