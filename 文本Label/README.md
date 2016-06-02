@@ -6,6 +6,14 @@
 
 ---
 
+**KerningViews**: https://github.com/aritraroy/KerningViews
+
+可设置字符间距的 TextView
+
+<img src="https://raw.githubusercontent.com/aritraroy/KerningViews/master/images/screenshot.png" width="270" />
+
+---
+
 **Android-Lib-VerticalMarqueeTextView**: https://github.com/ayltai/Android-Lib-VerticalMarqueeTextView
 
 竖向跑马灯效果
