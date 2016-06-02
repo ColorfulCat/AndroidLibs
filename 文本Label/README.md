@@ -6,6 +6,14 @@
 
 ---
 
+**BubbleView**: https://github.com/cpiz/BubbleView
+
+BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定义属性或代码进行丰富的定制，包括箭头朝向、箭头位置、气泡弧角、边线颜色、边线粗细、颜色填充、填充Padding等等
+
+<img src="https://raw.githubusercontent.com/cpiz/BubbleLayout/master/screenshots/2.png" width="400" /> <img src="https://raw.githubusercontent.com/cpiz/BubbleLayout/master/screenshots/3.png" width="400" />
+
+---
+
 **KerningViews**: https://github.com/aritraroy/KerningViews
 
 可设置字符间距的 TextView
