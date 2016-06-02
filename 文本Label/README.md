@@ -130,14 +130,6 @@ Phrase is an Android string resource color setting library
 
 ---
 
-**Calligraphy**: [https://github.com/chrisjenx/Calligraphy](https://github.com/chrisjenx/Calligraphy)
-
-Custom fonts in Android the easy way...
-
-<img src="https://github.com/chrisjenx/Calligraphy/raw/master/screenshot.png" width="320" />
-
----
-
 **justified**: https://github.com/programingjd/justified
 
 Android TextView or EditText with justified text.
