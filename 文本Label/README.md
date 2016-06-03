@@ -6,6 +6,14 @@
 
 ---
 
+**Hash-Tags-Android**: https://github.com/rameshvoltella/Hash-Tags-Android
+
+含可点击的标签 TextView
+
+<img src="https://raw.githubusercontent.com/rameshvoltella/Hash-Tags-Android/master/Screenshot_2014-07-23-20-41-05.png" width="270" /> <img src="https://raw.githubusercontent.com/rameshvoltella/Hash-Tags-Android/master/Screenshot_2014-07-23-20-41-27.png" width="270" /> <img src="https://raw.githubusercontent.com/rameshvoltella/Hash-Tags-Android/master/Screenshot_2014-07-23-23-06-04.png" width="270" />
+
+---
+
 **Lettrine**: https://github.com/rpradal/Lettrine
 
 首字母大写的 TextView

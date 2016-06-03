@@ -388,7 +388,7 @@ This is an Android application with camera,picture cropping,collage sticking and
 <img src="https://github.com/Skykai521/StickerCamera/blob/master/screenshot/Screenshot_01.gif" width="320" />
 <img src="https://github.com/Skykai521/StickerCamera/blob/master/screenshot/Screenshot_2015-07-19-11-23-22.png" width="320" />
 
----        
+---
 
 **JianDan**: https://github.com/ZhaoKaiQiang/JianDan
 
