@@ -6,6 +6,14 @@
 
 ---
 
+**android-ago**: https://github.com/curioustechizen/android-ago
+
+自动刷新时间的 TextView
+
+<img src="https://raw.githubusercontent.com/curioustechizen/android-ago/master/screenshots/android-ago-sample-screenshot.png" width="270" />
+
+---
+
 **countingtextview**: https://github.com/uguratar/countingtextview
 
 带动画的计数 TextView
