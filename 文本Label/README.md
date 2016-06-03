@@ -6,6 +6,14 @@
 
 ---
 
+**PinEntryEditText**: https://github.com/alphamu/PinEntryEditText
+
+带动画的类似 PIN 的 EditText
+
+<img src="https://camo.githubusercontent.com/7a8eedea25a992c1a0192eb179ad4feeeebf57fa/687474703a2f2f692e67697068792e636f6d2f336f3771445641705354466c3844435534452e676966" width="240" />
+
+---
+
 **AnimatedEditText**: https://github.com/alphamu/AnimatedEditText
 
 有输入动画的 EditText
