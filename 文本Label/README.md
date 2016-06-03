@@ -6,6 +6,14 @@
 
 ---
 
+**wATL**: https://github.com/suwhs/wATL
+
+换行自动添加后缀 “-” 的 TextView
+
+<img src="https://camo.githubusercontent.com/94927da9d104e30f2d55260b22b256ce7f2f5ab0/687474703a2f2f696d672e796f75747562652e636f6d2f76692f756933484c6b454b3954302f302e6a7067" width="480" />
+
+---
+
 **PinEntryEditText**: https://github.com/alphamu/PinEntryEditText
 
 带动画的类似 PIN 的 EditText
