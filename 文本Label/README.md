@@ -6,6 +6,14 @@
 
 ---
 
+**AnimatedEditText**: https://github.com/alphamu/AnimatedEditText
+
+有输入动画的 EditText
+
+<img src="https://camo.githubusercontent.com/004e3593da1a874dab3c0e9ea95c01217b7dad06/687474703a2f2f692e67697068792e636f6d2f783141735a4a79705436726d772e676966" width="210" />
+
+---
+
 **android-ago**: https://github.com/curioustechizen/android-ago
 
 自动刷新时间的 TextView
