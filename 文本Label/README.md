@@ -6,6 +6,14 @@
 
 ---
 
+**countingtextview**: https://github.com/uguratar/countingtextview
+
+带动画的计数 TextView
+
+<img src="https://camo.githubusercontent.com/30a57e0df2f29e4b3dd8172dff5bbdbee877eefc/687474703a2f2f692e696d6775722e636f6d2f6e6f58774b47372e676966" width="270" />
+
+---
+
 **BubbleView**: https://github.com/cpiz/BubbleView
 
 BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定义属性或代码进行丰富的定制，包括箭头朝向、箭头位置、气泡弧角、边线颜色、边线粗细、颜色填充、填充Padding等等
