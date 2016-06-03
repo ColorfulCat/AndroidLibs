@@ -6,6 +6,16 @@
 
 ---
 
+**Lettrine**: https://github.com/rpradal/Lettrine
+
+首字母大写的 TextView
+
+| <img style="float: center;" src="http://i.imgur.com/ivgH1gZ.jpg" width="400">  | <img style="float: right;" src="http://i.imgur.com/hHVzvXR.jpg" width="400">  | <img style="float: right;" src="http://i.imgur.com/6RL4AeR.jpg" width="400">  | <img style="float: right;" src="http://i.imgur.com/3MsIm3t.jpg" width="400">  | <img style="float: right;" src="http://i.imgur.com/VuaW6pA.jpg" width="400">  |
+|:-------:|:------:|:------:|:------:|:------:|
+| Lettrine with a three lines height | Lettrine with a two lines height | Font customization | Html balisis inclusion | Custom text color |
+
+---
+
 **wATL**: https://github.com/suwhs/wATL
 
 换行自动添加后缀 “-” 的 TextView
