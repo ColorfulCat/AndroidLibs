@@ -5,6 +5,14 @@
 
 ---
 
+**TabbedCoordinatorLayout**: https://github.com/vitovalov/TabbedCoordinatorLayout
+
+TabLayout CollapsingToolbarLayout CoordinatorLayout 使用示例
+
+<img src="https://raw.githubusercontent.com/vitovalov/TabbedCoordinatorLayout/master/art/demo.gif" width="270" />
+
+---
+
 **youtube-android-player-helper**: https://github.com/JackDinealKIM/youtube-android-player-helper
 
 YouTube 控制播放
