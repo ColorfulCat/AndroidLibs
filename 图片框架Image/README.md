@@ -6,6 +6,22 @@
 
 ---
 
+**android-shape-imageview**: https://github.com/siyamed/android-shape-imageview
+
+自定义形状的头像框架
+
+<img src="https://raw.githubusercontent.com/siyamed/android-shape-imageview/master/images/shader-buble.png" width="320" /> <img src="https://raw.githubusercontent.com/siyamed/android-shape-imageview/master/images/all-samples.png" width="320" />
+
+---
+
+**CustomShapeImageView**: https://github.com/MostafaGazar/CustomShapeImageView
+
+又一个自定义形状的头像框架
+
+<img src="https://raw.githubusercontent.com/MostafaGazar/CustomShapeImageView/master/Screenshot_2016-01-19-09-17-37.png" width="320" />
+
+---
+
 **belvedere**: https://github.com/zendesk/belvedere
 
 An image picker library for Android
