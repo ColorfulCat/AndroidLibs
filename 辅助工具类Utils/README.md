@@ -230,6 +230,12 @@ apk 查看工具
 
 ---
 
+**esperandro**: https://github.com/dkunzler/esperandro
+
+Easy SharedPreference Engine foR ANDROid http://dkunzler.github.io/esperandro
+
+---
+
 **Prefs**: https://github.com/GrenderG/Prefs
 
 Simple Android SharedPreferences wrapper
