@@ -124,15 +124,6 @@ Android ImageViews animated by Ken Burns Effect
 
 ---
 
-**android-shape-imageview**: [https://github.com/siyamed/android-shape-imageview](https://github.com/siyamed/android-shape-imageview)
-
-Custom shaped android imageview components
-
-<img src="https://github.com/siyamed/android-shape-imageview/blob/master/images/shader-buble.png" width="320" />
-<img src="https://github.com/siyamed/android-shape-imageview/blob/master/images/all-samples.png" width="320" />
-
----
-
 **GifImageView**: [https://github.com/felipecsl/GifImageView](https://github.com/felipecsl/GifImageView)
 
 Android ImageView that handles animated GIF images
@@ -216,8 +207,7 @@ Play with bitmaps
 
 android 相册支持单选模式和多选模式
 
-<img src="https://github.com/wqandroid/wqgallery/blob/master/app/screenshort/wqgallert1.gif" width="320" />
-<img src="https://github.com/wqandroid/wqgallery/blob/master/app/screenshort/Screenshot_2015-03-31-18-35.png" width="320" />
+<img src="https://github.com/wqandroid/wqgallery/raw/dev/app/screenshort/wqgallert.gif" width="320" />
 
 ---
 
