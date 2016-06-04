@@ -80,6 +80,14 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**MarqueeView**: https://github.com/sfsheng0322/MarqueeView
+
+垂直跑马灯 —— 垂直翻页公告
+
+<img src="https://raw.githubusercontent.com/sfsheng0322/MarqueeView/master/screenshot/MarqueeView_Gif.gif" width="320" />
+
+---
+
 **Android-Lib-VerticalMarqueeTextView**: https://github.com/ayltai/Android-Lib-VerticalMarqueeTextView
 
 竖向跑马灯效果
