@@ -6,6 +6,14 @@
 
 ---
 
+**StaggeredTextGridView**: https://github.com/riontech-xten/StaggeredTextGridView
+
+自定义瀑布流文本 GridView
+
+<img src="https://raw.githubusercontent.com/riontech-xten/StaggeredTextGridView/master/Screenshot_2016-04-28-19-52-08.png" width="320" /> <img src="https://raw.githubusercontent.com/riontech-xten/StaggeredTextGridView/master/Screenshot_2016-05-23-14-54-26.png" width="320" />
+
+---
+
 **EasyRecyclerView**: https://github.com/Jude95/EasyRecyclerView
 
 常用的RecyclerView的各种需求封装进库
