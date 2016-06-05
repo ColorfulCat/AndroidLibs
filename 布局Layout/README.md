@@ -5,6 +5,14 @@
 
 ---
 
+**android-segmentedtab**: https://github.com/pucamafra/android-segmentedtab
+
+segmented control style to TabLayout
+
+<img src="https://raw.githubusercontent.com/pucamafra/android-segmentedtab/master/screenshots/sample.png" width="320" />
+
+---
+
 **TabbedCoordinatorLayout**: https://github.com/vitovalov/TabbedCoordinatorLayout
 
 TabLayout CollapsingToolbarLayout CoordinatorLayout 使用示例
