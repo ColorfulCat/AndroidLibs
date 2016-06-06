@@ -6,6 +6,14 @@
 
 ---
 
+**EasyRecyclerView**: https://github.com/diegodobelo/AndroidExpandingViewLibrary
+
+展开收缩的View
+
+<img src="https://d13yacurqjgara.cloudfront.net/users/226618/screenshots/2340386/shoping_list.gif" width="600" />
+
+---
+
 **StaggeredTextGridView**: https://github.com/riontech-xten/StaggeredTextGridView
 
 自定义瀑布流文本 GridView
