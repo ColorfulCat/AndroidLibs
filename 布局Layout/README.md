@@ -5,6 +5,14 @@
 
 ---
 
+**BlurView**: https://github.com/Dimezis/BlurView
+
+类似ios的动态模糊效果
+
+<img src="https://raw.githubusercontent.com/Dimezis/BlurView/master/BlurScreenshot.png" width="320" />
+
+---
+
 **android-segmentedtab**: https://github.com/pucamafra/android-segmentedtab
 
 segmented control style to TabLayout
