@@ -6,6 +6,12 @@
 
 ---
 
+**AndroidUtils**: https://github.com/WuXiaolong/AndroidUtils
+
+Android常用工具类
+
+---
+
 **ECTranslation**: https://github.com/Skykai521/ECTranslation
 
 Android Studio 翻译插件,可以将英文翻译为中文.
