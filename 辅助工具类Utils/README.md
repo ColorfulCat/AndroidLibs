@@ -6,6 +6,12 @@
 
 ---
 
+**android-lite-bluetoothLE**: https://github.com/litesuits/android-lite-bluetoothLE
+
+Android低功耗蓝牙便捷操作框架，基于回调，完成蓝牙设备交互就像发送网络请求一样简单
+
+---
+
 **AndroidUtils**: https://github.com/WuXiaolong/AndroidUtils
 
 Android常用工具类
