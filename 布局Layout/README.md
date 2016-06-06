@@ -5,6 +5,12 @@
 
 ---
 
+**DrawerBehavior**: https://github.com/JakeWharton/DrawerBehavior
+
+jakewharton 出品 ，DrawerBehavior
+
+---
+
 **BlurView**: https://github.com/Dimezis/BlurView
 
 类似ios的动态模糊效果
