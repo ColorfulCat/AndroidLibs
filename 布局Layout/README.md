@@ -5,6 +5,14 @@
 
 ---
 
+**JieCaoVideoPlayer**: https://github.com/lipangit/JieCaoVideoPlayer
+
+android videoplayer mediaplayer videoview mediaview and fullscreen
+
+<img src="https://raw.githubusercontent.com/lipangit/JieCaoVideoPlayer/develop/screenshots/j6.jpg" width="800" />
+
+---
+
 **DrawerBehavior**: https://github.com/JakeWharton/DrawerBehavior
 
 jakewharton 出品 ，DrawerBehavior
