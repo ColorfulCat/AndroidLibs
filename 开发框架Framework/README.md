@@ -6,6 +6,12 @@
 
 ---
 
+**AndroidBase**：https://github.com/huangwm1984/AndroidBase
+
+采用谷歌官方MVP架构以及RxJava对项目进行封装重构
+
+---
+
 **LoonAndroid3**：https://github.com/gdpancheng/LoonAndroid3
 
 完全用注解的方式开发安卓应用，外包专用
