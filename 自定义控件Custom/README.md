@@ -6,6 +6,14 @@
 
 ---
 
+**QQBubbleView**: https://github.com/Yasic/QQBubbleView
+
+利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效
+
+<img src="https://camo.githubusercontent.com/dcac7c2c31993d2a7c38dbf4bed192579bc05978/687474703a2f2f646979636f64652e62302e7570616979756e2e636f6d2f70686f746f2f323031362f35356238306334633237306534316534323963343638393733663231356363372e676966" width="270" />
+
+---
+
 **GithubWidget**: https://github.com/Nightonke/GithubWidget
 
 A simple implementation of swipe card like StreetView!!
