@@ -6,6 +6,14 @@
 
 ---
 
+**TimePickerDialog**: https://github.com/JZXiang/TimePickerDialog
+
+多级时间选择器
+
+<img src="https://raw.githubusercontent.com/JZXiang/TimePickerDialog/master/preview/timepickerdialog_demo.gif" width="320"/>
+
+---
+
 **DateSelecter**: https://github.com/chsmy/DateSelecter
 
 基于第三方 WheelView 实现的一个时间选择器
