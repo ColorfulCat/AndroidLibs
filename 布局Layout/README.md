@@ -335,6 +335,14 @@ MD 风格的启动引导页面
 
 ---
 
+**AppIntro**: https://github.com/PaoloRotolo/AppIntro
+
+华丽的 app 引导页
+
+<img src="https://raw.githubusercontent.com/PaoloRotolo/AppIntro/master/art/planets.png" width="800"/>
+
+---
+
 **WoWoViewPager**: https://github.com/Nightonke/WoWoViewPager
 
 WoWo可以优化你的App介绍/引导页面，制作你的App简历
