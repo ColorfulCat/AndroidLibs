@@ -67,6 +67,14 @@ Android Library for prompt tip
 
 ---
 
+**ParallaxViewPager**: https://github.com/ybq/ParallaxViewPager
+
+视差效果 ViewPager
+
+<img src="https://raw.githubusercontent.com/ybq/ParallaxViewPager/master/art/screen.gif" width="160" />
+
+---
+
 **RollViewPager**: https://github.com/Jude95/RollViewPager
 
 自动轮播的Viewpager
