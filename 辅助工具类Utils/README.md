@@ -6,6 +6,12 @@
 
 ---
 
+**material-design-dimens**: https://github.com/DmitryMalkovich/material-design-dimens
+
+MD 设计中的尺寸和颜色指导
+
+---
+
 **android-lite-bluetoothLE**: https://github.com/litesuits/android-lite-bluetoothLE
 
 Android低功耗蓝牙便捷操作框架，基于回调，完成蓝牙设备交互就像发送网络请求一样简单
