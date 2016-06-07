@@ -6,6 +6,14 @@
 
 ---
 
+**android-drag-square**: https://github.com/xmuSistone/android-drag-square
+
+流畅，灵活的图片拖拽排序
+
+<img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture1.gif" width="320" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture2.gif" width="320" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture3.gif" width="320" />
+
+---
+
 **android-shape-imageview**: https://github.com/siyamed/android-shape-imageview
 
 自定义形状的头像框架
