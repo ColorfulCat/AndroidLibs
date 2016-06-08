@@ -6,6 +6,12 @@
 
 ---
 
+**requery**: https://github.com/requery/requery
+
+轻量但功能强大的ORM和SQL查询生成， 支持RxJava和Java8
+
+---
+
 **material-design-dimens**: https://github.com/DmitryMalkovich/material-design-dimens
 
 MD 设计中的尺寸和颜色指导
