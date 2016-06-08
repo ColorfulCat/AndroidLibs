@@ -6,6 +6,12 @@
 
 ---
 
+**retrofit-agera-call-adapter**: https://github.com/drakeet/retrofit-agera-call-adapter
+
+Retrofit Agera Call Adapter
+
+---
+
 **OptimusHTTP**: https://github.com/nisrulz/OptimusHTTP
 
 Android library that simplifies networking in android via an async http client http://nisrulz.github.io/OptimusHTTP
