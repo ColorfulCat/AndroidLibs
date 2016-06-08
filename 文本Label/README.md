@@ -6,6 +6,14 @@
 
 ---
 
+**SyntaxView**: https://github.com/fiskurgit/SyntaxView
+
+代码格式着色
+
+<img src="https://raw.githubusercontent.com/fiskurgit/SyntaxView/master/screenshot.png" width="800" />
+
+---
+
 **ChipCloud**: https://github.com/fiskurgit/ChipCloud
 
 尺码标签
