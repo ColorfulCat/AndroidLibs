@@ -6,6 +6,14 @@
 
 ---
 
+**ChipCloud**: https://github.com/fiskurgit/ChipCloud
+
+尺码标签
+
+<img src="https://raw.githubusercontent.com/fiskurgit/ChipCloud/master/images/trainer_sizes.png" width="800" />
+
+---
+
 **Hash-Tags-Android**: https://github.com/rameshvoltella/Hash-Tags-Android
 
 含可点击的标签 TextView
