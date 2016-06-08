@@ -5,6 +5,14 @@
 
 ---
 
+**SimpleViewPager**: https://github.com/fiskurgit/SimpleViewPager
+
+Quick image ViewPagers
+
+<img src="https://raw.githubusercontent.com/fiskurgit/SimpleViewPager/master/images/example_image1.png" width="320" />
+
+---
+
 **labelview**: https://github.com/linger1216/labelview
 
 Label above an ImageView or any other views
