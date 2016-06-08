@@ -64,6 +64,12 @@ A lite android http library
 
 ---
 
+**RxVolley**: https://github.com/kymjs/RxVolley
+
+RxVolley = Volley + RxJava + OkHttp http://rxvolley.mydoc.io/
+
+---
+
 **okhttp**: https://github.com/square/okhttp
 
 An HTTP+SPDY client for Android and Java applications.
