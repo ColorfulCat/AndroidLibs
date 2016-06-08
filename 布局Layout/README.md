@@ -5,6 +5,14 @@
 
 ---
 
+**PdfViewPager**: https://github.com/voghDev/PdfViewPager
+
+可以读取SD卡，asset文件夹，或者网络下载的pdf文件的widget
+
+<img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/local.gif" width="320" /> <img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/remote.gif" width="320" /> <img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/zooming.gif" width="320" />
+
+---
+
 **SimpleViewPager**: https://github.com/fiskurgit/SimpleViewPager
 
 Quick image ViewPagers
