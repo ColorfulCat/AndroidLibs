@@ -6,6 +6,14 @@
 
 ---
 
+**LeafPic**: https://github.com/HoraApps/LeafPic
+
+一个优质的 Android 开源图片查看 App
+
+<img src="https://raw.githubusercontent.com/HoraApps/LeafPic/master/screenshots/1.png" width="270" /> <img src="https://raw.githubusercontent.com/HoraApps/LeafPic/master/screenshots/5.png" width="270" /> <img src="https://raw.githubusercontent.com/HoraApps/LeafPic/master/screenshots/2.png" width="270" />
+
+---
+
 **MicroReader**: https://github.com/YiuChoi/MicroReader
 
 一个小而美的阅读客户端，包含微信精选，IT之家(去广告),果壳热门，知乎日报，和视频推荐栏目，每天更换主题
