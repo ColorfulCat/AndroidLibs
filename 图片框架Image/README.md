@@ -6,6 +6,14 @@
 
 ---
 
+**AndroidPhotoFilters**: https://github.com/Zomato/AndroidPhotoFilters
+
+图片滤镜
+
+<img src="https://raw.githubusercontent.com/Zomato/AndroidPhotoFilters/master/art/photofilters.gif" width="320" />
+
+---
+
 **android-drag-square**: https://github.com/xmuSistone/android-drag-square
 
 流畅，灵活的图片拖拽排序
