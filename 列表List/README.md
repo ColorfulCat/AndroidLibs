@@ -6,6 +6,14 @@
 
 ---
 
+**FlexibleAdapter**: https://github.com/davideas/FlexibleAdapter
+
+Adapter for SelectionMode, ViewHolders, Filter, FastScroller, Animations, Undo, Headers, Expandable, Draggable, Swipeable
+
+<img src="https://raw.githubusercontent.com/davideas/FlexibleAdapter/master/screenshots/drag_grid_overall.png" width="270" /> <img src="https://raw.githubusercontent.com/davideas/FlexibleAdapter/master/screenshots/undo_single_selection.png" width="270" /> <img src="https://raw.githubusercontent.com/davideas/FlexibleAdapter/master/screenshots/swipe-to-dismiss2.png" width="270" />
+
+---
+
 **EasyRecyclerView**: https://github.com/diegodobelo/AndroidExpandingViewLibrary
 
 展开收缩的View
