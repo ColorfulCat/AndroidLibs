@@ -6,6 +6,14 @@
 
 ---
 
+**CircleProgressBar**: https://github.com/dinuscxj/CircleProgressBar
+
+A circular android ProgressBar library which extends ProgressBar
+
+<img src="https://raw.githubusercontent.com/dinuscxj/CircleProgressBar/master/Preview/CircleProgressBar.gif?width=300" width="320" />
+
+---
+
 **stackedhorizontalprogressbar**: https://github.com/nisrulz/stackedhorizontalprogressbar
 
 Android Library to implement stacked horizontal progressbar http://nisrulz.github.io/stackedhorizontalprogressbar
