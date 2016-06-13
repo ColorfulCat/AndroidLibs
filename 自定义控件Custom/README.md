@@ -6,6 +6,16 @@
 
 ---
 
+**HorizontalWheelView**: https://github.com/shchurov/HorizontalWheelView
+
+HorizontalWheelView
+
+<img src="https://camo.githubusercontent.com/947f61681a1700e42fae62f45618d1a9c1adb6e3/68747470733a2f2f692e696d6775722e636f6d2f775759625238522e706e67" width="480" />
+
+<img src="https://camo.githubusercontent.com/ee6124cc259de10d4a4f6bfbc06ff3c06728803b/687474703a2f2f692e67697068792e636f6d2f764831715378637742424f69512e676966" width="270" />
+
+---
+
 **MultipleStatusView**: https://github.com/qyxxjd/MultipleStatusView
 
 一个支持多种状态的自定义View,可以方便的切换到：加载中视图、错误视图、空数据视图、网络异常视图、内容视图
