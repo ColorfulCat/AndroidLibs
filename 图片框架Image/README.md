@@ -6,6 +6,20 @@
 
 ---
 
+**vectalign**: https://github.com/bonnyfone/vectalign
+
+Tool for create complex morphing animations using VectorDrawables (allows morphing between any pair of SVG images)
+
+<img src="http://s33.postimg.org/qiaafk7xb/vectalign_0_2_demo.gif" width="530px"> 
+
+<img src="http://s4.postimg.org/boxc1zk0p/morph2.gif" width="110px">
+<img src="http://s21.postimg.org/4657b7m0j/morph1.gif" width="110px">
+<img src="http://s28.postimg.org/8mdcxb48t/morph5.gif" width="110px">
+<img src="http://s18.postimg.org/79coo8vid/morph3.gif" width="120px">
+<img src="http://s9.postimg.org/a5tdgfppn/morph4.gif" width="140px">
+
+---
+
 **AnimatedSvgView**: https://github.com/jaredrummler/AnimatedSvgView
 
 Animated SVG Drawing for Android
