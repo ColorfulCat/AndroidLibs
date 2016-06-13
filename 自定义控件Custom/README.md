@@ -6,6 +6,14 @@
 
 ---
 
+**hintcase**: https://github.com/Nescafemix/hintcase
+
+HintCase is a library for Android that will help you create really awesome hints/tips for your apps
+
+<img src="https://github.com/Nescafemix/hintcase/raw/master/assets/welcome_demo.gif" width="320" /> <img src="https://github.com/Nescafemix/hintcase/raw/master/assets/bubble_demo.gif" width="320" />
+
+---
+
 **HorizontalWheelView**: https://github.com/shchurov/HorizontalWheelView
 
 HorizontalWheelView
