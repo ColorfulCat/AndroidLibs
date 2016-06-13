@@ -6,6 +6,12 @@
 
 ---
 
+**RxValidator**: https://github.com/phajduk/RxValidator
+
+RxJava 和 RxBinding 结合的格式验证库
+
+---
+
 **AndroidProguardPlugin**: https://github.com/zhonghanwen/AndroidProguardPlugin
 
 生成混淆代码的 Android Studio 插件
