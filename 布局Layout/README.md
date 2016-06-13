@@ -179,6 +179,14 @@ a view widget of WindRoseDiagram in android platform http://timqi.com
 
 ---
 
+**MaterialPreference**: https://github.com/codevscolor/MaterialPreference
+
+MD 风格的设置界面，兼容5.0以下 Currently supporting devices upto api 8
+
+<img src="https://camo.githubusercontent.com/7e74d09e43e483f16f90fcc9f506b7b2dad0046a/68747470733a2f2f7333332e706f7374696d672e6f72672f636d756d6c6b37696e2f6c6f6c6c69706f702e676966" width="270" /> <img src="https://camo.githubusercontent.com/dcbe0b4b613468eb8c10af628cf3d904d7f48b4f/68747470733a2f2f7333332e706f7374696d672e6f72672f7668717476666f6a332f4b49544b41542e676966" width="270" /> <img src="https://camo.githubusercontent.com/49eb528fb999f6729bc6419807aac2f9779017fa/68747470733a2f2f7333332e706f7374696d672e6f72672f716367666d3465726a2f6c6f6c6c69706f705f6c696768742e676966" width="270" />
+
+---
+
 **MaterialPreferences**: https://github.com/yarolegovich/MaterialPreferences
 
 MD 风格的设置界面，兼容5.0以下
