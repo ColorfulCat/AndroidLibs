@@ -6,6 +6,14 @@
 
 ---
 
+**AnimatedSvgView**: https://github.com/jaredrummler/AnimatedSvgView
+
+Animated SVG Drawing for Android
+
+<img src="https://raw.githubusercontent.com/jaredrummler/AnimatedSvgView/master/demo/demo.gif" width="320" />
+
+---
+
 **AndroidPhotoFilters**: https://github.com/Zomato/AndroidPhotoFilters
 
 图片滤镜
