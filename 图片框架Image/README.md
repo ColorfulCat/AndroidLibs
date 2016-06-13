@@ -40,7 +40,7 @@ Animated SVG Drawing for Android
 
 流畅，灵活的图片拖拽排序
 
-<img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture1.gif" width="320" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture2.gif" width="320" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture3.gif" width="320" />
+<img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture1.gif" width="270" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture2.gif" width="270" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture3.gif" width="270" />
 
 ---
 
@@ -295,10 +295,10 @@ A simple image cropping library for Android.
 
 Image selector for Android device. Support single choice and multi-choice.
 
-<img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/example_1.png" width="320" />
-<img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_1.png" width="320" />
-<img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_2.png" width="320" />
-<img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_3.png" width="320" />
+<img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/example_1.png" width="200" />
+<img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_1.png" width="200" />
+<img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_2.png" width="200" />
+<img src="https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_3.png" width="200" />
 
 ---
 

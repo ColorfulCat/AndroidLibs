@@ -5,6 +5,14 @@
 
 ---
 
+**PinLockView**: https://github.com/aritraroy/PinLockView
+
+A clean, minimal, highly customizable pin lock view
+
+<img src="https://raw.githubusercontent.com/aritraroy/PinLockView/master/screens/promo.png" width="640" />
+
+---
+
 **SimpleViewPager**: https://github.com/fiskurgit/SimpleViewPager
 
 Quick image ViewPagers
