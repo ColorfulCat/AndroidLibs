@@ -5,6 +5,14 @@
 
 ---
 
+**ExpandableLayout**: https://github.com/SilenceDut/ExpandableLayout
+
+可伸缩布局，减少 Activity 和 Fragment 跳转
+
+<img src="https://raw.githubusercontent.com/SilenceDut/ExpandableLayout/master/media/simple_use.gif" width="320" /> <img src="https://raw.githubusercontent.com/SilenceDut/ExpandableLayout/master/media/recyclerview_withParentScroll_together.gif" width="320" /> <img src="https://raw.githubusercontent.com/SilenceDut/ExpandableLayout/master/media/listview_withoutParentScroll.gif" width="320" />
+
+---
+
 **PinLockView**: https://github.com/aritraroy/PinLockView
 
 A clean, minimal, highly customizable pin lock view
