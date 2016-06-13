@@ -6,6 +6,14 @@
 
 ---
 
+**AdvancedTextSwitcher**: https://github.com/SumiMakito/AdvancedTextSwitcher
+
+仿照Google+在卡片上滚动显示最新评论的TextSwitcher
+
+<img src="https://raw.githubusercontent.com/SumiMakito/AdvancedTextSwitcher/master/art/snapshot.gif" width="480" />
+
+---
+
 **SyntaxView**: https://github.com/fiskurgit/SyntaxView
 
 代码格式着色
@@ -373,14 +381,6 @@ Android's TextView that can expand/collapse like the Google Play's app descripti
 
 ---
 
-**android-autofittextview**: [https://github.com/grantland/android-autofittextview](https://github.com/grantland/android-autofittextview)
-
-A TextView that automatically resizes text to fit perfectly within its bounds.
-
-<img src="https://github.com/grantland/android-autofittextview/blob/master/website/static/autofittextview.gif?raw=true" width="640" />
-
----
-
 **TextJustify-Android**: [https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
 
 Android Text Full Jusiftication / Wrapping / Justify / Hyphenate - V2.0 [https://github.com/bluejamesbond/TextJustify-Android/wiki](https://github.com/bluejamesbond/TextJustify-Android/wiki)
@@ -400,15 +400,6 @@ Floating hint from edit text - inspired by Matt D. Smith's design:[http://dribbb
 **SizeAdjustingTextView**: [https://github.com/erchenger/SizeAdjustingTextView](https://github.com/erchenger/SizeAdjustingTextView)
 
 This is based on an open source autosizing textview for Android.
-
----
-
-**material-code-input**: [https://github.com/glomadrian/material-code-input](https://github.com/glomadrian/material-code-input)
-
-A material style input for codes
-
-<img src="https://github.com/glomadrian/material-code-input/blob/master/art/codeInput1.gif" width="320" />
-<img src="https://github.com/glomadrian/material-code-input/blob/master/art/codeInput2.gif" width="320" />
 
 ---
 
