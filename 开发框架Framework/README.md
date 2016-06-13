@@ -6,6 +6,12 @@
 
 ---
 
+**RNCryptorNative**：https://github.com/TGIO/RNCryptorNative
+
+Android JNI model implementation of Rob Napier's RNCryptor
+
+---
+
 **tesela**：https://github.com/raycoarana/tesela
 
 Tesela simplifies dealing with background threads and UI work in Model-View-Presenter
