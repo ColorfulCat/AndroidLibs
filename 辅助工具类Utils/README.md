@@ -6,6 +6,12 @@
 
 ---
 
+**AndroidProguardPlugin**: https://github.com/zhonghanwen/AndroidProguardPlugin
+
+生成混淆代码的 Android Studio 插件
+
+---
+
 **requery**: https://github.com/requery/requery
 
 轻量但功能强大的ORM和SQL查询生成， 支持RxJava和Java8
