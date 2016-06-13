@@ -6,6 +6,14 @@
 
 ---
 
+**MultipleStatusView**: https://github.com/qyxxjd/MultipleStatusView
+
+一个支持多种状态的自定义View,可以方便的切换到：加载中视图、错误视图、空数据视图、网络异常视图、内容视图
+
+<img src="https://raw.githubusercontent.com/qyxxjd/MultipleStatusView/master/screenshots/demo.gif" width="320" />
+
+---
+
 **QQBubbleView**: https://github.com/Yasic/QQBubbleView
 
 利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效
