@@ -6,6 +6,14 @@
 
 ---
 
+**RainbowBridge**: https://github.com/Sunzxyong/RainbowBridge
+
+A safe JsBridge framework!
+
+<img src="https://camo.githubusercontent.com/0c8c7c906d9cc6d517ae05c501920864add59c32/687474703a2f2f3778737778662e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f626c6f672f6a732e676966" width="320"/>
+
+---
+
 **RxValidator**: https://github.com/phajduk/RxValidator
 
 RxJava 和 RxBinding 结合的格式验证库
