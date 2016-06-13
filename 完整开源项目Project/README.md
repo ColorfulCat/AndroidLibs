@@ -10,7 +10,7 @@
 
 一个nfc 客户端，可查询各种公交卡余额等
 
-<img src="https://lh3.googleusercontent.com/bMuBROWaxhp6b0-koSLfyR346vNZ8I2RjWEbHMmOp4vQQ-5qzKo6LVsJuYyKRlAxzqfk=h900-rw" width="800" />
+<img src="https://lh3.googleusercontent.com/bMuBROWaxhp6b0-koSLfyR346vNZ8I2RjWEbHMmOp4vQQ-5qzKo6LVsJuYyKRlAxzqfk=h900-rw" width="320" />
 
 ---
 

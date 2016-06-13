@@ -6,6 +6,12 @@
 
 ---
 
+**awex**：https://github.com/raycoarana/awex
+
+AWEX (Android Work EXecutor) is a thread pool to execute tasks that uses Promises to deliver results
+
+---
+
 **Android-MVVMFramework**：https://github.com/saiwu-bigkoo/Android-MVVMFramework
 
 Using Databing and Retrofit to build a fast MVVM framework
