@@ -6,6 +6,12 @@
 
 ---
 
+**RxGroups**: https://github.com/airbnb/RxGroups
+
+Easily group RxJava Observables together and tie them to your Android Activity lifecycle
+
+---
+
 **agera-event-bus**: https://github.com/drakeet/agera-event-bus
 
 一个关于 Agera 的裤子 用法和 RxBus 基本一样的 Agera Event Bus
