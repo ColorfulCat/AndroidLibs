@@ -236,6 +236,14 @@ Android TextView or EditText with justified text.
 
 ---
 
+**EditTag**: https://github.com/qiugang/EditTag
+
+a view to edit tag just like EditText edit text
+
+<img src="https://raw.githubusercontent.com/qiugang/EditTag/master/screenshots/s01.jpg" width="320" />
+
+---
+
 **TagsEditText**: https://github.com/mabbas007/TagsEditText
 
 Android EditText for view tags
