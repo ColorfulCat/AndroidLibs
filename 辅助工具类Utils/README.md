@@ -6,6 +6,12 @@
 
 ---
 
+**UpdateApp**: https://github.com/yaming116/UpdateApp
+
+开箱即用的app更新，主要负责软件下载、软件安装等
+
+---
+
 **RainbowBridge**: https://github.com/Sunzxyong/RainbowBridge
 
 A safe JsBridge framework!
