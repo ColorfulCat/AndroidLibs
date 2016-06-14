@@ -6,6 +6,12 @@
 
 ---
 
+**agera-event-bus**: https://github.com/drakeet/agera-event-bus
+
+一个关于 Agera 的裤子 用法和 RxBus 基本一样的 Agera Event Bus
+
+---
+
 **UpdateApp**: https://github.com/yaming116/UpdateApp
 
 开箱即用的app更新，主要负责软件下载、软件安装等
