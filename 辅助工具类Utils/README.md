@@ -6,6 +6,12 @@
 
 ---
 
+**user-validator**: https://github.com/ShootrNetwork/user-validator
+
+Library to validate username, email and passwords
+
+---
+
 **RxGroups**: https://github.com/airbnb/RxGroups
 
 Easily group RxJava Observables together and tie them to your Android Activity lifecycle
