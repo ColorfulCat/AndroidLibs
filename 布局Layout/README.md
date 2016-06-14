@@ -5,6 +5,14 @@
 
 ---
 
+**stepper-indicator**: https://github.com/badoualy/stepper-indicator
+
+Step indicator for onboarding or simple viewpager
+
+<img src="https://raw.githubusercontent.com/badoualy/stepper-indicator/master/ART/screen.gif" width="320" />
+
+---
+
 **k4l-video-trimmer**: https://github.com/knowledge4life/k4l-video-trimmer
 
 视频裁剪
