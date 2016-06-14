@@ -6,6 +6,14 @@
 
 ---
 
+**AbilityChart**: https://github.com/jiefly/AbilityChart
+
+一个能力值属性分布的控件
+
+<img src="https://raw.githubusercontent.com/jiefly/AbilityChart/master/app/Screenshot_20160522-150549.png" width="320" /> <img src="https://raw.githubusercontent.com/jiefly/AbilityChart/master/app/Screenshot_20160521-203747.png" width="320" />
+
+---
+
 **hintcase**: https://github.com/Nescafemix/hintcase
 
 HintCase is a library for Android that will help you create really awesome hints/tips for your apps
