@@ -5,6 +5,14 @@
 
 ---
 
+**k4l-video-trimmer**: https://github.com/knowledge4life/k4l-video-trimmer
+
+视频裁剪
+
+<img src="https://raw.githubusercontent.com/knowledge4life/k4l-video-trimmer/master/screenshot/screenshot.png" width="320" />
+
+---
+
 **GridPasswordView**: https://github.com/Jungerr/GridPasswordView
 
 类似微信，支付宝输入支付密码的密码 View
