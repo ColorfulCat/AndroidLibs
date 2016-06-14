@@ -5,6 +5,14 @@
 
 ---
 
+**GridPasswordView**: https://github.com/Jungerr/GridPasswordView
+
+类似微信，支付宝输入支付密码的密码 View
+
+<img src="https://camo.githubusercontent.com/a7c72f6fc86e8e839c58d1795d294cd0480534e2/687474703a2f2f6a756e676572722e71696e6975646e2e636f6d2f6772696470617373776f7264766965775f302e322e676966" width="320" />
+
+---
+
 **ExpandableLayout**: https://github.com/SilenceDut/ExpandableLayout
 
 可伸缩布局，减少 Activity 和 Fragment 跳转
