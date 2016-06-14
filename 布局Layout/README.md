@@ -5,6 +5,14 @@
 
 ---
 
+**QingtingBannerView**: https://github.com/JeasonWong/QingtingBannerView
+
+仿蜻蜓FM轮播banner
+
+<img src="https://camo.githubusercontent.com/4f8407f247989bf6d4a5f13d02f6e94f97bd23ba/687474703a2f2f69312e6275696d672e636f6d2f343963626264646632396364343838322e676966" width="320" />
+
+---
+
 **stepper-indicator**: https://github.com/badoualy/stepper-indicator
 
 Step indicator for onboarding or simple viewpager
