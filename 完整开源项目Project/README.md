@@ -6,6 +6,14 @@
 
 ---
 
+**Android-SlidingEmojiKeyboard**: https://github.com/klinker24/Android-SlidingEmojiKeyboard
+
+Sliding Emoji Keyboard app
+
+<img src="https://raw.githubusercontent.com/klinker24/Android-SlidingEmojiKeyboard/master/ios-emojis/Other/Promo.png" width="800" />
+
+---
+
 **nfcard**: https://github.com/sinpolib/nfcard
 
 一个nfc 客户端，可查询各种公交卡余额等
