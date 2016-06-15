@@ -6,6 +6,14 @@
 
 ---
 
+**CompactCalendarView**: https://github.com/SundeepK/CompactCalendarView
+
+仿谷歌日历
+
+<img src="https://github.com/SundeepK/CompactCalendarView/raw/master/images/compact_calendar_animation.gif" width="320" />
+
+---
+
 **AbilityChart**: https://github.com/jiefly/AbilityChart
 
 一个能力值属性分布的控件
