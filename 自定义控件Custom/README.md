@@ -6,6 +6,14 @@
 
 ---
 
+**Android-Cling**: https://github.com/MajeurAndroid/Android-Cling
+
+首次使用软件时指导用户操作
+
+<img src="https://raw.githubusercontent.com/MajeurAndroid/Android-Cling/master/web_art/device_example.png" width="320" />
+
+---
+
 **CompactCalendarView**: https://github.com/SundeepK/CompactCalendarView
 
 仿谷歌日历
