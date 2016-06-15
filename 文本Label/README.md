@@ -154,9 +154,17 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**NumberMorphView**: https://github.com/me-abhinav/NumberMorphView
+
+数字变形的 View
+
+<img src="https://raw.githubusercontent.com/me-abhinav/NumberMorphView/dev/sample.gif" width="320" />
+
+---
+
 **NumberMorphView4Android**: https://github.com/Even201314/NumberMorphView4Android
 
-数字动态变化的 View
+又一个数字变形的 View
 
 <img src="https://raw.githubusercontent.com/Even201314/NumberMorphView4Android/master/raw/master/screenshot/sample.gif" width="320" />
 
