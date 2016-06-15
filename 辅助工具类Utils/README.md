@@ -6,6 +6,12 @@
 
 ---
 
+**GroupOfX**: https://github.com/blipinsk/GroupOfX
+
+When Android's Pair class is just not enough
+
+---
+
 **MediaFacade**: https://github.com/Drivemode/MediaFacade
 
 多媒体处理
