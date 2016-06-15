@@ -6,6 +6,14 @@
 
 ---
 
+**Android-animated-toolbar**: https://github.com/kassisdion/Android-animated-toolbar
+
+Library for toolbar animation
+
+<img src="https://camo.githubusercontent.com/48830e431dc90cd6e96da0cb07846ee80b08d3f9/687474703a2f2f696d6731312e686f7374696e67706963732e6e65742f706963732f383739353037616e696d61746564546f6f6c6261722e676966" width="320" />
+
+---
+
 **wava**: https://github.com/hujiaweibujidao/wava
 
 安卓动画
