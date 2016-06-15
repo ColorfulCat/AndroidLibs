@@ -5,6 +5,14 @@
 
 ---
 
+**CreditCardView**: https://github.com/cooltechworks/CreditCardView
+
+信用卡 View
+
+<img src="https://camo.githubusercontent.com/4c63460b76b63258113c9a094bb7535c43090f5c/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3438343035372f73637265656e73686f74732f323137373130352f636865636b6f75745f67656e657269632e676966" width="320" />
+
+---
+
 **QingtingBannerView**: https://github.com/JeasonWong/QingtingBannerView
 
 仿蜻蜓FM轮播banner
