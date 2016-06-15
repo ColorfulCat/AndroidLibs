@@ -6,6 +6,14 @@
 
 ---
 
+**monkey-android**: https://github.com/yeungeek/monkey-android
+
+Github 第三方客户端
+
+<img src="https://github.com/yeungeek/monkey-android/raw/master/images/monkey.gif" width="270" /> <img src="https://github.com/yeungeek/monkey-android/raw/master/images/preview1.png" width="270" /> <img src="https://github.com/yeungeek/monkey-android/raw/master/images/preview3.png" width="270" />
+
+---
+
 **YouJoin-Android**: https://github.com/FreedomZZQ/YouJoin-Android
 
 YouJoin社交平台的Android客户端
