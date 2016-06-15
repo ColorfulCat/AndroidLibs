@@ -14,6 +14,14 @@ Adapter for SelectionMode, ViewHolders, Filter, FastScroller, Animations, Undo, 
 
 ---
 
+**SnappingSwipingRecyclerView**: https://github.com/CarlLee/SnappingSwipingRecyclerView
+
+似微信读书首页的长按之后滑动删除的特效和动画
+
+<img src="https://raw.githubusercontent.com/CarlLee/SnappingSwipingRecyclerView/master/preview.gif" width="320" />
+
+---
+
 **EasyRecyclerView**: https://github.com/diegodobelo/AndroidExpandingViewLibrary
 
 展开收缩的View
