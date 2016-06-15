@@ -6,6 +6,12 @@
 
 ---
 
+**reminder**: https://github.com/OneCodeLabs/reminder
+
+保持 View 状态直到下次数据更新
+
+---
+
 **GroupOfX**: https://github.com/blipinsk/GroupOfX
 
 When Android's Pair class is just not enough
