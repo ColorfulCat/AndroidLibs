@@ -464,11 +464,21 @@ Android Search View based on Material design guidelines
 
 ---
 
+**PagerBottomTabStrip**: https://github.com/tyzlmjj/PagerBottomTabStrip
+
+一个基本按谷歌Material Design规范完成的安卓底部导航栏控件
+
+<img src="https://raw.githubusercontent.com/tyzlmjj/PagerBottomTabStrip/master/img/demo1.gif" width="200" /> <img src="https://raw.githubusercontent.com/tyzlmjj/PagerBottomTabStrip/master/img/demo2.gif" width="200" /> <img src="https://raw.githubusercontent.com/tyzlmjj/PagerBottomTabStrip/master/img/demo3.gif" width="200" /> <img src="https://raw.githubusercontent.com/tyzlmjj/PagerBottomTabStrip/master/img/demo4.gif" width="200" />
+
+---
+
+
 **BottomNavigation**: https://github.com/Ashok-Varma/BottomNavigation
 
 底部导航栏
 
 <img src="https://raw.githubusercontent.com/Ashok-Varma/BottomNavigation/master/all.gif" width="320" />
+
 ---
 
 **BottomBar**: https://github.com/roughike/BottomBar
