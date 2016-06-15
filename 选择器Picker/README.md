@@ -6,6 +6,14 @@
 
 ---
 
+**NumberPicker**: https://github.com/ShawnLin013/NumberPicker
+
+数字选择器
+
+<img src="https://github.com/ShawnLin013/NumberPicker/raw/master/screenshot/NumberPicker-Screenshot.png" width="320"/>
+
+---
+
 **TimePickerDialog**: https://github.com/JZXiang/TimePickerDialog
 
 多级时间选择器
