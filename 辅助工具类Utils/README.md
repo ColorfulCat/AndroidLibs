@@ -6,6 +6,12 @@
 
 ---
 
+**AndroidRandom**: https://github.com/slmyldz/AndroidRandom
+
+Simple random data generator for Android
+
+---
+
 **reminder**: https://github.com/OneCodeLabs/reminder
 
 保持 View 状态直到下次数据更新
