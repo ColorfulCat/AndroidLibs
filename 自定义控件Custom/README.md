@@ -6,6 +6,14 @@
 
 ---
 
+**Scoops**: https://github.com/52inc/Scoops
+
+主题管理切换
+
+<img src="https://camo.githubusercontent.com/d7ec90078d65ad6728580b5752b63658e8b92dcd/687474703a2f2f692e696d6775722e636f6d2f3553716a62684c2e676966" width="320" />
+
+---
+
 **Android-Cling**: https://github.com/MajeurAndroid/Android-Cling
 
 首次使用软件时指导用户操作
