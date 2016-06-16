@@ -50,6 +50,12 @@ Library to validate username, email and passwords
 
 ---
 
+**RxBus**: https://github.com/Dimezis/RxBus
+
+Simple Rx Event Bus implementation using Kotlin for Android and RxKotlin (RxJava)
+
+---
+
 **RxGroups**: https://github.com/airbnb/RxGroups
 
 Easily group RxJava Observables together and tie them to your Android Activity lifecycle
