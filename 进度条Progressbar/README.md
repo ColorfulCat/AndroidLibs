@@ -6,6 +6,23 @@
 
 ---
 
+**sc-widgets**: https://github.com/Paroca72/sc-widgets
+
+多种进度条，车速，气压，百分比等
+
+<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/2.jpg" height="100px" />
+<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/3.jpg" height="100px" />
+<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/4.jpg" height="100px" />
+<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/5.jpg" height="100px" />
+<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/11.jpg" height="100px" />
+<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/6.jpg" height="100px" />
+<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/7.jpg" height="100px" />
+<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/8.jpg" height="100px" />
+<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/9.jpg" height="100px" />
+<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/10.jpg" height="100px" />
+
+---
+
 **CircleProgressBar**: https://github.com/dinuscxj/CircleProgressBar
 
 A circular android ProgressBar library which extends ProgressBar
