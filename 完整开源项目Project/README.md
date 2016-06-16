@@ -6,6 +6,14 @@
 
 ---
 
+**WeatherAlarmClock**: https://github.com/kaku2015/WeatherAlarmClock
+
+天气闹钟
+
+<img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/workspace/WeAC/screenshots/3.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/workspace/WeAC/screenshots/11.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/workspace/WeAC/screenshots/18.jpeg" width="270" />
+
+---
+
 **monkey-android**: https://github.com/yeungeek/monkey-android
 
 Github 第三方客户端
