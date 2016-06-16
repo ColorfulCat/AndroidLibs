@@ -37,6 +37,14 @@ Step indicator for onboarding or simple viewpager
 
 ---
 
+**PasscodeView**: https://github.com/iamMehedi/PasscodeView
+
+支付密码的密码 View
+
+<img src="https://github.com/iamMehedi/PasscodeView/raw/master/demo.gif" width="270" />
+
+---
+
 **GridPasswordView**: https://github.com/Jungerr/GridPasswordView
 
 类似微信，支付宝输入支付密码的密码 View
