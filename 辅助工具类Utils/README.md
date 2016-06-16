@@ -6,6 +6,14 @@
 
 ---
 
+**network-connection-class**: https://github.com/facebook/network-connection-class
+
+facebook 出品的网速监测
+
+<img src="https://raw.githubusercontent.com/facebook/network-connection-class/master/docs/images/bandwidth_averaging.png" width="640"/>
+
+---
+
 **AndroidRandom**: https://github.com/slmyldz/AndroidRandom
 
 Simple random data generator for Android
