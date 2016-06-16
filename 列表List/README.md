@@ -6,6 +6,14 @@
 
 ---
 
+**CommonAdapter**: https://github.com/qyxxjd/CommonAdapter
+
+一个适用于ListView/GridView/RecyclerView的Adapter库,简化大量重复代码,支持多种布局,可自定义图片加载的实现
+
+<img src="https://raw.githubusercontent.com/qyxxjd/CommonAdapter/master/screenshots/main.png" width="270" /> <img src="https://raw.githubusercontent.com/qyxxjd/CommonAdapter/master/screenshots/simple.png" width="270" /> <img src="https://raw.githubusercontent.com/qyxxjd/CommonAdapter/master/screenshots/multiple.png" width="270" />
+
+---
+
 **FlexibleAdapter**: https://github.com/davideas/FlexibleAdapter
 
 Adapter for SelectionMode, ViewHolders, Filter, FastScroller, Animations, Undo, Headers, Expandable, Draggable, Swipeable
