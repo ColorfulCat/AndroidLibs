@@ -5,6 +5,14 @@
 
 ---
 
+**EasyForm**: https://github.com/emmasuzuki/EasyForm
+
+EasyForm makes a form creation and field validation easy
+
+<img src="https://raw.githubusercontent.com/emmasuzuki/EasyForm/master/demo1.gif" width="320" /> <img src="https://raw.githubusercontent.com/emmasuzuki/EasyForm/master/demo2.gif" width="320" /> 
+
+---
+
 **CreditCardView**: https://github.com/cooltechworks/CreditCardView
 
 信用卡 View

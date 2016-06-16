@@ -6,11 +6,11 @@
 
 ---
 
-**EasyForm**: https://github.com/emmasuzuki/EasyForm
+**plain-pie**: https://github.com/zurche/plain-pie
 
-EasyForm makes a form creation and field validation easy
+简单可自定义饼状图
 
-<img src="https://raw.githubusercontent.com/emmasuzuki/EasyForm/master/demo1.gif" width="320" /> <img src="https://raw.githubusercontent.com/emmasuzuki/EasyForm/master/demo2.gif" width="320" /> 
+<img src="https://raw.githubusercontent.com/zurche/plain-pie/master/img/pie_1.png" width="240" /> <img src="https://raw.githubusercontent.com/zurche/plain-pie/master/img/pie_2.png" width="320" /> <img src="https://raw.githubusercontent.com/zurche/plain-pie/master/img/pie_3.png" width="320" /> 
 
 ---
 
