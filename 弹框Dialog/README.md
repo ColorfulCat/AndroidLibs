@@ -6,6 +6,14 @@
 
 ---
 
+**AndroidColorPop**: https://github.com/Mahfa/AndroidColorPop
+
+绚丽的 PopupWindow
+
+<img src="https://raw.githubusercontent.com/Mahfa/AndroidColorPop/master/androidcolorpop.gif" width="200" />
+
+---
+
 **SelectionDialogs**: https://github.com/coreORB/SelectionDialogs
 
 快速选择 图标和颜色 的 Dialog
