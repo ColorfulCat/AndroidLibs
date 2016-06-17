@@ -14,6 +14,14 @@
 
 ---
 
+**Spotlight**: https://github.com/wooplr/Spotlight
+
+showcasing specific features in the app
+
+<img src="https://raw.githubusercontent.com/wooplr/Spotlight/master/art/intro.gif?token=AA5ZAHdvAspW6Zj8YyyKamkV7jWXFtMHks5XaQovwA%3D%3D" width="320" />
+
+---
+
 **Android-Cling**: https://github.com/MajeurAndroid/Android-Cling
 
 首次使用软件时指导用户操作
