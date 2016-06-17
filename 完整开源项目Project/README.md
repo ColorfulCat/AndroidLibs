@@ -6,6 +6,14 @@
 
 ---
 
+**superXingPostCard**: https://github.com/hugeterry/superXingPostCard
+
+一个制作明信片图片的app
+
+<img src="https://raw.githubusercontent.com/hugeterry/superXingPostCard/master/showUI/1.jpg" width="270" /> <img src="https://raw.githubusercontent.com/hugeterry/superXingPostCard/master/showUI/3.jpg" width="270" /> <img src="https://raw.githubusercontent.com/hugeterry/superXingPostCard/master/showUI/4.jpg" width="270" />
+
+---
+
 **WeatherAlarmClock**: https://github.com/kaku2015/WeatherAlarmClock
 
 天气闹钟
