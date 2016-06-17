@@ -6,6 +6,14 @@
 
 ---
 
+**flowlayoutmanager**: https://github.com/xiaofeng-han/AndroidLibs/tree/master/flowlayoutmanager
+
+FlowLayoutManager is a layoutManager that works with Android RecyclerView Widget
+
+<img src="https://cloud.githubusercontent.com/assets/15362031/15170689/fe3117d6-16fc-11e6-8ffc-3e90b9bf5430.gif" width="320" />
+
+---
+
 **ExpandableDelegates**: https://github.com/Marchuck/ExpandableDelegates
 
 more easy way to add multiple delegates to your expandable recyclerView!
