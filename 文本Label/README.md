@@ -6,6 +6,14 @@
 
 ---
 
+**NumberKeyboard**: https://github.com/wangshaolei/NumberKeyboard
+
+仿美团和糯米商家验证版的一个数字校验键盘
+
+<img src="https://raw.githubusercontent.com/wangshaolei/NumberKeyboard/master/img/Screenshot_20160616-103230.png" width="320" />
+
+---
+
 **AdvancedTextSwitcher**: https://github.com/SumiMakito/AdvancedTextSwitcher
 
 仿照Google+在卡片上滚动显示最新评论的TextSwitcher
