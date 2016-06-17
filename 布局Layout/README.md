@@ -5,11 +5,20 @@
 
 ---
 
+**GradientLayout**: https://github.com/csdodd/GradientLayout
+
+背景梯度变化的布局
+
+<img src="https://raw.githubusercontent.com/csdodd/GradientLayout/master/demo.gif" width="320" />
+
+---
+
 **ViewStatePagerAdapter**: https://github.com/NightlyNexus/ViewStatePagerAdapter
 
 Saves and restores View states in ViewPagers
 
 <img src="https://raw.githubusercontent.com/NightlyNexus/ViewStatePagerAdapter/master/images/sample.gif" width="270" />
+
 ---
 
 **EasyForm**: https://github.com/emmasuzuki/EasyForm
