@@ -6,6 +6,14 @@
 
 ---
 
+**RecyclerViewUndoSwipe**: https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe
+
+超实用！！ Android RecyclerView Undo Swipe支持
+
+<img src="https://camo.githubusercontent.com/633c9f0144b49b6a90edb18e44361f843010cd0f/687474703a2f2f696d6775722e636f6d2f523931554a716c2e676966" width="640" />
+
+---
+
 **flowlayoutmanager**: https://github.com/xiaofeng-han/AndroidLibs/tree/master/flowlayoutmanager
 
 FlowLayoutManager is a layoutManager that works with Android RecyclerView Widget
