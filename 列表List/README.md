@@ -6,6 +6,12 @@
 
 ---
 
+**ExpandableDelegates**: https://github.com/Marchuck/ExpandableDelegates
+
+more easy way to add multiple delegates to your expandable recyclerView!
+
+---
+
 **CommonAdapter**: https://github.com/qyxxjd/CommonAdapter
 
 一个适用于ListView/GridView/RecyclerView的Adapter库,简化大量重复代码,支持多种布局,可自定义图片加载的实现
