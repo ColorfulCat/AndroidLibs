@@ -5,6 +5,13 @@
 
 ---
 
+**ViewStatePagerAdapter**: https://github.com/NightlyNexus/ViewStatePagerAdapter
+
+Saves and restores View states in ViewPagers
+
+<img src="https://raw.githubusercontent.com/NightlyNexus/ViewStatePagerAdapter/master/images/sample.gif" width="270" />
+---
+
 **EasyForm**: https://github.com/emmasuzuki/EasyForm
 
 EasyForm makes a form creation and field validation easy
