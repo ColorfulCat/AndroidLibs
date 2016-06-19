@@ -6,6 +6,14 @@
 
 ---
 
+**BezierLoadingView**: https://github.com/JeasonWong/BezierLoadingView
+
+贝塞尔曲线加载
+
+<img src="https://camo.githubusercontent.com/13cbed7a494b18b10fdd13be2c636a823e7547f5/687474703a2f2f69342e6275696d672e636f6d2f636464356134613866303233333635302e676966" width="360" />
+
+---
+
 **sc-widgets**: https://github.com/Paroca72/sc-widgets
 
 多种进度条，车速，气压，百分比等
