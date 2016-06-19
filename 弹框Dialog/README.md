@@ -6,6 +6,14 @@
 
 ---
 
+**BottomDialogs**: https://github.com/javiersantos/BottomDialogs
+
+底部弹窗
+
+<img src="https://raw.githubusercontent.com/javiersantos/BottomDialogs/master/Screenshots/gif-1.gif" width="260" /> <img src="https://raw.githubusercontent.com/javiersantos/BottomDialogs/master/Screenshots/gif-2.gif" width="540" />
+
+---
+
 **JellyToggleButton**: https://github.com/Nightonke/JellyToggleButton
 
 带多种动画果冻效果 ToggleButton
