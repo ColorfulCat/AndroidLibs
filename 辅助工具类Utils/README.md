@@ -6,6 +6,12 @@
 
 ---
 
+**MaterialDesignIcons**: https://github.com/MrBIMC/MaterialDesignIcons
+
+Lib that imports all the vector drawables from www.materialdesignicons.com into your R.drawable/
+
+---
+
 **SnackbarBuilder**: https://github.com/andrewlord1990/SnackbarBuilder
 
 Snackbar 的简单使用库
