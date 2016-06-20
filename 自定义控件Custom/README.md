@@ -6,6 +6,14 @@
 
 ---
 
+**CircleCheckBox**: https://github.com/arlindiDev/CircleCheckBox
+
+CircleCheckBox is an Android custom view, that simply animates the check
+
+<img src="https://camo.githubusercontent.com/babf6e0390d054a6a694bee1c198c051d7b3e218/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f785430424b75546b6e523539545a45516a432f67697068792e676966" width="320" />
+
+---
+
 **Scoops**: https://github.com/52inc/Scoops
 
 主题管理切换
