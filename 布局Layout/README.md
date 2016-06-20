@@ -5,6 +5,12 @@
 
 ---
 
+**AndroidPdfViewer**: https://github.com/barteksc/AndroidPdfViewer
+
+pdf 文档查看
+
+---
+
 **GradientLayout**: https://github.com/csdodd/GradientLayout
 
 背景梯度变化的布局
