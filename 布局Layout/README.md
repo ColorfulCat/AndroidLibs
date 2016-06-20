@@ -5,6 +5,14 @@
 
 ---
 
+**stepper-indicator**: https://github.com/badoualy/stepper-indicator
+
+Step indicator for onboarding or simple viewpager
+
+<img src="https://raw.githubusercontent.com/badoualy/stepper-indicator/master/ART/screen.gif" width="320" />
+
+---
+
 **AndroidPdfViewer**: https://github.com/barteksc/AndroidPdfViewer
 
 pdf 文档查看
