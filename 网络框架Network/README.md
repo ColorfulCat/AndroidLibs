@@ -6,6 +6,12 @@
 
 ---
 
+**NoHttp**: https://github.com/yanzhenjie/NoHttp
+
+NoHttp支持大文件、多文件上传、文件下载、自动维持Cookie、异步/同步请求，多种Http缓存模式，302/303重定向, 支持代理服务器. http://www.nohttp.net
+
+---
+
 **AndroidNetworking**: https://github.com/amitshekhariitbhu/AndroidNetworking
 
 Android Networking http://amitshekhariitbhu.github.io/AndroidNetworking
