@@ -12,6 +12,14 @@
 
 ---
 
+**vertical-stepper-form**：https://github.com/ernestoyaquello/vertical-stepper-form
+
+This Android library implements a vertical stepper form following Google Material Design guidelines
+
+<img src="https://raw.githubusercontent.com/ernestoyaquello/vertical-stepper-form/master/stepper-example.gif" width="260" />
+
+---
+
 **Basic**：https://github.com/meikoz/Basic
 
 简单好用的 MVP 开发框架
