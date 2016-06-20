@@ -5,6 +5,14 @@
 
 ---
 
+**ExpandingPager**: https://github.com/qs-lll/ExpandingPager
+
+点击可查看详情的 ViewPager
+
+<img src="https://raw.githubusercontent.com/qs-lll/ExpandingPager/master/img/ExpandingPager.gif" width="240" />
+
+---
+
 **stepper-indicator**: https://github.com/badoualy/stepper-indicator
 
 Step indicator for onboarding or simple viewpager
