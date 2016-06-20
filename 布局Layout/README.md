@@ -452,12 +452,19 @@ Expand your view with no problem
 
 ---
 
+**GuideView**: https://github.com/binIoter/GuideView
+
+安卓引导 View
+
+<img src="https://raw.githubusercontent.com/binIoter/GuideView/master/app/src/main/res/assets/demo.gif" width="640" />
+
+---
+
 **welcome-android**: https://github.com/stephentuso/welcome-android
 
 A customizable welcome screen http://stephentuso.github.io/welcome-android/
 
 <img src="https://raw.githubusercontent.com/stephentuso/welcome-android/master/media/sample-video.gif" width="270" />
-
 
 ---
 
