@@ -6,6 +6,14 @@
 
 ---
 
+**WhatsappFormatter**: https://github.com/cooltechworks/WhatsappFormatter
+
+Simple formatting options for TextView and EditText in the same way Whatsapp provides
+
+<img src="https://raw.githubusercontent.com/cooltechworks/WhatsappFormatter/master/screenshot/whatsappformattingdemo.gif" width="320" />
+
+---
+
 **NumberKeyboard**: https://github.com/wangshaolei/NumberKeyboard
 
 仿美团和糯米商家验证版的一个数字校验键盘
