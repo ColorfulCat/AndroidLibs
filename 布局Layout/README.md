@@ -5,6 +5,14 @@
 
 ---
 
+**ViewPagerWithIndicator**: https://github.com/kassisdion/ViewPagerWithIndicator
+
+A simple ViewPager indicator implementation compatible with the from the Android Support Library. It can use arrows on the left and right and it can display a pageIndicator
+
+<img src="https://raw.githubusercontent.com/kassisdion/ViewPagerWithIndicator/master/doc/demo_gif.gif" width="240" />
+
+---
+
 **ExpandingPager**: https://github.com/qs-lll/ExpandingPager
 
 点击可查看详情的 ViewPager
