@@ -6,6 +6,12 @@
 
 ---
 
+**OpenWeatherMap-Android**: https://github.com/seventhmoon/OpenWeatherMap-Android
+
+OpenWeatherMap Library and Sample
+
+---
+
 **RemoveButterKnife**: https://github.com/u3shadow/RemoveButterKnife
 
 帮助去掉 ButterKnife 库的 android studio 插件
