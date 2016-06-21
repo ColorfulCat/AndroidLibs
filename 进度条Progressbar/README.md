@@ -6,6 +6,14 @@
 
 ---
 
+**HoldToLoadLayout**: https://github.com/melihaksoy/HoldToLoadLayout
+
+A layout that creates a loading-like progress around it's child ( circle ), inspired from Destiny's ( PS4 ) accept mechanism
+
+<img src="https://raw.githubusercontent.com/melihaksoy/HoldToLoadLayout/master/gifs/htl_1.gif" width="270" /> <img src="https://raw.githubusercontent.com/melihaksoy/HoldToLoadLayout/master/gifs/htl_4.gif" width="270" />
+
+---
+
 **BezierLoadingView**: https://github.com/JeasonWong/BezierLoadingView
 
 贝塞尔曲线加载
