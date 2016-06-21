@@ -6,6 +6,12 @@
 
 ---
 
+**Jolyglot**: https://github.com/VictorAlbertos/Jolyglot
+
+Agnostic Json abstraction to perform data binding operations for Android and Java
+
+---
+
 **OpenWeatherMap-Android**: https://github.com/seventhmoon/OpenWeatherMap-Android
 
 OpenWeatherMap Library and Sample
