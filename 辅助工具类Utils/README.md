@@ -6,6 +6,12 @@
 
 ---
 
+**RemoveButterKnife**: https://github.com/u3shadow/RemoveButterKnife
+
+帮助去掉 ButterKnife 库的 android studio 插件
+
+---
+
 **MaterialDesignIcons**: https://github.com/MrBIMC/MaterialDesignIcons
 
 Lib that imports all the vector drawables from www.materialdesignicons.com into your R.drawable/
