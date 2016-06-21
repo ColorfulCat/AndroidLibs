@@ -37,6 +37,14 @@ Step indicator for onboarding or simple viewpager
 
 ---
 
+**Android-StepsView**: https://github.com/anton46/Android-StepsView
+
+Android-StepsView [http://anton46.com](http://anton46.com)
+
+<img src="https://github.com/anton46/Android-StepsView/blob/master/image1.png" width="320" />
+
+---
+
 **AndroidPdfViewer**: https://github.com/barteksc/AndroidPdfViewer
 
 pdf 文档查看
@@ -83,14 +91,6 @@ EasyForm makes a form creation and field validation easy
 
 ---
 
-**stepper-indicator**: https://github.com/badoualy/stepper-indicator
-
-Step indicator for onboarding or simple viewpager
-
-<img src="https://raw.githubusercontent.com/badoualy/stepper-indicator/master/ART/screen.gif" width="320" />
-
----
-
 **k4l-video-trimmer**: https://github.com/knowledge4life/k4l-video-trimmer
 
 视频裁剪
@@ -119,7 +119,7 @@ Step indicator for onboarding or simple viewpager
 
 可伸缩布局，减少 Activity 和 Fragment 跳转
 
-<img src="https://raw.githubusercontent.com/SilenceDut/ExpandableLayout/master/media/simple_use.gif" width="320" /> <img src="https://raw.githubusercontent.com/SilenceDut/ExpandableLayout/master/media/recyclerview_withParentScroll_together.gif" width="320" /> <img src="https://raw.githubusercontent.com/SilenceDut/ExpandableLayout/master/media/listview_withoutParentScroll.gif" width="320" />
+<img src="https://raw.githubusercontent.com/SilenceDut/ExpandableLayout/master/media/simple_use.gif" width="270" /> <img src="https://raw.githubusercontent.com/SilenceDut/ExpandableLayout/master/media/recyclerview_withParentScroll_together.gif" width="270" /> <img src="https://raw.githubusercontent.com/SilenceDut/ExpandableLayout/master/media/listview_withoutParentScroll.gif" width="270" />
 
 ---
 
@@ -143,7 +143,7 @@ Quick image ViewPagers
 
 可以读取SD卡，asset文件夹，或者网络下载的pdf文件的widget
 
-<img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/local.gif" width="320" /> <img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/remote.gif" width="320" /> <img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/zooming.gif" width="320" />
+<img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/local.gif" width="270" /> <img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/remote.gif" width="270" /> <img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/zooming.gif" width="270" />
 
 ---
 
@@ -488,7 +488,7 @@ Expand your view with no problem
 
 安卓引导 View
 
-<img src="https://raw.githubusercontent.com/binIoter/GuideView/master/app/src/main/res/assets/demo.gif" width="640" />
+<img src="https://raw.githubusercontent.com/binIoter/GuideView/master/app/src/main/res/assets/review.gif" width="640" />
 
 ---
 
@@ -604,14 +604,6 @@ More powerful than LinearLayout and RelativeLayout which use java expression in 
 A MapView on Android platform
 
 <img src="https://raw.githubusercontent.com/onlylemi/notes/master/images/android_mapview_2.gif" width="320" /> <img src="https://raw.githubusercontent.com/onlylemi/notes/master/images/android_mapview_3.gif" width="320" />
-
----
-
-**Android-StepsView**: [https://github.com/anton46/Android-StepsView](https://github.com/anton46/Android-StepsView)
-
-Android-StepsView [http://anton46.com](http://anton46.com)
-
-<img src="https://github.com/anton46/Android-StepsView/blob/master/image1.png" width="320" />
 
 ---
 
