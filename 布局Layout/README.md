@@ -5,6 +5,14 @@
 
 ---
 
+**pagerbullet**: https://github.com/robohorse/pagerbullet
+
+Android ViewPager with bottom dots
+
+<img src="https://raw.githubusercontent.com/robohorse/pagerbullet/master/images/sample.png" width="270" /> <img src="https://raw.githubusercontent.com/robohorse/pagerbullet/master/images/text_indicator.png" width="270" /> <img src="https://raw.githubusercontent.com/robohorse/pagerbullet/master/images/container.png" width="270" />
+
+---
+
 **ViewPagerWithIndicator**: https://github.com/kassisdion/ViewPagerWithIndicator
 
 A simple ViewPager indicator implementation compatible with the from the Android Support Library. It can use arrows on the left and right and it can display a pageIndicator
