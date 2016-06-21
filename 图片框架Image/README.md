@@ -6,6 +6,12 @@
 
 ---
 
+**GlideBitmapPool**: https://github.com/amitshekhariitbhu/GlideBitmapPool
+
+Glide Bitmap Pool is a memory management library for reusing the bitmap memory https://amitshekhariitbhu.github.io/GlideBitmapPool/
+
+---
+
 **vectalign**: https://github.com/bonnyfone/vectalign
 
 Tool for create complex morphing animations using VectorDrawables (allows morphing between any pair of SVG images)
