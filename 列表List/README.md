@@ -6,6 +6,14 @@
 
 ---
 
+**CardStackView**: https://github.com/loopeer/CardStackView
+
+Show something like cards with 3 kinds of animations
+
+<img src="https://raw.githubusercontent.com/loopeer/CardStackView/master/screenshot/screenshot1.gif" width="320" /> <img src="https://raw.githubusercontent.com/loopeer/CardStackView/master/screenshot/screenshot3.gif" width="320" />
+
+---
+
 **RecyclerViewUndoSwipe**: https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe
 
 超实用！！ Android RecyclerView Undo Swipe支持
