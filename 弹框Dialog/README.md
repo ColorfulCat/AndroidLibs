@@ -14,14 +14,6 @@
 
 ---
 
-**JellyToggleButton**: https://github.com/Nightonke/JellyToggleButton
-
-带多种动画果冻效果 ToggleButton
-
-<img src="https://raw.githubusercontent.com/Nightonke/JellyToggleButton/master/img/JellyToggleButton4.gif" width="320" />
-
----
-
 **AndroidColorPop**: https://github.com/Mahfa/AndroidColorPop
 
 绚丽的 PopupWindow
