@@ -6,6 +6,16 @@
 
 ---
 
+**DialogAlchemy**: https://github.com/NeoLSN/DialogAlchemy
+
+简单的处理对话框旋转
+
+<img src="https://github.com/NeoLSN/DialogAlchemy/blob/master/arts/device_portrait.png" height="300" alt="Portrait image" /> 
+<img src="https://github.com/NeoLSN/DialogAlchemy/blob/master/arts/rotate.png" width="50" alt="Rotate screen" /> 
+<img src="https://github.com/NeoLSN/DialogAlchemy/blob/master/arts/device_landscape.png" width="300" alt="Landscape image" /> 
+
+---
+
 **BottomDialogs**: https://github.com/javiersantos/BottomDialogs
 
 底部弹窗
