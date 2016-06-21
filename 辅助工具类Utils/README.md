@@ -10,6 +10,8 @@
 
 帮助去掉 ButterKnife 库的 android studio 插件
 
+<img src="https://camo.githubusercontent.com/0327cda5b531ab6f2b803abe295c42225668d28d/687474703a2f2f7777772e7533636f64696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30362f312e676966" width="600"/>
+
 ---
 
 **MaterialDesignIcons**: https://github.com/MrBIMC/MaterialDesignIcons
