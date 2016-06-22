@@ -131,14 +131,6 @@ A clean, minimal, highly customizable pin lock view
 
 ---
 
-**SimpleViewPager**: https://github.com/fiskurgit/SimpleViewPager
-
-Quick image ViewPagers
-
-<img src="https://raw.githubusercontent.com/fiskurgit/SimpleViewPager/master/images/example_image1.png" width="320" />
-
----
-
 **PdfViewPager**: https://github.com/voghDev/PdfViewPager
 
 可以读取SD卡，asset文件夹，或者网络下载的pdf文件的widget

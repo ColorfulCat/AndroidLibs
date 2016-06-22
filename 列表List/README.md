@@ -6,6 +6,14 @@
 
 ---
 
+**RecyclerViewEnhanced**: https://github.com/nikhilpanju/RecyclerViewEnhanced
+
+RecyclerView 用法增强
+
+<img src="https://raw.githubusercontent.com/nikhilpanju/RecyclerViewEnhanced/master/sample/src/common/images/Demo.gif" width="320" />
+
+---
+
 **CardStackView**: https://github.com/loopeer/CardStackView
 
 Show something like cards with 3 kinds of animations
