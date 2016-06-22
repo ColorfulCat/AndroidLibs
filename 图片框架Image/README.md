@@ -6,6 +6,14 @@
 
 ---
 
+**GifLoadingView**: https://github.com/Rogero0o/GifLoadingView
+
+GifLoadingViewhttps://amitshekhariitbhu.github.io/GlideBitmapPool/
+
+<img src="https://camo.githubusercontent.com/5d60273b50200d40dd0fb3d6e7e2f2283651630d/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f61363935616364656777316633646579737274346767323034733034783137722e676966" width="160" /> <img src="https://camo.githubusercontent.com/b754e4dd02b606757a3e00242a00f81ca1c79a97/687474703a2f2f7777322e73696e61696d672e636e2f736d616c6c2f613639356163646567773166336465797662707761673230347330347831306a2e676966" width="160" /> <img src="https://camo.githubusercontent.com/de425dc93de5058c2af83756091c40b53fea9132/687474703a2f2f7777332e73696e61696d672e636e2f736d616c6c2f61363935616364656777316633646579777162323967323034733034786a737a2e676966" width="160" /> <img src="https://camo.githubusercontent.com/c67e8c65bcdbdae5a0cb8598d4869b971f6fee0d/687474703a2f2f7777342e73696e61696d672e636e2f736d616c6c2f6136393561636465677731663364657a323037717567323034733034786e61642e676966" width="160" />
+
+---
+
 **GlideBitmapPool**: https://github.com/amitshekhariitbhu/GlideBitmapPool
 
 Glide Bitmap Pool is a memory management library for reusing the bitmap memory https://amitshekhariitbhu.github.io/GlideBitmapPool/
