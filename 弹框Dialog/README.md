@@ -1,8 +1,22 @@
 # AndroidLibs == 弹框 Dialog
 
-包含：各种Dialog、PopupWindow……
+包含：各种Dialog、PopupWindow、Toast、Snackbar……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
+
+---
+
+**FluentSnackbar**: https://github.com/AntonyGolovin/FluentSnackbar
+
+Snackbar 封装库
+
+<img src="https://raw.githubusercontent.com/AntonyGolovin/FluentSnackbar/master/art/screenshot.png" width="320" />
+
+---
+
+**SnackbarBuilder**: https://github.com/andrewlord1990/SnackbarBuilder
+
+Snackbar 的简单使用库
 
 ---
 

@@ -32,12 +32,6 @@ Lib that imports all the vector drawables from www.materialdesignicons.com into 
 
 ---
 
-**SnackbarBuilder**: https://github.com/andrewlord1990/SnackbarBuilder
-
-Snackbar 的简单使用库
-
----
-
 **network-connection-class**: https://github.com/facebook/network-connection-class
 
 facebook 出品的网速监测
