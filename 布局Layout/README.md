@@ -5,6 +5,14 @@
 
 ---
 
+**Badge**: https://github.com/nekocode/Badge
+
+自定义徽章
+
+<img src="https://raw.githubusercontent.com/nekocode/Badge/master/art/preview.png" width="400" />
+
+---
+
 **pagerbullet**: https://github.com/robohorse/pagerbullet
 
 Android ViewPager with bottom dots
