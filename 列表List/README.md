@@ -6,6 +6,14 @@
 
 ---
 
+**MultiChoiceRecyclerView**: https://github.com/dvdciri/MultiChoiceRecyclerView
+
+RecyclerView 实现的多选框架
+
+<img src="https://raw.githubusercontent.com/dvdciri/MultiChoiceRecyclerView/master/example1.png" width="270" /> <img src="https://raw.githubusercontent.com/dvdciri/MultiChoiceRecyclerView/master/example2.png" width="270" /> <img src="https://raw.githubusercontent.com/dvdciri/MultiChoiceRecyclerView/master/example.png" width="270" />
+
+---
+
 **RecyclerViewEnhanced**: https://github.com/nikhilpanju/RecyclerViewEnhanced
 
 RecyclerView 用法增强
