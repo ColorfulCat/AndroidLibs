@@ -6,6 +6,14 @@
 
 ---
 
+**Compressor**: https://github.com/zetbaitsu/Compressor
+
+图片压缩
+
+<img src = "https://raw.githubusercontent.com/zetbaitsu/Compressor/master/ss.png" width = "320"/>
+
+---
+
 **GifLoadingView**: https://github.com/Rogero0o/GifLoadingView
 
 GifLoadingViewhttps://amitshekhariitbhu.github.io/GlideBitmapPool/
