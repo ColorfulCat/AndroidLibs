@@ -6,6 +6,14 @@
 
 ---
 
+**EasyLicensesDialog**: https://github.com/marcoscgdev/EasyLicensesDialog
+
+EasyLicensesDialog
+
+<img src="https://raw.githubusercontent.com/marcoscgdev/EasyLicensesDialog/master/sample/device-2016-06-21-005826.gif" width="320" />
+
+---
+
 **DialogAlchemy**: https://github.com/NeoLSN/DialogAlchemy
 
 简单的处理对话框旋转
