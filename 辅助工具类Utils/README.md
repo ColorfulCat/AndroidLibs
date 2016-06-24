@@ -132,9 +132,27 @@ Android低功耗蓝牙便捷操作框架，基于回调，完成蓝牙设备交�
 
 ---
 
+**AndroidUtils**: https://github.com/HJXANDHMR/AndroidUtils
+
+Android常用工具类
+
+---
+
 **AndroidUtils**: https://github.com/WuXiaolong/AndroidUtils
 
 Android常用工具类
+
+---
+
+**android-common**: https://github.com/litesuits/android-common
+
+安卓开发通用类、辅助类、工具类的集合
+
+---
+
+**Lazy**: https://github.com/l123456789jy/Lazy
+
+整理的常用的工具类，值得收藏
 
 ---
 
@@ -626,18 +644,6 @@ Some useful tools
 <img src="https://raw.githubusercontent.com/lfkdsk/JustWeTools/master/picture/markdown.png" width="320" /> <img src="https://raw.githubusercontent.com/lfkdsk/JustWeTools/master/picture/VerTextView.png" width="320" /> <img src="https://raw.githubusercontent.com/lfkdsk/JustWeTools/master/picture/gif.gif" width="480" /> <img src="https://raw.githubusercontent.com/lfkdsk/JustWeTools/master/picture/clock.png" width="240" /> 
 
 --
-
-**android-common**: https://github.com/litesuits/android-common
-
-安卓开发通用类、辅助类、工具类的集合
-
----
-
-**Lazy**: https://github.com/l123456789jy/Lazy
-
-整理的常用的工具类，值得收藏
-
----
 
 **FileDownloader**: https://github.com/lingochamp/FileDownloader
 
