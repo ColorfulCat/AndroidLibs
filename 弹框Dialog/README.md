@@ -6,6 +6,14 @@
 
 ---
 
+**magic-toast**: https://github.com/ekimual/magic-toast
+
+Magic Toast
+
+<img src="https://cloud.githubusercontent.com/assets/16832215/16327497/20a467be-3a02-11e6-892d-0870a95c4246.jpg" width="320" />
+
+---
+
 **FluentSnackbar**: https://github.com/AntonyGolovin/FluentSnackbar
 
 Snackbar 封装库
