@@ -6,6 +6,14 @@
 
 ---
 
+**BezierMaker**: https://github.com/venshine/BezierMaker
+
+通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画
+
+<img src="https://raw.githubusercontent.com/venshine/BezierMaker/master/screenshot/2.gif" width="270" /> <img src="https://raw.githubusercontent.com/venshine/BezierMaker/master/screenshot/3.gif" width="270" /> <img src="https://raw.githubusercontent.com/venshine/BezierMaker/master/screenshot/7.gif" width="270" /> 
+
+---
+
 **CircleCheckBox**: https://github.com/arlindiDev/CircleCheckBox
 
 CircleCheckBox is an Android custom view, that simply animates the check
