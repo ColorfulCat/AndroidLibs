@@ -6,6 +6,14 @@
 
 ---
 
+**LoadingView**: https://github.com/ldoublem/LoadingView
+
+各种动画效果的LoadingView
+
+<img src="https://raw.githubusercontent.com/ldoublem/LoadingView/master/screen/%E6%95%88%E6%9E%9C.gif" width="360" />
+
+---
+
 **HoldToLoadLayout**: https://github.com/melihaksoy/HoldToLoadLayout
 
 A layout that creates a loading-like progress around it's child ( circle ), inspired from Destiny's ( PS4 ) accept mechanism
