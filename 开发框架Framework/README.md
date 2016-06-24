@@ -26,6 +26,12 @@ This Android library implements a vertical stepper form following Google Materia
 
 ---
 
+**android-mvvm**：https://github.com/A-Zaiats/android-mvvm
+
+A Model-View-ViewModel library for Android apps. Check Android-mvvm page for more information
+
+---
+
 **MVVMLight**：https://github.com/Kelin-Hong/MVVMLight
 
 一个Android MVVM 轻量级工具库，主要目的是更快捷方便的构建Android MVVM应用程序
