@@ -5,6 +5,14 @@
 
 ---
 
+**MagicaSakura**: https://github.com/Bilibili/MagicaSakura
+
+B 站出品的 Android 主题切换
+
+<img src="https://raw.githubusercontent.com/Bilibili/MagicaSakura/master/screenshot/magicasakura.gif" width="320" />
+
+---
+
 **Badge**: https://github.com/nekocode/Badge
 
 自定义徽章
