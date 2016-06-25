@@ -6,6 +6,14 @@
 
 ---
 
+**SlickForm**: https://github.com/AlburIvan/SlickForm
+
+SlickForm is an Android library that let you define a custom array of EditTexts with the purpose of handling a form in a cool animated way
+
+<img src="https://raw.githubusercontent.com/AlburIvan/SlickForm/master/slick_form_demo.gif" width="320" />
+
+---
+
 **WhatsappFormatter**: https://github.com/cooltechworks/WhatsappFormatter
 
 Simple formatting options for TextView and EditText in the same way Whatsapp provides
