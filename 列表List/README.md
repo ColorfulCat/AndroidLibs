@@ -6,6 +6,14 @@
 
 ---
 
+**ParallaxRecyclerView**: https://github.com/mzelzoghbi/ParallaxRecyclerView
+
+视差效果 RecyclerView 
+
+<img src="https://raw.githubusercontent.com/mzelzoghbi/ParallaxRecyclerView/master/gif_1.gif" width="240" /> <img src="https://raw.githubusercontent.com/mzelzoghbi/ParallaxRecyclerView/master/gif_2.gif" width="240" />
+
+---
+
 **MultiChoiceRecyclerView**: https://github.com/dvdciri/MultiChoiceRecyclerView
 
 RecyclerView 实现的多选框架
