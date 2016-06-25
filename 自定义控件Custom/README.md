@@ -6,6 +6,14 @@
 
 ---
 
+**SmileBar**: https://github.com/eugeneek/SmileBar
+
+等级评分
+
+<img src="https://raw.githubusercontent.com/eugeneek/SmileBar/master/img/screenshot.png" width="320" />
+
+---
+
 **BezierMaker**: https://github.com/venshine/BezierMaker
 
 通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画
