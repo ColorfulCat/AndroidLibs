@@ -6,6 +6,12 @@
 
 ---
 
+**PullSwitcher**: https://github.com/loopeer/PullSwitcher
+
+方便 Fragment 切换的工具
+
+---
+
 **YUVDroidTools**: https://github.com/Jhuster/YUVDroidTools
 
 安卓预览 YUV 原始数据
