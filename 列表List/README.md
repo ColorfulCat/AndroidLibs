@@ -6,6 +6,14 @@
 
 ---
 
+**SwipeActionAdapter**: https://github.com/wdullaer/SwipeActionAdapter
+
+ListView 左滑右滑
+
+<img src="hhttps://camo.githubusercontent.com/d02997a8f88b797a1df02e768a822a2bf7e9daa5/68747470733a2f2f7261772e6769746875622e636f6d2f7764756c6c6165722f5377697065416374696f6e416461707465722f67682d70616765732f696d616765732f73776970655f322e706e67" width="400" /> <img src="https://camo.githubusercontent.com/7215066edafdb957f51fa7c30bd1e62f74a1210e/68747470733a2f2f7261772e6769746875622e636f6d2f7764756c6c6165722f5377697065416374696f6e416461707465722f67682d70616765732f696d616765732f73776970655f312e706e67" width="400" />
+
+---
+
 **ParallaxRecyclerView**: https://github.com/mzelzoghbi/ParallaxRecyclerView
 
 视差效果 RecyclerView 
