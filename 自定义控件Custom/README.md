@@ -6,6 +6,14 @@
 
 ---
 
+**RatingView**: https://github.com/Ornolfr/RatingView
+
+等级评分
+
+<img src="https://camo.githubusercontent.com/3db8e39d6d0754b4a2561564a8620dff1bd7870e/68747470733a2f2f676f6f676c6564726976652e636f6d2f686f73742f3042777a315f62396d413758596243314551323878614856776347632f726174696e6776696577322e6a7067" width="320" />
+
+---
+
 **SmileBar**: https://github.com/eugeneek/SmileBar
 
 等级评分
