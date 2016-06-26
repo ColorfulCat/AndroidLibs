@@ -6,6 +6,14 @@
 
 ---
 
+**DroidMVP**：https://github.com/andrzejchm/DroidMVP
+
+安卓 MVP 开发框架
+
+<img src="https://raw.githubusercontent.com/andrzejchm/DroidMVP/develop/mvp-diagram.png" width="600" />
+
+---
+
 **AndroidArchitectureCollection**：https://github.com/CameloeAnthony/AndroidArchitectureCollection
 
 安卓架构文章合集（a collection of android Architecture）
