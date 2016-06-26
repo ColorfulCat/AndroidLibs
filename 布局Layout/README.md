@@ -147,6 +147,14 @@ EasyForm makes a form creation and field validation easy
 
 ---
 
+**android-otpview-pinview**: https://github.com/mukeshsolanki/android-otpview-pinview
+
+PIN View
+
+<img src="https://raw.githubusercontent.com/mukeshsolanki/android-otpview-pinview/master/screenshots/Screenshot_20160622-201727.png" width="320" /> <img src="https://raw.githubusercontent.com/mukeshsolanki/android-otpview-pinview/master/screenshots/Screenshot_20160622-201845.png" width="320" />
+
+---
+
 **PinLockView**: https://github.com/aritraroy/PinLockView
 
 A clean, minimal, highly customizable pin lock view
