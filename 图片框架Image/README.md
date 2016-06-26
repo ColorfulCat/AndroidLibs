@@ -6,6 +6,14 @@
 
 ---
 
+**ImageGroupView**: https://github.com/loopeer/ImageGroupView
+
+图片增删工具
+
+<img src = "https://raw.githubusercontent.com/loopeer/ImageGroupView/master/screenshot/screenshot.gif" width = "300"/> <img src = "https://raw.githubusercontent.com/loopeer/ImageGroupView/master/screenshot/screenshot_select_photo.gif" width = "300"/>
+
+---
+
 **Compressor**: https://github.com/zetbaitsu/Compressor
 
 图片压缩
