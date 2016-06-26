@@ -6,6 +6,12 @@
 
 ---
 
+**AdapterDelegates-ListView**: https://github.com/esafirm/AdapterDelegates-ListView
+
+ListView Adapter 代理工具
+
+---
+
 **SwipeActionAdapter**: https://github.com/wdullaer/SwipeActionAdapter
 
 ListView 左滑右滑
