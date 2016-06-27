@@ -6,6 +6,14 @@
 
 ---
 
+**Barandroid-sectioned-adapter**: https://github.com/CardinalNow/android-sectioned-adapter
+
+RecyclerView.Adapter 的封装，可自动排序并添加 header
+
+<img src="https://camo.githubusercontent.com/3b85d647e98d540f0ea2be9850691771b430cf79/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f33333838303133382f5374616e646172644865616465722e706e67" width="320" /> <img src="https://camo.githubusercontent.com/cb545f8abe903267a9a31df07c126b6b7682dce9/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f33333838303133382f437573746f6d486561646572732e706e67" width="320" />
+
+---
+
 **SideBar**: https://github.com/kongnanlive/SideBar
 
 全新的快速索引导航栏，联系人字母排序侧边栏
