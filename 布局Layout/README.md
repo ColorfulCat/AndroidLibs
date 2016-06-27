@@ -5,11 +5,11 @@
 
 ---
 
-**MagicaSakura**: https://github.com/Bilibili/MagicaSakura
+**Revealator**: https://github.com/Jaouan/Revealator
 
-B 站出品的 Android 主题切换
+圆形显示或取消显示 View
 
-<img src="https://raw.githubusercontent.com/Bilibili/MagicaSakura/master/screenshot/magicasakura.gif" width="320" />
+<img src="https://raw.githubusercontent.com/Jaouan/Revealator/master/art/demo.gif" width="320" />
 
 ---
 

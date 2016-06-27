@@ -38,6 +38,14 @@ CircleCheckBox is an Android custom view, that simply animates the check
 
 ---
 
+**MagicaSakura**: https://github.com/Bilibili/MagicaSakura
+
+B 站出品的 Android 主题切换
+
+<img src="https://raw.githubusercontent.com/Bilibili/MagicaSakura/master/screenshot/magicasakura.gif" width="320" />
+
+---
+
 **Scoops**: https://github.com/52inc/Scoops
 
 主题管理切换
