@@ -6,6 +6,12 @@
 
 ---
 
+**NavigationViewFragmentAdapters**: https://github.com/patloew/NavigationViewFragmentAdapters
+
+Fragment 管理
+
+---
+
 **PullSwitcher**: https://github.com/loopeer/PullSwitcher
 
 方便 Fragment 切换的工具
