@@ -6,6 +6,14 @@
 
 ---
 
+**SideBar**: https://github.com/kongnanlive/SideBar
+
+全新的快速索引导航栏，联系人字母排序侧边栏
+
+<img src="https://raw.githubusercontent.com/kongnanlive/SideBar/master/gif5.gif" width="200" />
+
+---
+
 **SpringHeader**: https://github.com/loopeer/SpringHeader
 
 CoordinatorLayout 实现的下拉刷新
