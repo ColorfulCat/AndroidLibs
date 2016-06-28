@@ -500,6 +500,14 @@ Easy check permission library for Android Marshmallow
 
 ---
 
+**App-Runtime-Permissions-Android**: https://github.com/mukeshsolanki/App-Runtime-Permissions-Android
+
+Speed up your work with new Runtime Permissions introduced in Android M
+
+<img src="https://camo.githubusercontent.com/6863a1cb3f7e3fb57a8f70d99e8bcc8d00b4f0bb/687474703a2f2f7069632e796f756d6f62696c652e6f72672f696d6763646e2f4170702d7065726d697373696f6e732d636f6d696e672d696e2d416e64726f69642d4d2e6a7067" width="300" />
+
+---
+
 **Dexter**: https://github.com/Karumi/Dexter
 
 Android library that simplifies the process of requesting permissions at runtime. http://karumi.com
