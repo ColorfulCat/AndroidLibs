@@ -6,6 +6,14 @@
 
 ---
 
+**narrate-android**: https://github.com/timothymiko/narrate-android
+
+日记应用
+
+<img src="https://lh6.ggpht.com/8uGdduyPnGJF-rM0ifjruQR4v_2AJW3Uq4G3kKyVFytt3FYnvpkKdThdQDQMC-TXNDY=h900-rw" width="270" /> <img src="https://lh3.ggpht.com/y9sDAArYyQf5XXpgKX6zRuJvbeeSAFQc79gNT8UaTKoSB9DvBm-aJhQDsZoZqY0Itz0=h900-rw" width="270" />
+
+---
+
 **BookShelf**: https://github.com/iHaPBoy/BookShelf
 
 一款用于管理个人图书及阅读笔记的移动 Android 应用
