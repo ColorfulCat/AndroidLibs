@@ -6,6 +6,14 @@
 
 ---
 
+**MarqueeLayoutLibrary**: https://github.com/oubowu/MarqueeLayoutLibrary
+
+一个支持四个方向循环滚动的自定义控件
+
+<img src="https://raw.githubusercontent.com/oubowu/MarqueeLayoutLibrary/master/pic/demo.gif" width="360" />
+
+---
+
 **RatingView**: https://github.com/Ornolfr/RatingView
 
 等级评分
