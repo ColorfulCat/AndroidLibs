@@ -406,6 +406,12 @@ Easy SharedPreference Engine foR ANDROid http://dkunzler.github.io/esperandro
 
 ---
 
+**AnyPref**: https://github.com/NashLegend/AnyPref
+
+SharedPreferences实用工具类，可直接保存与读取实例对象，SharedPreferences中的ORM
+
+---
+
 **Prefs**: https://github.com/GrenderG/Prefs
 
 Simple Android SharedPreferences wrapper
