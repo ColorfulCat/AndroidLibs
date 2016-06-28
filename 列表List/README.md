@@ -14,6 +14,14 @@ RecyclerView.Adapter 的封装，可自动排序并添加 header
 
 ---
 
+**Android-QuickSideBar**: https://github.com/saiwu-bigkoo/Android-QuickSideBar
+
+帮助快速查阅对应分组的侧边栏
+
+<img src="https://raw.githubusercontent.com/saiwu-bigkoo/Android-QuickSideBar/master/preview/quicksidebardemo.gif" width="320" />
+
+---
+
 **SideBar**: https://github.com/kongnanlive/SideBar
 
 全新的快速索引导航栏，联系人字母排序侧边栏
