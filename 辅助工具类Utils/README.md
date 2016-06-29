@@ -140,6 +140,12 @@ RxJava 和 RxBinding 结合的格式验证库
 
 ---
 
+**RebDroid**: https://github.com/Snakeice/RebDroid
+
+Realm DB browser and editor
+
+---
+
 **requery**: https://github.com/requery/requery
 
 轻量但功能强大的ORM和SQL查询生成， 支持RxJava和Java8
