@@ -6,6 +6,14 @@
 
 ---
 
+**gallery**: https://github.com/kenvies/gallery
+
+最实用的图片操作实例
+
+<img src = "https://github.com/wqandroid/wqgallery/raw/dev/app/screenshort/wqgallert.gif" width = "300"/>
+
+---
+
 **ImageGroupView**: https://github.com/loopeer/ImageGroupView
 
 图片增删工具
