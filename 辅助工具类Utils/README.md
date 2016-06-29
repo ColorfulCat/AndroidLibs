@@ -32,9 +32,15 @@ Agnostic Json abstraction to perform data binding operations for Android and Jav
 
 ---
 
+**EasyWeather**: https://github.com/code-crusher/EasyWeather
+
+天气，Easy and quick weather fetching from OpenWeatherMap API for Android
+
+---
+
 **OpenWeatherMap-Android**: https://github.com/seventhmoon/OpenWeatherMap-Android
 
-OpenWeatherMap Library and Sample
+天气，OpenWeatherMap Library and Sample
 
 ---
 
@@ -408,7 +414,7 @@ Composition over inheritance for Android components like Activity or Fragment
 
 **android-classyshark**: https://github.com/google/android-classyshark
 
-apk 查看工具
+apk 反编译工具
 
 ---
 
