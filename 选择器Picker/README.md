@@ -6,6 +6,14 @@
 
 ---
 
+**DropDownMenu**: https://github.com/baiiu/DropDownMenu
+
+a better DropDownMenu solution, 完整的筛选器解决方案
+
+<img src="https://raw.githubusercontent.com/baiiu/DropDownMenu/master/images/dropDownMenu.gif" width="320"/>
+
+---
+
 **NumberPicker**: https://github.com/ShawnLin013/NumberPicker
 
 数字选择器
