@@ -6,6 +6,14 @@
 
 ---
 
+**elegant-underline**: https://github.com/romainguy/elegant-underline
+
+精美文本下划线
+
+<img src="https://raw.githubusercontent.com/romainguy/elegant-underline/master/art/elegant-underline.png" width="320" />
+
+---
+
 **MarkedView-for-Android**: https://github.com/mittsuu/MarkedView-for-Android
 
 markdown text viewer
