@@ -6,6 +6,14 @@
 
 ---
 
+**photofilter**: https://github.com/mukeshsolanki/photofilter
+
+滤镜
+
+<img src = "https://raw.githubusercontent.com/mukeshsolanki/photofilter/master/screenshots/Car-applyShadingFilter1.png" width = "320"/> <img src = "https://raw.githubusercontent.com/mukeshsolanki/photofilter/master/screenshots/Car-boost2.png" width = "320"/>
+
+---
+
 **gallery**: https://github.com/kenvies/gallery
 
 最实用的图片操作实例
