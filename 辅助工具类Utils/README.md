@@ -152,6 +152,12 @@ Android低功耗蓝牙便捷操作框架，基于回调，完成蓝牙设备交�
 
 ---
 
+**NonViewUtils**: https://github.com/android-quick-dev/NonViewUtils
+
+Android常用工具类
+
+---
+
 **AndroidUtils**: https://github.com/HJXANDHMR/AndroidUtils
 
 Android常用工具类
