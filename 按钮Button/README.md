@@ -6,6 +6,14 @@
 
 ---
 
+**LiquidButton**: https://github.com/yoruriko/LiquidButton
+
+Animation of liquid loading button
+
+<img src="https://raw.githubusercontent.com/yoruriko/LiquidButton/master/demo.gif" width="320" />
+
+---
+
 **JellyToggleButton**: https://github.com/Nightonke/JellyToggleButton
 
 带多种动画果冻效果 ToggleButton
