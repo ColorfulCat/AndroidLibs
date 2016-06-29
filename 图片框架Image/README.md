@@ -178,6 +178,14 @@ Scalable vector graphics for Android
 
 ---
 
+**Image-Zoomer**: https://github.com/code-crusher/Image-Zoomer
+
+Image zoom animations library for Android
+
+<img src="https://raw.githubusercontent.com/code-crusher/Image-Zoomer/master/screenshots/zoom.gif" width="320" /> <img src="https://raw.githubusercontent.com/code-crusher/Image-Zoomer/master/screenshots/zoomReverse.gif" width="320" />
+
+---
+
 **image-zoom**: https://github.com/oliveiradev/image-zoom
 
 A simple lib for zoom images on event click
