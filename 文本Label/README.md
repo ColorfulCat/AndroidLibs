@@ -6,6 +6,14 @@
 
 ---
 
+**MarkedView-for-Android**: https://github.com/mittsuu/MarkedView-for-Android
+
+markdown text viewer
+
+<img src="https://raw.githubusercontent.com/mittsuu/MarkedView-for-Android/master/sample_sc.png" width="320" />
+
+---
+
 **SlickForm**: https://github.com/AlburIvan/SlickForm
 
 SlickForm is an Android library that let you define a custom array of EditTexts with the purpose of handling a form in a cool animated way
