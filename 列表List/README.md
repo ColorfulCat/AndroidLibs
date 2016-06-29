@@ -6,6 +6,14 @@
 
 ---
 
+**VideoListDemo**: https://github.com/w1123440793/VideoListDemo
+
+一个视频播放列表demo，视频播放使用的ijkplayer,正在播放视频拖动到不可见区域小窗口播放，可全屏切换
+
+<img src="https://raw.githubusercontent.com/w1123440793/VideoListDemo/master/screenshots/vidiolist.gif" width="300" />
+
+---
+
 **Barandroid-sectioned-adapter**: https://github.com/CardinalNow/android-sectioned-adapter
 
 RecyclerView.Adapter 的封装，可自动排序并添加 header
