@@ -6,6 +6,18 @@
 
 ---
 
+**ExoPlayer**: https://github.com/google/ExoPlayer
+
+An extensible media player for Android
+
+---
+
+**exoplayer-textureview**: https://github.com/satorufujiwara/exoplayer-textureview
+
+ExoPlayer's wrapper for using with TextureView
+
+---
+
 **NavigationViewFragmentAdapters**: https://github.com/patloew/NavigationViewFragmentAdapters
 
 Fragment 管理
