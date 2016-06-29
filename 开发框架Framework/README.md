@@ -6,6 +6,12 @@
 
 ---
 
+**AppDynamicFramework**: https://github.com/xiyouMc/AppDynamicFramework
+
+本框架是在 Dynamic-load-apk上层进行的封装。增加插件动态加载到libs目录和针对模块Service的注入。本框架使DynamicLoad更加实用。
+
+---
+
 **android-design-template**：https://github.com/andreasschrade/android-design-template
 
 Android Design 设计模板
