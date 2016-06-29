@@ -418,6 +418,12 @@ apk 反编译工具
 
 ---
 
+**Android-Shared-Preferences-TinyDB-**: https://github.com/mukeshsolanki/Android-Shared-Preferences-TinyDB-
+
+Easy SharedPreference 封装库
+
+---
+
 **esperandro**: https://github.com/dkunzler/esperandro
 
 Easy SharedPreference Engine foR ANDROid http://dkunzler.github.io/esperandro
