@@ -6,6 +6,14 @@
 
 ---
 
+**MaterialTextField**: https://github.com/florent37/MaterialTextField
+
+好看的 Floating EditText
+
+<img src="https://camo.githubusercontent.com/d5eb5d6991d4bde93d8ac0e0c958e3ce66c75082/687474703a2f2f692e67697068792e636f6d2f6c34316c566b4130596b615a574e5430492e676966" width="320" />
+
+---
+
 **elegant-underline**: https://github.com/romainguy/elegant-underline
 
 精美文本下划线
