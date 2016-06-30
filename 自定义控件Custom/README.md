@@ -6,6 +6,14 @@
 
 ---
 
+**StackOverView**: https://github.com/Bossyao168/StackOverView
+
+类似 5.0 任务栏的自定义控件
+
+<img src="https://camo.githubusercontent.com/eb5076c5b0b759f5a9ee9288ab754e6e9c54fd27/687474703a2f2f69313036302e70686f746f6275636b65742e636f6d2f616c62756d732f743434342f626f737379616f3136382f323031352d30342d303325323032305f35315f35305f7a7073636475696d6274612e676966" width="360" />
+
+---
+
 **MarqueeLayoutLibrary**: https://github.com/oubowu/MarqueeLayoutLibrary
 
 一个支持四个方向循环滚动的自定义控件
