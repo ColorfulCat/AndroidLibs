@@ -6,6 +6,14 @@
 
 ---
 
+**QiniuImageLoader**: https://github.com/lingochamp/QiniuImageLoader
+
+在Android上结合七牛提供的API，让加载图片更有效、更节流、更简单、更可控、更酷
+
+<img src = "https://raw.githubusercontent.com/lingochamp/QiniuImageLoader/master/art/demo_1.jpg" width = "320"/> <img src = "https://raw.githubusercontent.com/lingochamp/QiniuImageLoader/master/art/demo_2.jpg" width = "320"/>
+
+---
+
 **photofilter**: https://github.com/mukeshsolanki/photofilter
 
 滤镜
