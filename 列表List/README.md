@@ -6,6 +6,14 @@
 
 ---
 
+**Persei.android**: https://github.com/android-cjj/Persei.android
+
+android 版本 Persei
+
+<img src="https://raw.githubusercontent.com/Yalantis/Persei/master/Assets/animation.gif" width="800" />
+
+---
+
 **RecyclerView-MultipleViewTypesAdapter**: https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter
 
 Android library defining adapter classes of RecyclerView to manage multiple view types
