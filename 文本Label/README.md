@@ -6,6 +6,14 @@
 
 ---
 
+**SlantedTextView**: https://github.com/HeZaiJin/SlantedTextView
+
+倾斜的 TextView，可做标签
+
+<img src="https://raw.githubusercontent.com/HeZaiJin/SlantedTextView/master/screen_shot/screenshot.png" width="320" />
+
+---
+
 **MaterialTextField**: https://github.com/florent37/MaterialTextField
 
 好看的 Floating EditText
