@@ -6,6 +6,14 @@
 
 ---
 
+**NumberPickerView**: https://github.com/Carbs0126/NumberPickerView
+
+another NumberPicker with more flexible attributes on Android platform
+
+<img src="https://raw.githubusercontent.com/Carbs0126/Screenshot/master/numberpickerview_refine1.gif" width="320"/> <img src="https://raw.githubusercontent.com/Carbs0126/Screenshot/master/gregorian_refine.gif" width="320"/>
+
+---
+
 **DropDownMenu**: https://github.com/baiiu/DropDownMenu
 
 a better DropDownMenu solution, 完整的筛选器解决方案
