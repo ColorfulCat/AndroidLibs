@@ -6,6 +6,14 @@
 
 ---
 
+**circular-with-floating-action-button**: https://github.com/DmitryMalkovich/circular-with-floating-action-button
+
+circular-with-floating-action-button
+
+<img src="https://cloud.githubusercontent.com/assets/2931932/14582337/84424940-040a-11e6-9236-d362606055bb.png" width="320" />
+
+---
+
 **LiquidButton**: https://github.com/yoruriko/LiquidButton
 
 Animation of liquid loading button
