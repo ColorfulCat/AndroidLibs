@@ -30,6 +30,14 @@
 
 ---
 
+**AndroidEdit**: https://github.com/qinci/AndroidEdit
+
+可撤销、恢复的 EditText
+
+<img src="https://raw.githubusercontent.com/qinci/AndroidEdit/master/image/image.gif" width="270" />
+
+---
+
 **MarkedView-for-Android**: https://github.com/mittsuu/MarkedView-for-Android
 
 markdown text viewer
