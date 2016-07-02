@@ -14,6 +14,14 @@ Library for toolbar animation
 
 ---
 
+**BezierDemo**:  https://github.com/chenupt/BezierDemo
+
+A demo to show bezier.
+
+<img src="https://raw.githubusercontent.com/chenupt/BezierDemo/master/pic/bezier.gif" width="320" />
+
+---
+
 **wava**: https://github.com/hujiaweibujidao/wava
 
 安卓动画

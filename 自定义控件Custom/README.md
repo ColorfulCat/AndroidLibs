@@ -414,23 +414,6 @@ Sometimes, we need to show a label above an ImageView or any other views. Well, 
 
 ---
 
-**JumpingBeans**:  https://github.com/frakbot/JumpingBeans
-
- A Span-based library to make your text jump like Mexican beans. Oh, and the "..."s in Hangouts.
-
-<img src="https://github.com/frakbot/JumpingBeans/blob/master/art/jumpingdots.gif" width="320" />
-<img src="https://github.com/frakbot/JumpingBeans/blob/master/art/jumpingword.gif" width="320" />
-
----
-
-**BezierDemo**:  https://github.com/chenupt/BezierDemo
-
-A demo to show bezier.
-
-<img src="https://raw.githubusercontent.com/chenupt/BezierDemo/master/pic/bezier.gif" width="320" />
-
----
-
 **discreteSeekBar**: [https://github.com/AnderWeb/discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar)
 
 <img src="https://camo.githubusercontent.com/b1c5e00bc9164c24b995a95942dbb731edd8d39e/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d4a6a7678564d436d3175672f56485550575642667062492f41414141414141414874512f5450746f4f6a4849354d412f773633392d683335362f7365656b626172322e676966" width="320" />
@@ -574,15 +557,6 @@ Android Week View is an android library to display calendars (week view or day v
 Android calendar view inspired by Sunrise calendar and iOS7 stock calendar
 
 <img src="https://github.com/NLMartian/SilkCal/raw/master/images/screenshot.gif" width="320" />
-
----
-
-**MaterialDateTimePicker**: [https://github.com/wdullaer/MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker)
-
-Pick a date or time on Android in style
-
-<img src="https://camo.githubusercontent.com/1467c2b5d209d68aef8ac96cc6bdc28a6c2b1f3d/68747470733a2f2f7261772e6769746875622e636f6d2f7764756c6c6165722f4d6174657269616c4461746554696d655069636b65722f67682d70616765732f696d616765732f646174655f7069636b65722e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/968ac1b84bfe4514fabf2c25c94a1381d3af3973/68747470733a2f2f7261772e6769746875622e636f6d2f7764756c6c6165722f4d6174657269616c4461746554696d655069636b65722f67682d70616765732f696d616765732f74696d655f7069636b65722e706e67" width="320" />
 
 ---
 

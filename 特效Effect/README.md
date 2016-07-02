@@ -38,6 +38,14 @@ A SiderBar base on Android that has a beautiful anim
 
 ---
 
+**Popview-Android**: https://github.com/krishnarb3/Popview-Android
+
+粒子爆炸效果
+
+<img src="https://camo.githubusercontent.com/0507f2331a833b16bfac0215679af3481c564e5c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f466f47536374744f46386534302f67697068792e676966" width="270" />
+
+---
+
 **ExplosionField**: [https://github.com/tyrantgit/ExplosionField](https://github.com/tyrantgit/ExplosionField)
 
 explosive dust effect for views

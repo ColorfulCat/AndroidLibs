@@ -168,6 +168,15 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**JumpingBeans**:  https://github.com/frakbot/JumpingBeans
+
+ A Span-based library to make your text jump like Mexican beans. Oh, and the "..."s in Hangouts.
+
+<img src="https://github.com/frakbot/JumpingBeans/blob/master/art/jumpingdots.gif" width="320" />
+<img src="https://github.com/frakbot/JumpingBeans/blob/master/art/jumpingword.gif" width="320" />
+
+---
+
 **MarqueeView**: https://github.com/sfsheng0322/MarqueeView
 
 垂直跑马灯 —— 垂直翻页公告
