@@ -6,6 +6,14 @@
 
 ---
 
+**HeaderAndFooterRecyclerView**: https://github.com/cundong/HeaderAndFooterRecyclerView
+
+A RecyclerView solution, Support addHeaderView, addFooterView, and page loading
+
+<img src="https://raw.githubusercontent.com/cundong/HeaderAndFooterRecyclerView/master/art/art1.png" width="270" /> <img src="https://raw.githubusercontent.com/cundong/HeaderAndFooterRecyclerView/master/art/art3.png" width="270" /> <img src="https://raw.githubusercontent.com/cundong/HeaderAndFooterRecyclerView/master/art/art5.png" width="270" />
+
+---
+
 **LastAdapter**: https://github.com/nitrico/LastAdapter
 
 Don't write a RecyclerView adapter again. Not even a ViewHolder!
