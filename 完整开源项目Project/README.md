@@ -6,6 +6,14 @@
 
 ---
 
+**DeepDiveIntoAndroidDataBinding**: https://github.com/radzio/DeepDiveIntoAndroidDataBinding
+
+DataBinding demo
+
+<img src="https://cloud.githubusercontent.com/assets/469111/16058354/6297c9d0-327e-11e6-9e0c-0aab0f08ba7a.gif" width="400" />
+
+---
+
 **huabanDemo**: https://github.com/LiCola/huabanDemo
 
 MD版的花瓣网App
