@@ -6,6 +6,14 @@
 
 ---
 
+**packagehunter**: https://github.com/nisrulz/packagehunter
+
+捕获安卓应用信息
+
+<img src="https://raw.githubusercontent.com/nisrulz/packagehunter/master/img/sc1.png" width="300"/> <img src="https://raw.githubusercontent.com/nisrulz/packagehunter/master/img/sc2.png" width="300"/>
+
+---
+
 **ExoPlayer**: https://github.com/google/ExoPlayer
 
 An extensible media player for Android
