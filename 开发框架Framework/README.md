@@ -6,6 +6,14 @@
 
 ---
 
+**DBinding**: https://github.com/tianzhijiexian/DBinding
+
+巧妙、灵活的databinding改造库
+
+<img src="https://raw.githubusercontent.com/tianzhijiexian/DBinding/master/pic/gen_vm.gif" width="640"/>
+
+---
+
 **weex**: https://github.com/alibaba/weex
 
 A framework for building Mobile cross-platform UI http://alibaba.github.io/weex
