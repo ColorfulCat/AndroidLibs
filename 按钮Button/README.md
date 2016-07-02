@@ -78,6 +78,14 @@ Android floating action button.
 
 ---
 
+**SlideSwitch**: https://github.com/Leaking/SlideSwitch
+
+可滑动的 ToggleButton
+
+<img src="https://github.com/Leaking/SlideSwitch/blob/master/Example/TestLibs/res/drawable-hdpi/slide_c.gif" width="320" />
+
+---
+
 **circular-progress-button**: [https://github.com/dmytrodanylyk/circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)
 
 Android Circular Progress Button. [http://dmytrodanylyk.com/pages/portfolio/circular-progress-button.html](http://dmytrodanylyk.com/pages/portfolio/circular-progress-button.html)

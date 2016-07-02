@@ -14,6 +14,17 @@
 
 ---
 
+**AndroidFillableLoaders**: [https://github.com/JorgeCastilloPrz/AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders)
+
+Android fillable progress view working with SVG paths. This is a nice option too if you want to create an interesting branding logo for your app. Based on the iOS project:[https://github.com/poolqf/FillableLoaders](https://github.com/poolqf/FillableLoaders)
+
+<img src="https://github.com/JorgeCastilloPrz/AndroidFillableLoaders/blob/master/art/demoWaves.gif" width="160" />
+<img src="https://github.com/JorgeCastilloPrz/AndroidFillableLoaders/blob/master/art/demoPlain.gif" width="160" />
+<img src="https://github.com/JorgeCastilloPrz/AndroidFillableLoaders/blob/master/art/demoSpikes.gif" width="160" />
+<img src="https://github.com/JorgeCastilloPrz/AndroidFillableLoaders/blob/master/art/demoRounded.gif" width="160" />
+
+---
+
 **HoldToLoadLayout**: https://github.com/melihaksoy/HoldToLoadLayout
 
 A layout that creates a loading-like progress around it's child ( circle ), inspired from Destiny's ( PS4 ) accept mechanism
@@ -71,6 +82,31 @@ An android progress view developed after taking inspiration from Uber app
 
 ---
 
+**BeerProgressView**: https://github.com/andyb129/BeerProgressView
+
+A library that lets you create a beer styled progress view with bubbles and all
+
+<img src="https://raw.githubusercontent.com/andyb129/BeerProgressView/master/screenshots/beer_progress_view_anim.gif" width="320" />
+
+---
+
+**SnailBar**: https://github.com/android-cjj/SnailBar
+
+A lovely snail,You can use it as a seekbar or progressbar.
+
+<img src="https://camo.githubusercontent.com/898918cea97a610539213a27e49fe9d8b0cd8e4a/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530392f31342f31353133333971756e76753636753272756b6e72366e2e676966" width="320" />
+
+---
+
+**ElasticDownload**: [https://github.com/Tibolte/ElasticDownload](https://github.com/Tibolte/ElasticDownload)
+
+We are not Gif makers, We are developers
+
+<img src="https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/success.gif" width="320" />
+<img src="https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/fail.gif" width="320" />
+
+---
+
 **LoadingDrawable**: https://github.com/dinuscxj/LoadingDrawable
 
 some beautiful android loading drawable
@@ -81,6 +117,14 @@ some beautiful android loading drawable
 
 ---
 
+**materialish-progress**: https://github.com/pnikosis/materialish-progress
+
+A material style progress wheel compatible with 2.3
+
+<img src="https://github.com/pnikosis/materialish-progress/blob/master/spinningwheel.gif" width="320" />
+
+---
+
 **ArcProgressStackView**: https://github.com/GIGAMOLE/ArcProgressStackView
 
 Present your progress bars in arc mode with information and total control.
@@ -88,6 +132,42 @@ Present your progress bars in arc mode with information and total control.
 View size, CB controls     |Typeface, animation     |Draw width, offset, gradient   |Angle, orientation          |Shadow
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://lh3.googleusercontent.com/-5wahrBgdCTw/VuwHChXS3FI/AAAAAAAACNQ/eqpqhfnN5G0l3EnETDQ_I5qu4kqQYSysA/w327-h551-no/apsv_preview_size_cb.gif)|![](https://lh4.googleusercontent.com/-c6X1XyKY1go/VuwHCkNghpI/AAAAAAAACNQ/x_xtWAytFPkNrbuEDylIGKNR8mh1jW-rg/w323-h552-no/apsv_preview_typeface_animation.gif)|![](https://lh6.googleusercontent.com/-mz_x7ViHvpQ/VuwHCrwvy-I/AAAAAAAACNQ/vShu09gRxDYv1eekjOLDeSKoHMSluph3w/w325-h552-no/apsv_preview_offset.gif)|![](https://lh6.googleusercontent.com/-iuYi_G-OGrc/VuwHCgvlRNI/AAAAAAAACNQ/LNaGspht3gYsAMJfclfF9InQBzTamHj0Q/w325-h552-no/apsv_preview_angle.gif)|![](https://lh6.googleusercontent.com/-ifOq29FoVrE/VuwHCprAWrI/AAAAAAAACNQ/wLdEYiyV2kwd2rQDQf0QSMe-amHIbhogQ/w325-h552-no/apsv_preview_shadow.gif)
+
+---
+
+**FABProgressCircle**: [https://github.com/JorgeCastilloPrz/FABProgressCircle](https://github.com/JorgeCastilloPrz/FABProgressCircle)
+
+Material progress circle around any FloatingActionButton. 100% Guidelines.
+
+<img src="https://github.com/JorgeCastilloPrz/FABProgressCircle/blob/master/art/fabprogresscircle.gif" width="320" />
+<img src="https://github.com/JorgeCastilloPrz/FABProgressCircle/blob/master/art/fabprogresscircle2.gif" width="320" />
+
+---
+
+**Loading**: [https://github.com/yankai-victor/Loading](https://github.com/yankai-victor/Loading)
+
+Android loading view
+
+<img src="https://github.com/yankai-victor/Loading/blob/master/images/RotateLoading.gif" width="240" />
+<img src="https://github.com/yankai-victor/Loading/blob/master/images/BookLoading.gif" width="240" />
+<img src="https://github.com/yankai-victor/Loading/blob/master/images/NewtonCradleLoading.gif" width="240" />
+
+---
+
+**AnimatedCircleLoadingView**: [https://github.com/jlmd/AnimatedCircleLoadingView](https://github.com/jlmd/AnimatedCircleLoadingView)
+
+An animated circle loading view
+
+<img src="https://github.com/jlmd/AnimatedCircleLoadingView/blob/master/art/indeterminate_ok.gif" width="320" />
+<img src="https://github.com/jlmd/AnimatedCircleLoadingView/blob/master/art/indeterminate_failure.gif" width="320" />
+
+---
+
+**WaveLoadingView**: https://github.com/tangqi92/WaveLoadingView
+
+An Android library providing to realize wave loading effect
+
+<img src="https://github.com/tangqi92/WaveLoadingView/blob/master/screenshots/sample.gif" width="320" />
 
 ---
 

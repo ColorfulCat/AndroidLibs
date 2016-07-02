@@ -163,22 +163,6 @@ EasyForm makes a form creation and field validation easy
 
 ---
 
-**android-otpview-pinview**: https://github.com/mukeshsolanki/android-otpview-pinview
-
-PIN View
-
-<img src="https://raw.githubusercontent.com/mukeshsolanki/android-otpview-pinview/master/screenshots/Screenshot_20160622-201727.png" width="320" /> <img src="https://raw.githubusercontent.com/mukeshsolanki/android-otpview-pinview/master/screenshots/Screenshot_20160622-201845.png" width="320" />
-
----
-
-**PinLockView**: https://github.com/aritraroy/PinLockView
-
-A clean, minimal, highly customizable pin lock view
-
-<img src="https://raw.githubusercontent.com/aritraroy/PinLockView/master/screens/promo.png" width="640" />
-
----
-
 **PdfViewPager**: https://github.com/voghDev/PdfViewPager
 
 可以读取SD卡，asset文件夹，或者网络下载的pdf文件的widget
@@ -192,14 +176,6 @@ A clean, minimal, highly customizable pin lock view
 Quick image ViewPagers
 
 <img src="https://raw.githubusercontent.com/fiskurgit/SimpleViewPager/master/images/example_image1.png" width="320" />
-
----
-
-**labelview**: https://github.com/linger1216/labelview
-
-Label above an ImageView or any other views
-
-<img src="https://raw.githubusercontent.com/linger1216/labelview/master/img/img1.png" width="360" /> <img src="https://raw.githubusercontent.com/linger1216/labelview/master/img/img3.png" width="360" />
 
 ---
 

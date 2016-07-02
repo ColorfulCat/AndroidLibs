@@ -1,6 +1,6 @@
 # AndroidLibs == 文本 Label
 
-包含：各种文本相关的自定义控件 textview ……
+包含：各种文本相关的自定义控件 pdf textview ……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
@@ -11,6 +11,14 @@
 倾斜的 TextView，可做标签
 
 <img src="https://raw.githubusercontent.com/HeZaiJin/SlantedTextView/master/screen_shot/screenshot.png" width="320" />
+
+---
+
+**labelview**: https://github.com/linger1216/labelview
+
+Sometimes, we need to show a label above an ImageView or any other views. Well, LabelView will be able to help you
+
+<img src="https://github.com/linger1216/labelview/blob/master/img/img1.png" width="320" />
 
 ---
 
@@ -569,5 +577,13 @@ A library that enhances the TextView and allows the user to format various spans
 An AutoCompleteTextView with builtin Adapter with the emails in the device
 
 <img src="https://github.com/tasomaniac/EmailAutoCompleteTextView/blob/master/demo.gif" width="320" />
+
+---
+
+**android-pdfview**: [https://github.com/JoanZapata/android-pdfview](https://github.com/JoanZapata/android-pdfview)
+
+A fast PDF reader component for Android development.[http://joanzapata.com/android-pdfview/](http://joanzapata.com/android-pdfview/)
+
+<img src="https://camo.githubusercontent.com/7712406b4e86c0260f6fd35ed4a1fb77a73a29ce/68747470733a2f2f7261772e6769746875622e636f6d2f4a6f616e5a61706174612f616e64726f69642d706466766965772f6d61737465722f6465766963652e706e67" width="320" />
 
 ---

@@ -63,6 +63,14 @@ A cool search view animation library
 
 ---
 
+**AVLoadingIndicatorView**: [https://github.com/81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
+
+Nice loading animations for Android
+
+<img src="https://github.com/81813780/AVLoadingIndicatorView/blob/master/Demo2.gif" width="320" />
+
+---
+
 **Android-SpinKit**: https://github.com/ybq/Android-SpinKit
 
 Android loading animations

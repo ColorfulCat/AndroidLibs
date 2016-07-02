@@ -14,22 +14,6 @@
 
 ---
 
-**BeerProgressView**: https://github.com/andyb129/BeerProgressView
-
-A library that lets you create a beer styled progress view with bubbles and all
-
-<img src="https://raw.githubusercontent.com/andyb129/BeerProgressView/master/screenshots/beer_progress_view_anim.gif" width="320" />
-
----
-
-**AnimSideBar**: https://github.com/AlexLiuSheng/AnimSideBar
-
-A SiderBar base on Android that has a beautiful anim
-
-<img src="https://cloud.githubusercontent.com/assets/12408339/15278798/0df854a2-1b50-11e6-962e-15cb94ecc113.gif" width="320" />
-
----
-
 **SparkScreen**: https://github.com/a396901990/SparkScreen
 
 通过SurfaceView模拟火花粒子的滑动喷射效果. Create spark jet effect by SurfaceView
@@ -54,6 +38,15 @@ explosive dust effect for views
 
 ---
 
+**SHSegmentControl**: https://github.com/7heaven/SHSegmentControl
+
+segmentcontrol widget for android 
+
+<img src="https://github.com/7heaven/SHSegmentControl/blob/master/arts/arts2.gif" width="160" />
+<img src="https://github.com/7heaven/SHSegmentControl/blob/master/arts/arts1.gif" width="320" />
+
+---
+
 **material-ripple**: [https://github.com/balysv/material-ripple](https://github.com/balysv/material-ripple)
 
 Android L Ripple effect wrapper for Views.
@@ -74,7 +67,7 @@ Implementation of Ripple effect from Material Design for Android API 9+.
 
 Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+
 
-<img src="https://camo.githubusercontent.com/b77f83ee8da9b8d5926597fb7c65a457b4029e98/687474703a2f2f3773626e72702e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f6c6f6c6c69706f70322d43697263756c617252657665616c2e676966" width="320" />
+<img src="https://camo.githubusercontent.com/11844b1332545906a2760c05853f08ab53557681/687474703a2f2f696d672e796f75747562652e636f6d2f76692f74506a704637352d4257412f302e6a7067" width="480" />
 
 ---
 
@@ -90,9 +83,17 @@ EtsyBlur is an Android library that allows developers to easily add a glass-like
 
 Easily have blurred and transparent background effect on your Android views.
 
-<img src="https://github.com/faradaj/BlurBehind/blob/master/images/blur-behind-before.png" width="320" />
-<img src="https://github.com/faradaj/BlurBehind/blob/master/images/blur-behind-after.png" width="320" />
-<img src="https://github.com/faradaj/BlurBehind/blob/master/images/blur-behind-after-alpha-color.png" width="320" />
+<img src="https://github.com/faradaj/BlurBehind/blob/master/images/blur-behind-before.png" width="270" />
+<img src="https://github.com/faradaj/BlurBehind/blob/master/images/blur-behind-after.png" width="270" />
+<img src="https://github.com/faradaj/BlurBehind/blob/master/images/blur-behind-after-alpha-color.png" width="270" />
+
+---
+
+**velocimeter-view**: [https://github.com/glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view)
+
+A velocimeter View for Android
+
+<img src="https://github.com/glomadrian/velocimeter-view/blob/master/art/velocimeter.gif" width="320" />
 
 ---
 
@@ -109,7 +110,7 @@ Android StackBlur is a library that can perform a blurry effect on a Bitmap base
 
 Override the Holo EdgeEffect colors.
 
-<img src="https://camo.githubusercontent.com/9fced7c0252e200e32cfc041f8ee8f7f9451e058/687474703a2f2f692e696d6775722e636f6d2f366435765637382e6a7067" width="640" />
+<img src="https://camo.githubusercontent.com/9fced7c0252e200e32cfc041f8ee8f7f9451e058/687474703a2f2f692e696d6775722e636f6d2f366435765637382e6a7067" width="800" />
 
 ---
 
@@ -128,14 +129,6 @@ Utilize the window background during cold start time to make your app look faste
 Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Preserves visual consistency):
 
 ![Blank cold start](https://github.com/DreaminginCodeZH/MaterialColdStart/blob/master/preview/blank_cold_start.gif)![Material cold start](https://github.com/DreaminginCodeZH/MaterialColdStart/blob/master/preview/material_cold_start.gif)
-
----
-
-**WaveLoadingView**: https://github.com/tangqi92/WaveLoadingView
-
-An Android library providing to realize wave loading effect
-
-<img src="https://github.com/tangqi92/WaveLoadingView/blob/master/screenshots/sample.gif" width="320" />
 
 ---
 
@@ -167,7 +160,40 @@ a custom pull-to-refresh layout which contains a interesting animation
 
 一个带渐变层叠动画的左右滑动效果（类似于探探左右刷脸）
 
-<img src="https://github.com/xiepeijie/SwipeCardView/blob/master/ezgif.com-1.gif" width="320" />
+<img src="https://raw.githubusercontent.com/xiepeijie/SwipeCardView/master/ezgif.com.gif" width="320" />
+
+---
+
+**Swipecards**: [https://github.com/Diolor/Swipecards](https://github.com/Diolor/Swipecards)
+
+A Tinder-like Android library to create the swipe cards effect. You can swipe left or right to like or dislike the content.
+
+<img src="https://github.com/Diolor/Swipecards/blob/master/screenshot.gif" width="320" />
+
+---
+
+**DrawableView**: [https://github.com/PaNaVTEC/DrawableView](https://github.com/PaNaVTEC/DrawableView)
+
+A view that allows to paint and saves the result as a bitmap.[http://panavtec.me](http://panavtec.me)
+
+<img src="https://github.com/PaNaVTEC/DrawableView/blob/master/art/DrawableView.gif" width="320" />
+
+---
+
+**LolliPin**: [https://github.com/OrangeGangsters/LolliPin](https://github.com/OrangeGangsters/LolliPin)
+
+A Material design Android pincode library. Supports Fingerprint.
+
+<img src="https://github.com/OrangeGangsters/LolliPin/blob/master/app/src/main/res/raw/github_gif.gif" width="320" />
+<img src="https://github.com/OrangeGangsters/LolliPin/blob/master/app/src/main/res/raw/github_gif2.gif" width="320" />
+
+---
+
+**PinLockView**: https://github.com/aritraroy/PinLockView
+
+A clean, minimal, highly customizable pin lock view
+
+<img src="https://raw.githubusercontent.com/aritraroy/PinLockView/master/screens/promo.png" width="640" />
 
 ---
 

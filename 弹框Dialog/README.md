@@ -1,6 +1,6 @@
 # AndroidLibs == 弹框 Dialog
 
-包含：各种Dialog、PopupWindow、Toast、Snackbar……
+包含：各种Dialog、PopupWindow、Toast、Snackbar notification ……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
@@ -28,11 +28,27 @@ Snackbar 的简单使用库
 
 ---
 
+**loadtoast**: https://github.com/code-mc/loadtoast
+
+带动画反馈的 MD 风格 Toast
+
+<img src="https://camo.githubusercontent.com/96592555c77792a317564369f8ff53bafcba2a13/687474703a2f2f692e696d6775722e636f6d2f57776f784c4d752e676966" width="320" />
+
+---
+
 **EasyLicensesDialog**: https://github.com/marcoscgdev/EasyLicensesDialog
 
 EasyLicensesDialog
 
 <img src="https://raw.githubusercontent.com/marcoscgdev/EasyLicensesDialog/master/sample/device-2016-06-21-005826.gif" width="320" />
+
+---
+
+**spots-dialog**: [https://github.com/d-max/spots-dialog](https://github.com/d-max/spots-dialog)
+
+Android AlertDialog with mowing dots progress indicator
+
+<img src="https://camo.githubusercontent.com/d8108413298d70047f52cff9ac05603a5fd51988/687474703a2f2f332e62702e626c6f6773706f742e636f6d2f2d6c3155765657694d5341672f564c61355a6657346444492f41414141414141414e54632f7273576f755f71623042632f733332302f593648615453772e676966" width="320" />
 
 ---
 
@@ -159,5 +175,13 @@ Library project to display DialogFragment with a blur effect.
 
 <img src="https://github.com/tvbarthel/BlurDialogFragment/blob/master/static/action_bar_blur.png" width="320" />
 <img src="https://github.com/tvbarthel/BlurDialogFragment/blob/master/static/full_screen_blur.png" width="320" />
+
+---
+
+**Pugnotification**: [https://github.com/halysongoncalves/Pugnotification](https://github.com/halysongoncalves/Pugnotification)
+
+A powerful library for creating notifications in android platform.
+
+<img src="https://raw.githubusercontent.com/halysongoncalves/pugnotification/master/art/screenshot.png" width="320" />
 
 ---
