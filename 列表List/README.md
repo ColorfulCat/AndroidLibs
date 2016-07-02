@@ -6,6 +6,12 @@
 
 ---
 
+**LastAdapter**: https://github.com/nitrico/LastAdapter
+
+Don't write a RecyclerView adapter again. Not even a ViewHolder!
+
+---
+
 **Persei.android**: https://github.com/android-cjj/Persei.android
 
 android 版本 Persei
