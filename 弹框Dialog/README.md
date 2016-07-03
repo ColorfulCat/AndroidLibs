@@ -6,6 +6,14 @@
 
 ---
 
+**MDDialog**: https://github.com/Carbs0126/MDDialog
+
+MDDialog
+
+<img src="https://raw.githubusercontent.com/Carbs0126/Screenshot/master/md_dialog_setview.png" width="300" /> <img src="https://raw.githubusercontent.com/Carbs0126/Screenshot/master/md_dialog_setmessages.png" width="300" />
+
+---
+
 **magic-toast**: https://github.com/ekimual/magic-toast
 
 Magic Toast
