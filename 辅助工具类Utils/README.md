@@ -6,6 +6,12 @@
 
 ---
 
+**WHC_ScanUnreferenceImageTool**: https://github.com/netyouli/WHC_ScanUnreferenceImageTool
+
+扫描项目里没有使用的图片工具，删除没有引用的图片以减小打包体积
+
+---
+
 **OkCacheControl**: https://github.com/ncornette/OkCacheControl
 
 OkHttp 和 Retrofit 缓存工具
