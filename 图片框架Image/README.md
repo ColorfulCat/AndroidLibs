@@ -14,6 +14,14 @@
 
 ---
 
+**WatermarkCreator**: https://github.com/ashishbhandari/WatermarkCreator
+
+水印
+
+<img src = "https://raw.githubusercontent.com/ashishbhandari/WatermarkCreator/master/screenshots/watermark_creator.gif" width = "320"/>
+
+---
+
 **photofilter**: https://github.com/mukeshsolanki/photofilter
 
 滤镜
