@@ -219,6 +219,12 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**FontBinder**: https://github.com/nitrico/FontBinder
+
+布局里自定义字体
+
+---
+
 **CustomFontLib**: https://github.com/daniribalbert/CustomFontLib
 
 给布局自定义字体
