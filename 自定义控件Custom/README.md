@@ -6,6 +6,14 @@
 
 ---
 
+**android-versioninfo**: https://github.com/saschpe/android-versioninfo
+
+方便的以 dialog 或 fragment 显示软件版本
+
+<img src="https://raw.githubusercontent.com/saschpe/android-versioninfo/master/doc/img/versioninfo-sample-dialog.png" width="256" /> <img src="https://raw.githubusercontent.com/saschpe/android-versioninfo/master/doc/img/versioninfo-sample-fragment.png" width="256" />
+
+---
+
 **StackOverView**: https://github.com/Bossyao168/StackOverView
 
 类似 5.0 任务栏的自定义控件
