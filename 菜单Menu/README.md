@@ -6,6 +6,14 @@
 
 ---
 
+**QuickMenu**: https://github.com/ImangazalievM/QuickMenu
+
+Small library for creating menus with fast settings
+
+<img src="https://raw.githubusercontent.com/ImangazalievM/QuickMenu/master/screenshots/1.jpg" width="320"/> <img src="https://raw.githubusercontent.com/ImangazalievM/QuickMenu/master/screenshots/2.jpg" width="320"/>
+
+---
+
 **BoomMenu**: https://github.com/Nightonke/BoomMenu
 
 A menu which can ... BOOM!
