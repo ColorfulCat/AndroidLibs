@@ -6,6 +6,14 @@
 
 ---
 
+**PodSLider**: https://github.com/bhargavms/PodSLider
+
+A UI widget slider for android
+
+<img src="https://raw.githubusercontent.com/bhargavms/PodSLider/master/assets/gifs/ezgif.com-gif-maker.gif" width="600" />
+
+---
+
 **GooView**: https://github.com/smartbetter/GooView
 
 一个Android自定义粘性控件
