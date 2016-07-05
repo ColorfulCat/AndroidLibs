@@ -106,6 +106,14 @@ Animated SVG Drawing for Android
 
 ---
 
+**AvatarImageView**: https://github.com/Carbs0126/AvatarImageView
+
+显示圆形图片或文本
+
+<img src="https://raw.githubusercontent.com/Carbs0126/Screenshot/master/avatar_image_view3.jpg" width="300" /> <img src="https://raw.githubusercontent.com/Carbs0126/Screenshot/master/avatar_image_view1.jpg" width="300" />
+
+---
+
 **android-shape-imageview**: https://github.com/siyamed/android-shape-imageview
 
 自定义形状的头像框架
