@@ -6,6 +6,14 @@
 
 ---
 
+**MoneyTextView**: https://github.com/fabiomsr/MoneyTextView
+
+A simple Android TextView to display amounts of money in different formats
+
+<img src="https://raw.githubusercontent.com/fabiomsr/MoneyTextView/develop/art/screenshot1.png" width="320" /> <img src="https://raw.githubusercontent.com/fabiomsr/MoneyTextView/develop/art/screenshot2.png" width="320" />
+
+---
+
 **SlantedTextView**: https://github.com/HeZaiJin/SlantedTextView
 
 倾斜的 TextView，可做标签
