@@ -6,6 +6,14 @@
 
 ---
 
+**AndroidGradientImageView**: https://github.com/skyfe79/AndroidGradientImageView
+
+Android 色彩渐进 ImageView
+
+<img src = "https://raw.githubusercontent.com/skyfe79/AndroidGradientImageView/master/art/gradient-animation.gif" width = "270"/>
+
+---
+
 **QiniuImageLoader**: https://github.com/lingochamp/QiniuImageLoader
 
 在Android上结合七牛提供的API，让加载图片更有效、更节流、更简单、更可控、更酷
