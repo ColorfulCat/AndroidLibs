@@ -6,6 +6,14 @@
 
 ---
 
+**emojilike-android**: https://github.com/andob/emojilike-android
+
+类 facebook 的点赞效果
+
+<img src="https://github.com/andob/emojilike-android/raw/master/emojilike.gif" width="320" />
+
+---
+
 **PodSLider**: https://github.com/bhargavms/PodSLider
 
 A UI widget slider for android
