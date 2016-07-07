@@ -54,6 +54,14 @@
 
 ---
 
+**Tooltip**: https://github.com/jayrambhia/Tooltip
+
+给 View 添加提示
+
+<img src="https://raw.githubusercontent.com/jayrambhia/Tooltip/master/art/demo1.gif" width="480" />
+
+---
+
 **tooltips**: https://github.com/tomergoldst/tooltips
 
 给 View 添加提示
