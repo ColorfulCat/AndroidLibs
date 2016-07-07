@@ -5,6 +5,12 @@
 
 ---
 
+**fragmentviewpager**: https://github.com/sbrukhanda/fragmentviewpager
+
+An extended ViewPager which provides callbacks for the visibility state of its Fragment pages
+
+---
+
 **PeriscopeLayout**: https://github.com/AlanCheen/PeriscopeLayout
 
 点赞效果
