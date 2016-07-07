@@ -6,6 +6,14 @@
 
 ---
 
+**FocusResize**: https://github.com/borjabravo10/FocusResize
+
+RecyclerView 实现的焦点自动调整
+
+<img src="https://raw.githubusercontent.com/borjabravo10/FocusResize/master/resources/focusResize.gif" width="320" />
+
+---
+
 **TEmptyView**: https://github.com/barryhappy/TEmptyView
 
 TEmptyView是一个小轮子，可简单地设置EmptyView
