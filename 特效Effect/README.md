@@ -6,6 +6,14 @@
 
 ---
 
+**FogView_Library**: https://github.com/dynamitechetan/FogView_Library
+
+有图层效果的 View
+
+<img src="https://raw.githubusercontent.com/dynamitechetan/FogView_Library/master/screenshots/screen1.gif" width="300" /> <img src="https://raw.githubusercontent.com/dynamitechetan/FogView_Library/master/screenshots/screen2.gif" width="300" />
+
+---
+
 **PassWordInput**: https://github.com/ldoublem/PassWordInput
 
 各种密码输入动画特效
