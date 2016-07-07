@@ -6,6 +6,14 @@
 
 ---
 
+**CalendarView**: https://github.com/henry-newbie/CalendarView
+
+CalendarListview是一个高度定制的日期选择器，可以满足多选日期的需求
+
+<img src="https://raw.githubusercontent.com/henry-newbie/CalendarView/master/screenshot/calendar.gif" width="540" />
+
+---
+
 **NumberPickerView**: https://github.com/Carbs0126/NumberPickerView
 
 another NumberPicker with more flexible attributes on Android platform
