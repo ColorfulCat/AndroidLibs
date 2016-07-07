@@ -6,6 +6,14 @@
 
 ---
 
+**GregorianLunarCalendar**: https://github.com/Carbs0126/GregorianLunarCalendar
+
+GregorianLunarCalendar提供了农历+公历的日期选择模式，同时支持公历+农历的无缝切换
+
+<img src="https://raw.githubusercontent.com/Carbs0126/Screenshot/master/gregorian_refine.gif" width="360" />
+
+---
+
 **CalendarView**: https://github.com/henry-newbie/CalendarView
 
 CalendarListview是一个高度定制的日期选择器，可以满足多选日期的需求
