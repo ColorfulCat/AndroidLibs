@@ -430,6 +430,12 @@ Gradle plugin to optimize png files and reduce resultant apk size within an Andr
 
 ---
 
+**360-video-player-for-android**: https://github.com/fbsamples/360-video-player-for-android
+
+Sample code for creating a 360 video player on Android
+
+---
+
 **easy-video-player**: https://github.com/afollestad/easy-video-player
 
 Video playback on Android, made easy, wrapping around the stock MediaPlayer API. https://aidanfollestad.com
