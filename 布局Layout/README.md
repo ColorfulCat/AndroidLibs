@@ -75,6 +75,14 @@ Step indicator for onboarding or simple viewpager
 
 ---
 
+**vertical-stepper-form**: https://github.com/ernestoyaquello/vertical-stepper-form
+
+竖向流程控制
+
+<img src="https://raw.githubusercontent.com/ernestoyaquello/vertical-stepper-form/master/stepper-example.gif" width="240" />
+
+---
+
 **Android-StepsView**: https://github.com/anton46/Android-StepsView
 
 Android-StepsView [http://anton46.com](http://anton46.com)
