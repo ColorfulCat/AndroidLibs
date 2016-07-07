@@ -6,6 +6,14 @@
 
 ---
 
+**AutoZoomInImageView**: https://github.com/Carbs0126/AutoZoomInImageView
+
+可做splash动画，一张静态图片居中显示并充满屏幕，同时不断放大图片中间部分，形成一种图片不断向中间放大的动画效果
+
+<img src = "https://raw.githubusercontent.com/Carbs0126/Screenshot/master/AutoZoomInImageView.gif" width = "270"/>
+
+---
+
 **AndroidGradientImageView**: https://github.com/skyfe79/AndroidGradientImageView
 
 Android 色彩渐进 ImageView
