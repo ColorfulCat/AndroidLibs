@@ -6,6 +6,22 @@
 
 ---
 
+**PassWordInput**: https://github.com/ldoublem/PassWordInput
+
+各种密码输入动画特效
+
+<img src="https://raw.githubusercontent.com/ldoublem/PassWordInput/master/screen/signup.gif" width="320" /> <img src="https://github.com/ldoublem/PassWordInput/raw/master/screen/%E6%95%88%E6%9E%9C.gif" width="320" />
+
+---
+
+**ShineButton**: https://github.com/ChadCSong/ShineButton
+
+类 Twitter 点赞效果的 Button
+
+<img src="https://raw.githubusercontent.com/ChadCSong/ShineButton/master/demo_shine_others.gif" width="450" />
+
+---
+
 **emojilike-android**: https://github.com/andob/emojilike-android
 
 类 facebook 的点赞效果
