@@ -6,6 +6,14 @@
 
 ---
 
+**ShineButton**: https://github.com/ChadCSong/ShineButton
+
+类 Twitter 点赞效果的 Button
+
+<img src="https://raw.githubusercontent.com/ChadCSong/ShineButton/master/demo_shine_others.gif" width="450" />
+
+---
+
 **circular-with-floating-action-button**: https://github.com/DmitryMalkovich/circular-with-floating-action-button
 
 circular-with-floating-action-button
