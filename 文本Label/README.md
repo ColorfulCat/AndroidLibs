@@ -601,3 +601,17 @@ A fast PDF reader component for Android development.[http://joanzapata.com/andro
 <img src="https://camo.githubusercontent.com/7712406b4e86c0260f6fd35ed4a1fb77a73a29ce/68747470733a2f2f7261772e6769746875622e636f6d2f4a6f616e5a61706174612f616e64726f69642d706466766965772f6d61737465722f6465766963652e706e67" width="320" />
 
 ---
+
+**AndroidPdfViewer**: https://github.com/barteksc/AndroidPdfViewer
+
+pdf 文档查看
+
+---
+
+**PdfViewPager**: https://github.com/voghDev/PdfViewPager
+
+可以读取SD卡，asset文件夹，或者网络下载的pdf文件的widget
+
+<img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/local.gif" width="270" /> <img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/remote.gif" width="270" /> <img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/zooming.gif" width="270" />
+
+---

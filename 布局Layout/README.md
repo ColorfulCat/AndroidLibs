@@ -85,12 +85,6 @@ Android-StepsView [http://anton46.com](http://anton46.com)
 
 ---
 
-**AndroidPdfViewer**: https://github.com/barteksc/AndroidPdfViewer
-
-pdf 文档查看
-
----
-
 **GradientLayout**: https://github.com/csdodd/GradientLayout
 
 背景梯度变化的布局
@@ -160,14 +154,6 @@ EasyForm makes a form creation and field validation easy
 可伸缩布局，减少 Activity 和 Fragment 跳转
 
 <img src="https://raw.githubusercontent.com/SilenceDut/ExpandableLayout/master/media/simple_use.gif" width="270" /> <img src="https://raw.githubusercontent.com/SilenceDut/ExpandableLayout/master/media/recyclerview_withParentScroll_together.gif" width="270" /> <img src="https://raw.githubusercontent.com/SilenceDut/ExpandableLayout/master/media/listview_withoutParentScroll.gif" width="270" />
-
----
-
-**PdfViewPager**: https://github.com/voghDev/PdfViewPager
-
-可以读取SD卡，asset文件夹，或者网络下载的pdf文件的widget
-
-<img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/local.gif" width="270" /> <img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/remote.gif" width="270" /> <img src="https://raw.githubusercontent.com/voghDev/PdfViewPager/master/screenshots/zooming.gif" width="270" />
 
 ---
 
