@@ -6,6 +6,12 @@
 
 ---
 
+**VirtualApp**: https://github.com/asLody/VirtualApp
+
+App 虚拟空间，类似 LBE 双开空间
+
+---
+
 **DBinding**: https://github.com/tianzhijiexian/DBinding
 
 巧妙、灵活的databinding改造库
