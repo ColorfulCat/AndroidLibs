@@ -82,7 +82,7 @@ Simple formatting options for TextView and EditText in the same way Whatsapp pro
 
 仿美团和糯米商家验证版的一个数字校验键盘
 
-<img src="https://raw.githubusercontent.com/wangshaolei/NumberKeyboard/master/img/Screenshot_20160616-103230.png" width="320" />
+<img src="https://raw.githubusercontent.com/wangshaolei/NumberKeyboard/master/img/1.png" width="320" />
 
 ---
 
@@ -229,7 +229,15 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 **FontBinder**: https://github.com/nitrico/FontBinder
 
-布局里自定义字体
+布局里自定义字体，配合 databinding
+
+---
+
+**fontbinding**: https://github.com/lisawray/fontbinding
+
+给布局自定义字体，配合 databinding
+
+<img src="https://raw.githubusercontent.com/lisawray/fontbinding/master/screenshot_land.png" width="640" />
 
 ---
 
@@ -497,14 +505,6 @@ Android's TextView that can expand/collapse like the Google Play's app descripti
  Android AutoCompleteTextView with attached ListView, and drawable background
 
 <img src="https://github.com/FrederickRider/AutoCompleteBubbleText/blob/master/images/Screenshot_1.png" width="320" />
-
----
-
-**TextJustify-Android**: [https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
-
-Android Text Full Jusiftication / Wrapping / Justify / Hyphenate - V2.0 [https://github.com/bluejamesbond/TextJustify-Android/wiki](https://github.com/bluejamesbond/TextJustify-Android/wiki)
-
-<img src="https://camo.githubusercontent.com/061a4a460340c26422b2a2f43d7fe39e73246297/687474703a2f2f692e696d6775722e636f6d2f6b3662415764302e6a7067" width="320" />
 
 ---
 
