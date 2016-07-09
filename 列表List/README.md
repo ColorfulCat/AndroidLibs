@@ -6,6 +6,14 @@
 
 ---
 
+**WheelView**: https://github.com/venshine/WheelView
+
+Android滚轮控件，基于ListView实现，可以自定义样式
+
+<img src="https://raw.githubusercontent.com/venshine/WheelView/master/screenshot/screenshot.gif" width="280" /> <img src="https://raw.githubusercontent.com/venshine/WheelView/master/screenshot/screenshot1.png" width="280" />
+
+---
+
 **FocusResize**: https://github.com/borjabravo10/FocusResize
 
 RecyclerView 实现的焦点自动调整
