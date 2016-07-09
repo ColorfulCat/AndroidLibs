@@ -6,6 +6,12 @@
 
 ---
 
+**ReactiveAudioRecord**: https://github.com/ahmedrizwan/ReactiveAudioRecord
+
+Rx wrapper library for Android's AudioRecord API
+
+---
+
 **artdumper**: https://github.com/Qihoo360/artdumper
 
 android5.0之后，从oat文件中dump出来dex的工具
