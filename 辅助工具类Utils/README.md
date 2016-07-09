@@ -428,6 +428,14 @@ Android 应用自动更新
 
 facebook 出品的 apk 包优化工具 —— [Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
 
+---
+
+**img-optimizer-gradle-plugin**: https://github.com/chenenyu/img-optimizer-gradle-plugin
+
+一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩
+
+---
+
 **drawable-optimizer**: https://github.com/fabiomsr/drawable-optimizer
 
 Gradle plugin to optimize png files and reduce resultant apk size within an Android project
