@@ -6,6 +6,12 @@
 
 ---
 
+**artdumper**: https://github.com/Qihoo360/artdumper
+
+android5.0之后，从oat文件中dump出来dex的工具
+
+---
+
 **WHC_ScanUnreferenceImageTool**: https://github.com/netyouli/WHC_ScanUnreferenceImageTool
 
 扫描项目里没有使用的图片工具，删除没有引用的图片以减小打包体积
