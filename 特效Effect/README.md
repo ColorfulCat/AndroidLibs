@@ -22,6 +22,14 @@
 
 ---
 
+**GoodView**: https://github.com/venshine/GoodView
+
+Android点赞+1效果，支持文本和图像
+
+<img src="https://raw.githubusercontent.com/venshine/GoodView/master/screenshot/screenshot.gif" width="270" />
+
+---
+
 **ShineButton**: https://github.com/ChadCSong/ShineButton
 
 类 Twitter 点赞效果的 Button
