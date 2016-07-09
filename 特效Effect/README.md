@@ -6,6 +6,14 @@
 
 ---
 
+**BrokenView**: https://github.com/zhanyongsheng/BrokenView
+
+玻璃破碎效果的 View
+
+<img src="https://raw.githubusercontent.com/zhanyongsheng/raw/master/BrokenView/image/demo.gif" width="200" />
+
+---
+
 **FogView_Library**: https://github.com/dynamitechetan/FogView_Library
 
 有图层效果的 View

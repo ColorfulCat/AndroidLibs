@@ -434,6 +434,11 @@ facebook 出品的 apk 包优化工具 —— [Optimizing Android bytecode with 
 
 一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩
 
+|原图|极限压缩(lossy)|无损压缩(lossless)|
+|:---:|:---:|:---:|
+|526K|195K(减少63%)|473K(减少10%)|
+|![原图](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna.png)|![极限压缩](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna_lossy.png)|![无损压缩](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna_lossless.png)|
+
 ---
 
 **drawable-optimizer**: https://github.com/fabiomsr/drawable-optimizer
