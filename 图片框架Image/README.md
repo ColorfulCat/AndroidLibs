@@ -6,6 +6,12 @@
 
 ---
 
+**RxPhoto**: https://github.com/oliveiradev/RxPhoto
+
+This lib using reactive approach for get and take pictures
+
+---
+
 **AutoZoomInImageView**: https://github.com/Carbs0126/AutoZoomInImageView
 
 可做splash动画，一张静态图片居中显示并充满屏幕，同时不断放大图片中间部分，形成一种图片不断向中间放大的动画效果
