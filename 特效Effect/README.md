@@ -62,6 +62,14 @@ Android点赞+1效果，支持文本和图像
 
 ---
 
+**DiscreteSlider**: https://github.com/lawloretienne/DiscreteSlider
+
+A slider that allows a user to select a value at one of the specified tickmarks
+
+<img src="https://raw.githubusercontent.com/lawloretienne/DiscreteSlider/master/images/DiscreteSlider_Screenshot4.png" width="320" />
+
+---
+
 **PodSLider**: https://github.com/bhargavms/PodSLider
 
 A UI widget slider for android
