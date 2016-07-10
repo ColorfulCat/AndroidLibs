@@ -6,6 +6,12 @@
 
 ---
 
+**rxlist**: https://github.com/s0nerik/rxlist
+
+RxJava 方式对 List 的封装
+
+---
+
 **ReactiveAudioRecord**: https://github.com/ahmedrizwan/ReactiveAudioRecord
 
 Rx wrapper library for Android's AudioRecord API
