@@ -11,11 +11,11 @@ An extended ViewPager which provides callbacks for the visibility state of its F
 
 ---
 
-**PeriscopeLayout**: https://github.com/AlanCheen/PeriscopeLayout
+**MarkdownView**: https://github.com/fiskurgit/MarkdownView
 
-点赞效果
+Display Markdown in your apps, useful for FAQs, Help, Size Guides, About screens etc
 
-<img src="https://raw.githubusercontent.com/AlanCheen/PeriscopeLayout/master/img/periscope.gif" width="400" />
+<img src="https://raw.githubusercontent.com/fiskurgit/MarkdownView/master/Screenshot.png" width="800" />
 
 ---
 

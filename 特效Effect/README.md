@@ -30,6 +30,14 @@
 
 ---
 
+**PeriscopeLayout**: https://github.com/AlanCheen/PeriscopeLayout
+
+类似 Periscope 的点赞效果
+
+<img src="https://raw.githubusercontent.com/AlanCheen/PeriscopeLayout/master/img/periscope.gif" width="400" />
+
+---
+
 **GoodView**: https://github.com/venshine/GoodView
 
 Android点赞+1效果，支持文本和图像
