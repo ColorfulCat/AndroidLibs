@@ -6,6 +6,14 @@
 
 ---
 
+**GridBuilder**: https://github.com/Eason90/GridBuilder
+
+A Builder of Android GridLayout
+
+<img src="https://raw.githubusercontent.com/Eason90/GridBuilder/master/screenshots/GridBuilder_1.png" width="600" />
+
+---
+
 **power-adapters**: https://github.com/NextFaze/power-adapters
 
 Composable adapters for Android RecyclerViews and ListViews
