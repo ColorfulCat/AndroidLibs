@@ -5,6 +5,14 @@
 
 ---
 
+**IndicatorView**: https://github.com/Carbs0126/IndicatorView
+
+IndicatorView on Android platform to indicator the current index of pages
+
+<img src="https://raw.githubusercontent.com/Carbs0126/Screenshot/master/indicator_view_uneven.png" width="600" />
+
+---
+
 **fragmentviewpager**: https://github.com/sbrukhanda/fragmentviewpager
 
 An extended ViewPager which provides callbacks for the visibility state of its Fragment pages
