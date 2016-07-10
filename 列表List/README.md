@@ -6,6 +6,14 @@
 
 ---
 
+**baseAdapter**: https://github.com/hongyangAndroid/baseAdapter
+
+Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况
+
+<img src="https://raw.githubusercontent.com/hongyangAndroid/baseAdapter/master/screenshot/single.png" width="320" /> <img src="https://raw.githubusercontent.com/hongyangAndroid/baseAdapter/master/screenshot/rvadapter_01.png" width="320" />
+
+---
+
 **GridBuilder**: https://github.com/Eason90/GridBuilder
 
 A Builder of Android GridLayout
