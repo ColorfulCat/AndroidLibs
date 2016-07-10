@@ -6,6 +6,12 @@
 
 ---
 
+**rxlist-binder**: https://github.com/s0nerik/rxlist-binder
+
+Binds RxList with the RecyclerView.Adapter
+
+---
+
 **WheelView**: https://github.com/venshine/WheelView
 
 Android滚轮控件，基于ListView实现，可以自定义样式
