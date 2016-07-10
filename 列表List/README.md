@@ -6,6 +6,12 @@
 
 ---
 
+**power-adapters**: https://github.com/NextFaze/power-adapters
+
+Composable adapters for Android RecyclerViews and ListViews
+
+---
+
 **rxlist-binder**: https://github.com/s0nerik/rxlist-binder
 
 Binds RxList with the RecyclerView.Adapter
