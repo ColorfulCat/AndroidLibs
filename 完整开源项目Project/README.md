@@ -6,6 +6,14 @@
 
 ---
 
+**ApolloModMusic**: https://github.com/jp1017/ApolloModMusic
+
+Apollo 音乐播放器，Android Studio 版本
+
+<img src="https://camo.githubusercontent.com/183ab7e13a9fd2a385d9295e1c66e6742ba71311/687474703a2f2f692e696d6775722e636f6d2f49616b65666c732e706e67" width="400" /> <img src="https://camo.githubusercontent.com/0f41fe134384b66530a0b3f1907d4045cfa216b7/687474703a2f2f692e696d6775722e636f6d2f554f3067394c642e706e67" width="400" />
+
+---
+
 **DeepDiveIntoAndroidDataBinding**: https://github.com/radzio/DeepDiveIntoAndroidDataBinding
 
 DataBinding demo
