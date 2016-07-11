@@ -6,6 +6,14 @@
 
 ---
 
+**AndroidChromium**: https://github.com/JackyAndroid/AndroidChromium
+
+Chromium 浏览器，Android Studio 版本
+
+<img src="https://raw.githubusercontent.com/JackyAndroid/AndroidChromium/master/screenshots/S60709-172236.jpg" width="270" /> <img src="https://raw.githubusercontent.com/JackyAndroid/AndroidChromium/master/screenshots/S60709-172251.jpg" width="270" /> <img src="https://raw.githubusercontent.com/JackyAndroid/AndroidChromium/master/screenshots/S60709-172456.jpg" width="270" />
+
+---
+
 **ApolloModMusic**: https://github.com/jp1017/ApolloModMusic
 
 Apollo 音乐播放器，Android Studio 版本
