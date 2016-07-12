@@ -54,6 +54,14 @@ Android点赞+1效果，支持文本和图像
 
 ---
 
+**SparkButton**: https://github.com/varunest/SparkButton
+
+多种 点赞效果的 Button
+
+<img src="https://raw.githubusercontent.com/varunest/SparkButton/master/art/showcase.gif" width="450" />
+
+---
+
 **ShineButton**: https://github.com/ChadCSong/ShineButton
 
 类 Twitter 点赞效果的 Button
