@@ -6,6 +6,14 @@
 
 ---
 
+**android-textoverlay**: https://github.com/saschpe/android-textoverlay
+
+Provides a simple service that allows to display arbitrary text as a system-window overlay
+
+<img src="https://raw.githubusercontent.com/saschpe/android-textoverlay/master/doc/img/default.png" width="320" /> <img src="https://raw.githubusercontent.com/saschpe/android-textoverlay/master/doc/img/updated.png" width="320" />
+
+---
+
 **BankCardFormat**: https://github.com/smuyyh/BankCardFormat
 
 自动格式化银行卡号的EditText，每四位增加一个空格，并根据银行卡号判断该银行卡归属的银行及卡别
