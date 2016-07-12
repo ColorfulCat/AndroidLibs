@@ -6,6 +6,12 @@
 
 ---
 
+**QRGenerator**: https://github.com/androidmads/QRGenerator
+
+二维码扫描库
+
+---
+
 **RxPhoto**: https://github.com/oliveiradev/RxPhoto
 
 This lib using reactive approach for get and take pictures
