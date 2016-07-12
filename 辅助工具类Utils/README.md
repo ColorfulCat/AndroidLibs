@@ -6,6 +6,12 @@
 
 ---
 
+**blankapp-validation**: https://github.com/lijy91/blankapp-validation
+
+Android 表单验证库，用方法链构建你的验证规则
+
+---
+
 **rxlist**: https://github.com/s0nerik/rxlist
 
 RxJava 方式对 List 的封装
