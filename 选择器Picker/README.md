@@ -6,6 +6,14 @@
 
 ---
 
+**WheelPicker**: https://github.com/youmu178/WheelPicker
+
+修改开源库Wheel后，能控制选中颜色及大小
+
+<img src="https://raw.githubusercontent.com/youmu178/WheelPicker/master/pic.png" width="360" />
+
+---
+
 **GregorianLunarCalendar**: https://github.com/Carbs0126/GregorianLunarCalendar
 
 GregorianLunarCalendar提供了农历+公历的日期选择模式，同时支持公历+农历的无缝切换
