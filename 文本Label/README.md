@@ -6,11 +6,11 @@
 
 ---
 
-**NumberButton**: https://github.com/qinci/NumberButton
+**BankCardFormat**: https://github.com/smuyyh/BankCardFormat
 
-购物车商品数量、增加和减少控制按钮
+自动格式化银行卡号的EditText，每四位增加一个空格，并根据银行卡号判断该银行卡归属的银行及卡别
 
-<img src="https://raw.githubusercontent.com/qinci/NumberButton/master/image/device-2016-04-30-021008.png" width="320" />
+<img src="https://raw.githubusercontent.com/smuyyh/BankCardFormat/master/screenshot/device.png" width="320" />
 
 ---
 
