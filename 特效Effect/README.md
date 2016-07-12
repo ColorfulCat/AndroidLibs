@@ -6,6 +6,14 @@
 
 ---
 
+**RippleView**: https://github.com/ruzhan123/RippleView
+
+水波纹，涟漪效果，可用于设备查找之类的特效
+
+<img src="https://raw.githubusercontent.com/ruzhan123/RippleView/master/gif/ripple.gif" width="320" />
+
+---
+
 **BrokenView**: https://github.com/zhanyongsheng/BrokenView
 
 玻璃破碎效果的 View
