@@ -6,6 +6,14 @@
 
 ---
 
+**ExpandableRecyclerview**: https://github.com/zaihuishou/ExpandableRecyclerview
+
+可展开的 Recyclerview
+
+<img src="https://raw.githubusercontent.com/zaihuishou/ExpandableRecyclerview/master/sample-screen.gif" width="320" />
+
+---
+
 **baseAdapter**: https://github.com/hongyangAndroid/baseAdapter
 
 Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况
