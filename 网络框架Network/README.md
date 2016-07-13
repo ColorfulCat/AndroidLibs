@@ -6,6 +6,12 @@
 
 ---
 
+**okir**: https://github.com/rafaeltoledo/okir
+
+A helper class that implements both an Espresso IdlingResource and an OkHttp Interceptor
+
+---
+
 **HttpAgent**: https://github.com/studioidan/HttpAgent
 
 一个穿着 `HttpURLConnection` 的裤子的网络请求库
