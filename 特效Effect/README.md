@@ -6,6 +6,14 @@
 
 ---
 
+**FlyoutMenus**: https://github.com/ShamylZakariya/FlyoutMenus
+
+MD 风格飞出效果菜单选择
+
+<img src="https://github.com/ShamylZakariya/FlyoutMenus/raw/master/readme-assets/flyoutmenus-big.gif" width="320" />
+
+---
+
 **DoublePull**: https://github.com/ruzhan123/DoublePull
 
 仿格瓦拉双层拖拽布局
