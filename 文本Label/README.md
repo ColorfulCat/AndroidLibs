@@ -6,6 +6,14 @@
 
 ---
 
+**StickTextView**: https://github.com/hanbaokun/StickTextView
+
+图片文字贴纸功能
+
+<img src="https://raw.githubusercontent.com/hanbaokun/StickTextView/master/Screenshot_2016-06-20.png" width="320" />
+
+---
+
 **ElemeShoppingView**: https://github.com/JeasonWong/ElemeShoppingView
 
 仿饿了么点击购物效果
