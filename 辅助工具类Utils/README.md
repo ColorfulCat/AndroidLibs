@@ -673,6 +673,12 @@ A easy way to use android sharepreference http://cocosw.com/Favor/
 
 ---
 
+**XLog**：https://github.com/Qiu800820/XLog
+
+追踪上线BUG,自动保存,管理LOG,一键上传
+
+---
+
 **Lynx**：https://github.com/pedrovgs/Lynx
 
 可在手机上查看 `logcat`
