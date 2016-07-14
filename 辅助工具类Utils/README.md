@@ -6,6 +6,12 @@
 
 ---
 
+**AndroidPay**: https://github.com/hanbaokun/AndroidPay
+
+微信支付和支付宝支付快速接入，可以直接拷贝代码到项目中使用
+
+---
+
 **blankapp-validation**: https://github.com/lijy91/blankapp-validation
 
 Android 表单验证库，用方法链构建你的验证规则
