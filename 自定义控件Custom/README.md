@@ -6,6 +6,14 @@
 
 ---
 
+**FloatingViewService**: https://github.com/hanbaokun/FloatingViewService
+
+MIUI8 悬浮球
+
+<img src="https://raw.githubusercontent.com/hanbaokun/FloatingViewService/master/Screenshot_2016-07-14-14-30-59-237_com.miui.home.png" width="320" />
+
+---
+
 **android-versioninfo**: https://github.com/saschpe/android-versioninfo
 
 方便的以 dialog 或 fragment 显示软件版本
