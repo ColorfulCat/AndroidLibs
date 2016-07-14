@@ -43,6 +43,7 @@ Contributors:
 
 - **大花猫(Owner)** ：  http://androidcat.com/
 - **jp1017** :          http://jp1017.github.io/
+- **Patrick** :         15920996910sun@gmail.com
 
 ---
 
