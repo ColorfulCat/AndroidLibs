@@ -22,6 +22,14 @@ MD 风格飞出效果菜单选择
 
 ---
 
+**Pulsator4Droid**: https://github.com/booncol/Pulsator4Droid
+
+脉动效果，可用于设备查找之类的特效
+
+<img src="https://raw.githubusercontent.com/booncol/Pulsator4Droid/master/demo.gif" width="220" />
+
+---
+
 **RippleView**: https://github.com/ruzhan123/RippleView
 
 水波纹，涟漪效果，可用于设备查找之类的特效
