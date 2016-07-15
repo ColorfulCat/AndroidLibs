@@ -6,6 +6,14 @@
 
 ---
 
+**featured**: https://github.com/beworker/featured
+
+Simple yet powerful composition library for Android
+
+<img src="https://raw.githubusercontent.com/beworker/featured/master/web/diagram.png" width="800"/>
+
+---
+
 **Blorm**: https://github.com/daniel-martins-IR/Blorm
 
 Blorm is a field validation lib for android
