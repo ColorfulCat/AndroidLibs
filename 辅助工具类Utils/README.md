@@ -627,6 +627,12 @@ Helper to generate Javadocs within a Gradle Android library
 
 ---
 
+**rx-android-permissions**: https://github.com/beworker/rx-android-permissions
+
+Simple RxJava library for requesting and observing Android runtime permissions
+
+---
+
 **permissionHelper**: https://github.com/ayz4sci/permissionHelper
 
 permissionHelper for Android M
