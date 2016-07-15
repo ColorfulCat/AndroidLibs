@@ -5,6 +5,14 @@
 
 ---
 
+**wrapping-viewpager**: https://github.com/iffa/wrapping-viewpager
+
+带动画的自定义高度的 ViewPager
+
+<img src="https://camo.githubusercontent.com/c4e619027d5de20a29ded67de75e63a4b392db7d/68747470733a2f2f7468756d62732e6766796361742e636f6d2f5265616c6973746963426c69737366756c4164616d7373746167686f726e6564626565746c652d73697a655f726573747269637465642e676966" width="320" /> <img src="https://camo.githubusercontent.com/51a8565c66a93692fc30d7dfaecd5b469040baef/68747470733a2f2f7468756d62732e6766796361742e636f6d2f446566696369656e74426f696c696e67436875636b77616c6c612d73697a655f726573747269637465642e676966" width="320" />
+
+---
+
 **IndicatorView**: https://github.com/Carbs0126/IndicatorView
 
 IndicatorView on Android platform to indicator the current index of pages
