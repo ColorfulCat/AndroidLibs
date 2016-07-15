@@ -6,6 +6,14 @@
 
 ---
 
+**SnappySmoothScroller**: https://github.com/nshmura/SnappySmoothScroller
+
+可流畅滚动的 Recyclerview
+
+<img src="https://raw.githubusercontent.com/nshmura/SnappySmoothScroller/master/assets/demo.gif" width="320" />
+
+---
+
 **ExpandableRecyclerview**: https://github.com/zaihuishou/ExpandableRecyclerview
 
 可展开的 Recyclerview
