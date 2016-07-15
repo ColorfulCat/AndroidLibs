@@ -587,6 +587,12 @@ A framework for hook java methods
 
 ---
 
+**deviceinfo**: https://github.com/eyeem/deviceinfo
+
+Easy info about Android device
+
+---
+
 **easydeviceinfo**: https://github.com/nisrulz/easydeviceinfo
 
 Android library to get device information in a super easy way
