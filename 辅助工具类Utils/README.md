@@ -6,6 +6,12 @@
 
 ---
 
+**HermesEventBus**: https://github.com/eleme/HermesEventBus
+
+饿了么开源的Android跨进程事件分发框架
+
+---
+
 **AndroidPay**: https://github.com/hanbaokun/AndroidPay
 
 微信支付和支付宝支付快速接入，可以直接拷贝代码到项目中使用
