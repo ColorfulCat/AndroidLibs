@@ -126,6 +126,14 @@ Simple formatting options for TextView and EditText in the same way Whatsapp pro
 
 ---
 
+**highlightjs-android**: https://github.com/PDDStudio/highlightjs-android
+
+代码格式高亮
+
+<img src="https://raw.githubusercontent.com/PDDStudio/highlightjs-android/master/gfx/demo.png" width="800" />
+
+---
+
 **SyntaxView**: https://github.com/fiskurgit/SyntaxView
 
 代码格式着色
