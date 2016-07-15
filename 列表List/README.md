@@ -6,6 +6,14 @@
 
 ---
 
+**overscroll-bouncy-android**: https://github.com/chthai64/overscroll-bouncy-android
+
+Overscroll bounce effect for Android
+
+<img src="https://github.com/chthai64/overscroll-bouncy-android/raw/master/arts/OverscrollDemo.gif" width="320" />
+
+---
+
 **SnappySmoothScroller**: https://github.com/nshmura/SnappySmoothScroller
 
 可流畅滚动的 Recyclerview
