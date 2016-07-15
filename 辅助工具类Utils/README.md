@@ -613,6 +613,12 @@ Helper to generate Javadocs within a Gradle Android library
 
 ---
 
+**permissionHelper**: https://github.com/ayz4sci/permissionHelper
+
+permissionHelper for Android M
+
+---
+
 **easypermissions**: https://github.com/googlesamples/easypermissions
 
 Simplify Android M system permissions
