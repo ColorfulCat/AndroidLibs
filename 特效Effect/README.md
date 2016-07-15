@@ -6,6 +6,14 @@
 
 ---
 
+**StereoView**: https://github.com/ImmortalZ/StereoView
+
+Android 3D立体无限旋转滚动容器
+
+<img src="https://camo.githubusercontent.com/d0e30babb28951722717fa32f9d273b7eec12232/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630373135313535373236373837" width="270" /> <img src="https://camo.githubusercontent.com/55cb4f3363c24788d7398c81047cb6a506eecceb/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630373135313631333532363233" width="270" /> <img src="https://camo.githubusercontent.com/69d48f79bb080c5c196ff99211e2d09522a6bb81/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630373135313833393439323739" width="270" />
+
+---
+
 **FlyoutMenus**: https://github.com/ShamylZakariya/FlyoutMenus
 
 MD 风格飞出效果菜单选择
