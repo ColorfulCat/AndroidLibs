@@ -294,6 +294,12 @@ Android常用工具类
 
 ---
 
+**android-lite-go**: https://github.com/litesuits/android-lite-go
+
+LiteGo是一款基于Java语言的「异步并发类库」
+
+---
+
 **ECTranslation**: https://github.com/Skykai521/ECTranslation
 
 Android Studio 翻译插件,可以将英文翻译为中文.
