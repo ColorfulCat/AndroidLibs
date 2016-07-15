@@ -6,6 +6,14 @@
 
 ---
 
+**SeismicInterceptor**: https://github.com/charbgr/SeismicInterceptor
+
+A lightweight OkHttp interceptor
+
+<img src="https://raw.githubusercontent.com/charbgr/SeismicInterceptor/master/seismic_interceptor_sample.gif" width="320" />
+
+---
+
 **okir**: https://github.com/rafaeltoledo/okir
 
 A helper class that implements both an Espresso IdlingResource and an OkHttp Interceptor
