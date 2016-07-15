@@ -6,6 +6,12 @@
 
 ---
 
+**RxBluetoothAuto**: https://github.com/tawaasalage/RxBluetoothAuto
+
+rxAndroid Bluetooth NFC
+
+---
+
 **ReactiveWiFi**: https://github.com/pwittchen/ReactiveWiFi
 
 WiFi Access Points and related information with RxJava Observables
