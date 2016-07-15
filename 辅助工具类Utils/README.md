@@ -6,6 +6,12 @@
 
 ---
 
+**ReactiveWiFi**: https://github.com/pwittchen/ReactiveWiFi
+
+WiFi Access Points and related information with RxJava Observables
+
+---
+
 **HermesEventBus**: https://github.com/eleme/HermesEventBus
 
 饿了么开源的Android跨进程事件分发框架
