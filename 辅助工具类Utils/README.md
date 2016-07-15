@@ -18,6 +18,12 @@ WiFi Access Points and related information with RxJava Observables
 
 ---
 
+**Hermes**: https://github.com/Xiaofei-it/Hermes
+
+简单易用的安卓进程间通信IPC框架
+
+---
+
 **HermesEventBus**: https://github.com/eleme/HermesEventBus
 
 饿了么开源的Android跨进程事件分发框架
