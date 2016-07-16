@@ -6,6 +6,12 @@
 
 ---
 
+**RecyclerViewTools**: https://github.com/eyeem/RecyclerViewTools
+
+Collection of tools for RecyclerView. Includes headers, sections, pull to refresh, etc
+
+---
+
 **overscroll-bouncy-android**: https://github.com/chthai64/overscroll-bouncy-android
 
 Overscroll bounce effect for Android
