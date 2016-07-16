@@ -470,6 +470,12 @@ Software keyboard open/close watcher for Android
 
 ---
 
+**android-keyboardlistener**: https://github.com/ravindu1024/android-keyboardlistener
+
+An Android Keyboard visibility listener 
+
+---
+
 **JKeyboardPanelSwitch**: https://github.com/Jacksgong/JKeyboardPanelSwitch
 
 Android键盘面板冲突 布局闪动处理方案
