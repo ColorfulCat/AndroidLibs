@@ -6,6 +6,12 @@
 
 ---
 
+**LongTextView**: https://github.com/metalurgus/LongTextView
+
+Very long text support for Android
+
+---
+
 **StickTextView**: https://github.com/hanbaokun/StickTextView
 
 图片文字贴纸功能
