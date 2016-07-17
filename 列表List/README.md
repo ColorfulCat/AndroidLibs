@@ -6,6 +6,14 @@
 
 ---
 
+**ExtendedRecyclerAdapter**: https://github.com/sergiocasero/ExtendedRecyclerAdapter
+
+Simple library for DRY recycler adapter
+
+<img src="https://raw.githubusercontent.com/sergiocasero/ExtendedRecyclerAdapter/master/art/ExtendedRecyclerView.gif" width="270" />
+
+---
+
 **recycler-core**: https://github.com/carrot/recycler-core
 
 Multiple view type handling in RecyclerViews with 90% less tears
