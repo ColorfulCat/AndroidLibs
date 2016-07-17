@@ -6,6 +6,14 @@
 
 ---
 
+**Curl-Logger-interceptor**: https://github.com/grapesnberries/Curl-Logger-interceptor
+
+Library for logging your Retrofit requests as cURL in logcat
+
+<img src="https://camo.githubusercontent.com/fb0a9c25a5055710f868fd0efb41dfe5d87a7e69/68747470733a2f2f7333322e706f7374696d672e6f72672f3963643237653864682f53637265656e5f53686f745f323031365f30365f31355f61745f335f33335f315f30375f504d2e706e67" width="800" />
+
+---
+
 **SeismicInterceptor**: https://github.com/charbgr/SeismicInterceptor
 
 A lightweight OkHttp interceptor
