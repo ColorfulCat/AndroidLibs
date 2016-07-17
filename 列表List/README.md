@@ -6,6 +6,14 @@
 
 ---
 
+**recycler-core**: https://github.com/carrot/recycler-core
+
+Multiple view type handling in RecyclerViews with 90% less tears
+
+<img src="https://camo.githubusercontent.com/37e1cf21eef72546c34f463eba54d40e6ea34740/687474703a2f2f692e696d6775722e636f6d2f4e503757626f712e706e67" width="360" />
+
+---
+
 **RecyclerViewTools**: https://github.com/eyeem/RecyclerViewTools
 
 Collection of tools for RecyclerView. Includes headers, sections, pull to refresh, etc
