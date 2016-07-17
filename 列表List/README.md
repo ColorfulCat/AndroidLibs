@@ -6,6 +6,14 @@
 
 ---
 
+**StickyHeaders**: https://github.com/bgogetap/StickyHeaders
+
+Easily add Sticky Headers to your RecyclerView
+
+<img src="https://github.com/bgogetap/StickyHeaders/raw/master/art/demo.gif" width="270" />
+
+---
+
 **ExtendedRecyclerAdapter**: https://github.com/sergiocasero/ExtendedRecyclerAdapter
 
 Simple library for DRY recycler adapter
