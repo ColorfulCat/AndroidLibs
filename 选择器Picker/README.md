@@ -6,6 +6,14 @@
 
 ---
 
+**TagSelectorView**: https://github.com/Rock610/TagSelectorView
+
+TagSelectorView
+
+<img src="https://raw.githubusercontent.com/Rock610/TagSelectorView/master/gif/gif2.gif" width="320" />
+
+---
+
 **WheelPicker**: https://github.com/youmu178/WheelPicker
 
 修改开源库Wheel后，能控制选中颜色及大小
