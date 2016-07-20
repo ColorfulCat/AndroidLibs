@@ -6,6 +6,14 @@
 
 ---
 
+**PaperShredder**: https://github.com/ldoublem/PaperShredder
+
+碎纸机动画，点子出自dribbble
+
+<img src="https://raw.githubusercontent.com/ldoublem/PaperShredder/master/screenshot/1.gif" width="270" /> <img src="https://raw.githubusercontent.com/ldoublem/PaperShredder/master/screenshot/2.gif" width="270" /> <img src="https://raw.githubusercontent.com/ldoublem/PaperShredder/master/screenshot/3.gif" width="270" />
+
+---
+
 **StereoView**: https://github.com/ImmortalZ/StereoView
 
 Android 3D立体无限旋转滚动容器
