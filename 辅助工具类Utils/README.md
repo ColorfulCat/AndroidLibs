@@ -6,6 +6,12 @@
 
 ---
 
+**Tinker_imitator**: https://github.com/zzz40500/Tinker_imitator
+
+微信热更新方案实践
+
+---
+
 **AES256PasswordBasedEncryption-Decryption**: https://github.com/rishelarora/AES256PasswordBasedEncryption-Decryption
 
 AES256 加解密
