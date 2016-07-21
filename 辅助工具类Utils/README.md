@@ -960,3 +960,11 @@ Performance metrics library for Android development (includes dagger2metrics)
 <img src="https://raw.githubusercontent.com/frogermcs/androiddevmetrics/master/art/activities_metrics.png" width="480" />
 
 ---
+
+**MAHAndroidUpdater**: https://github.com/hummatli/MAHAndroidUpdater
+
+Android app update checker
+
+<img src="https://github.com/hummatli/MAHAndroidUpdater/blob/master/imgs/updater_dlg.png" width="200px"/>
+<img src="https://github.com/hummatli/MAHAndroidUpdater/blob/master/imgs/restricter_dlg.png" width="200px"/>
+---
