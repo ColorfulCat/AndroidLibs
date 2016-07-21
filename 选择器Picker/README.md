@@ -6,6 +6,14 @@
 
 ---
 
+**RangeBar**: https://github.com/YangShaoXiong/RangeBar
+
+设置文章字体大小时所需要的View控件
+
+<img src="https://raw.githubusercontent.com/YangShaoXiong/RangeBar/master/screenshot/image.gif" width="320" />
+
+---
+
 **TagSelectorView**: https://github.com/Rock610/TagSelectorView
 
 TagSelectorView
