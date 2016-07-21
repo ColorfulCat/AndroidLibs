@@ -311,6 +311,14 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**ScrollNumber**: https://github.com/a-voyager/ScrollNumber
+
+自定义滚动数字
+
+<img src="https://raw.githubusercontent.com/a-voyager/ScrollNumber/master/imgs/01.gif" width="320" />
+
+---
+
 **NumberMorphView**: https://github.com/me-abhinav/NumberMorphView
 
 数字变形的 View
