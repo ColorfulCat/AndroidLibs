@@ -6,6 +6,12 @@
 
 ---
 
+**FontZip**: https://github.com/forJrking/FontZip
+
+字体资源文件压缩神器
+
+---
+
 **LongTextView**: https://github.com/metalurgus/LongTextView
 
 Very long text support for Android
