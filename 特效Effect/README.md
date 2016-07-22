@@ -6,6 +6,14 @@
 
 ---
 
+**CircularAnim**: https://github.com/XunMengWinter/CircularAnim
+
+Android水波动画帮助类，一行代码实现View显示/隐藏/startActivity特效。(对Android ViewAnimationUtils.createCircularReveal() 方法的封装)
+
+<img src="https://camo.githubusercontent.com/895f0065aa1d9c993569619853c81180c5d2658e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f36323331392f73637265656e73686f74732f313934353539332f73686f742e676966" width="640" />
+
+---
+
 **PaperShredder**: https://github.com/ldoublem/PaperShredder
 
 碎纸机动画，点子出自dribbble
