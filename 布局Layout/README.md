@@ -5,6 +5,14 @@
 
 ---
 
+**MagicIndicator**: https://github.com/hackware1993/MagicIndicator
+
+强大、可定制、易扩展的 ViewPager 指示器框架
+
+<img src="https://github.com/hackware1993/MagicIndicator/raw/master/magicindicator.gif" width="320" />
+
+---
+
 **LoopBar**: https://github.com/Cleveroad/LoopBar
 
 无限滚动 Tap Bar
