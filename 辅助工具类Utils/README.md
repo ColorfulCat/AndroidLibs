@@ -671,6 +671,12 @@ Helper to generate Javadocs within a Gradle Android library
 
 ---
 
+**PermissionUtils**: https://github.com/rebus007/PermissionUtils
+
+Check marshmallow permission easily https://rebus007.github.io/PermissionUtils/
+
+---
+
 **rx-android-permissions**: https://github.com/beworker/rx-android-permissions
 
 Simple RxJava library for requesting and observing Android runtime permissions
