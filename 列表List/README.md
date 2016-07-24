@@ -73,6 +73,14 @@ Overscroll bounce effect for Android
 
 ---
 
+**SwiftAdapter**: https://github.com/vkondrav/SwiftAdapter
+
+可展开的 Recyclerview
+
+<img src="https://camo.githubusercontent.com/7d442887b9fcf56f0244f698f63307fab73b453b/687474703a2f2f63646e2e73747265616d61626c652e636f6d2f696d6167652f686772692e6a7067" width="320" />
+
+---
+
 **ExpandableRecyclerview**: https://github.com/zaihuishou/ExpandableRecyclerview
 
 可展开的 Recyclerview
