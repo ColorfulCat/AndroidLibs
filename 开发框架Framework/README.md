@@ -6,6 +6,12 @@
 
 ---
 
+**Hook**: https://github.com/renaudcerrato/Hook
+
+Minimalist, annotation based, hook framework for Android built on top of AspectJ
+
+---
+
 **VirtualApp**: https://github.com/asLody/VirtualApp
 
 App 虚拟空间，类似 LBE 双开空间
