@@ -6,6 +6,12 @@
 
 ---
 
+**ClearRecyclerAdapter**: https://github.com/Prokky/ClearRecyclerAdapter
+
+Boilerplate code free Adapter for RecyclerView
+
+---
+
 **Endless-RecyclerView**: https://github.com/ybq/Endless-RecyclerView
 
 加载更多 RecyclerView
