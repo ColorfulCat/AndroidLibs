@@ -94,6 +94,14 @@ A Layoutmanager that must be used with RecyclerView. When list is scrolled views
 
 ---
 
+**LikesLayout**: https://github.com/Iojjj/LikesLayout
+
+Periscope 的点赞效果
+
+<img src="https://raw.githubusercontent.com/Iojjj/LikesLayout/master/images/demo.gif" width="320" />
+
+---
+
 **PeriscopeLayout**: https://github.com/AlanCheen/PeriscopeLayout
 
 类似 Periscope 的点赞效果
