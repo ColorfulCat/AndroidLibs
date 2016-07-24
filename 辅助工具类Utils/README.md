@@ -6,6 +6,12 @@
 
 ---
 
+**FlatBuffer**: https://github.com/amitshekhariitbhu/FlatBuffer
+
+This app shows how fast flat buffer works when we compare it with json
+
+---
+
 **Knight**: https://github.com/zjutkz/Knight
 
 使用 java apt and javapoet 技术实现的安卓换肤库
