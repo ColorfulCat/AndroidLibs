@@ -5,6 +5,14 @@
 
 ---
 
+**LoopBar**: https://github.com/Cleveroad/LoopBar
+
+无限滚动 Tap Bar
+
+<img src="https://raw.githubusercontent.com/Cleveroad/LoopBar/master/images/demo.gif" width="600" />
+
+---
+
 **wrapping-viewpager**: https://github.com/iffa/wrapping-viewpager
 
 带动画的自定义高度的 ViewPager
