@@ -109,6 +109,16 @@ CountryPicker is a simple library that can be show a country picker
 
 <img src="https://raw.githubusercontent.com/mukeshsolanki/country-picker/master/Screenshot_20160506-152951.png" width="320" />
 
+---
+
+**androidWheelView**: https://github.com/weidongjian/androidWheelView
+
+仿照iOS的滚轮控件，从请吃饭apk反编译出来的
+
+<img src="https://cloud.githubusercontent.com/assets/7868514/15390811/7269dbac-1df0-11e6-92a7-899ef62bbbb4.png" width="320" />
+
+---
+
 **Android-PickerView**: https://github.com/saiwu-bigkoo/Android-PickerView
 
 仿iOS的PickerView控件，有时间选择、地名选择和选项选择并支持一二三级联动效果

@@ -361,15 +361,6 @@ A Breadcrumb view based on the TabLayout
 
 ---
 
-**SpringView**: https://github.com/liaoinstan/SpringView
-
-A custom view can pull up and down,support ScrollView,ListView,RecyclerView,WebView
-
-![1](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212323072_s.gif) ![2](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212372609_s.gif)
-![3](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212462800_s.gif) ![4](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212485237_s.gif)
-
----
-
 **android-widget-connectpattern**: https://github.com/BCGDV-ASIA/android-widget-connectpattern
 
 Draw a pattern to confirm the action, unlock the screen etc
@@ -1136,22 +1127,6 @@ Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Pre
 A simple implementation of swipe card like StreetView
 
 <img src="https://camo.githubusercontent.com/34eb6cf9cafe50eb7cdb711b1b5a0728610a1f54/687474703a2f2f692e67697068792e636f6d2f336f38646f5558786a4f437748773247456f2e676966" width="320" /> <img src="https://camo.githubusercontent.com/0017a533c49257bc23341cff025f9e03b3b5503f/687474703a2f2f692e67697068792e636f6d2f3236745038334a72704e396d704e3577412e676966" width="320" />
-
----
-
-**androidWheelView**: https://github.com/weidongjian/androidWheelView
-
-仿照iOS的滚轮控件，从请吃饭apk反编译出来的
-
-<img src="https://cloud.githubusercontent.com/assets/7868514/15390811/7269dbac-1df0-11e6-92a7-899ef62bbbb4.png" width="320" />
-
----
-
-**LondonEyeLayoutManager**: https://github.com/Danylo2006/LondonEyeLayoutManager
-
-A Layoutmanager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory
-
-<img src="https://cloud.githubusercontent.com/assets/2686355/11742412/651bc71e-a008-11e5-9a5e-4f10be4adbd8.gif" width="320" />
 
 ---
 

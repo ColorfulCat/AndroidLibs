@@ -62,6 +62,14 @@ MD 风格飞出效果菜单选择
 
 ---
 
+**LondonEyeLayoutManager**: https://github.com/Danylo2006/LondonEyeLayoutManager
+
+A Layoutmanager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory
+
+<img src="https://cloud.githubusercontent.com/assets/2686355/11742412/651bc71e-a008-11e5-9a5e-4f10be4adbd8.gif" width="320" />
+
+---
+
 **BrokenView**: https://github.com/zhanyongsheng/BrokenView
 
 玻璃破碎效果的 View
