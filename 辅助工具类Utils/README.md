@@ -785,6 +785,14 @@ A easy way to use android sharepreference http://cocosw.com/Favor/
 
 ---
 
+**Console**：https://github.com/jraska/Console
+
+可在手机上查看 `logcat`
+
+<img src="https://raw.githubusercontent.com/jraska/Console/master/images/sample_screen.png" width="400" />
+
+---
+
 **Lynx**：https://github.com/pedrovgs/Lynx
 
 可在手机上查看 `logcat`
