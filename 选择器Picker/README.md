@@ -86,6 +86,14 @@ a better DropDownMenu solution, 完整的筛选器解决方案
 
 ---
 
+**android-filepicker**: https://github.com/Angads25/android-filepicker
+
+Selecting directories/files made a lot easier
+
+img src="https://raw.githubusercontent.com/Angads25/android-filepicker/master/screenshot1.png" width="270"/> img src="https://raw.githubusercontent.com/Angads25/android-filepicker/master/screenshot3.png" width="270"/> img src="https://raw.githubusercontent.com/Angads25/android-filepicker/master/screenshot4.png" width="270"/> 
+
+---
+
 **MaterialFilePicker**: https://github.com/nbsp-team/MaterialFilePicker
 
 MD 风格文件选择器
