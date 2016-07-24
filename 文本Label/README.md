@@ -6,6 +6,14 @@
 
 ---
 
+**ticker**: https://github.com/robinhood/ticker
+
+滚动效果 TextView
+
+<img src="https://raw.githubusercontent.com/robinhood/ticker/master/assets/ticker_main.gif" width="350" />
+
+---
+
 **FontZip**: https://github.com/forJrking/FontZip
 
 字体资源文件压缩神器
