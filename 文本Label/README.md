@@ -6,6 +6,14 @@
 
 ---
 
+**RoundedCornersBackgroundSpan**: https://github.com/Iojjj/RoundedCornersBackgroundSpan
+
+Implementation of LineBackgroundSpan that adds rounded rectangle backgrounds to text
+
+<img src="https://raw.githubusercontent.com/Iojjj/RoundedCornersBackgroundSpan/master/images/demo.png" width="320" />
+
+---
+
 **ticker**: https://github.com/robinhood/ticker
 
 滚动效果 TextView
