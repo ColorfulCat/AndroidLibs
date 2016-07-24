@@ -6,6 +6,14 @@
 
 ---
 
+**SubmitButton**: https://github.com/SparkYuan/SubmitButton
+
+优雅的 Button
+
+<img src="https://raw.githubusercontent.com/SparkYuan/SubmitButton/master/pic/submitbutton.gif" width="320" />
+
+---
+
 **jelly-direction-button**: https://github.com/bonghyun2/jelly-direction-button
 
 朝上下左右移动的 ToggleButton
