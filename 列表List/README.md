@@ -6,6 +6,23 @@
 
 ---
 
+**StickyHeaderListView**: https://github.com/sfsheng0322/StickyHeaderListView
+
+StickyHeaderListView 是基于实际需求做出的灵活可定制的UI功能，具体实现功能如下：  
+一、支持无限循环的广告位。  
+二、高度可动态配置的Header2和Header3（使用GridView实现）。  
+三、主要功能：分类、排序和筛选布局滑动到顶部后吸附、悬停。  
+四、自定义FilterView筛选控件，支持动画显示与动画隐藏。  
+五、支持标题栏背景颜色渐变、字体颜色渐变。  
+六、数据不足一屏动态添加空数据占位。  
+七、数据为空时，ListView加载暂无数据视图。  
+八、思路清晰、界面优美，添加ripple点击效果。  
+九、支持下拉刷新和上拉加载更多功能。  
+
+![1](https://github.com/sfsheng0322/StickyHeaderListView/raw/master/screenshots/stickyheader.gif) ![2](https://github.com/sfsheng0322/StickyHeaderListView/raw/master/screenshots/stickyheader2.gif)
+
+---
+
 **ClearRecyclerAdapter**: https://github.com/Prokky/ClearRecyclerAdapter
 
 Boilerplate code free Adapter for RecyclerView
