@@ -6,6 +6,14 @@
 
 ---
 
+**ferro**: https://github.com/MaksTuev/ferro
+
+Simple and powerful MVP library for Android
+
+<img src="https://raw.githubusercontent.com/MaksTuev/ferro/master/ferro.gif" width="640"/>
+
+---
+
 **Hook**: https://github.com/renaudcerrato/Hook
 
 Minimalist, annotation based, hook framework for Android built on top of AspectJ
