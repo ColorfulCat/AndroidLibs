@@ -19,7 +19,12 @@ StickyHeaderListView 是基于实际需求做出的灵活可定制的UI功能，
 八、思路清晰、界面优美，添加ripple点击效果。  
 九、支持下拉刷新和上拉加载更多功能。  
 
-![1](https://github.com/sfsheng0322/StickyHeaderListView/raw/master/screenshots/stickyheader.gif) ![2](https://github.com/sfsheng0322/StickyHeaderListView/raw/master/screenshots/stickyheader2.gif)
+<table>
+    <tr>
+        <td><img src="https://github.com/sfsheng0322/StickyHeaderListView/raw/master/screenshots/stickyheader.gif" style="width: 30%;"></td>
+        <td><img src="https://github.com/sfsheng0322/StickyHeaderListView/raw/master/screenshots/stickyheader2.gif" style="width: 30%;"></td>
+    </tr>
+</table>
 
 ---
 
