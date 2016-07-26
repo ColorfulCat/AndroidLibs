@@ -6,6 +6,14 @@
 
 ---
 
+**CheckView**: https://github.com/Shyish/CheckView
+
+An animated toggling Plus/Check button for Android
+
+<img src="https://raw.githubusercontent.com/Shyish/CheckView/master/gifs/checkview.gif" width="150" />
+
+---
+
 **SubmitButton**: https://github.com/SparkYuan/SubmitButton
 
 优雅的 Button
