@@ -6,6 +6,14 @@
 
 ---
 
+**DebugPurge**: https://github.com/eswarm/DebugPurge
+
+删除安装在手机上的 debug 版本应用
+
+<img src="https://cloud.githubusercontent.com/assets/7868514/17136186/8a8161aa-5366-11e6-9e24-663ae58c3a08.jpg" width="320" />
+
+---
+
 **FanXin3.0**: https://github.com/huangfangyi/FanXin3.0
 
 凡信 3.0 -最强微信仿品
@@ -113,7 +121,7 @@ A Demo with Retrofit2 Okhttp3 Dagger RxJava RxAndroid ButterKnife...
 
 天气闹钟
 
-<img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/workspace/WeAC/screenshots/3.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/workspace/WeAC/screenshots/11.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/workspace/WeAC/screenshots/18.jpeg" width="270" />
+<img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/screenshots/2.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/screenshots/3.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/screenshots/5.jpeg" width="270" />
 
 ---
 
