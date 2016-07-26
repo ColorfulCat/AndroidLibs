@@ -114,6 +114,14 @@ Sometimes, we need to show a label above an ImageView or any other views. Well, 
 
 ---
 
+**RxMarkdown**: https://github.com/yydcdut/RxMarkdown
+
+Markdown for Android
+
+<img src="https://raw.githubusercontent.com/yydcdut/RxMarkdown/master/art/rxmarkdown.gif" width="320" />
+
+---
+
 **MarkedView-for-Android**: https://github.com/mittsuu/MarkedView-for-Android
 
 markdown text viewer
