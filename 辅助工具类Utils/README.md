@@ -6,6 +6,12 @@
 
 ---
 
+**RealmContactsForAndroid**: https://github.com/SergioDim3nsions/RealmContactsForAndroid
+
+This is an example for realm database in android
+
+---
+
 **FlatBuffer**: https://github.com/amitshekhariitbhu/FlatBuffer
 
 This app shows how fast flat buffer works when we compare it with json

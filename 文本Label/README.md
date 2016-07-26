@@ -118,7 +118,7 @@ Sometimes, we need to show a label above an ImageView or any other views. Well, 
 
 markdown text viewer
 
-<img src="https://raw.githubusercontent.com/mittsuu/MarkedView-for-Android/master/sample_sc.png" width="320" />
+<img src="https://raw.githubusercontent.com/mittsuu/MarkedView-for-Android/master/sample-sc.gif" width="320" />
 
 ---
 
