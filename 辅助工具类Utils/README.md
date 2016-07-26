@@ -6,6 +6,12 @@
 
 ---
 
+**ixjava**: https://github.com/akarnokd/ixjava
+
+Interactive Extensions for Java, the dual of RxJava. Originally implemented in the Reactive4Java framework, now converted to work with RxJava.
+
+---
+
 **RealmContactsForAndroid**: https://github.com/SergioDim3nsions/RealmContactsForAndroid
 
 This is an example for realm database in android
