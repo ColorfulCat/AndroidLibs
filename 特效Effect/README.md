@@ -78,6 +78,14 @@ A Layoutmanager that must be used with RecyclerView. When list is scrolled views
 
 ---
 
+**android_scratchoff**: https://github.com/jackpocket/android_scratchoff
+
+有图层效果的 View
+
+<img src="https://raw.githubusercontent.com/jackpocket/android_scratchoff/master/scratchoff.gif" width="220" />
+
+---
+
 **FogView_Library**: https://github.com/dynamitechetan/FogView_Library
 
 有图层效果的 View
