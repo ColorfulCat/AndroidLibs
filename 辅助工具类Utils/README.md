@@ -6,6 +6,12 @@
 
 ---
 
+**essentials**: https://github.com/greenrobot/essentials
+
+General purpose utilities and hash functions for Android and Java (aka java-common)
+
+---
+
 **ixjava**: https://github.com/akarnokd/ixjava
 
 Interactive Extensions for Java, the dual of RxJava. Originally implemented in the Reactive4Java framework, now converted to work with RxJava.
