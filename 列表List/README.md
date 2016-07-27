@@ -365,14 +365,6 @@ Adapter for SelectionMode, ViewHolders, Filter, FastScroller, Animations, Undo, 
 
 ---
 
-**StickyHeaderListView**: https://github.com/sfsheng0322/StickyHeaderListView
-
-功能强大的StickyHeaderListView：标题渐变、吸附悬停、筛选分类、动态头部等
-
-<img src="https://raw.githubusercontent.com/sfsheng0322/StickyHeaderListView/master/screenshots/stickyheader.gif" width="320" /> <img src="https://raw.githubusercontent.com/sfsheng0322/StickyHeaderListView/master/screenshots/StickyHeaderListView4.png" width="320" />
-
----
-
 **StickyHeaders**: https://github.com/ShamylZakariya/StickyHeaders
 
 Adapter and LayoutManager for Android RecyclerView which enables sticky header positioning
@@ -469,7 +461,7 @@ Ultra Pull to Refresh for Android. Support all the views. [http://android-ultra-
 
 A simple FastScroller for Android's RecyclerView
 
-<img src="https://github.com/timusus/RecyclerView-FastScroll/blob/master/screenshot.jpg" width="320" />
+<img src="https://raw.githubusercontent.com/timusus/RecyclerView-FastScroll/master/screenshot.png" width="320" />
 
 ---
 
@@ -806,20 +798,13 @@ WaterDropListView，just like the iOS
 
 ---
 
-**BGARefreshLayout-Android**: [https://github.com/bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)
+**BGARefreshLayout-Android**: https://github.com/bingoogolapple/BGARefreshLayout-Android
 
 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位
 
-<img src="https://camo.githubusercontent.com/8d72e71e723eb63512d6c778e290303a4a2480bf/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f7669657770616765725f737469636b795f6e61762e676966" width="160" />
-<img src="https://camo.githubusercontent.com/20e9dab589fba815269ce197f48d7a1addc427cb/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f72656379636c6572766965775f737469636b795f6e61762e676966" width="160" />
-<img src="https://camo.githubusercontent.com/f609f7944250a6607e5fdec8b12b3156df569cd7/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573686c61796f7574312e676966" width="160" />
-<img src="https://camo.githubusercontent.com/70d4f162340a936208fe5a25edd5adbc5c7f5000/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573686c61796f7574362e676966" width="160" />
-<img src="https://camo.githubusercontent.com/9f2af896ad932c036ee123e054042560fa4a4cab/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573686c61796f7574322e676966" width="160" />
-<img src="https://camo.githubusercontent.com/cd0ecf855d14da768fed9f34c15724d52fa06162/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573686c61796f7574332e676966" width="160" />
-<img src="https://camo.githubusercontent.com/90195a54c77ff3c7df464a4e4de7c3aaff69dd45/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573686c61796f7574342e676966" width="160" />
-<img src="https://camo.githubusercontent.com/a56af43fe2add45f87fbc1c0912d5a0f4e8564b7/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573686c61796f7574352e676966" width="160" />
-<img src="https://camo.githubusercontent.com/1a6566286ba2a8a69b20fc3433f264720a1b4a5e/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573685f776562766965772e676966" width="160" />
-<img src="https://camo.githubusercontent.com/3bf0a5b5dfa2b78d6a1e1654d9d2aa599ca8449d/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573686c61796f7574372e676966" width="160" />
+<img src="https://camo.githubusercontent.com/912ee9a45b5ed7063bd6fe7634f8130953a7051d/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f6267615f726566726573686c61796f7574312e676966" width="270" />
+<img src="https://camo.githubusercontent.com/7539fed2c320aecc0d47320586e8c2ee22a2d762/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f6267615f726566726573686c61796f7574322e676966" width="270" />
+<img src="https://camo.githubusercontent.com/1f869f094c59adfef8a63f8f870c53092fae8d19/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f6267615f726566726573686c61796f7574362e676966" width="270" />
 
 ---
 
