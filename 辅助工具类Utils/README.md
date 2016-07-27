@@ -18,6 +18,12 @@ General purpose utilities and hash functions for Android and Java (aka java-comm
 
 ---
 
+**AndroidStudioTemplates**: https://github.com/WanAndroid/AndroidStudioTemplates
+
+Templates for Android Studio
+
+---
+
 **ixjava**: https://github.com/akarnokd/ixjava
 
 Interactive Extensions for Java, the dual of RxJava. Originally implemented in the Reactive4Java framework, now converted to work with RxJava.
