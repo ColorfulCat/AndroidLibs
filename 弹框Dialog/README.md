@@ -22,6 +22,14 @@ MDDialog
 
 ---
 
+**pretty-toast**: https://github.com/CROSP/pretty-toast
+
+This is quite simple toast library, that make it easier to show and create custom toast
+
+<img src="https://raw.githubusercontent.com/CROSP/pretty-toast/master/screen-animation.gif" width="320" />
+
+---
+
 **magic-toast**: https://github.com/ekimual/magic-toast
 
 Magic Toast
