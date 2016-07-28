@@ -580,6 +580,14 @@ Count down, count up, tick... tock...
 
 ---
 
+**MaterialSearchBar**: https://github.com/mancj/MaterialSearchBar
+
+Material Design Search Bar for Android
+
+<img src="https://raw.githubusercontent.com/mancj/MaterialSearchBar/master/art/ezgif-838715850.gif" width="320" /> <img src="https://raw.githubusercontent.com/mancj/MaterialSearchBar/master/art/device-2016-07-20-170335.png" width="320" />
+
+---
+
 **MaterialSearchView**: https://github.com/Mauker1/MaterialSearchView
 
 Android Search View based on Material design guidelines
