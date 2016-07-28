@@ -18,6 +18,12 @@ General purpose utilities and hash functions for Android and Java (aka java-comm
 
 ---
 
+**Scripto**: https://github.com/ImangazalievM/Scripto
+
+Library for easy call JS-functions from Java
+
+---
+
 **AutoInstaller**: https://github.com/a-voyager/AutoInstaller
 
 应用自动静默更新安装库
