@@ -18,6 +18,12 @@ General purpose utilities and hash functions for Android and Java (aka java-comm
 
 ---
 
+**InputValidator**: https://github.com/jordanterry/InputValidator
+
+An Android library helps to validate input content
+
+---
+
 **Scripto**: https://github.com/ImangazalievM/Scripto
 
 Library for easy call JS-functions from Java
