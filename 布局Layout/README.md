@@ -5,6 +5,14 @@
 
 ---
 
+**Flowing-Gradient**: https://github.com/dynamitechetan/Flowing-Gradient
+
+Flowing Gradient Library
+
+<img src="https://raw.githubusercontent.com/dynamitechetan/Flowing-Gradient/master/screenshots/Screenshot_20160720-215934.png" width="640" />
+
+---
+
 **MagicIndicator**: https://github.com/hackware1993/MagicIndicator
 
 强大、可定制、易扩展的 ViewPager 指示器框架
