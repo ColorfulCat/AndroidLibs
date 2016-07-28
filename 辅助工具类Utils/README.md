@@ -18,6 +18,14 @@ General purpose utilities and hash functions for Android and Java (aka java-comm
 
 ---
 
+**AutoInstaller**: https://github.com/a-voyager/AutoInstaller
+
+应用自动静默更新安装库
+
+<img src="https://raw.githubusercontent.com/a-voyager/AutoInstaller/master/imgs/GIF.gif" width="320"/>
+
+---
+
 **AndroidStudioTemplates**: https://github.com/WanAndroid/AndroidStudioTemplates
 
 Templates for Android Studio
