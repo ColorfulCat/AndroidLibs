@@ -5,6 +5,14 @@
 
 ---
 
+**DecentBanner**: https://github.com/chengdazhi/DecentBanner
+
+An Android Banner that supports auto scrolling and decent animation
+
+<img src="https://raw.githubusercontent.com/chengdazhi/DecentBanner/master/images/decent_sample.gif" width="640" />
+
+---
+
 **ZoomHeaderViewPager**: https://github.com/patryk1007/ZoomHeaderViewPager
 
 Zoom header for Android ViewPager
