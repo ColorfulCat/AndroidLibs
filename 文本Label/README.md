@@ -6,6 +6,14 @@
 
 ---
 
+**Emojix**: https://github.com/nekocode/Emojix
+
+One line of code to implement emoji to your whole android application
+
+<img src="https://raw.githubusercontent.com/nekocode/Emojix/master/art/preview.png" width="400" />
+
+---
+
 **RoundedCornersBackgroundSpan**: https://github.com/Iojjj/RoundedCornersBackgroundSpan
 
 Implementation of LineBackgroundSpan that adds rounded rectangle backgrounds to text
