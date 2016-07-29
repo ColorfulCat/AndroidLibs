@@ -6,6 +6,14 @@
 
 ---
 
+**MagicButton**: https://github.com/daniel-martins-IR/MagicButton
+
+MagicButton
+
+<img src="https://raw.githubusercontent.com/daniel-martins-IR/MagicButton/master/app/src/main/res/drawable/giphy.gif" width="270" />
+
+---
+
 **CheckView**: https://github.com/Shyish/CheckView
 
 An animated toggling Plus/Check button for Android
