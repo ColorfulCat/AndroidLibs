@@ -18,6 +18,12 @@ General purpose utilities and hash functions for Android and Java (aka java-comm
 
 ---
 
+**RxLoader**: https://github.com/kmdupr33/RxLoader
+
+RxLoader
+
+---
+
 **InputValidator**: https://github.com/jordanterry/InputValidator
 
 An Android library helps to validate input content
