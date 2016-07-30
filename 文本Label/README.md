@@ -186,6 +186,14 @@ Simple formatting options for TextView and EditText in the same way Whatsapp pro
 
 ---
 
+**Codeview**: https://github.com/avraampiperidis/Codeview
+
+代码格式高亮 in webview
+
+<img src="https://raw.githubusercontent.com/avraampiperidis/Codeview/master/readmepics/pic2.png" width="320" /> <img src="https://raw.githubusercontent.com/avraampiperidis/Codeview/master/readmepics/pic3.png" width="320" />
+
+---
+
 **highlightjs-android**: https://github.com/PDDStudio/highlightjs-android
 
 代码格式高亮
