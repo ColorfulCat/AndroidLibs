@@ -6,6 +6,14 @@
 
 ---
 
+**crystal-range-seekbar**: https://github.com/syedowaisali/crystal-range-seekbar
+
+Crystal Range Seekbar
+
+<img src="https://camo.githubusercontent.com/a91a36fcd741020ed5fa45e4f6eb3860c4b3ddcf/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3042396244454e794941425436636e68334d5859335457737451574d" width="270" />
+
+---
+
 **circular-music-progressbar**: https://github.com/aliab/circular-music-progressbar
 
 音乐头像圆形 progressbar
