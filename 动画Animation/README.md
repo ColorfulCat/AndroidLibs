@@ -6,6 +6,14 @@
 
 ---
 
+**crystal-preloaders**: https://github.com/syedowaisali/crystal-preloaders
+
+多种加载动画效果
+
+<img src="https://camo.githubusercontent.com/cc7f7f9c3869e07623e789df154b10878e0506fa/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3042396244454e7949414254365230347a4e446c54656c633051324d" width="180" />
+
+---
+
 **LikeAnimation**: https://github.com/frogermcs/LikeAnimation
 
 类 Twitter 点赞效果
