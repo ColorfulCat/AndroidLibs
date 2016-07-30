@@ -6,6 +6,14 @@
 
 ---
 
+**SimpleDroidRx**: https://github.com/PhilippeBoisney/SimpleDroidRx
+
+An application that helps you learn and better understand ReactiveX
+
+<img src="https://raw.githubusercontent.com/PhilippeBoisney/SimpleDroidRx/master/Screenshots/hello_worlds_screenshot.png" width="270" /> <img src="https://raw.githubusercontent.com/PhilippeBoisney/SimpleDroidRx/master/Screenshots/famous_operators_screenshot.png" width="270" /> <img src="https://raw.githubusercontent.com/PhilippeBoisney/SimpleDroidRx/master/Screenshots/error_handling_screenshot.png" width="270" />
+
+---
+
 **DebugPurge**: https://github.com/eswarm/DebugPurge
 
 删除安装在手机上的 debug 版本应用
