@@ -6,6 +6,12 @@
 
 ---
 
+**circular-music-progressbar**: https://github.com/aliab/circular-music-progressbar
+
+音乐头像圆形 progressbar
+
+---
+
 **CircularProgressView**: https://github.com/rahatarmanahmed/CircularProgressView
 
 Material style circular progress bar for Android
