@@ -5,6 +5,14 @@
 
 ---
 
+**ShrinkingImageLayout**: https://github.com/PierfrancescoSoffritti/ShrinkingImageLayout
+
+Android layout with an header image sensible to scroll and touch events
+
+<img src="https://raw.githubusercontent.com/PierfrancescoSoffritti/ShrinkingImageLayout/master/pics/Animation.gif" width="240" />
+
+---
+
 **SlidingDrawer**: https://github.com/PierfrancescoSoffritti/SlidingDrawer
 
 Android custom View implementing the bottom sheet pattern
