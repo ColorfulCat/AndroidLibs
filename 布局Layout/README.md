@@ -5,6 +5,14 @@
 
 ---
 
+**SlidingDrawer**: https://github.com/PierfrancescoSoffritti/SlidingDrawer
+
+Android custom View implementing the bottom sheet pattern
+
+<img src="https://raw.githubusercontent.com/PierfrancescoSoffritti/SlidingDrawer/master/pics/SlidingView.gif" width="320" />
+
+---
+
 **DecentBanner**: https://github.com/chengdazhi/DecentBanner
 
 An Android Banner that supports auto scrolling and decent animation

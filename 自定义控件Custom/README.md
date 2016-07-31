@@ -301,22 +301,6 @@ This is a library with components of Android L to you use in android 2.2
 
 ---
 
-**SeekArc**: [https://github.com/Triggertrap/SeekArc](https://github.com/Triggertrap/SeekArc)
-
-Circular SeekBar view for Android
-
-<img src="https://camo.githubusercontent.com/1f5a943833fb6f1dc825d12df588dbf34c6da057/68747470733a2f2f7261772e6769746875622e636f6d2f6e65696c643030312f5365656b4172632f6d61737465722f7261772f73616d706c655f6170702e706e67" width="640" />
-
----
-
-**material-range-bar**: [https://github.com/oli107/material-range-bar](https://github.com/oli107/material-range-bar)
-
-Android widget for selecting a range of values.
-
-<img src="https://github.com/oli107/material-range-bar/blob/master/Screenshots/pin%20expand.gif" width="320" />
-
----
-
 **Lollipop-AppCompat-Widgets-Skeleton**: [https://github.com/sachin1092/Lollipop-AppCompat-Widgets-Skeleton](https://github.com/sachin1092/Lollipop-AppCompat-Widgets-Skeleton)
 
 A skeleton of google's appcompat android navigation drawer with material design.
