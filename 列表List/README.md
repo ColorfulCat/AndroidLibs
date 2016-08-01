@@ -6,6 +6,14 @@
 
 ---
 
+**SlyceMessaging**: https://github.com/snipsnap/SlyceMessaging
+
+Easily add Sticky Headers to your RecyclerView
+
+<img src="https://raw.githubusercontent.com/snipsnap/SlyceMessaging/master/sample-photos/example.png" width="240" /> <img src="https://raw.githubusercontent.com/snipsnap/SlyceMessaging/master/sample-photos/chat-with-image.png" width="240" />
+
+---
+
 **StickyHeaderListView**: https://github.com/sfsheng0322/StickyHeaderListView
 
 StickyHeaderListView 是基于实际需求做出的灵活可定制的UI功能，具体实现功能如下：  
