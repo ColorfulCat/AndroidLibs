@@ -6,6 +6,14 @@
 
 ---
 
+**ImagePicker**: https://github.com/jeasonlzy0216/ImagePicker
+
+完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数
+
+<img src = "https://camo.githubusercontent.com/d54562e2f344afa4a916d09a577098ef08a55bdb/687474703a2f2f3778737335332e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f696d6167657069636b65722f64656d6f312e706e67" width = "270"/>
+
+---
+
 **QRGenerator**: https://github.com/androidmads/QRGenerator
 
 二维码扫描库
