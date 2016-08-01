@@ -6,6 +6,14 @@
 
 ---
 
+**Parallax-Layer-Layout**: https://github.com/SchibstedSpain/Parallax-Layer-Layout
+
+视图分层视差效果
+
+<img src="https://raw.githubusercontent.com/SchibstedSpain/Parallax-Layer-Layout/master/art/ovni.gif" width="320" />
+
+---
+
 **CarouselView**: https://github.com/binaryroot/CarouselView
 
 This library is updated version of Android 3D Carousel.
