@@ -6,6 +6,14 @@
 
 ---
 
+**PhotoNoter**: https://github.com/yydcdut/PhotoNoter
+
+Material Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包脚本+Dex异步加载) http://yydcdut.com/note
+
+<img src="https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/animation.gif" width="270" /> <img src="https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/screen3.png" width="270" /> <img src="https://raw.githubusercontent.com/yydcdut/PhotoNoter/master/screenshot/screen11.png" width="270" />
+
+---
+
 **SimpleDroidRx**: https://github.com/PhilippeBoisney/SimpleDroidRx
 
 An application that helps you learn and better understand ReactiveX
