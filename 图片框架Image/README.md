@@ -14,6 +14,12 @@
 
 ---
 
+**Luban**: https://github.com/Curzibn/Luban
+
+Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法
+
+---
+
 **QRGenerator**: https://github.com/androidmads/QRGenerator
 
 二维码扫描库
