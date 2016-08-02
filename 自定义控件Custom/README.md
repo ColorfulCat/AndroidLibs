@@ -54,6 +54,14 @@ MIUI8 悬浮球
 
 ---
 
+**SimpleRatingBar**: https://github.com/FlyingPumba/SimpleRatingBar
+
+A simple RatingBar for Android
+
+<img src="https://raw.githubusercontent.com/FlyingPumba/SimpleRatingBar/master/images/sample.gif" width="320" />
+
+---
+
 **RatingView**: https://github.com/Ornolfr/RatingView
 
 等级评分
