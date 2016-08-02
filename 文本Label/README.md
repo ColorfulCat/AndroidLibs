@@ -335,6 +335,14 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**AndroidFontsManager**: https://github.com/GcsSloop/AndroidFontsManager
+
+字体管理器，方便快速的为应用内所有组件更换字体。
+
+<img src="https://github.com/GcsSloop/AndroidFontsManager/blob/master/Pic/fontsmanagerdemo.gif" width="320" />
+
+---
+
 **FontBinder**: https://github.com/nitrico/FontBinder
 
 布局里自定义字体，配合 databinding

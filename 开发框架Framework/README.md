@@ -1,6 +1,6 @@
 # AndroidLibs == 开发框架 Framework
 
-包含：各种快速开发框架、测试框架、系统框架、设计模式框架……
+包含：各种快速开发框架、测试框架、系统框架、设计模式框架、主题切换框架……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
@@ -174,7 +174,7 @@ VR Player for android
 
 ---
 
-**AndRouter**：https://github.com/AppLozic/Applozic-Android-SDK
+**Applozic-Android-SDK**：https://github.com/AppLozic/Applozic-Android-SDK
 
 安卓实时聊天框架
 
@@ -197,17 +197,15 @@ PalDB is an embeddable write-once key-value store written in Java.
 
 ---
 
-**MultipleTheme**：[https://github.com/dersoncheng/MultipleTheme](https://github.com/dersoncheng/MultipleTheme)
+**NightModel**: https://github.com/achenglike/NightModel
 
-Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity when you switch theme-mode.
+a night model lib for easy change app's night theme
 
 ---
 
-**AndroidFontsManager**: [https://github.com/GcsSloop/AndroidFontsManager](https://github.com/GcsSloop/AndroidFontsManager)
+**MultipleTheme**：https://github.com/dersoncheng/MultipleTheme
 
-字体管理器，方便快速的为应用内所有组件更换字体。
-
-<img src="https://github.com/GcsSloop/AndroidFontsManager/blob/master/Pic/fontsmanagerdemo.gif" width="320" />
+Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity when you switch theme-mode.
 
 ---
 
