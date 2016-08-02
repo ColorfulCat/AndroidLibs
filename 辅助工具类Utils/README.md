@@ -12,9 +12,21 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
+**commons-lang**: https://github.com/apache/commons-lang
+
+Apache Commons Lang, a package of Java utility classes for the classes that are in java.lang's hierarchy, or are considered to be so standard as to justify existence in java.lang.
+
+---
+
 **essentials**: https://github.com/greenrobot/essentials
 
 General purpose utilities and hash functions for Android and Java (aka java-common)
+
+---
+
+**ContentManager**: https://github.com/stfalcon-studio/ContentManager
+
+Library what helps getting photo or video from device gallery, from a cloud or from a camera
 
 ---
 
