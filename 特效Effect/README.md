@@ -38,6 +38,14 @@ Android水波动画帮助类，一行代码实现View显示/隐藏/startActivity
 
 ---
 
+**Android-3DTouch-PeekView**: https://github.com/klinker24/Android-3DTouch-PeekView
+
+Simple and powerful library to emulate iOS's "3D Touch" preview functionality on Android
+
+<img src="https://raw.githubusercontent.com/klinker24/Android-3DTouch-PeekView/master/features.gif" width="500" />
+
+---
+
 **StereoView**: https://github.com/ImmortalZ/StereoView
 
 Android 3D立体无限旋转滚动容器
