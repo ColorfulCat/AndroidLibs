@@ -6,6 +6,12 @@
 
 ---
 
+**Auster**: https://github.com/Prokky/Auster
+
+Simple lightweight MVP library for Android
+
+---
+
 **ferro**: https://github.com/MaksTuev/ferro
 
 Simple and powerful MVP library for Android
