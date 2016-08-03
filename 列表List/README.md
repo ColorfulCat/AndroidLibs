@@ -6,6 +6,14 @@
 
 ---
 
+**PullToRefresh**: https://github.com/lubeast/PullToRefresh
+
+A PullToRefresh widget. https://lubeast.github.io/PullToRefresh/
+
+<img src="https://camo.githubusercontent.com/f390437ba548be66a9e4c91389e5587000533c24/68747470733a2f2f7261772e6769746875622e636f6d2f6c7562656173742f50756c6c4c61756e6368526f636b65742f6d61737465722f73637265656e73686f74732f726f636b65742e676966" width="240" /> <img src="https://camo.githubusercontent.com/3947994e16b8e19b744f254e69219c626527fe37/68747470733a2f2f7261772e6769746875622e636f6d2f6c7562656173742f50756c6c4c61756e6368526f636b65742f6d61737465722f73637265656e73686f74732f73756e72616973652e676966" width="240" />
+
+---
+
 **SlyceMessaging**: https://github.com/snipsnap/SlyceMessaging
 
 Easily add Sticky Headers to your RecyclerView
