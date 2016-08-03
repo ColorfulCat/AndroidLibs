@@ -6,6 +6,14 @@
 
 ---
 
+**TastyToast**: https://github.com/yadav-rahul/TastyToast
+
+Make your native android Toasts Tasty
+
+<img src="https://raw.githubusercontent.com/yadav-rahul/TastyToast/lib/static/success.gif" width="270" /> <img src="https://raw.githubusercontent.com/yadav-rahul/TastyToast/lib/static/default.gif" width="270" /> <img src="https://raw.githubusercontent.com/yadav-rahul/TastyToast/lib/static/warning.gif" width="270" />
+
+---
+
 **RelativePopupWindow**: https://github.com/kakajika/RelativePopupWindow
 
 Android PopupWindow that can be easily located relative to anchor View
