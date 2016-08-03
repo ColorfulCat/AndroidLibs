@@ -6,6 +6,12 @@
 
 ---
 
+**FormattEditText**: https://github.com/PaXLiCh/FormattEditText
+
+支持自动格式化的 EditText，比如货币、电话号码等等
+
+---
+
 **Emojix**: https://github.com/nekocode/Emojix
 
 One line of code to implement emoji to your whole android application
