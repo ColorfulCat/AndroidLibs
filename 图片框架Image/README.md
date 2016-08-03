@@ -20,6 +20,14 @@ Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法
 
 ---
 
+**QrCardParsing**: https://github.com/RurioLuca/QrCardParsing
+
+二维码生成、扫描库
+
+<img src = "https://raw.githubusercontent.com/RurioLuca/MeCardParsing/master/img/screen.png" width = "320"/>
+
+---
+
 **QRGenerator**: https://github.com/androidmads/QRGenerator
 
 二维码扫描库
