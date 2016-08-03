@@ -6,6 +6,14 @@
 
 ---
 
+**FunGameRefresh**: https://github.com/Hitomis/FunGameRefresh
+
+好玩的下拉刷新控件，让我们一起来回味童年
+
+<img src="https://raw.githubusercontent.com/Hitomis/FunGameRefresh/master/preview/HitBlock.gif" width="270" /> <img src="https://raw.githubusercontent.com/Hitomis/FunGameRefresh/master/preview/BattleCity.gif" width="270" />
+
+---
+
 **PullToRefresh**: https://github.com/lubeast/PullToRefresh
 
 A PullToRefresh widget. https://lubeast.github.io/PullToRefresh/
