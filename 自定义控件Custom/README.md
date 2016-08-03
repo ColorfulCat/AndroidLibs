@@ -6,6 +6,14 @@
 
 ---
 
+**FlightSeat**: https://github.com/ldoublem/FlightSeat
+
+机票座位选择
+
+<img src="https://raw.githubusercontent.com/ldoublem/FlightSeat/master/screenshot/seat_gif.gif" width="320" /> <img src="https://raw.githubusercontent.com/ldoublem/FlightSeat/master/screenshot/seat_png.png" width="320" />
+
+---
+
 **maoni**: https://github.com/rm3l/maoni
 
 轻量安卓反馈库
