@@ -731,14 +731,6 @@ A barcode scanner based on zxing for android
 
 ---
 
-**BGAQRCode-Android**: https://github.com/bingoogolapple/BGAQRCode-Android
-
-Android QRCode Library
-
-<img src="https://camo.githubusercontent.com/9925f6660c608bc6b25bbeb623d0184d5dca6968/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f7a78696e673130362e676966" width="320" /> <img src="https://camo.githubusercontent.com/592a5ae13ae4c01c298b68d27f179a23843d398a/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f7172636f64652f73637265656e73686f74732f7a78696e673130332e676966" width="320" />
-
----
-
 **gradle-android-javadocs**: https://github.com/Commit451/gradle-android-javadocs
 
 Helper to generate Javadocs within a Gradle Android library
