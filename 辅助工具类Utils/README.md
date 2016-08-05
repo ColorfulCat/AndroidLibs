@@ -18,6 +18,12 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
+**UniPinyin**: https://github.com/nillith/UniPinyin
+
+Java 汉语拼音查询工具。支持CJK基本字符集及扩充区A的中文汉字，共26679个，其中多音字6769个。
+
+---
+
 **essentials**: https://github.com/greenrobot/essentials
 
 General purpose utilities and hash functions for Android and Java (aka java-common)
