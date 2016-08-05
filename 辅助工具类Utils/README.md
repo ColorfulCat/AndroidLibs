@@ -156,6 +156,12 @@ RxJava 方式对 List 的封装
 
 ---
 
+**OmRecorder**: https://github.com/kailash09dabhi/OmRecorder
+
+A Simple Pcm / Wav audio recorder with nice api. https://kailash09dabhi.github.io/OmRecorder/
+
+---
+
 **ReactiveAudioRecord**: https://github.com/ahmedrizwan/ReactiveAudioRecord
 
 Rx wrapper library for Android's AudioRecord API
