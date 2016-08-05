@@ -450,6 +450,12 @@ Kotlin 语言编写的安卓 cache 库
 
 ---
 
+**AsyncTaskScheduler**: https://github.com/SilenceDut/AsyncTaskScheduler
+
+AsyncTask 替代者
+
+---
+
 **thinr**: https://github.com/bjoernQ/thinr
 
 AsyncTask 替代者
