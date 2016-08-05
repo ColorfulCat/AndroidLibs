@@ -1059,3 +1059,13 @@ Android app update checker
 
 <img src="https://github.com/hummatli/MAHAndroidUpdater/blob/master/imgs/updater_dlg.png" width="200px"/> <img src="https://github.com/hummatli/MAHAndroidUpdater/blob/master/imgs/restricter_dlg.png" width="200px"/>
 ---
+<<<<<<< HEAD
+=======
+
+**MAHAds**: https://github.com/hummatli/MAHAds
+
+Library for advertisement own apps through your other apps
+
+<img src="https://github.com/hummatli/MAHAds/blob/master/imgs/exit_dlg.png" width="200px"/> <img src="https://github.com/hummatli/MAHAds/blob/master/imgs/programs_dlg.png" width="200px"/>
+---
+>>>>>>> refs/heads/pr/78
