@@ -18,6 +18,12 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
+**AndroidMiscUtils**: https://github.com/nillith/AndroidMiscUtils
+
+Android Utils for context and thread
+
+---
+
 **AutoVersion**: https://github.com/nillith/AutoVersion
 
 根据 commit 数自动生成版本号
