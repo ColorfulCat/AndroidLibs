@@ -623,6 +623,12 @@ Gradle plugin to optimize png files and reduce resultant apk size within an Andr
 
 ---
 
+**simplest_ffmpeg_mobile**: https://github.com/leixiaohua1020/simplest_ffmpeg_mobile
+
+ffmpeg examples in Android / IOS / WinPhone http://leixiaohua1020.github.com/
+
+---
+
 **360-video-player-for-android**: https://github.com/fbsamples/360-video-player-for-android
 
 Sample code for creating a 360 video player on Android
@@ -1059,8 +1065,6 @@ Android app update checker
 
 <img src="https://github.com/hummatli/MAHAndroidUpdater/blob/master/imgs/updater_dlg.png" width="200px"/> <img src="https://github.com/hummatli/MAHAndroidUpdater/blob/master/imgs/restricter_dlg.png" width="200px"/>
 ---
-<<<<<<< HEAD
-=======
 
 **MAHAds**: https://github.com/hummatli/MAHAds
 
@@ -1068,4 +1072,3 @@ Library for advertisement own apps through your other apps
 
 <img src="https://github.com/hummatli/MAHAds/blob/master/imgs/exit_dlg.png" width="200px"/> <img src="https://github.com/hummatli/MAHAds/blob/master/imgs/programs_dlg.png" width="200px"/>
 ---
->>>>>>> refs/heads/pr/78
