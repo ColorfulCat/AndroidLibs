@@ -6,6 +6,12 @@
 
 ---
 
+**Scoper**: https://github.com/bgogetap/Scoper
+
+Lightweight Dagger 2 scoped component management library
+
+---
+
 **Auster**: https://github.com/Prokky/Auster
 
 Simple lightweight MVP library for Android
