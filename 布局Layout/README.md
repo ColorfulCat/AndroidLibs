@@ -441,6 +441,13 @@ MD 风格的登录、注册界面布局
 
 ---
 
+**MaterialLogin**: https://github.com/fanrunqi/MaterialLogin
+
+Amazing Material Login effect
+
+<img src="https://raw.githubusercontent.com/fanrunqi/MaterialLogin/master/screenshots/this.gif" width="320" />
+---
+
 **MaterialLogin**: https://github.com/shem8/MaterialLogin
 
 Login view with material design
