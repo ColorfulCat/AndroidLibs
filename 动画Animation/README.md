@@ -70,6 +70,14 @@ Progress view that animates its state changes
 
 ---
 
+**ExpandableSearchView**: https://github.com/v-b7/ExpandableSearchView
+
+伸缩动画 SearchView
+
+<img src="https://raw.githubusercontent.com/v-b7/ExpandableSearchView/master/demo.gif" width="320" />
+
+---
+
 **JJSearchViewAnim**: https://github.com/android-cjj/JJSearchViewAnim
 
 A cool search view animation library
