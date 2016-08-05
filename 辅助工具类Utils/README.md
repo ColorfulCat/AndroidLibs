@@ -18,6 +18,12 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
+**AutoGo**: https://github.com/TellH/AutoGo
+
+Ease your code, easy go
+
+---
+
 **AndroidMiscUtils**: https://github.com/nillith/AndroidMiscUtils
 
 Android Utils for context and thread
