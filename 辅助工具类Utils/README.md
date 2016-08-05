@@ -18,6 +18,14 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
+**LayoutFormatter**: https://github.com/drakeet/LayoutFormatter
+
+安卓布局格式化
+
+<img src="https://camo.githubusercontent.com/72bcb530f4ba53173de534350e61d8b410bfaa12/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f3836653266663835677731663274326434307765346a32316765306d35677a312e6a7067" width="800"/>
+
+---
+
 **CopyExternalDB**: https://github.com/emrekose26/CopyExternalDB
 
 数据库复制
