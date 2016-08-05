@@ -18,6 +18,12 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
+**CopyExternalDB**: https://github.com/emrekose26/CopyExternalDB
+
+数据库复制
+
+---
+
 **AutoGo**: https://github.com/TellH/AutoGo
 
 Ease your code, easy go
