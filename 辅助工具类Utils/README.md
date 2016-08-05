@@ -18,6 +18,12 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
+**AutoVersion**: https://github.com/nillith/AutoVersion
+
+根据 commit 数自动生成版本号
+
+---
+
 **UniPinyin**: https://github.com/nillith/UniPinyin
 
 Java 汉语拼音查询工具。支持CJK基本字符集及扩充区A的中文汉字，共26679个，其中多音字6769个。
