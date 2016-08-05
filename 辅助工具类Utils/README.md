@@ -793,6 +793,12 @@ Helper to generate Javadocs within a Gradle Android library
 
 ---
 
+**PrivilegedTask**: https://github.com/nillith/PrivilegedTask
+
+An android runtime permissions utility simplifies the requesting and decoupling tasks from Activity and Fragment
+
+---
+
 **PermissionUtils**: https://github.com/rebus007/PermissionUtils
 
 Check marshmallow permission easily https://rebus007.github.io/PermissionUtils/
