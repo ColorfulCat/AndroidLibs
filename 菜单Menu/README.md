@@ -6,6 +6,14 @@
 
 ---
 
+**FloatingActionMenuAndroid**: https://github.com/pmahsky/FloatingActionMenuAndroid
+
+FloatingActionMenuAndroid
+
+<img src="https://raw.githubusercontent.com/pmahsky/FloatingActionMenuAndroid/master/Screenshot/screenshot_roboto.png" width="320"/> <img src="https://raw.githubusercontent.com/pmahsky/FloatingActionMenuAndroid/master/Screenshot/demo_gif.gif" width="320"/>
+
+---
+
 **QuickMenu**: https://github.com/ImangazalievM/QuickMenu
 
 Small library for creating menus with fast settings
