@@ -126,6 +126,14 @@ A Layoutmanager that must be used with RecyclerView. When list is scrolled views
 
 ---
 
+**ThumbUp**: https://github.com/ldoublem/ThumbUp
+
+超炫的点赞效果
+
+<img src="https://raw.githubusercontent.com/ldoublem/ThumbUp/master/screenShot/shot.gif" width="320" />
+
+---
+
 **LikesLayout**: https://github.com/Iojjj/LikesLayout
 
 Periscope 的点赞效果
