@@ -615,6 +615,14 @@ Gradle plugin to optimize png files and reduce resultant apk size within an Andr
 
 ---
 
+**VidEffects**: https://github.com/krazykira/VidEffects
+
+实时视频滤镜
+
+<img src="https://cloud.githubusercontent.com/assets/2201511/9244232/ded8b760-41b2-11e5-9e4b-54d7c0b9cfca.png" width="400" /> <img src="https://cloud.githubusercontent.com/assets/2201511/9244236/ea09d344-41b2-11e5-9e71-f04601fd61e9.png" width="400" />
+
+---
+
 **VCL-Android**: https://github.com/hanhailong/VCL-Android
 
 编译好的VCL-Android版本，打了四种架构的so包，armeabi-v7a、armeabi、x86、mips
