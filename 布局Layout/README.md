@@ -472,11 +472,19 @@ Android流式布局，支持点击、单选、多选等，适合用于产品标�
 
 ---
 
-**TagView**: https://github.com/Cutta/TagView
+**Android-Cloud-TagView-Plus**: https://github.com/kaedea/Android-Cloud-TagView-Plus
 
-Android TagView-HashTagView
+An Android Cloud Tag Widget
 
-<img src="https://camo.githubusercontent.com/397c91d68dc6e496f194391481fa3a4408bb83f1/687474703a2f2f7331312e706f7374696d672e6f72672f727279376c773837372f53637265656e73686f745f323031355f30395f32395f32315f31375f35332e706e67" width="320" /> <img src="https://camo.githubusercontent.com/6bf012e1526dd04ccf9f8a71083f1d52c44250d3/687474703a2f2f692e67697068792e636f6d2f336f456475466c7332744177724f414c7a472e676966" width="320" />
+<img src="https://camo.githubusercontent.com/c89ab52cbc45a4929dafaff12e7d8d06b02eaa7b/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f4e332d72365a5f463055753368543546733448347930534e5735706a615575424d7533714c5a7350676f513d73363030" width="320" />
+
+---
+
+**FlowLayout**: https://github.com/fanrunqi/FlowLayout
+
+label quick input layout
+
+<img src="https://raw.githubusercontent.com/fanrunqi/FlowLayout/master/screenshots/1.gif" width="320" />
 
 ---
 
