@@ -26,6 +26,12 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
+**gradle-tips**: https://github.com/shekhargulati/gradle-tips
+
+Gradle tips for all of us
+
+---
+
 **CopyExternalDB**: https://github.com/emrekose26/CopyExternalDB
 
 数据库复制
