@@ -26,6 +26,12 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
+**findbugs-android**: https://github.com/ChaitanyaPramod/findbugs-android
+
+Gradle plugin that creates FindBugs reports for android projects
+
+---
+
 **assert-rx**: https://github.com/peter-tackage/assert-rx
 
 Fluent assertions for RxJava's TestSubscriber
