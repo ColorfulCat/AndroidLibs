@@ -6,6 +6,14 @@
 
 ---
 
+**ExpandableRecyclerview-Databinding**: https://github.com/zaihuishou/ExpandableRecyclerview-Databinding
+
+ExpandableRecyclerview Databinding implemention
+
+<img src="https://raw.githubusercontent.com/zaihuishou/ExpandableRecyclerview-Databinding/master/Screenshots.gif" width="320" />
+
+---
+
 **MultiType**: https://github.com/drakeet/MultiType
 
 一个列表显示多个不同条目
