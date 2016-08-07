@@ -6,6 +6,12 @@
 
 ---
 
+**Perfecto**: https://github.com/developer-shivam/Perfecto
+
+Http Connection calls made easy
+
+---
+
 **Curl-Logger-interceptor**: https://github.com/grapesnberries/Curl-Logger-interceptor
 
 Library for logging your Retrofit requests as cURL in logcat
