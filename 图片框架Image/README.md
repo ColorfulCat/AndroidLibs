@@ -6,6 +6,14 @@
 
 ---
 
+**pearl**: https://github.com/hanuor/pearl
+
+图片加载、缓存
+
+<img src = "https://camo.githubusercontent.com/347a65e24e8e2e72538af5a675eb149a82f81c0b/68747470733a2f2f7333322e706f7374696d672e6f72672f37696a7732306135682f53637265656e73686f745f323031365f30385f30365f31335f34315f32345f3138325f6e6578757336705f706f7274722e706e67" width = "320"/>
+
+---
+
 **ImagePicker**: https://github.com/jeasonlzy0216/ImagePicker
 
 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数
