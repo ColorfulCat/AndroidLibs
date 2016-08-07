@@ -26,6 +26,12 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
+**assert-rx**: https://github.com/peter-tackage/assert-rx
+
+Fluent assertions for RxJava's TestSubscriber
+
+---
+
 **gradle-tips**: https://github.com/shekhargulati/gradle-tips
 
 Gradle tips for all of us
