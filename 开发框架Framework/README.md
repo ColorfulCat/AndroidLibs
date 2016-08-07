@@ -6,6 +6,12 @@
 
 ---
 
+**test-butler**: https://github.com/linkedin/test-butler
+
+Reliable Android Testing, at your service
+
+---
+
 **Scoper**: https://github.com/bgogetap/Scoper
 
 Lightweight Dagger 2 scoped component management library
