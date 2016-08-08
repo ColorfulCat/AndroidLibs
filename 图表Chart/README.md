@@ -6,6 +6,14 @@
 
 ---
 
+**AndroidDevCoder**: https://github.com/AllenCoder/AndroidDevCoder
+
+linechart 为指数基金走势图表可根据当前走势绘制出想要的图表
+
+<img src="https://raw.githubusercontent.com/AllenCoder/AndroidDevCoder/master/gif/linechart.gif" width="320" />
+
+---
+
 **plain-pie**: https://github.com/zurche/plain-pie
 
 简单可自定义饼状图
