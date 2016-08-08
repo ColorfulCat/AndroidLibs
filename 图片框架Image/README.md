@@ -6,6 +6,14 @@
 
 ---
 
+**JikeGallery**: https://github.com/JeasonWong/JikeGallery
+
+仿即刻首页图片垂直滚动效果
+
+<img src = "https://camo.githubusercontent.com/1706924e07392c8d2c326ff1eb479cd5311bd238/687474703a2f2f69342e7069696d672e636f6d2f313037302f613433343434313832663637376231642e676966" width = "360"/>
+
+---
+
 **onyx**: https://github.com/hanuor/onyx
 
 人工智能、机器学习、深度学习合体的图片资源识别库
