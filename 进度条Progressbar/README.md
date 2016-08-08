@@ -6,6 +6,14 @@
 
 ---
 
+**WaveProgressView**: https://github.com/fanrunqi/WaveProgressView
+
+most powerful wave load view
+
+<img src="https://raw.githubusercontent.com/fanrunqi/WaveProgressView/master/screenshots/WaveProgressView.gif" width="270" />
+
+---
+
 **crystal-range-seekbar**: https://github.com/syedowaisali/crystal-range-seekbar
 
 Crystal Range Seekbar
@@ -83,16 +91,10 @@ Android widget for selecting a range of values.
 
 多种进度条，车速，气压，百分比等
 
-<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/2.jpg" height="100px" />
-<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/3.jpg" height="100px" />
-<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/4.jpg" height="100px" />
-<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/5.jpg" height="100px" />
-<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/11.jpg" height="100px" />
-<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/6.jpg" height="100px" />
-<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/7.jpg" height="100px" />
-<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/8.jpg" height="100px" />
-<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/9.jpg" height="100px" />
-<img src="https://github.com/Paroca72/sc-widgets/blob/master/raw/scgauge/10.jpg" height="100px" />
+<img src="https://raw.githubusercontent.com/Paroca72/sc-widgets/master/raw/sc-arcgauge/f-01.jpg" height="160px" />
+<img src="https://raw.githubusercontent.com/Paroca72/sc-widgets/master/raw/sc-arcgauge/i-02.jpg" height="160px" />
+<img src="https://raw.githubusercontent.com/Paroca72/sc-widgets/master/raw/sc-arcgauge/i-04.jpg" height="160px" />
+<img src="https://raw.githubusercontent.com/Paroca72/sc-widgets/master/raw/sc-arcgauge/n-05.jpg" height="160px" />
 
 ---
 
@@ -116,7 +118,7 @@ Android Library to implement stacked horizontal progressbar http://nisrulz.githu
 
 An android progress view developed after taking inspiration from Uber app
 
-<img src="https://raw.githubusercontent.com/ishan1604/uberprogressview/master/UberProgressViewDemo.gif" width="300" />
+<img src="https://raw.githubusercontent.com/ishan1604/uberprogressview/master/branding/UberProgressViewDemo.gif" width="300" />
 
 ---
 

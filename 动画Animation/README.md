@@ -91,7 +91,7 @@ A cool search view animation library
 
 Nice loading animations for Android
 
-<img src="https://github.com/81813780/AVLoadingIndicatorView/blob/master/Demo2.gif" width="320" />
+<img src="https://raw.githubusercontent.com/81813780/AVLoadingIndicatorView/master/screenshots/avi.gif" width="320" />
 
 ---
 
@@ -181,8 +181,6 @@ FragmentTransactionExtended is a library which provide us a set of custom animat
 **KenBurnsView**: [https://github.com/flavioarfaria/KenBurnsView](https://github.com/flavioarfaria/KenBurnsView)
 
 Android ImageViews animated by Ken Burns Effect
-
-<img src="https://camo.githubusercontent.com/64d61cde0875bcfb1636821b2a121af56cc0ecca/687474703a2f2f7777772e70696374757265736861636b2e75732f696d616765732f31353532365f4b656e4275726e73566965772e676966" width="320" />
 
 ---
  
