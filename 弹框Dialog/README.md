@@ -6,6 +6,14 @@
 
 ---
 
+**FloatViewFinal**: https://github.com/pengjianbo/FloatViewFinal
+
+泡椒网游戏 SDK Float View(悬浮窗)
+
+<img src="https://raw.githubusercontent.com/pengjianbo/FloatViewFinal/master/images/screenshot0.png" width="320" />
+
+---
+
 **TastyToast**: https://github.com/yadav-rahul/TastyToast
 
 Make your native android Toasts Tasty
