@@ -6,6 +6,14 @@
 
 ---
 
+**FlipCards**: https://github.com/zhangke3016/FlipCards
+
+利用Camera和Matrix实现有趣的卡片效果
+
+<img src="https://github.com/zhangke3016/FlipCards/raw/master/gif/screen.gif" width="320" />
+
+---
+
 **Parallax-Layer-Layout**: https://github.com/SchibstedSpain/Parallax-Layer-Layout
 
 视图分层视差效果
