@@ -18,6 +18,14 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
+**AndroidAudioRecorder**: https://github.com/adrielcafe/AndroidAudioRecorder
+
+安卓音频录制库
+
+<img src="https://raw.githubusercontent.com/adrielcafe/AndroidAudioRecorder/master/screenshots.png" width="800"/>
+
+---
+
 **Endoscope**: https://github.com/hypeapps/Endoscope
 
 Endoscope - RTSP live video streamer for android devices via Wi-Fi
