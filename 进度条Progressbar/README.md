@@ -6,6 +6,14 @@
 
 ---
 
+**RangeBarVertical**: https://github.com/ITheBK/RangeBarVertical
+
+Android rangebar(seekbar) vertical having two thumbs
+
+<img src="https://camo.githubusercontent.com/0cca6d4fb7d3ba18f2c8a53d0cf794441662bfe1/687474703a2f2f6f70616c6f782e636f6d2f6c6962726172792f72616e6765626172766572746963616c2e706e67" width="270" />
+
+---
+
 **WaveProgressView**: https://github.com/fanrunqi/WaveProgressView
 
 most powerful wave load view
