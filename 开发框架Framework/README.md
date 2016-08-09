@@ -72,6 +72,12 @@ Android Design 设计模板
 
 ---
 
+**AndroidMvc**：https://github.com/kejunxia/AndroidMvc
+
+Android MVC/MVP/MVVM framework http://kejunxia.github.io/AndroidMvc
+
+---
+
 **DroidMVP**：https://github.com/andrzejchm/DroidMVP
 
 安卓 MVP 开发框架
