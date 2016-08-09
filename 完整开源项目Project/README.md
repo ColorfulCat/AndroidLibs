@@ -6,6 +6,14 @@
 
 ---
 
+**visual-goodies**: https://github.com/alexive/visual-goodies
+
+一些界面好看的库，包括 List， Dialog, Card 等
+
+<img src="https://raw.githubusercontent.com/alexive/visual-goodies/master/images/sample1.gif" width="320" /> <img src="https://raw.githubusercontent.com/alexive/visual-goodies/master/images/sample4.png" width="320" />
+
+---
+
 **SimpleRT**: https://github.com/vvviperrr/SimpleRT
 
 可以将Linux 和 OSX 系统网络通过 USB 分享给 Android 系统

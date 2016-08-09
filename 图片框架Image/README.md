@@ -104,6 +104,20 @@ Android 色彩渐进 ImageView
 
 ---
 
+**CameraFilter**: https://github.com/WeLikeVis/CameraFilter
+
+安卓滤镜集合
+
+---
+
+**AndroidPhotoFilters**: https://github.com/Zomato/AndroidPhotoFilters
+
+图片滤镜
+
+<img src="https://raw.githubusercontent.com/Zomato/AndroidPhotoFilters/master/art/photofilters.gif" width="320" />
+
+---
+
 **photofilter**: https://github.com/mukeshsolanki/photofilter
 
 滤镜
@@ -169,14 +183,6 @@ Tool for create complex morphing animations using VectorDrawables (allows morphi
 Animated SVG Drawing for Android
 
 <img src="https://raw.githubusercontent.com/jaredrummler/AnimatedSvgView/master/demo/demo.gif" width="320" />
-
----
-
-**AndroidPhotoFilters**: https://github.com/Zomato/AndroidPhotoFilters
-
-图片滤镜
-
-<img src="https://raw.githubusercontent.com/Zomato/AndroidPhotoFilters/master/art/photofilters.gif" width="320" />
 
 ---
 
