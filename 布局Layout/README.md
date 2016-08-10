@@ -578,6 +578,14 @@ Expand your view with no problem
 
 ---
 
+**GuideView**: https://github.com/eoinfogarty/Onboarding
+
+A beautiful way to introduce users to your app
+
+<img src="https://github.com/eoinfogarty/Onboarding/raw/master/graphics/example.gif" width="640" />
+
+---
+
 **GuideView**: https://github.com/binIoter/GuideView
 
 安卓引导 View
