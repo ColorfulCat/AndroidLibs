@@ -5,6 +5,14 @@
 
 ---
 
+**StickerView**: https://github.com/wuapnjie/StickerView
+
+A view which can add sticker and zoom,drag,delete it
+
+<img src="https://raw.githubusercontent.com/wuapnjie/StickerView/master/screenshots/stickerview.gif" width="240" />
+
+---
+
 **ShrinkingImageLayout**: https://github.com/PierfrancescoSoffritti/ShrinkingImageLayout
 
 Android layout with an header image sensible to scroll and touch events
