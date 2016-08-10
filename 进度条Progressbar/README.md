@@ -6,6 +6,14 @@
 
 ---
 
+**BreathingProgressDemo**: https://github.com/webianks/BreathingProgressDemo
+
+Here comes a nice little breathing progress which you can show in your Android apps
+
+<img src="https://camo.githubusercontent.com/1d07a82e78ac51d923431b757b215fa7319e2178/687474703a2f2f77656269616e6b732e636f6d2f627265617468696e675f70726f67726573732f62726561746865722e676966" width="270" />
+
+---
+
 **RangeBarVertical**: https://github.com/ITheBK/RangeBarVertical
 
 Android rangebar(seekbar) vertical having two thumbs
@@ -19,6 +27,14 @@ Android rangebar(seekbar) vertical having two thumbs
 most powerful wave load view
 
 <img src="https://raw.githubusercontent.com/fanrunqi/WaveProgressView/master/screenshots/WaveProgressView.gif" width="270" />
+
+---
+
+**PodSLider**: https://github.com/bhargavms/PodSLider
+
+A UI widget slider for android
+
+<img src="https://raw.githubusercontent.com/bhargavms/PodSLider/master/assets/gifs/ezgif.com-gif-maker.gif" width="600" />
 
 ---
 

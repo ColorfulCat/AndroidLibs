@@ -83,14 +83,6 @@ An extended ViewPager which provides callbacks for the visibility state of its F
 
 ---
 
-**MarkdownView**: https://github.com/fiskurgit/MarkdownView
-
-Display Markdown in your apps, useful for FAQs, Help, Size Guides, About screens etc
-
-<img src="https://raw.githubusercontent.com/fiskurgit/MarkdownView/master/Screenshot.png" width="800" />
-
----
-
 **A-MusicView**: https://github.com/north2014/A-MusicView
 
 原创自定义控件之-Canvas实时绘制音乐波形图

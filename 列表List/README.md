@@ -127,6 +127,14 @@ Overscroll bounce effect for Android
 
 ---
 
+**CircleRefreshLayout**: https://github.com/tuesda/CircleRefreshLayout
+
+a custom pull-to-refresh layout which contains a interesting animation
+
+<img src="https://github.com/tuesda/CircleRefreshLayout/blob/master/gif/circlerefresh.gif" width="320" />
+
+---
+
 **SnappySmoothScroller**: https://github.com/nshmura/SnappySmoothScroller
 
 可流畅滚动的 Recyclerview

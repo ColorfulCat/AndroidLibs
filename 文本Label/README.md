@@ -128,6 +128,14 @@ Sometimes, we need to show a label above an ImageView or any other views. Well, 
 
 ---
 
+**MarkdownView**: https://github.com/fiskurgit/MarkdownView
+
+Display Markdown in your apps, useful for FAQs, Help, Size Guides, About screens etc
+
+<img src="https://raw.githubusercontent.com/fiskurgit/MarkdownView/master/Screenshot.png" width="800" />
+
+---
+
 **MarkdownView-Android**: https://github.com/mukeshsolanki/MarkdownView-Android
 
 MarkdownView is an Android webview with the capability of loading Markdown text or file and display it as HTML, it extends Android webview

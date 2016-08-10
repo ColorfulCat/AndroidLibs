@@ -198,14 +198,6 @@ A slider that allows a user to select a value at one of the specified tickmarks
 
 ---
 
-**PodSLider**: https://github.com/bhargavms/PodSLider
-
-A UI widget slider for android
-
-<img src="https://raw.githubusercontent.com/bhargavms/PodSLider/master/assets/gifs/ezgif.com-gif-maker.gif" width="600" />
-
----
-
 **GooView**: https://github.com/smartbetter/GooView
 
 一个Android自定义粘性控件
@@ -329,14 +321,6 @@ Utilize the window background during cold start time to make your app look faste
 Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Preserves visual consistency):
 
 ![Blank cold start](https://github.com/DreaminginCodeZH/MaterialColdStart/blob/master/preview/blank_cold_start.gif)![Material cold start](https://github.com/DreaminginCodeZH/MaterialColdStart/blob/master/preview/material_cold_start.gif)
-
----
-
-**CircleRefreshLayout**: https://github.com/tuesda/CircleRefreshLayout
-
-a custom pull-to-refresh layout which contains a interesting animation
-
-<img src="https://github.com/tuesda/CircleRefreshLayout/blob/master/gif/circlerefresh.gif" width="320" />
 
 ---
 
