@@ -6,6 +6,14 @@
 
 ---
 
+**welcome-coordinator**: https://github.com/txusballesteros/welcome-coordinator
+
+Welcome Coordinator for Android
+
+<img src="https://github.com/txusballesteros/welcome-coordinator/raw/master/assets/welcome_demo.gif" width="320" /> <img src="https://github.com/txusballesteros/welcome-coordinator/raw/master/assets/onboarding_demo.gif" width="320" />
+
+---
+
 **FlipCards**: https://github.com/zhangke3016/FlipCards
 
 利用Camera和Matrix实现有趣的卡片效果
