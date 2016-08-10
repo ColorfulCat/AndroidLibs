@@ -6,6 +6,14 @@
 
 ---
 
+**ScaleRuler**: https://github.com/ZBJDSBJ/ScaleRuler
+
+身高、体重横向滚动刻度尺选择器
+
+<img src="https://raw.githubusercontent.com/ZBJDSBJ/ScaleRuler/master/app/src/main/res/raw/scaleruler5.jpg" width="320" /> <img src="https://raw.githubusercontent.com/ZBJDSBJ/ScaleRuler/master/app/src/main/res/raw/scaleruler2.jpg" width="320" />
+
+---
+
 **RangeBar**: https://github.com/YangShaoXiong/RangeBar
 
 设置文章字体大小时所需要的View控件
