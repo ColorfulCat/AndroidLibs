@@ -18,6 +18,12 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
+**RTMPCHybirdEngine-Android**: https://github.com/AnyRTC/RTMPCHybirdEngine-Android
+
+基于RTMP和RTC混合引擎的在线视频连麦互动直播
+
+---
+
 **AndroidAudioRecorder**: https://github.com/adrielcafe/AndroidAudioRecorder
 
 安卓音频录制库
