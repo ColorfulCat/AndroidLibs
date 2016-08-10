@@ -12,9 +12,9 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
-**commons-lang**: https://github.com/apache/commons-lang
+**strman-java**: https://github.com/shekhargulati/strman-java
 
-Apache Commons Lang, a package of Java utility classes for the classes that are in java.lang's hierarchy, or are considered to be so standard as to justify existence in java.lang.
+A Java 8 string manipulation library. It is inspired by https://github.com/dleitee/strman
 
 ---
 
