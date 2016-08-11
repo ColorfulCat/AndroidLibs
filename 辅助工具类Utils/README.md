@@ -18,6 +18,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**AndroidDecompiler**: https://github.com/dirkvranckaert/AndroidDecompiler
+
+Decompile any APK
+
+---
+
 **apk-decompiler**: https://github.com/dwatling/apk-decompiler
 
 Android APK Decompiler
