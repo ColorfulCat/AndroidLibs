@@ -6,6 +6,14 @@
 
 ---
 
+**LocalWeather**: https://github.com/piotrek1543/LocalWeather
+
+Weather forecast app using Retrofit, Gson, AndroidAnnotations and ActiveAndroid
+
+<img src="https://raw.githubusercontent.com/piotrek1543/LocalWeather/master/screenshots/device-2016-08-09-172447.png" width="320" /> <img src="https://raw.githubusercontent.com/piotrek1543/LocalWeather/master/screenshots/device-2016-08-09-172551.png" width="320" />
+
+---
+
 **visual-goodies**: https://github.com/alexive/visual-goodies
 
 一些界面好看的库，包括 List， Dialog, Card 等
