@@ -78,6 +78,12 @@ Android MVC/MVP/MVVM framework http://kejunxia.github.io/AndroidMvc
 
 ---
 
+**RainbowMVP**：https://github.com/Ne1c/RainbowMVP
+
+Lightweight Android MVP library with easy implementation
+
+---
+
 **DroidMVP**：https://github.com/andrzejchm/DroidMVP
 
 安卓 MVP 开发框架
