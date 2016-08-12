@@ -6,6 +6,14 @@
 
 ---
 
+**android-adDialog**: https://github.com/yipianfengye/android-adDialog
+
+一个简单，强大的广告活动弹窗控件
+
+<img src="https://raw.githubusercontent.com/yipianfengye/android-adDialog/master/images/ezgif.com-video-to-gif1.gif" width="320" />
+
+---
+
 **FloatViewFinal**: https://github.com/pengjianbo/FloatViewFinal
 
 泡椒网游戏 SDK Float View(悬浮窗)
