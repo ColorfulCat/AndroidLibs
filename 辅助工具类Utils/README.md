@@ -865,6 +865,12 @@ Helper to generate Javadocs within a Gradle Android library
 
 ---
 
+**HeiPermission**: https://github.com/forJrking/HeiPermission
+
+一句代码搞定 Android M 动态权限检测
+
+---
+
 **PrivilegedTask**: https://github.com/nillith/PrivilegedTask
 
 An android runtime permissions utility simplifies the requesting and decoupling tasks from Activity and Fragment
