@@ -5,6 +5,14 @@
 
 ---
 
+**BlurredView**: https://github.com/wl9739/BlurredView
+
+动态模糊效果
+
+<img src="https://raw.githubusercontent.com/wl9739/BlurredView/master/Gif/demo.gif" width="230" />
+
+---
+
 **ScrollableLayout**: https://github.com/w446108264/ScrollableLayout
 
 headview for any view and supports sticking the navigator on the top
