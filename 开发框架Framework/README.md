@@ -1,8 +1,14 @@
 # AndroidLibs == 开发框架 Framework
 
-包含：各种快速开发框架、测试框架、系统框架、设计模式框架、主题切换框架……
+包含：各种快速开发框架、测试框架、系统框架、插件补丁框架、设计模式框架、主题切换框架……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
+
+---
+
+**ZeusPlugin**: https://github.com/iReaderAndroid/ZeusPlugin
+
+Android下插件补丁的开发框架
 
 ---
 
