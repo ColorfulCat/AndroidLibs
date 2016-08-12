@@ -6,6 +6,14 @@
 
 ---
 
+**GoogleMapsRippleEffect**: https://github.com/aarsy/GoogleMapsRippleEffect
+
+GoogleMapsRippleEffect
+
+<img src="https://raw.githubusercontent.com/aarsy/GoogleMapsRippleEffect/master/gifs/Sample2.gif" width="320" /> <img src="https://raw.githubusercontent.com/aarsy/GoogleMapsRippleEffect/master/gifs/Sample1.gif" width="320" />
+
+---
+
 **welcome-coordinator**: https://github.com/txusballesteros/welcome-coordinator
 
 Welcome Coordinator for Android
