@@ -6,6 +6,14 @@
 
 ---
 
+**Chateau**: https://github.com/badoo/Chateau
+
+Chateau is a framework for adding (or improving) chat functionality in any Android app
+
+<img src="https://raw.githubusercontent.com/badoo/Chateau/master/doc/conversations-screenshot.png" width="320"/> <img src="https://raw.githubusercontent.com/badoo/Chateau/master/doc/chat-screenshot.png" width="320"/>
+
+---
+
 **ZeusPlugin**: https://github.com/iReaderAndroid/ZeusPlugin
 
 Android下插件补丁的开发框架
