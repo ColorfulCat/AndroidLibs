@@ -18,6 +18,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**Tabbels**: https://github.com/FireZenk/Tabbels
+
+A crazy idea about bringing functional programming to Java, in an elegant way
+
+---
+
 **android-selfsigned**: https://github.com/onehilltech/android-selfsigned
 
 A simple library for supporting self-signed certificates in Android
