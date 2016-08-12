@@ -380,9 +380,17 @@ A view that allows to paint and saves the result as a bitmap.[http://panavtec.me
 
 ---
 
+**android-passcodeview**: https://github.com/Arjun-sna/android-passcodeview
+
+A custom view with keyboard and character display to be used for authentication
+
+<img src="https://camo.githubusercontent.com/e8de865b924b69792eae1052537f94c47f59a3a2/68747470733a2f2f61726a756e2d736e612e6769746875622e696f2f7261772f70617373636f6465766965775f312e676966" width="320" />
+
+---
+
 **LolliPin**: [https://github.com/OrangeGangsters/LolliPin](https://github.com/OrangeGangsters/LolliPin)
 
-A Material design Android pincode library. Supports Fingerprint.
+A Material design Android pincode library. Supports Fingerprint
 
 <img src="https://github.com/OrangeGangsters/LolliPin/blob/master/app/src/main/res/raw/github_gif.gif" width="320" />
 <img src="https://github.com/OrangeGangsters/LolliPin/blob/master/app/src/main/res/raw/github_gif2.gif" width="320" />
