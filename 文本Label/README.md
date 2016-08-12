@@ -18,6 +18,14 @@
 
 ---
 
+**EmojiEverywhere**: https://github.com/chathudan/EmojiEverywhere
+
+Emoji in TextView, EditText for Android (like Android KitKat Emoji Keyboard)
+
+<img src="https://raw.githubusercontent.com/chathudan/EmojiEverywhere/master/EmojiEverywhereAndroid.png" width="320" />
+
+---
+
 **Emojix**: https://github.com/nekocode/Emojix
 
 One line of code to implement emoji to your whole android application
