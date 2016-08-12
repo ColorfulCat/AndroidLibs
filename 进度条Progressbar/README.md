@@ -111,14 +111,22 @@ Android widget for selecting a range of values.
 
 ---
 
+**PanelView**: https://github.com/githubwing/PanelView
+
+android PanelView DashBoard 仪表盘 汽车仪表盘 气压仪表盘
+
+<img src="https://raw.githubusercontent.com/githubwing/PanelView/master/perview.gif" width="320" />
+
+---
+
 **sc-widgets**: https://github.com/Paroca72/sc-widgets
 
 多种进度条，车速，气压，百分比等
 
-<img src="https://raw.githubusercontent.com/Paroca72/sc-widgets/master/raw/sc-arcgauge/f-01.jpg" height="160px" />
-<img src="https://raw.githubusercontent.com/Paroca72/sc-widgets/master/raw/sc-arcgauge/i-02.jpg" height="160px" />
-<img src="https://raw.githubusercontent.com/Paroca72/sc-widgets/master/raw/sc-arcgauge/i-04.jpg" height="160px" />
-<img src="https://raw.githubusercontent.com/Paroca72/sc-widgets/master/raw/sc-arcgauge/n-05.jpg" height="160px" />
+<img src="https://raw.githubusercontent.com/Paroca72/sc-widgets/master/raw/sc-arcgauge/f-01.jpg" width="160px" />
+<img src="https://raw.githubusercontent.com/Paroca72/sc-widgets/master/raw/sc-arcgauge/i-02.jpg" width="160px" />
+<img src="https://raw.githubusercontent.com/Paroca72/sc-widgets/master/raw/sc-arcgauge/i-04.jpg" width="160px" />
+<img src="https://raw.githubusercontent.com/Paroca72/sc-widgets/master/raw/sc-arcgauge/n-05.jpg" width="160px" />
 
 ---
 
