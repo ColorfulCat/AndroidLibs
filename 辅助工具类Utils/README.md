@@ -18,6 +18,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**android-selfsigned**: https://github.com/onehilltech/android-selfsigned
+
+A simple library for supporting self-signed certificates in Android
+
+---
+
 **AndroidDecompiler**: https://github.com/dirkvranckaert/AndroidDecompiler
 
 Decompile any APK
