@@ -6,6 +6,14 @@
 
 ---
 
+**PopupBubble**: https://github.com/webianks/PopupBubble
+
+Easily add and customise "New Post" popup button with the feeds (RecyclerView) of your app
+
+<img src="https://camo.githubusercontent.com/3f8912b907378a5227100a1c6d2868d641a826c6/687474703a2f2f7777772e77656269616e6b732e636f6d2f706f707570627562626c652f322e706e67" width="320" /> <img src="https://camo.githubusercontent.com/9374a2962d3bd61817569fc8483b651d2fbcd1b0/687474703a2f2f7777772e77656269616e6b732e636f6d2f706f707570627562626c652f332e706e67" width="320" />
+
+---
+
 **ExpandableRecyclerview-Databinding**: https://github.com/zaihuishou/ExpandableRecyclerview-Databinding
 
 ExpandableRecyclerview Databinding implemention
