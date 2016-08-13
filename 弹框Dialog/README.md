@@ -6,6 +6,14 @@
 
 ---
 
+**Floating-Navigation-View**: https://github.com/andremion/Floating-Navigation-View
+
+A simple Floating Action Button that shows an anchored Navigation View
+
+<img src="https://raw.githubusercontent.com/andremion/Floating-Navigation-View/master/art/sample.gif" width="270" />
+
+---
+
 **android-adDialog**: https://github.com/yipianfengye/android-adDialog
 
 一个简单，强大的广告活动弹窗控件
