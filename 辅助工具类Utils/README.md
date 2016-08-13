@@ -18,6 +18,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**decorator**: https://github.com/eyeem/decorator
+
+Dynamic inheritance library
+
+---
+
 **Tabbels**: https://github.com/FireZenk/Tabbels
 
 A crazy idea about bringing functional programming to Java, in an elegant way
