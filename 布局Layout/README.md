@@ -5,6 +5,14 @@
 
 ---
 
+**crystal-viewpager**: https://github.com/syedowaisali/crystal-viewpager
+
+An extended transition of android ViewPager
+
+<img src="https://camo.githubusercontent.com/4aaf7c3d2e00c1a0157886bf1863014827b9113c/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3042396244454e7949414254365a6b497a5747394961315a66595545" width="200" />
+
+---
+
 **BlurredView**: https://github.com/wl9739/BlurredView
 
 动态模糊效果
