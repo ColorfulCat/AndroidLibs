@@ -6,6 +6,14 @@
 
 ---
 
+**animate**: https://github.com/hitherejoe/animate
+
+多种动画效果
+
+<img src="https://raw.githubusercontent.com/hitherejoe/animate/master/images/object_animator.gif" width="270" /> <img src="https://raw.githubusercontent.com/hitherejoe/animate/master/images/circular_reveal.gif" width="270" /> <img src="https://raw.githubusercontent.com/hitherejoe/animate/master/images/explode_window_transition.gif" width="270" />
+
+---
+
 **crystal-preloaders**: https://github.com/syedowaisali/crystal-preloaders
 
 多种加载动画效果
