@@ -18,6 +18,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**AnySoftKeyboard**: https://github.com/AnySoftKeyboard/AnySoftKeyboard
+
+Android (f/w 1.5+) on screen keyboard for multiple languages http://anysoftkeyboard.github.io/
+
+---
+
 **decorator**: https://github.com/eyeem/decorator
 
 Dynamic inheritance library
