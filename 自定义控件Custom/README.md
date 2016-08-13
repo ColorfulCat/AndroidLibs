@@ -6,6 +6,14 @@
 
 ---
 
+**Article-Details-Transition-Example**: https://github.com/Jaouan/Article-Details-Transition-Example
+
+It's just an example of material transition
+
+<img src="https://raw.githubusercontent.com/Jaouan/Article-Details-Transition-Example/master/art/popfromtop.gif" width="320" /> <img src="https://raw.githubusercontent.com/Jaouan/Article-Details-Transition-Example/master/art/popfromitem.gif" width="320" />
+
+---
+
 **FlightSeat**: https://github.com/ldoublem/FlightSeat
 
 机票座位选择
