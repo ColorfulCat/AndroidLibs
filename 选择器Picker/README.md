@@ -6,6 +6,14 @@
 
 ---
 
+**FlatTimeCollection**: https://github.com/anastr/FlatTimeCollection
+
+Amazing Dynamic Time UI :clock1030: :hourglass: and More
+
+<img src="https://raw.githubusercontent.com/anastr/FlatTimeCollection/master/images/FlatClockView.gif" width="270" /> <img src="https://raw.githubusercontent.com/anastr/FlatTimeCollection/master/images/CountDownTimerView.gif" width="270" /> <img src="https://raw.githubusercontent.com/anastr/FlatTimeCollection/master/images/HourGlassView.gif" width="140" />
+
+---
+
 **ScaleRuler**: https://github.com/ZBJDSBJ/ScaleRuler
 
 身高、体重横向滚动刻度尺选择器
