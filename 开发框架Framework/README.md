@@ -6,6 +6,12 @@
 
 ---
 
+**easydatabinding**: https://github.com/joxad/easydatabinding
+
+This project goal is to create activity fragment and views, with less code to be more efficient on the view models
+
+---
+
 **Chateau**: https://github.com/badoo/Chateau
 
 Chateau is a framework for adding (or improving) chat functionality in any Android app
