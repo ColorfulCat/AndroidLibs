@@ -135,8 +135,8 @@ An extended ViewPager which provides callbacks for the visibility state of its F
 
 圆形显示或取消显示 View
 
-<img src="https://raw.githubusercontent.com/Jaouan/Revealator/master/art/demo.gif" width="320" />
-
+<img src="https://raw.githubusercontent.com/Jaouan/Revealator/master/art/demo3.gif" width="270" /> <img src="https://raw.githubusercontent.com/Jaouan/Revealator/master/art/demo2.gif" width="270" /> <img src="https://raw.githubusercontent.com/Jaouan/Revealator/master/art/demo1.gif" width="270" />
+ 
 ---
 
 **Badge**: https://github.com/nekocode/Badge
