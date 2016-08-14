@@ -6,6 +6,12 @@
 
 ---
 
+**OkAdapters**: https://github.com/miguelbcr/OkAdapters
+
+Wrappers for Android adapters to simply its api at a minimum
+
+---
+
 **PopupBubble**: https://github.com/webianks/PopupBubble
 
 Easily add and customise "New Post" popup button with the feeds (RecyclerView) of your app
