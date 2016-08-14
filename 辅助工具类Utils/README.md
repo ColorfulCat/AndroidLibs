@@ -18,6 +18,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**router**: https://github.com/eyeem/router
+
+Dynamic in app URL router for Android
+
+---
+
 **RxGpsService**: https://github.com/miguelbcr/RxGpsService
 
 An Android service to retrieve GPS locations and route stats using RxJava
