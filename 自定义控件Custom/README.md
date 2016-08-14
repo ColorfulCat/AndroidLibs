@@ -26,7 +26,7 @@ It's just an example of material transition
 
 轻量安卓反馈库
 
-<img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/1_Maoni_main_activity.png" width="320" /> <img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/2_Maoni_main_activity_with_screenshot_thumbnail.png" width="320" /> <img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/3_Maoni_main_activity_with_screenshot_touch_to_preview.png" width="320" />
+<img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/1_Maoni_main_activity.png" width="270" /> <img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/2_Maoni_main_activity_with_screenshot_thumbnail.png" width="270" /> <img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/3_Maoni_main_activity_with_screenshot_touch_to_preview.png" width="270" />
 
 ---
 
@@ -375,14 +375,6 @@ Bubbles for Android is an Android library to provide chat heads capabilities on 
 A 'Google Fit' like activity indicator for Android
 
 <img src="https://github.com/dlazaro66/WheelIndicatorView/blob/master/art/animated_wheelview.gif?raw=true" width="320" />
-
----
-
-**Android-MonthCalendarWidget**: [https://github.com/romannurik/Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget)
-
-A simple example of a responsive Month Calendar app widget for Android
-
-<img src="https://camo.githubusercontent.com/d5fe492d922b4ff1fb2e050fc33e0d99dc12105f/68747470733a2f2f7261772e6769746875622e636f6d2f726f6d616e6e7572696b2f416e64726f69642d4d6f6e746843616c656e6461725769646765742f6d61737465722f6865726f2e706e67" width="320" />
 
 ---
 
