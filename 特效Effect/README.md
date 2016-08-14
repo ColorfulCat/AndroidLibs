@@ -340,6 +340,14 @@ Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Pre
 
 ---
 
+**android-swipecards-view**: https://github.com/Arjun-sna/android-swipecards-view
+
+Android library for implement cards stack view with swipe to remove feature
+
+<img src="https://camo.githubusercontent.com/173222c3edc0a125dfa0bd2d10262011e6f1eacb/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f73776970656361726464656d6f2e676966" width="320" />
+
+---
+
 **android-card-slide-panel**: https://github.com/xmuSistone/android-card-slide-panel
 
 模仿探探首页卡片左右滑动效果，滑动流畅，卡片view无限重生

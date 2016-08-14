@@ -98,6 +98,14 @@ Chromium 浏览器，Android Studio 版本
 
 ---
 
+**GithubWidget**: https://github.com/Nightonke/GithubWidget
+
+A simple implementation of swipe card like StreetView!!
+
+<img src="https://raw.githubusercontent.com/Nightonke/GithubWidget/master/Pic/color.png" width="640" />
+
+---
+
 **ApolloModMusic**: https://github.com/jp1017/ApolloModMusic
 
 Apollo 音乐播放器，Android Studio 版本

@@ -62,6 +62,81 @@ CalendarListview是一个高度定制的日期选择器，可以满足多选日�
 
 ---
 
+**CustomCalendar**: https://github.com/Riontech/CustomCalendar
+
+CustomCalendar
+
+<img src="https://camo.githubusercontent.com/aae72fc5d6faa2fb66e734c91fd53a6842b19224/687474703a2f2f72696f6e746563682e636f6d2f6c6962726172792f63616c656e6461722f63616c656e6461722e676966" width="320" />
+
+---
+
+**CompactCalendarView**: https://github.com/SundeepK/CompactCalendarView
+
+仿谷歌日历
+
+<img src="https://github.com/SundeepK/CompactCalendarView/raw/master/images/compact_calendar_animation.gif" width="320" />
+
+---
+
+**material-calendarview**: https://github.com/prolificinteractive/material-calendarview
+
+A Material design back port of Android's CalendarView.[https://prolificinteractive.github.io/material-calendarview/](https://prolificinteractive.github.io/material-calendarview/)
+
+<img src="https://github.com/prolificinteractive/material-calendarview/blob/master/images/screencast.gif" width="320" />
+
+---
+
+**Caldroid**: [https://github.com/roomorama/Caldroid](https://github.com/roomorama/Caldroid)
+
+A better calendar for Android
+
+<img src="https://camo.githubusercontent.com/8160f830305493135ea8ae1fbd9e12713d6f0972/68747470733a2f2f7261772e6769746875622e636f6d2f726f6f6d6f72616d612f43616c64726f69642f6d61737465722f73637265656e73686f742f312e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/7ef947cbda3fd00d9b05bdf321499af9f4ec35f0/68747470733a2f2f7261772e6769746875622e636f6d2f726f6f6d6f72616d612f43616c64726f69642f6d61737465722f73637265656e73686f742f6461726b2e706e67" width="320" />
+
+---
+
+**CircleTimerView**: [https://github.com/jiahuanyu/CircleTimerView](https://github.com/jiahuanyu/CircleTimerView)
+
+Circular timer on Android platform.
+
+<img src="https://github.com/jiahuanyu/CircleTimerView/blob/master/images/sample.gif" width="320" />
+<img src="https://github.com/jiahuanyu/CircleTimerView/blob/master/images/sample2.gif" width="320" />
+
+---
+
+**android-times-square**: [https://github.com/square/android-times-square](https://github.com/square/android-times-square)
+
+Standalone Android widget for picking a single date from a calendar view.
+
+<img src="https://github.com/square/android-times-square/blob/master/timesSquareScreenshot.png" width="320" />
+
+---
+
+**Android-Week-View**: [https://github.com/alamkanak/Android-Week-View](https://github.com/alamkanak/Android-Week-View)
+
+Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.
+
+<img src="https://github.com/alamkanak/Android-Week-View/blob/develop/images/screen-shot.png" width="640" />
+
+---
+
+**SilkCal**: [https://github.com/NLMartian/SilkCal](https://github.com/NLMartian/SilkCal)
+
+Android calendar view inspired by Sunrise calendar and iOS7 stock calendar
+
+<img src="https://github.com/NLMartian/SilkCal/raw/master/images/screenshot.gif" width="320" />
+
+---
+
+**CompactCalendarView**: [https://github.com/SundeepK/CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)
+
+An android library which provides a compact calendar view much like the one used in google calenders, following material design.
+
+<img src="https://github.com/SundeepK/CompactCalendarView/blob/master/images/compact-calendar-view-example.png" width="320" />
+<img src="https://github.com/SundeepK/CompactCalendarView/blob/master/images/chinese-locale-daynames.png" width="320" />
+
+---
+
 **NumberPickerView**: https://github.com/Carbs0126/NumberPickerView
 
 another NumberPicker with more flexible attributes on Android platform

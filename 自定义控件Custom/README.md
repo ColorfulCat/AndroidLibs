@@ -30,14 +30,6 @@ It's just an example of material transition
 
 ---
 
-**CustomCalendar**: https://github.com/Riontech/CustomCalendar
-
-CustomCalendar
-
-<img src="https://camo.githubusercontent.com/aae72fc5d6faa2fb66e734c91fd53a6842b19224/687474703a2f2f72696f6e746563682e636f6d2f6c6962726172792f63616c656e6461722f63616c656e6461722e676966" width="320" />
-
----
-
 **FloatingViewService**: https://github.com/hanbaokun/FloatingViewService
 
 MIUI8 悬浮球
@@ -118,14 +110,6 @@ A simple RatingBar for Android
 
 ---
 
-**CircleCheckBox**: https://github.com/arlindiDev/CircleCheckBox
-
-CircleCheckBox is an Android custom view, that simply animates the check
-
-<img src="https://camo.githubusercontent.com/babf6e0390d054a6a694bee1c198c051d7b3e218/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f785430424b75546b6e523539545a45516a432f67697068792e676966" width="320" />
-
----
-
 **MagicaSakura**: https://github.com/Bilibili/MagicaSakura
 
 B 站出品的 Android 主题切换
@@ -155,14 +139,6 @@ showcasing specific features in the app
 首次使用软件时指导用户操作
 
 <img src="https://raw.githubusercontent.com/MajeurAndroid/Android-Cling/master/web_art/device_example.png" width="320" />
-
----
-
-**CompactCalendarView**: https://github.com/SundeepK/CompactCalendarView
-
-仿谷歌日历
-
-<img src="https://github.com/SundeepK/CompactCalendarView/raw/master/images/compact_calendar_animation.gif" width="320" />
 
 ---
 
@@ -205,14 +181,6 @@ HorizontalWheelView
 利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效
 
 <img src="https://camo.githubusercontent.com/dcac7c2c31993d2a7c38dbf4bed192579bc05978/687474703a2f2f646979636f64652e62302e7570616979756e2e636f6d2f70686f746f2f323031362f35356238306334633237306534316534323963343638393733663231356363372e676966" width="270" />
-
----
-
-**GithubWidget**: https://github.com/Nightonke/GithubWidget
-
-A simple implementation of swipe card like StreetView!!
-
-<img src="https://raw.githubusercontent.com/Nightonke/GithubWidget/master/Pic/color.png" width="640" />
 
 ---
 
@@ -333,14 +301,6 @@ A skeleton of google's appcompat android navigation drawer with material design.
 
 ---
 
-**material-calendarview**: https://github.com/prolificinteractive/material-calendarview
-
-A Material design back port of Android's CalendarView.[https://prolificinteractive.github.io/material-calendarview/](https://prolificinteractive.github.io/material-calendarview/)
-
-<img src="https://github.com/prolificinteractive/material-calendarview/blob/master/images/screencast.gif" width="320" />
-
----
-
 **material**: [https://github.com/rey5137/material](https://github.com/rey5137/material)
 
 A library to bring fully animated Material Design components to pre-Lolipop Android.[http://rey5137.com/material/](http://rey5137.com/material/)
@@ -410,15 +370,6 @@ Bubbles for Android is an Android library to provide chat heads capabilities on 
 
 ---
 
-**Caldroid**: [https://github.com/roomorama/Caldroid](https://github.com/roomorama/Caldroid)
-
-A better calendar for Android
-
-<img src="https://camo.githubusercontent.com/8160f830305493135ea8ae1fbd9e12713d6f0972/68747470733a2f2f7261772e6769746875622e636f6d2f726f6f6d6f72616d612f43616c64726f69642f6d61737465722f73637265656e73686f742f312e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/7ef947cbda3fd00d9b05bdf321499af9f4ec35f0/68747470733a2f2f7261772e6769746875622e636f6d2f726f6f6d6f72616d612f43616c64726f69642f6d61737465722f73637265656e73686f742f6461726b2e706e67" width="320" />
-
----
-
 **WheelIndicatorView**: [https://github.com/dlazaro66/WheelIndicatorView](https://github.com/dlazaro66/WheelIndicatorView)
 
 A 'Google Fit' like activity indicator for Android
@@ -427,53 +378,11 @@ A 'Google Fit' like activity indicator for Android
 
 ---
 
-**CircleTimerView**: [https://github.com/jiahuanyu/CircleTimerView](https://github.com/jiahuanyu/CircleTimerView)
-
-Circular timer on Android platform.
-
-<img src="https://github.com/jiahuanyu/CircleTimerView/blob/master/images/sample.gif" width="320" />
-<img src="https://github.com/jiahuanyu/CircleTimerView/blob/master/images/sample2.gif" width="320" />
-
----
-
-**android-times-square**: [https://github.com/square/android-times-square](https://github.com/square/android-times-square)
-
-Standalone Android widget for picking a single date from a calendar view.
-
-<img src="https://github.com/square/android-times-square/blob/master/timesSquareScreenshot.png" width="320" />
-
----
-
 **Android-MonthCalendarWidget**: [https://github.com/romannurik/Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget)
 
 A simple example of a responsive Month Calendar app widget for Android
 
 <img src="https://camo.githubusercontent.com/d5fe492d922b4ff1fb2e050fc33e0d99dc12105f/68747470733a2f2f7261772e6769746875622e636f6d2f726f6d616e6e7572696b2f416e64726f69642d4d6f6e746843616c656e6461725769646765742f6d61737465722f6865726f2e706e67" width="320" />
-
----
-
-**Android-Week-View**: [https://github.com/alamkanak/Android-Week-View](https://github.com/alamkanak/Android-Week-View)
-
-Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.
-
-<img src="https://github.com/alamkanak/Android-Week-View/blob/develop/images/screen-shot.png" width="640" />
-
----
-
-**SilkCal**: [https://github.com/NLMartian/SilkCal](https://github.com/NLMartian/SilkCal)
-
-Android calendar view inspired by Sunrise calendar and iOS7 stock calendar
-
-<img src="https://github.com/NLMartian/SilkCal/raw/master/images/screenshot.gif" width="320" />
-
----
-
-**CompactCalendarView**: [https://github.com/SundeepK/CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)
-
-An android library which provides a compact calendar view much like the one used in google calenders, following material design.
-
-<img src="https://github.com/SundeepK/CompactCalendarView/blob/master/images/compact-calendar-view-example.png" width="320" />
-<img src="https://github.com/SundeepK/CompactCalendarView/blob/master/images/chinese-locale-daynames.png" width="320" />
 
 ---
 
@@ -550,14 +459,6 @@ Simple Visualizer from mic input for Android.
 Custom UI control for android which is showing data as a segments and a value inside them.
 
 <img src="https://camo.githubusercontent.com/9837de76dfa76929b63d3053b5cc2457516b90d5/687474703a2f2f692e696d6775722e636f6d2f4531697654374e2e706e67" width="640" />
-
----
-
-**AnimCheckBox**: https://github.com/lguipeng/AnimCheckBox
-
-Animation CheckBox
-
-<img src="https://github.com/lguipeng/AnimCheckBox/blob/master/art/animcheckbox.gif" width="400" />
 
 ---
 
