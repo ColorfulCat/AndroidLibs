@@ -18,6 +18,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**RxGpsService**: https://github.com/miguelbcr/RxGpsService
+
+An Android service to retrieve GPS locations and route stats using RxJava
+
+---
+
 **AnySoftKeyboard**: https://github.com/AnySoftKeyboard/AnySoftKeyboard
 
 Android (f/w 1.5+) on screen keyboard for multiple languages http://anysoftkeyboard.github.io/
