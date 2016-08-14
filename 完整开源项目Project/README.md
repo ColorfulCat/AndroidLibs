@@ -6,6 +6,12 @@
 
 ---
 
+**simplenote-android**: https://github.com/Automattic/simplenote-android
+
+Simplenote for Android http://simplenote.com
+
+---
+
 **PDFCreator**: https://github.com/scoute-dich/PDFCreator
 
 Android application to create and edit Pdf files

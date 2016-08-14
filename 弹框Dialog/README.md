@@ -168,9 +168,7 @@ This library is a set of simple wrapper classes that are aimed to help you easil
 
 **material-dialogs**: https://github.com/afollestad/material-dialogs
 
-A beautiful dialogs API, enabling you to use Material designed dialogs down to API 8.http://aidanfollestad.com
-
-<img src="https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/mddemoshowcase.png" width="700" />
+多种应用在使用，A beautiful dialogs API, enabling you to use Material designed dialogs down to API 8.http://aidanfollestad.com
 
 ---
 
