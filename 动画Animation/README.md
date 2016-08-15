@@ -6,6 +6,14 @@
 
 ---
 
+**nougat-boot-animation**: https://github.com/ybq/nougat-boot-animation
+
+安卓7.0启动动画
+
+<img src="https://raw.githubusercontent.com/ybq/nougat-boot-animation/master/art/effect.gif" width="320" />
+
+---
+
 **animate**: https://github.com/hitherejoe/animate
 
 多种动画效果
