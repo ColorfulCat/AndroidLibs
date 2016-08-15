@@ -496,6 +496,14 @@ Login view with material design
 
 ---
 
+**android-drag-FlowLayout**: https://github.com/LightSun/android-drag-FlowLayout
+
+this is a draggable flow layout lib
+
+<img src="https://raw.githubusercontent.com/LightSun/android-drag-FlowLayout/master/art/drag_flowlayout.gif" width="320" />
+
+---
+
 **FlowTag**: https://github.com/hanhailong/FlowTag
 
 Android流式布局，支持点击、单选、多选等，适合用于产品标签等
