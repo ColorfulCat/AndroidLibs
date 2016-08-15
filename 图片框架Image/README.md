@@ -110,6 +110,12 @@ Android 色彩渐进 ImageView
 
 ---
 
+**CameraFilter**: https://github.com/nekocode/CameraFilter
+
+Realtime camera filters for Android
+
+---
+
 **CameraFilter**: https://github.com/WeLikeVis/CameraFilter
 
 安卓滤镜集合
