@@ -18,6 +18,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**stag-java**: https://github.com/vimeo/stag-java
+
+Stag improves Gson performance by automatically generating reflection-less TypeAdapters for your model objects
+
+---
+
 **router**: https://github.com/eyeem/router
 
 Dynamic in app URL router for Android
