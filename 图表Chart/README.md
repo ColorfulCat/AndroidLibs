@@ -6,6 +6,14 @@
 
 ---
 
+**Jgraph**: https://github.com/mychoices/Jgraph
+
+图表控件
+
+<img src="https://raw.githubusercontent.com/mychoices/Jgraph/master/gif/101.gif" width="270" /> <img src="https://raw.githubusercontent.com/mychoices/Jgraph/master/gif/6.gif" width="270" /> <img src="https://raw.githubusercontent.com/mychoices/Jgraph/master/gif/2.gif" width="270" />
+
+---
+
 **AndroidDevCoder**: https://github.com/AllenCoder/AndroidDevCoder
 
 linechart 为指数基金走势图表可根据当前走势绘制出想要的图表
