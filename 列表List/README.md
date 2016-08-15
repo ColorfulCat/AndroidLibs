@@ -6,6 +6,12 @@
 
 ---
 
+**AssemblyAdapter**: https://github.com/xiaopansky/AssemblyAdapter
+
+Assembly Adapter Adapter is an extension library on Android, and with it you do not write the Adapter
+
+---
+
 **OkAdapters**: https://github.com/miguelbcr/OkAdapters
 
 Wrappers for Android adapters to simply its api at a minimum
