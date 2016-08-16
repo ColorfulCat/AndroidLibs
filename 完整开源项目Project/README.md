@@ -337,6 +337,14 @@ A third party app for androidweekly.net
 
 ---
 
+**Gank**: https://github.com/JohnnyShieh/Gank
+
+An unofficial client of gank.io, based on Flux pattern and Rx series
+
+<img src="https://raw.githubusercontent.com/JohnnyShieh/Gank/master/screenshots/navigation.jpg" width="270" /><img src="https://raw.githubusercontent.com/JohnnyShieh/Gank/master/screenshots/android.jpg" width="320" />
+
+---
+
 **GankGirl**: https://github.com/gaolonglong/GankGirl
 
 RxJava+Retrofit+Glide构建的gank.io第三方客户端，包含妹子图和技术干货等
