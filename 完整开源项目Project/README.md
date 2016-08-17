@@ -6,6 +6,14 @@
 
 ---
 
+**ifanr**: https://github.com/iCodeForever/ifanr
+
+高仿 爱范儿
+
+<img src="https://raw.githubusercontent.com/afollestad/nock-nock/master/art/showcase.png" width="640" />
+
+---
+
 **simplenote-android**: https://github.com/Automattic/simplenote-android
 
 Simplenote for Android http://simplenote.com

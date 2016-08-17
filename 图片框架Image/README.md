@@ -6,6 +6,22 @@
 
 ---
 
+**PloyFun**: https://github.com/hugeterry/PloyFun
+
+导入图片生成Low Poly风格图片的app
+
+<img src = "https://raw.githubusercontent.com/hugeterry/PloyFun/master/showUI/1.jpg" width = "320"/> <img src = "https://raw.githubusercontent.com/hugeterry/PloyFun/master/showUI/2.jpg" width = "320"/>
+
+---
+
+**onyx**: https://github.com/hanuor/onyx
+
+人工智能、机器学习、深度学习合体的图片资源识别库
+
+<img src = "https://raw.githubusercontent.com/hanuor/onyx/master/anim2.gif" width = "320"/>
+
+---
+
 **WebpifyYourAndroidApp**: https://github.com/AndroidDeveloperLB/WebpifyYourAndroidApp
 
 A small tool to convert your app's png&jpg image files into WebP when possible
