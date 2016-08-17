@@ -42,6 +42,14 @@ ExpandableRecyclerview Databinding implemention
 
 ---
 
+**MultiTypeView**: https://github.com/LuckyJayce/MultiTypeView
+
+简化RecyclerView的多种type的adapter，Fragment可以动态添加到RecyclerView上，实现复杂的界面分多个模块开发
+
+<img src="https://raw.githubusercontent.com/LuckyJayce/MultiTypeView/master/raw/1.png" width="320" />
+
+---
+
 **MultiType**: https://github.com/drakeet/MultiType
 
 一个列表显示多个不同条目
