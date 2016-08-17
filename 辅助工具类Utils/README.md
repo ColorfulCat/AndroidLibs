@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**UsbSerial**: https://github.com/felHR85/UsbSerial
+
+Usb serial controller for Android
+
+---
+
 **router**: https://github.com/eyeem/router
 
 Dynamic in app URL router for Android
