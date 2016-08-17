@@ -6,6 +6,13 @@
 
 ---
 
+**WeChatPswKeyboard**: https://github.com/zuiwuyuan/WeChatPswKeyboard
+
+高仿微信数字键盘、支付键盘（密码键盘）
+
+<img src="https://raw.githubusercontent.com/zuiwuyuan/WeChatPswKeyboard/master/imgs/img.gif" width="320" />
+---
+
 **ActionCardView**: https://github.com/AdamMc331/ActionCardView
 
 Detailed CardView that displays an action title, description, and buttons to initiate that action
