@@ -1,6 +1,6 @@
 # AndroidLibs == 选择器 Picker
 
-包含：时间、地址、颜色选择 ……
+包含：时间、地址、颜色、文件选择 ……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
@@ -182,6 +182,14 @@ a better DropDownMenu solution, 完整的筛选器解决方案
 基于第三方 WheelView 实现的一个时间选择器
 
 <img src="https://raw.githubusercontent.com/chsmy/DateSelecter/master/DateSelecter/117.gif" width="360"/> <img src="https://raw.githubusercontent.com/chsmy/DateSelecter/master/DateSelecter/118.gif" width="360"/> 
+
+---
+
+**Android-FilePicker**: https://github.com/DroidNinja/Android-FilePicker
+
+Photopicker and document picker for android
+
+img src="https://camo.githubusercontent.com/b51eec20abd3cf684fe86f30ddb360590bf69511/687474703a2f2f692e696d6775722e636f6d2f577857754a4b6e2e706e67" width="270"/> img src="https://camo.githubusercontent.com/8b8f68b876211518fc90beb9fa200e585943b35e/687474703a2f2f692e696d6775722e636f6d2f54444942784c592e706e67" width="270"/> img src="https://camo.githubusercontent.com/894c59ad1df8a27e39f3a4e197d4c2820bcb92e3/687474703a2f2f692e696d6775722e636f6d2f48726d554576532e706e67" width="270"/> 
 
 ---
 
