@@ -6,6 +6,14 @@
 
 ---
 
+**SwipeMenuDemo**: https://github.com/Brioal/SwipeMenuDemo
+
+多达288种动画效果定制的侧滑菜单库
+
+<img src="https://raw.githubusercontent.com/Brioal/SwipeMenuDemo/master/art/2.gif" width="200"/> <img src="https://raw.githubusercontent.com/Brioal/SwipeMenuDemo/master/art/6.gif" width="200"/> <img src="https://raw.githubusercontent.com/Brioal/SwipeMenuDemo/master/art/10.gif" width="200"/>
+
+---
+
 **FloatingActionMenuAndroid**: https://github.com/pmahsky/FloatingActionMenuAndroid
 
 FloatingActionMenuAndroid

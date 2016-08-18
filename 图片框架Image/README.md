@@ -36,14 +36,6 @@ A small tool to convert your app's png&jpg image files into WebP when possible
 
 ---
 
-**onyx**: https://github.com/hanuor/onyx
-
-人工智能、机器学习、深度学习合体的图片资源识别库
-
-<img src = "https://raw.githubusercontent.com/hanuor/onyx/master/anim2.gif" width = "320"/>
-
----
-
 **pearl**: https://github.com/hanuor/pearl
 
 图片加载、缓存
