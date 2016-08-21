@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**SugarTask**: https://github.com/mthli/SugarTask
+
+Android lifecycle safety task with sugar code style
+
+---
+
 **fastlane**: https://github.com/fastlane/fastlane
 
 The easiest way to automate building and releasing your iOS and Android apps https://fastlane.tools
