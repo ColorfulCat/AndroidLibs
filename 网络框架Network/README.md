@@ -28,6 +28,12 @@ A lightweight OkHttp interceptor
 
 ---
 
+**Thunder**: https://github.com/qiugang/Thunder
+
+OkHttp with UIThread and lifecycle safety callback
+
+---
+
 **okir**: https://github.com/rafaeltoledo/okir
 
 A helper class that implements both an Espresso IdlingResource and an OkHttp Interceptor
