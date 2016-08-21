@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**AdBlockerDetector**: https://github.com/Swisyn/AdBlockerDetector
+
+This project proposes an open source library that can detect most of ad blockers
+
+---
+
 **SugarTask**: https://github.com/mthli/SugarTask
 
 Android lifecycle safety task with sugar code style
