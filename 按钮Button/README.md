@@ -6,6 +6,14 @@
 
 ---
 
+**ACheckBox**: https://github.com/Bigmercu/ACheckBox
+
+CheckBox for Android with cool animation
+
+<img src="https://camo.githubusercontent.com/165c1c9ccb40d0161002395e154f74e645845ea3/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f6234356635366636677731663675656f6b7a6830376732303761306378646b6c2e676966" width="260" />
+
+---
+
 **AnimCheckBox**: https://github.com/lguipeng/AnimCheckBox
 
 Animation CheckBox
