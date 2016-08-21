@@ -6,6 +6,14 @@
 
 ---
 
+**SignUpTransition**: https://github.com/JeasonWong/SignUpTransition
+
+炫酷的注册登录动画
+
+<img src="https://raw.githubusercontent.com/jeasonwong/signuptransition/master/screenshots/scene.gif" width="300" />
+
+---
+
 **SlackLoadingView**: https://github.com/JeasonWong/SlackLoadingView
 
 Slack的Loading动画
