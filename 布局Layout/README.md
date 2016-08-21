@@ -5,6 +5,14 @@
 
 ---
 
+**android-pulse-indicator**: https://github.com/jackpocket/android-pulse-indicator
+
+An Android View system for indicating Views using fading pulses
+
+<img src="https://raw.githubusercontent.com/jackpocket/android-pulse-indicator/master/pulse.gif" width="310" />
+
+---
+
 **android-contextual-action-bar**: https://github.com/Arjun-sna/android-contextual-action-bar
 
 A contextual actionbar library with many customisation option
