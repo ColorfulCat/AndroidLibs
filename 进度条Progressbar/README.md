@@ -6,6 +6,14 @@
 
 ---
 
+**SpecialProgressBar**: https://github.com/zhangke3016/SpecialProgressBar
+
+A Special Progress Bar for Android
+
+<img src="https://raw.githubusercontent.com/zhangke3016/SpecialProgressBar/master/gif/screen.png" width="270" /> <img src="https://raw.githubusercontent.com/zhangke3016/SpecialProgressBar/master/gif/screen2.gif" width="270" /> <img src="https://raw.githubusercontent.com/zhangke3016/SpecialProgressBar/master/gif/screen1.gif" width="270" />
+
+---
+
 **BreathingProgressDemo**: https://github.com/webianks/BreathingProgressDemo
 
 Here comes a nice little breathing progress which you can show in your Android apps
