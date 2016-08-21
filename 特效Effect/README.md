@@ -6,6 +6,14 @@
 
 ---
 
+**ShapeRipple**: https://github.com/poldz123/ShapeRipple
+
+多种形状波纹特效
+
+<img src="https://camo.githubusercontent.com/e9ee670a477ec2d0444664cf1d505b0521593fb2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31346a6865724449314b325977772f67697068792e676966" width="270" />
+
+---
+
 **GoogleMapsRippleEffect**: https://github.com/aarsy/GoogleMapsRippleEffect
 
 GoogleMapsRippleEffect
