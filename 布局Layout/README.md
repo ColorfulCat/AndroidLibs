@@ -896,6 +896,14 @@ The TileView widget is a subclass of android.view.ViewGroup that asynchronously 
 
 ---
 
+**TutoShowcase**: https://github.com/florent37/TutoShowcase
+
+A simple and Elegant Showcase view for Android
+
+<img src="https://raw.githubusercontent.com/florent37/TutoShowcase/master/media/sample.png" width="320" />
+
+---
+
 **ShowcaseView**: [https://github.com/amlcurran/ShowcaseView](https://github.com/amlcurran/ShowcaseView)
 
 Highlight the best bits of your app to users quickly, simply, and cool...ly.
