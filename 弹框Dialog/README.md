@@ -6,6 +6,14 @@
 
 ---
 
+**BottomSheetExample**: https://github.com/rubensousa/BottomSheetExample
+
+A sample project with the new BottomSheet classes from the android support library
+
+<img src="https://raw.githubusercontent.com/rubensousa/BottomSheetExample/master/screens/screen-view.png" width="320" />
+
+---
+
 **Floating-Navigation-View**: https://github.com/andremion/Floating-Navigation-View
 
 A simple Floating Action Button that shows an anchored Navigation View
