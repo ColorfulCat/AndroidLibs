@@ -6,6 +6,14 @@
 
 ---
 
+**Sending-Animation-Example**: https://github.com/Jaouan/Sending-Animation-Example
+
+Android 炫酷发送效果 Demo
+
+<img src="https://raw.githubusercontent.com/Jaouan/Sending-Animation-Example/master/art/demo.gif" width="320" />
+
+---
+
 **SignUpTransition**: https://github.com/JeasonWong/SignUpTransition
 
 炫酷的注册登录动画
