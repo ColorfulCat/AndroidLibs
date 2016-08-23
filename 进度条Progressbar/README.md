@@ -6,6 +6,14 @@
 
 ---
 
+**SmileyLoadingView**: https://github.com/andyxialm/SmileyLoadingView
+
+仿支付宝实现的一个笑脸 LoadingView 效果
+
+<img src="https://raw.githubusercontent.com/andyxialm/SmileyLoadingView/master/art/screenshot.gif" width="320" />
+
+---
+
 **SpecialProgressBar**: https://github.com/zhangke3016/SpecialProgressBar
 
 A Special Progress Bar for Android
