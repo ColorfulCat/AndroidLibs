@@ -216,6 +216,14 @@ Android Material Design Theme UI and Tool Library. http://genius.qiujuer.net
 
 ---
 
+**MemorySpinner**: https://github.com/Jasonchenlijian/MemorySpinner
+
+可以记住历史选项的spinner
+
+<img src="https://camo.githubusercontent.com/7dd0f4e141fa57a7906ad608027dc1fe84db9c7c/68747470733a2f2f696d672e616c6963646e2e636f6d2f696d6765787472612f69342f3138313235373637312f544232537068436b585858585861755870585858585858585858585f21213138313235373637312e676966" width="320" />
+
+---
+
 **MaterialSpinner**: [https://github.com/ganfra/MaterialSpinner](https://github.com/ganfra/MaterialSpinner)
 
 Spinner with Material Design - Down to API 9
