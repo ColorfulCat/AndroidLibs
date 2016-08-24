@@ -433,6 +433,14 @@ a view widget of WindRoseDiagram in android platform http://timqi.com
 
 ---
 
+**MaterialPreference**: https://github.com/RikkaW/MaterialPreference
+
+Easy to use Material Desgin Preference UI
+
+<img src="https://raw.githubusercontent.com/RikkaW/MaterialPreference/master/demo.gif" width="320">
+
+---
+
 **MaterialPreference**: https://github.com/codevscolor/MaterialPreference
 
 MD 风格的设置界面，兼容5.0以下 Currently supporting devices upto api 8
