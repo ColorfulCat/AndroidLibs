@@ -6,6 +6,14 @@
 
 ---
 
+**medium-textview**: https://github.com/angebagui/medium-textview
+
+仿 medium 富文本展示
+
+<img ="https://raw.githubusercontent.com/angebagui/medium-textview/master/screenshot/Screenshot_2016-08-14-19-59-48.png" width="200"/>
+
+---
+
 **amber**: https://github.com/hanuor/amber
 
 识别文本中的特定名词

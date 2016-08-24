@@ -48,9 +48,9 @@ Welcome Coordinator for Android
 
 **CarouselView**: https://github.com/binaryroot/CarouselView
 
-This library is updated version of Android 3D Carousel.
+This library is updated version of Android 3D Carousel
 
-<img src="https://camo.githubusercontent.com/9d7b68b2635c5a13cbe82639921e937597b4f8c7/68747470733a2f2f7333312e706f7374696d672e6f72672f68357a6d6b69687a762f657a6769665f636f6d5f766964656f5f746f5f6769662e676966" width="640" />
+<img src="https://camo.githubusercontent.com/9d7b68b2635c5a13cbe82639921e937597b4f8c7/68747470733a2f2f7333312e706f7374696d672e6f72672f68357a6d6b69687a762f657a6769665f636f6d5f766964656f5f746f5f6769662e676966" width="320" />
 
 ---
 
