@@ -6,9 +6,17 @@
 
 ---
 
+**Android_UsingCar_Example**: https://github.com/amapapi/Android_UsingCar_Example
+
+基于高德地图Android API快速搭建用车解决方案的示例
+
+---
+
 **Android_Location_Demo**: https://github.com/amapapi/Android_Location_Demo
 
 高德定位demo
+
+<img src="https://raw.githubusercontent.com/amapapi/Android_UsingCar_Example/master/pic/result.png" width="320" />
 
 ---
 
