@@ -158,7 +158,7 @@ showcasing specific features in the app
 
 **SpiderWebScoreView**: https://github.com/xiaopansky/SpiderWebScoreView
 
-Android上的一个蛛网评分控件
+Android上的一个蜘蛛网评分控件
 
 <img src="https://raw.githubusercontent.com/xiaopansky/SpiderWebScoreView/master/docs/sample.png" width="320" />
 

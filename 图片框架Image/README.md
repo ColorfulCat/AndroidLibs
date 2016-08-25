@@ -6,6 +6,14 @@
 
 ---
 
+**PuzzleView**: https://github.com/wuapnjie/PuzzleView
+
+Android拼图支持库，轻松实现Instagram Layout效果
+
+<img src = "https://github.com/wuapnjie/PuzzleView/raw/master/screenshots/gif-demo1.gif" width = "320"/>
+
+---
+
 **PloyFun**: https://github.com/hugeterry/PloyFun
 
 导入图片生成Low Poly风格图片的app
