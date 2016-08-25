@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**MidiDroid**: https://github.com/pdrogfer/MidiDroid
+
+MIDI library for Android, ready to use in Android Studio projects
+
+---
+
 **AdBlockerDetector**: https://github.com/Swisyn/AdBlockerDetector
 
 This project proposes an open source library that can detect most of ad blockers
