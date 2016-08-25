@@ -6,11 +6,20 @@
 
 ---
 
+**CompoundLayout**: https://github.com/Jaouan/CompoundLayout
+
+让任何布局支持选中状态，类似 Checkbox 的属性
+
+<img src="https://raw.githubusercontent.com/Jaouan/CompoundLayout/master/art/demo.gif" width="320" />
+
+---
+
 **WeChatPswKeyboard**: https://github.com/zuiwuyuan/WeChatPswKeyboard
 
 高仿微信数字键盘、支付键盘（密码键盘）
 
 <img src="https://raw.githubusercontent.com/zuiwuyuan/WeChatPswKeyboard/master/imgs/img.gif" width="320" />
+
 ---
 
 **ActionCardView**: https://github.com/AdamMc331/ActionCardView
@@ -18,6 +27,7 @@
 Detailed CardView that displays an action title, description, and buttons to initiate that action
 
 <img src="https://camo.githubusercontent.com/fed08272fc8bd4aca27087b27722874d15c0a6d3/687474703a2f2f692e696d6775722e636f6d2f687078706472392e6a7067" width="320" />
+
 ---
 
 **Article-Details-Transition-Example**: https://github.com/Jaouan/Article-Details-Transition-Example
