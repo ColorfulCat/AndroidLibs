@@ -534,6 +534,12 @@ MD 设计中的尺寸和颜色指导
 
 ---
 
+**FastBle**: https://github.com/Jasonchenlijian/FastBle
+
+Android BLE 蓝牙开发框架，使用回调方式处理，搜索、连接、notify、indicate、读、写等一系列蓝牙操作
+
+---
+
 **android-lite-bluetoothLE**: https://github.com/litesuits/android-lite-bluetoothLE
 
 Android低功耗蓝牙便捷操作框架，基于回调，完成蓝牙设备交互就像发送网络请求一样简单
