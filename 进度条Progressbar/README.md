@@ -30,6 +30,14 @@ Here comes a nice little breathing progress which you can show in your Android a
 
 ---
 
+**SegmentedBarView**: https://github.com/gspd-mobi/SegmentedBarView
+
+Custom UI control for android which is showing data as a segments and a value inside them.
+
+<img src="https://camo.githubusercontent.com/9837de76dfa76929b63d3053b5cc2457516b90d5/687474703a2f2f692e696d6775722e636f6d2f4531697654374e2e706e67" width="640" />
+
+---
+
 **RangeBarVertical**: https://github.com/ITheBK/RangeBarVertical
 
 Android rangebar(seekbar) vertical having two thumbs
@@ -124,6 +132,14 @@ Circular SeekBar view for Android
 Android widget for selecting a range of values.
 
 <img src="https://github.com/oli107/material-range-bar/blob/master/Screenshots/pin%20expand.gif" width="320" />
+
+---
+
+**SpeedView**: https://github.com/anastr/SpeedView
+
+速度指示器
+
+<img src="https://raw.githubusercontent.com/anastr/SpeedView/master/images/DeluxeSpeedView1.png" width="320" /> <img src="https://raw.githubusercontent.com/anastr/SpeedView/master/images/new1.png" width="320" />
 
 ---
 

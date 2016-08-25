@@ -421,14 +421,6 @@ A clean, minimal, highly customizable pin lock view
 
 ---
 
-**TimelineView**: https://github.com/alorma/TimelineView
-
-Cute timeline view for android
-
-<img src="https://github.com/alorma/TimelineView/blob/master/screenshot.png" width="320" />
-
----
-
 **ViewPager3D**: https://github.com/renard314/ViewPager3D/tree/master/ViewPager3D
 
 Extension of Android ViewPager with a 3D swipe effect

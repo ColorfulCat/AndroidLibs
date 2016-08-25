@@ -647,6 +647,14 @@ Android library to display a ListView whose cells are not rigid but flabby and r
 
 ---
 
+**TimelineView**: https://github.com/alorma/TimelineView
+
+Cute timeline view for android
+
+<img src="https://github.com/alorma/TimelineView/blob/master/screenshot.png" width="320" />
+
+---
+
 **ParallaxListView**: [https://github.com/Gnod/ParallaxListView](https://github.com/Gnod/ParallaxListView)
 
 A Android ListView Demo with a parallax effect header like Path.
