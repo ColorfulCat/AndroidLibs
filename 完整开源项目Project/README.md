@@ -6,6 +6,12 @@
 
 ---
 
+**Android_Location_Demo**: https://github.com/amapapi/Android_Location_Demo
+
+高德定位demo
+
+---
+
 **ifanr**: https://github.com/iCodeForever/ifanr
 
 高仿 爱范儿
