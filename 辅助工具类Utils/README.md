@@ -158,6 +158,12 @@ Fluent assertions for RxJava's TestSubscriber
 
 ---
 
+**gradle-download-task**: https://github.com/michel-kraemer/gradle-download-task
+
+Adds a download task to Gradle that displays progress information
+
+---
+
 **gradle-tips**: https://github.com/shekhargulati/gradle-tips
 
 Gradle tips for all of us
