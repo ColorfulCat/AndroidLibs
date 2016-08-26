@@ -869,6 +869,12 @@ apk 反编译工具
 
 ---
 
+**Secured-Preference-Store**: https://github.com/iamMehedi/Secured-Preference-Store
+
+Easy SharedPreference 封装库A SharedPreference wrapper for Android that encrypts the content with 256 bit AES encryption. The Encryption key is securely stored in device's KeyStore
+
+---
+
 **Android-Shared-Preferences-TinyDB-**: https://github.com/mukeshsolanki/Android-Shared-Preferences-TinyDB-
 
 Easy SharedPreference 封装库
