@@ -6,6 +6,14 @@
 
 ---
 
+**RingProgress**: https://github.com/ldoublem/RingProgress
+
+Android环形进度条类似apple watch健身记录
+
+<img src="https://raw.githubusercontent.com/ldoublem/RingProgress/master/shot/shot1.jpeg" width="320" />
+
+---
+
 **SmileyLoadingView**: https://github.com/andyxialm/SmileyLoadingView
 
 仿支付宝实现的一个笑脸 LoadingView 效果
