@@ -6,6 +6,12 @@
 
 ---
 
+**SimpleRecycler**: https://github.com/e16din/SimpleRecycler
+
+This library extends RecyclerView + Recycler Adapter
+
+---
+
 **RecyclerRefreshLayout**: https://github.com/dinuscxj/RecyclerRefreshLayout
 
 A pull to refresh layout for android, the RecyclerRefreshLayout is based on the SwipeRefreshLayout
