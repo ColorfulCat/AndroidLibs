@@ -6,6 +6,14 @@
 
 ---
 
+**Music-Cover-View**: https://github.com/andremion/Music-Cover-View
+
+Useful to be used as album cover in Music apps
+
+<img src = "https://raw.githubusercontent.com/andremion/Music-Cover-View/master/art/sample.gif" width = "320"/>
+
+---
+
 **PuzzleView**: https://github.com/wuapnjie/PuzzleView
 
 Android拼图支持库，轻松实现Instagram Layout效果
