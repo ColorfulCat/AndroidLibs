@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**concurrent**: https://github.com/onehilltech/concurrent
+
+安卓并发解决方案库
+
+---
+
 **mock-api**: https://github.com/shanbay/mock-api
 
 A json-api-mock framework for Android
