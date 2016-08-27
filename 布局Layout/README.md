@@ -658,6 +658,14 @@ A beautiful way to introduce users to your app
 
 ---
 
+**LiulishuoPreview**: https://github.com/JeasonWong/LiulishuoPreview
+
+英语流利说炫酷引导页
+
+<img src="https://raw.githubusercontent.com/jeasonwong/LiulishuoPreview/master/screenshots/liulishuo.gif" width="280" />
+
+---
+
 **GuideView**: https://github.com/binIoter/GuideView
 
 安卓引导 View
