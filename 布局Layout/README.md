@@ -61,6 +61,12 @@ headview for any view and supports sticking the navigator on the top
 
 ---
 
+**Material-SearchView**: https://github.com/VyacheslavShmakin/Material-SearchView
+
+SearchView library based on DialogFragment
+
+---
+
 **StickerView**: https://github.com/wuapnjie/StickerView
 
 A view which can add sticker and zoom,drag,delete it
