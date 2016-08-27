@@ -61,6 +61,12 @@ headview for any view and supports sticking the navigator on the top
 
 ---
 
+**CustomizableActionBarDrawerToggle**: https://github.com/VyacheslavShmakin/CustomizableActionBarDrawerToggle
+
+Extended ActionBarDrawerToggle
+
+---
+
 **Material-SearchView**: https://github.com/VyacheslavShmakin/Material-SearchView
 
 SearchView library based on DialogFragment
