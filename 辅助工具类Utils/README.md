@@ -6,12 +6,6 @@
 
 ---
 
-**tiger**: https://github.com/google/tiger
-
-java依赖注入
-
----
-
 **commons-lang**: https://github.com/apache/commons-lang
 
 Apache Commons Lang, a package of Java utility classes for the classes that are in java.lang's hierarchy, or are considered to be so standard as to justify existence in java.lang.
@@ -27,6 +21,18 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 **stag-java**: https://github.com/vimeo/stag-java
 
 Stag improves Gson performance by automatically generating reflection-less TypeAdapters for your model objects
+
+---
+
+**tiger**: https://github.com/google/tiger
+
+java依赖注入
+
+---
+
+**dagger**: https://github.com/google/dagger
+
+传说中的 dagger2，依赖注入
 
 ---
 
