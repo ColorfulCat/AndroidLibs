@@ -1216,6 +1216,12 @@ Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single-proces
 
 ---
 
+**freeline**: https://github.com/alibaba/freeline
+
+阿里开源的Android平台上的秒级编译方案
+
+---
+
 **android-appversion-gradle-plugin**: https://github.com/hamsterksu/android-appversion-gradle-plugin
 
 下一代Android渠道打包工具Gradle插件，支持极速打包，1000个渠道包只需要5秒钟
