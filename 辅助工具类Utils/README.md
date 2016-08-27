@@ -36,6 +36,12 @@ java依赖注入
 
 ---
 
+**Splitties**: https://github.com/LouisCAD/Splitties
+
+安卓复制粘贴工具类
+
+---
+
 **concurrent**: https://github.com/onehilltech/concurrent
 
 安卓并发解决方案库
