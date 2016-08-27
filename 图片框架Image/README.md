@@ -52,6 +52,14 @@ A small tool to convert your app's png&jpg image files into WebP when possible
 
 ---
 
+**cookie-cutter**: https://github.com/adamstyrc/cookie-cutter
+
+移动或缩放图片来裁剪图片
+
+<img src = "https://raw.githubusercontent.com/adamstyrc/cookie-cutter/master/video.gif" width = "320"/>
+
+---
+
 **ImagePicker**: https://github.com/jeasonlzy0216/ImagePicker
 
 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数
