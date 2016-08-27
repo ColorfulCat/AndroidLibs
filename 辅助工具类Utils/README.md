@@ -48,6 +48,12 @@ java依赖注入
 
 ---
 
+**NinePatchChunk**: https://github.com/Anatolii/NinePatchChunk
+
+Simple Android library which allows you to create a chunk for NinePatchDrawable at runtime
+
+---
+
 **mock-api**: https://github.com/shanbay/mock-api
 
 A json-api-mock framework for Android
