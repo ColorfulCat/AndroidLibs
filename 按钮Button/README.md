@@ -14,6 +14,14 @@ Android Circle Buttons
 
 ---
 
+**SmoothCheckBox**: https://github.com/andyxialm/SmoothCheckBox
+
+SmoothCheckBox
+
+<img src="https://raw.githubusercontent.com/andyxialm/SmoothCheckBox/master/art/smoothcb.gif" width="320" />
+
+---
+
 **ACheckBox**: https://github.com/Bigmercu/ACheckBox
 
 CheckBox for Android with cool animation
