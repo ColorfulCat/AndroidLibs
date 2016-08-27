@@ -61,6 +61,12 @@ headview for any view and supports sticking the navigator on the top
 
 ---
 
+**GpCollapsingToolbar**: https://github.com/VyacheslavShmakin/GpCollapsingToolbar
+
+Google Play app behaviour collapsing toolbar
+
+---
+
 **CustomizableActionBarDrawerToggle**: https://github.com/VyacheslavShmakin/CustomizableActionBarDrawerToggle
 
 Extended ActionBarDrawerToggle
