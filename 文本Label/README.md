@@ -230,6 +230,14 @@ Simple formatting options for TextView and EditText in the same way Whatsapp pro
 
 ---
 
+**codeview-android**: https://github.com/Softwee/codeview-android
+
+代码格式高亮 in native way
+
+<img src="https://camo.githubusercontent.com/b4924dc4d61df4ae4716aa65bff1329bd170f4d5/68747470733a2f2f7331302e706f7374696d672e6f72672f636b7a7639786d6d312f436f64655f566965775f416e64726f69645f53637265656e73686f742e706e67" width="320" />
+
+---
+
 **Codeview**: https://github.com/avraampiperidis/Codeview
 
 代码格式高亮 in webview
