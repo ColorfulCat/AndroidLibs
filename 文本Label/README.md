@@ -14,6 +14,12 @@
 
 ---
 
+**RoublePriceView**: https://github.com/VyacheslavShmakin/RoublePriceView
+
+represent any prices in Russian rouble currency
+
+---
+
 **amber**: https://github.com/hanuor/amber
 
 识别文本中的特定名词
