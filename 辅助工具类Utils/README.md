@@ -955,6 +955,12 @@ Android library to get device information in a super easy way
 
 ---
 
+**NavigationViewManager**: https://github.com/rubensousa/NavigationViewManager
+
+A simple helper library to separate navigation logic from your MainActivity and reduce boilerplate
+
+---
+
 **ActivityRouter**: https://github.com/mzule/ActivityRouter
 
 Router activities
