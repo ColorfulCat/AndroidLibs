@@ -90,6 +90,14 @@ Android 二维码 Library
 
 ---
 
+**zxing-barcode**: https://github.com/ThePacific/zxing-barcode
+
+A barcode scanner based on zxing for android
+
+<img src="https://github.com/ThePacific/Zxing-Barcode/blob/master/gif/example.gif" width="320" />
+
+---
+
 **QrCardParsing**: https://github.com/RurioLuca/QrCardParsing
 
 二维码生成、扫描库

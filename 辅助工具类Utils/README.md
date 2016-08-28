@@ -985,14 +985,6 @@ Simple and effective bug & crash reporting tool for Android apps http://bugtags.
 
 ---
 
-**zxing-barcode**: https://github.com/ThePacific/zxing-barcode
-
-A barcode scanner based on zxing for android
-
-<img src="https://github.com/ThePacific/Zxing-Barcode/blob/master/gif/example.gif" width="320" />
-
----
-
 **gradle-android-javadocs**: https://github.com/Commit451/gradle-android-javadocs
 
 Helper to generate Javadocs within a Gradle Android library
