@@ -5,6 +5,14 @@
 
 ---
 
+**UltraIndicator**: https://github.com/andyxialm/UltraIndicator
+
+A custom indicator for ViewPager
+
+<img src="https://raw.githubusercontent.com/andyxialm/UltraIndicator/master/art/screenshot.gif" width="320" />
+
+---
+
 **Space-Navigation-View**: https://github.com/armcha/Space-Navigation-View
 
 Space Navigation is a library allowing easily integrate fully customizable Google Spaces like navigation to your app
