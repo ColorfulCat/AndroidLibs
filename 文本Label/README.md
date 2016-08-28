@@ -688,6 +688,14 @@ A material style input for codes
 
 ---
 
+**TextViewExpandableAnimation**: https://github.com/freecats/TextViewExpandableAnimation
+
+Expandable TextView With Smooth Transition Animation
+
+<img src="https://raw.githubusercontent.com/freecats/TextViewExpandableAnimation/master/preview.gif" width="144" />
+
+---
+
 **ExpandableTextView**: https://github.com/Manabu-GT/ExpandableTextView
 
 Android's TextView that can expand/collapse like the Google Play's app description
