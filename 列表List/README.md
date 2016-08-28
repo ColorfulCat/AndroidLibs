@@ -6,6 +6,14 @@
 
 ---
 
+**ListView-Snapshot-Demo**: https://github.com/abhijith0505/ListView-Snapshot-Demo
+
+A demo android application that uses the listview-snapshot android library
+
+<img src="https://raw.githubusercontent.com/abhijith0505/ListView-Snapshot-Demo/master/screenshot.jpg" width="320" />
+
+---
+
 **SelectableListDecoration**: https://github.com/bhargavms/SelectableListDecoration
 
 An Item decoration class for google design lib's RecyclerView
