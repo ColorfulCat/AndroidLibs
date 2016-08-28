@@ -704,9 +704,17 @@ Android's TextView that can expand/collapse like the Google Play's app descripti
 
 ---
 
+**KMPAutoCompleteTextView**:  https://github.com/andyxialm/KMPAutoCompleteTextView
+
+AutoCompleteTextView for android with KMP algorithm
+
+<img src="https://raw.githubusercontent.com/andyxialm/KMPAutoCompleteTextView/master/art/Screenshot_sample.png" width="320" />
+
+---
+
 **AutoCompleteBubbleText**:  https://github.com/FrederickRider/AutoCompleteBubbleText
 
- Android AutoCompleteTextView with attached ListView, and drawable background
+Android AutoCompleteTextView with attached ListView, and drawable background
 
 <img src="https://github.com/FrederickRider/AutoCompleteBubbleText/blob/master/images/Screenshot_1.png" width="320" />
 
