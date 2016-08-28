@@ -6,6 +6,14 @@
 
 ---
 
+**SimpleChat**: https://github.com/AndreiD/SimpleChat
+
+The best room chat system for Android. Real-time, IRC Style using firebase as database
+
+<img src="https://raw.githubusercontent.com/AndreiD/SimpleChat/master/simple_chat_gif.gif" width="800"/>
+
+---
+
 **easydatabinding**: https://github.com/joxad/easydatabinding
 
 This project goal is to create activity fragment and views, with less code to be more efficient on the view models
