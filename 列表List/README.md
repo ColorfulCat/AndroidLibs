@@ -6,6 +6,14 @@
 
 ---
 
+**SelectableListDecoration**: https://github.com/bhargavms/SelectableListDecoration
+
+An Item decoration class for google design lib's RecyclerView
+
+<img src="https://raw.githubusercontent.com/bhargavms/SelectableListDecoration/master/assets/Selection_001.png" width="320" /> <img src="https://raw.githubusercontent.com/bhargavms/SelectableListDecoration/master/assets/Selection_002.png" width="320" />
+
+---
+
 **SimpleRecycler**: https://github.com/e16din/SimpleRecycler
 
 This library extends RecyclerView + Recycler Adapter
