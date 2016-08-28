@@ -6,6 +6,14 @@
 
 ---
 
+**ShapeImageView**: https://github.com/andyxialm/ShapeImageView
+
+ShapeImageView
+
+<img src = "https://raw.githubusercontent.com/andyxialm/ShapeImageView/master/art/device-2016-01-04-173436.png" width = "320"/> <img src = "https://raw.githubusercontent.com/andyxialm/ShapeImageView/master/art/device-2016-01-04-173505.png" width = "320"/> <img src = "https://raw.githubusercontent.com/andyxialm/ShapeImageView/master/art/device-2016-01-04-173522.png" width = "320"/>
+
+---
+
 **Music-Cover-View**: https://github.com/andremion/Music-Cover-View
 
 Useful to be used as album cover in Music apps
