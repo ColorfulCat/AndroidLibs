@@ -6,6 +6,14 @@
 
 ---
 
+**ColorDialog**: https://github.com/andyxialm/ColorDialog
+
+ColorDialog & PromptDialog
+
+<img src="https://raw.githubusercontent.com/andyxialm/ColorDialog/master/art/Screenshot_type_success.png" width="270" /> <img src="https://raw.githubusercontent.com/andyxialm/ColorDialog/master/art/Screenshot_type_info.png" width="270" /> <img src="https://raw.githubusercontent.com/andyxialm/ColorDialog/master/art/Screenshot_type_help.png" width="270" />
+
+---
+
 **BottomSheetExample**: https://github.com/rubensousa/BottomSheetExample
 
 A sample project with the new BottomSheet classes from the android support library
