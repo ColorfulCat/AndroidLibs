@@ -46,6 +46,14 @@ TagSelectorView
 
 ---
 
+**HorizontalExpandableCalendar-Android**: https://github.com/sulo61/HorizontalExpandableCalendar-Android
+
+Android Expandable Calendar
+
+<img src="https://camo.githubusercontent.com/4feb9f103d1aac2dbc16667502210ee975042aef/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f77694d54354f30686b39512f302e6a7067" width="480" />
+
+---
+
 **GregorianLunarCalendar**: https://github.com/Carbs0126/GregorianLunarCalendar
 
 GregorianLunarCalendar提供了农历+公历的日期选择模式，同时支持公历+农历的无缝切换
