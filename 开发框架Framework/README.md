@@ -98,6 +98,12 @@ Android MVC/MVP/MVVM framework http://kejunxia.github.io/AndroidMvc
 
 ---
 
+**android-base-mvp**：https://github.com/derohimat/android-base-mvp
+
+Android Base MVP Concept with RXJava, Dagger, Event Bus, Retrofit, Glide, OkHTTP
+
+---
+
 **AMVP**：https://github.com/rubensousa/AMVP
 
 A simple Model-View-Presenter library for Android
