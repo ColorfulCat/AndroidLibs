@@ -6,6 +6,14 @@
 
 ---
 
+**WavyLineView**: https://github.com/andyxialm/WavyLineView
+
+A custom wavy line view for android
+
+<img src="https://raw.githubusercontent.com/andyxialm/WavyLineView/master/art/wavyline.gif" width="320" />
+
+---
+
 **CompoundLayout**: https://github.com/Jaouan/CompoundLayout
 
 让任何布局支持选中状态，类似 Checkbox 的属性
