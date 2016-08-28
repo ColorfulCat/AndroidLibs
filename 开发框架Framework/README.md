@@ -98,6 +98,12 @@ Android MVC/MVP/MVVM framework http://kejunxia.github.io/AndroidMvc
 
 ---
 
+**AMVP**：https://github.com/rubensousa/AMVP
+
+A simple Model-View-Presenter library for Android
+
+---
+
 **RainbowMVP**：https://github.com/Ne1c/RainbowMVP
 
 Lightweight Android MVP library with easy implementation

@@ -24,7 +24,7 @@
 
 高仿 爱范儿
 
-<img src="https://raw.githubusercontent.com/afollestad/nock-nock/master/art/showcase.png" width="640" />
+<img src="https://github.com/iCodeForever/ifanr/raw/master/ifanr/ifanr/Resources/1.gif" width="270" /> <img src="https://github.com/iCodeForever/ifanr/raw/master/ifanr/ifanr/Resources/2.gif" width="270" /> <img src="https://github.com/iCodeForever/ifanr/raw/master/ifanr/ifanr/Resources/3.gif" width="270" />
 
 ---
 
