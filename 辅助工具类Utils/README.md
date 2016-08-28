@@ -42,6 +42,12 @@ java依赖注入
 
 ---
 
+**android-priority-jobqueue**: https://github.com/yigit/android-priority-jobqueue
+
+A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background
+
+---
+
 **concurrent**: https://github.com/onehilltech/concurrent
 
 安卓并发解决方案库
