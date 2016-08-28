@@ -56,6 +56,12 @@ ExpandableRecyclerview Databinding implemention
 
 ---
 
+**ItemPool**: https://github.com/nekocode/ItemPool
+
+Decouple the item(/nested viewholder) from recyclerview's adapter
+
+---
+
 **MultiTypeView**: https://github.com/LuckyJayce/MultiTypeView
 
 简化RecyclerView的多种type的adapter，Fragment可以动态添加到RecyclerView上，实现复杂的界面分多个模块开发
