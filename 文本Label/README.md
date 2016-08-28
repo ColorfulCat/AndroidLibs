@@ -6,6 +6,14 @@
 
 ---
 
+**SmsCodeHelper**: https://github.com/RikkaW/SmsCodeHelper
+
+识别短信中的二维码并复制
+
+<img ="https://raw.githubusercontent.com/RikkaW/SmsCodeHelper/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="180"/>
+
+---
+
 **medium-textview**: https://github.com/angebagui/medium-textview
 
 仿 medium 富文本展示
