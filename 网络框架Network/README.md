@@ -6,6 +6,12 @@
 
 ---
 
+**SimpleRestClientHelper**: https://github.com/ravi123shanker/SimpleRestClientHelper
+
+Simplest library to implement rest client APIs using okhttp3 in your app
+
+---
+
 **Perfecto**: https://github.com/developer-shivam/Perfecto
 
 Http Connection calls made easy
