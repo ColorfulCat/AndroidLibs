@@ -6,6 +6,14 @@
 
 ---
 
+**StateLayout**: https://github.com/lufficc/StateLayout
+
+A custom layout that can easily switch different states(like empty,error,progress,content) with animations
+
+<img src="https://raw.githubusercontent.com/lufficc/StateLayout/master/pics/state_layout.gif" width="320" />
+
+---
+
 **WavyLineView**: https://github.com/andyxialm/WavyLineView
 
 A custom wavy line view for android
