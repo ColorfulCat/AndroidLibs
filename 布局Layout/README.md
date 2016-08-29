@@ -333,6 +333,14 @@ Quick image ViewPagers
 
 ---
 
+**jjdxm_ijkplayer**: https://github.com/jjdxmashl/jjdxm_ijkplayer
+
+基于ijkplayer简单的UI界面 当前项目是基于ijkplayer项目进行的播放器界面UI封装
+
+<img src="https://raw.githubusercontent.com/jjdxmashl/jjdxm_ijkplayer/master/screenshots/icon01.gif" width="320" />
+
+---
+
 **JieCaoVideoPlayer**: https://github.com/lipangit/JieCaoVideoPlayer
 
 android videoplayer mediaplayer videoview mediaview and fullscreen
