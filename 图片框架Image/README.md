@@ -6,6 +6,14 @@
 
 ---
 
+**StyleImageView**: https://github.com/chengdazhi/StyleImageView
+
+Add styles and filters to ImageViews, Views' backgroud, Drawables and Bitmaps, with animation and bitmap output
+
+<img src = "https://raw.githubusercontent.com/chengdazhi/StyleImageView/master/images/style_sample.gif" width = "320"/>
+
+---
+
 **ShapeImageView**: https://github.com/andyxialm/ShapeImageView
 
 ShapeImageView
