@@ -6,6 +6,14 @@
 
 ---
 
+**Carousel-Browsing-Example**: https://github.com/Jaouan/Carousel-Browsing-Example
+
+example of carousel browsing
+
+<img src="https://github.com/Jaouan/Carousel-Browsing-Example/raw/master/art/demo.gif" width="320" />
+
+---
+
 **ShapeRipple**: https://github.com/poldz123/ShapeRipple
 
 多种形状波纹特效
