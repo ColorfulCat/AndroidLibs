@@ -6,6 +6,14 @@
 
 ---
 
+**Particle**: https://github.com/JeasonWong/Particle
+
+可用于splash的动画
+
+<img src="https://raw.githubusercontent.com/jeasonwong/Particle/master/screenshots/particle.gif" width="320" />
+
+---
+
 **Material-Animations**: https://github.com/lgvalle/Material-Animations
 
 Android Transition animations explanation with examples
