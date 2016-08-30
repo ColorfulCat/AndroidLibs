@@ -6,6 +6,12 @@
 
 ---
 
+**restito**: https://github.com/mkotsur/restito
+
+Restito - mocking framework for testing rest clients
+
+---
+
 **SimpleChat**: https://github.com/AndreiD/SimpleChat
 
 The best room chat system for Android. Real-time, IRC Style using firebase as database
