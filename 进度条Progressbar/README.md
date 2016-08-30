@@ -6,6 +6,14 @@
 
 ---
 
+**ChompProgressView**: https://github.com/andyb129/ChompProgressView
+
+A (semi) realistic chomping progress view that takes bites out of your delicious images! Nom! Nom!
+
+<img src="https://raw.githubusercontent.com/andyb129/ChompProgressView/master/screenshots/chomp_progress_anim.gif" width="280" />
+
+---
+
 **loaderviewlibrary**: https://github.com/elye/loaderviewlibrary
 
 Library that enables TextView of ImageView to show loading animation while waiting for the text and image get loaded
