@@ -6,6 +6,14 @@
 
 ---
 
+**Material-Animations**: https://github.com/lgvalle/Material-Animations
+
+Android Transition animations explanation with examples
+
+<img src="https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_explode.gif" width="270" /> <img src="https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_slide.gif" width="270" /> <img src="https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_fade.gif" width="270" />
+
+---
+
 **Sending-Animation-Example**: https://github.com/Jaouan/Sending-Animation-Example
 
 Android 炫酷发送效果 Demo
