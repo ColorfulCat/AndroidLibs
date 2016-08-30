@@ -14,6 +14,14 @@
 
 ---
 
+**boon**: https://github.com/Wing-Li/boon
+
+移动开发者福利App，内含多渠道打包
+
+<img src="https://raw.githubusercontent.com/Wing-Li/boon/master/img/learn.png" width="320" /> <img src="https://raw.githubusercontent.com/Wing-Li/boon/master/img/joke.png" width="320" />
+
+---
+
 **Android_UsingCar_Example**: https://github.com/amapapi/Android_UsingCar_Example
 
 基于高德地图Android API快速搭建用车解决方案的示例
@@ -139,6 +147,14 @@ Chromium 浏览器，Android Studio 版本
 A simple implementation of swipe card like StreetView!!
 
 <img src="https://raw.githubusercontent.com/Nightonke/GithubWidget/master/Pic/color.png" width="640" />
+
+---
+
+**android-UniversalMusicPlayer**: https://github.com/googlesamples/android-UniversalMusicPlayer
+
+多平台（手机，平板，手表）音乐播放器
+
+<img src="https://raw.githubusercontent.com/googlesamples/android-UniversalMusicPlayer/master/screenshots/phone.png" width="270" /> <img src="https://raw.githubusercontent.com/googlesamples/android-UniversalMusicPlayer/master/screenshots/phone_lockscreen.png" width="270" /> <img src="https://raw.githubusercontent.com/googlesamples/android-UniversalMusicPlayer/master/screenshots/phone_fullscreen_player.png" width="270" />
 
 ---
 
