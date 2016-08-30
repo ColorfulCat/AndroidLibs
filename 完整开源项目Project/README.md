@@ -6,11 +6,11 @@
 
 ---
 
-**boon**: https://github.com/Wing-Li/boon
+**LookLook**: https://github.com/xinghongfei/LookLook
 
-移动开发者福利App，内含多渠道打包
+一个精美,极简的阅读app
 
-<img src="https://raw.githubusercontent.com/Wing-Li/boon/master/img/learn.png" width="320" /> <img src="https://raw.githubusercontent.com/Wing-Li/boon/master/img/joke.png" width="320" />
+<img src="https://github.com/xinghongfei/LookLook/raw/developer/screenshots/LookLook.gif" width="320" />
 
 ---
 
@@ -163,6 +163,37 @@ A simple implementation of swipe card like StreetView!!
 Apollo 音乐播放器，Android Studio 版本
 
 <img src="https://camo.githubusercontent.com/183ab7e13a9fd2a385d9295e1c66e6742ba71311/687474703a2f2f692e696d6775722e636f6d2f49616b65666c732e706e67" width="400" /> <img src="https://camo.githubusercontent.com/0f41fe134384b66530a0b3f1907d4045cfa216b7/687474703a2f2f692e696d6775722e636f6d2f554f3067394c642e706e67" width="400" />
+
+---
+
+**Hide-Music-Player**: [https://github.com/w9xhc/Hide-Music-Player](https://github.com/w9xhc/Hide-Music-Player)
+
+Hide音乐播放器
+
+<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/3.jpg?raw=true" width="160" />
+<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/5.5.jpg?raw=true" width="160" />
+<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/9.jpg?raw=true" width="160" />
+<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/10.jpg?raw=true" width="160" />
+<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/12.jpg?raw=true" width="160" />
+
+---
+
+**Timber**: [https://github.com/naman14/Timber](https://github.com/naman14/Timber)
+
+Material Design Music Player
+
+<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-09-18-12-33-27.png" width="160" />
+<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-08-05-14-23-03.png" width="160" />
+<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-08-29-22-44-26.png" width="160" />
+<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-08-31-11-50-50.png" width="160" />
+
+---
+
+**Auro**:  https://github.com/architjn/Auro
+
+1st Most Fastest, Latest Designed and open source `Music player`
+
+<img src="https://raw.githubusercontent.com/architjn/Auro/master/SCREENSHOTS/player.png" width="320" /> <img src="https://raw.githubusercontent.com/architjn/Auro/master/SCREENSHOTS/upnext.png" width="320" />
 
 ---
 
@@ -512,23 +543,11 @@ TLint for 虎扑体育 基于Dagger2+RxJava+Retrofit开发，采用MVP模式
 
 ---
 
-**plaid**: [https://github.com/nickbutcher/plaid](https://github.com/nickbutcher/plaid)
+**plaid**: https://github.com/nickbutcher/plaid
 
-Plaid is a showcase of material design that we hope you will keep installed. It pulls in news & inspiration from Designer News, Dribbble & Product Hunt. It demonstrates the use of material principles to create tactile, bold, understandable UIs.
+5.0 MD 设计强大demo
 
 <img src="https://github.com/nickbutcher/plaid/blob/master/screenshots/plaid_demo.gif" width="320" />
-
----
-
-**Hide-Music-Player**: [https://github.com/w9xhc/Hide-Music-Player](https://github.com/w9xhc/Hide-Music-Player)
-
-Hide音乐播放器
-
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/3.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/5.5.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/9.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/10.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/12.jpg?raw=true" width="160" />
 
 ---
 
@@ -568,17 +587,6 @@ A beautiful app 简诗 for recording anything in your life with traditional Chin
 
 <img src="https://camo.githubusercontent.com/b5cd7b49447c88ceac096b4e969b8c1b94f3b10a/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3238313636352d623563343465393034323639376539332e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="320" />
 <img src="https://camo.githubusercontent.com/3f9940a080521d28fa2ad1e6bc40c25d104f411f/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3238313636352d613539613063336165326532616630342e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="320" />
-
----
-
-**Timber**: [https://github.com/naman14/Timber](https://github.com/naman14/Timber)
-
-Material Design Music Player
-
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-09-18-12-33-27.png" width="160" />
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-08-05-14-23-03.png" width="160" />
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-08-29-22-44-26.png" width="160" />
-<img src="https://raw.githubusercontent.com/naman14/Timber/master/graphics/Screenshot_2015-08-31-11-50-50.png" width="160" />
 
 ---
 
@@ -860,14 +868,6 @@ Material Design Notes App
  Leisure is an Android App,it contains Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban
 
 <img src="https://github.com/MummyDing/Leisure/blob/master/ScreenShots/home.png" width="320" /> <img src="https://github.com/MummyDing/Leisure/blob/master/ScreenShots/science.png.png" width="320" />
-
----
-
-**Auro**:  https://github.com/architjn/Auro
-
-1st Most Fastest, Latest Designed and open source `Music player`
-
-<img src="https://raw.githubusercontent.com/architjn/Auro/master/SCREENSHOTS/player.png" width="320" /> <img src="https://raw.githubusercontent.com/architjn/Auro/master/SCREENSHOTS/upnext.png" width="320" />
 
 ---
 
