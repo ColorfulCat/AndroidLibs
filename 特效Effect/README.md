@@ -6,6 +6,14 @@
 
 ---
 
+**Gradbar**: https://github.com/flouthoc/Gradbar
+
+颜色可变的 ActionBar
+
+<img src="https://raw.githubusercontent.com/flouthoc/Gradbar/master/gradbar.gif" width="320" />
+
+---
+
 **Carousel-Browsing-Example**: https://github.com/Jaouan/Carousel-Browsing-Example
 
 example of carousel browsing
