@@ -6,6 +6,14 @@
 
 ---
 
+**HintAnim-EditText**: https://github.com/cctanfujun/HintAnim-EditText
+
+提示可变化的 EditText
+
+<img ="https://raw.githubusercontent.com/cctanfujun/HintAnim-EditText/master/img/Hint-Anim.gif" width="320"/>
+
+---
+
 **SmsCodeHelper**: https://github.com/RikkaW/SmsCodeHelper
 
 识别短信中的二维码并复制
