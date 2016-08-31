@@ -997,6 +997,12 @@ Helper to generate Javadocs within a Gradle Android library
 
 ---
 
+**PermissionDispatcher**: https://github.com/a1018875550/PermissionDispatcher
+
+6.0权限管理，适配 miui 系统
+
+---
+
 **HeiPermission**: https://github.com/forJrking/HeiPermission
 
 一句代码搞定 Android M 动态权限检测
