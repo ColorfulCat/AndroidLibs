@@ -6,6 +6,14 @@
 
 ---
 
+**HAgnostic-News**: https://github.com/grigio/HAgnostic-News
+
+React Native app (Android / iOS) 阅读
+
+<img src="https://cloud.githubusercontent.com/assets/8074/18037131/149c2f34-6d7d-11e6-83d0-82af574301e3.png" width="600" />
+
+---
+
 **LookLook**: https://github.com/xinghongfei/LookLook
 
 一个精美,极简的阅读app
