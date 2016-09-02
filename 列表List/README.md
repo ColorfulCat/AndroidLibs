@@ -6,6 +6,22 @@
 
 ---
 
+**itemtouchhelper-extension**: https://github.com/loopeer/itemtouchhelper-extension
+
+itemtouchhelper 左滑删除等操作
+
+<img src="https://raw.githubusercontent.com/loopeer/itemtouchhelper-extension/master/screenshot/itemtouch_spring.gif" width="230" /> <img src="https://raw.githubusercontent.com/loopeer/itemtouchhelper-extension/master/screenshot/itemtouch_recycler_width.gif" width="230" />
+
+---
+
+**RecyclerViewSnap**: https://github.com/rubensousa/RecyclerViewSnap
+
+RecyclerView 边缘特效
+
+<img src="https://raw.githubusercontent.com/rubensousa/RecyclerViewSnap/master/screens/snap_googleplay.gif" width="320" /> <img src="https://raw.githubusercontent.com/rubensousa/RecyclerViewSnap/master/screens/snap_final.gif" width="320" />
+
+---
+
 **ListView-Snapshot-Demo**: https://github.com/abhijith0505/ListView-Snapshot-Demo
 
 A demo android application that uses the listview-snapshot android library
