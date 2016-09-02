@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**Secured-Preference-Store**: https://github.com/iamMehedi/Secured-Preference-Store
+
+SharedPreferences 加密
+
+---
+
 **tiger**: https://github.com/google/tiger
 
 java依赖注入
