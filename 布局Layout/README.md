@@ -277,6 +277,14 @@ EasyForm makes a form creation and field validation easy
 
 ---
 
+**2CheckoutWrapper**: https://github.com/ViksaaSkool/2CheckoutWrapper
+
+信用卡等认证
+
+<img src="https://raw.githubusercontent.com/ViksaaSkool/2CheckoutWrapper/master/art/success.gif" width="300" /> <img src="https://raw.githubusercontent.com/ViksaaSkool/2CheckoutWrapper/master/art/failure.gif" width="300" />
+
+---
+
 **CreditCardView**: https://github.com/cooltechworks/CreditCardView
 
 信用卡 View
