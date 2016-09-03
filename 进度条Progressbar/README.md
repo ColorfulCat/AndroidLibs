@@ -6,6 +6,14 @@
 
 ---
 
+**MaterialProgressBar**: https://github.com/chaossss/MaterialProgressBar
+
+MaterialProgressBar
+
+<img src="https://camo.githubusercontent.com/cdd0498ca76939527b04a14fce4a5b25809619d1/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531313031313630363532393536" width="280" />
+
+---
+
 **ChompProgressView**: https://github.com/andyb129/ChompProgressView
 
 A (semi) realistic chomping progress view that takes bites out of your delicious images! Nom! Nom!
