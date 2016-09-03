@@ -6,6 +6,14 @@
 
 ---
 
+**ClockDrawableAnimation**: https://github.com/evelyne24/ClockDrawableAnimation
+
+Android animated clock Drawable
+
+<img src="https://raw.githubusercontent.com/evelyne24/ClockDrawableAnimation/master/Screenshot.png" width="320" />
+
+---
+
 **Particle**: https://github.com/JeasonWong/Particle
 
 可用于splash的动画
