@@ -395,14 +395,6 @@ YouTube 控制播放
 
 ---
 
-**material-tip**: https://github.com/fcannizzaro/material-tip
-
-Android Library for prompt tip
-
-<img src="https://raw.githubusercontent.com/Jude95/RollViewPager/master/example.jpg" width="320" />
-
----
-
 **ParallaxViewPager**: https://github.com/ybq/ParallaxViewPager
 
 视差效果 ViewPager

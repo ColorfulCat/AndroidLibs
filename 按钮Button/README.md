@@ -56,14 +56,6 @@ CircleCheckBox is an Android custom view, that simply animates the check
 
 ---
 
-**Cuboid-Circle-Button**: https://github.com/MuhammadArsalanChishti/Cuboid-Circle-Button
-
-Android Circle Buttons
-
-<img src="https://camo.githubusercontent.com/5e1a4aadad5025e76e82cef204e9af39e0dcb700/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3042397a506b61547847784a464e7a68425a554657566d46744e6c55" width="270" />
-
----
-
 **MagicButton**: https://github.com/daniel-martins-IR/MagicButton
 
 MagicButton

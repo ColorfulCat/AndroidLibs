@@ -158,6 +158,30 @@ Android AlertDialog with mowing dots progress indicator
 
 ---
 
+**Tooltip**: https://github.com/ViHtarb/Tooltip
+
+Simple to use customizable Android Tooltips library based on PopupWindow
+
+<img src="https://raw.githubusercontent.com/ViHtarb/Tooltip/master/art/demo.gif" width="320" />
+
+---
+
+**Tooltip**: https://github.com/jayrambhia/Tooltip
+
+给 View 添加提示
+
+<img src="https://raw.githubusercontent.com/jayrambhia/Tooltip/master/art/demo1.gif" width="480" />
+
+---
+
+**tooltips**: https://github.com/tomergoldst/tooltips
+
+给 View 添加提示
+
+<img src="https://cloud.githubusercontent.com/assets/19874536/16546659/485f29ba-415a-11e6-898d-c880e4b643b6.gif" width="320" /> <img src="https://cloud.githubusercontent.com/assets/19874536/16546707/9b891816-415b-11e6-9be6-735a5649f1d7.gif" width="320" />
+
+---
+
 **android-simple-tooltip**: https://github.com/douglasjunior/android-simple-tooltip
 
  simple library based on PopupWindow to create Tooltips on Android
