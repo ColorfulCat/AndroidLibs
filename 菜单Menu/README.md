@@ -6,6 +6,14 @@
 
 ---
 
+**vertical_floating_menu**: https://github.com/samsao/vertical_floating_menu
+
+vertical_floating_menu
+
+<img src="https://raw.githubusercontent.com/samsao/vertical_floating_menu/master/assets/CheckThisOut.gif" width="320"/>
+
+---
+
 **popmenulayout**: https://github.com/whilu/popmenulayout
 
 A multi level menu view(like WeChat subscription Accounts) library for Android
