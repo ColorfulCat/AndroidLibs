@@ -221,6 +221,14 @@ A simple ViewPager indicator implementation compatible with the from the Android
 
 ---
 
+**material-stepper**: https://github.com/fcannizzaro/material-stepper
+
+Android Library to create simple stepper activities
+
+<img src="https://raw.githubusercontent.com/fcannizzaro/material-stepper/master/screenshot/tabs.png" width="300" />
+
+---
+
 **stepper-indicator**: https://github.com/badoualy/stepper-indicator
 
 Step indicator for onboarding or simple viewpager
