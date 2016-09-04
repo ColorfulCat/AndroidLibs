@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**spek**: https://github.com/JetBrains/spek
+
+A specification framework for Kotlin
+
+---
+
 **ktlint**: https://github.com/shyiko/ktlint
 
 An anti-bikeshedding Kotlin linter with built-in formatter
