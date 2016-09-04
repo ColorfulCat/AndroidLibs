@@ -6,6 +6,14 @@
 
 ---
 
+**CompareImage**: https://github.com/Onkarn92/CompareImage
+
+编辑后图片对比
+
+<img src = "https://camo.githubusercontent.com/410e870cbb40937a8d1e591d4be6d5a5f2bed9f4/68747470733a2f2f7261772e6769746875622e636f6d2f4f6e6b61726e39322f436f6d70617265496d6167652f6d61737465722f73637265656e732f73637265656e312e676966" width = "320"/>
+
+---
+
 **StyleImageView**: https://github.com/chengdazhi/StyleImageView
 
 Add styles and filters to ImageViews, Views' backgroud, Drawables and Bitmaps, with animation and bitmap output

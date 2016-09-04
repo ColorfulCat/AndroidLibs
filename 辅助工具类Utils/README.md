@@ -368,6 +368,24 @@ Reactive Event Hub
 
 ---
 
+**gimBUS**: https://github.com/PGSSoft/gimBUS
+
+Event bus for Android with fine-grained delivery thread control
+
+---
+
+**AndroidEventBus**: https://github.com/hehonghui/AndroidEventBus
+
+A lightweight eventbus library for android, simplifies communication between Activities, Fragments, Threads, Services, etc
+
+---
+
+**EventBus**: https://github.com/greenrobot/EventBus
+
+Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. http://greenrobot.org/eventbus/
+
+---
+
 **AndroidPay**: https://github.com/hanbaokun/AndroidPay
 
 微信支付和支付宝支付快速接入，可以直接拷贝代码到项目中使用
@@ -734,23 +752,7 @@ AsyncTask 替代者
 
 ---
 
-**gimBUS**: https://github.com/PGSSoft/gimBUS
 
-Event bus for Android with fine-grained delivery thread control
-
----
-
-**AndroidEventBus**: https://github.com/hehonghui/AndroidEventBus
-
-A lightweight eventbus library for android, simplifies communication between Activities, Fragments, Threads, Services, etc
-
----
-
-**EventBus**: https://github.com/greenrobot/EventBus
-
-Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. http://greenrobot.org/eventbus/
-
----
 
 **multibackstack**: https://github.com/JetradarMobile/multibackstack
 
