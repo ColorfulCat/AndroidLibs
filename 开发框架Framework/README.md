@@ -6,6 +6,18 @@
 
 ---
 
+**Amigo**: https://github.com/eleme/Amigo
+
+A hotfix library for Android platform, and not just this...
+
+---
+
+**Tinker_imitator**: https://github.com/zzz40500/Tinker_imitator
+
+微信热更新方案实践
+
+---
+
 **restito**: https://github.com/mkotsur/restito
 
 Restito - mocking framework for testing rest clients
