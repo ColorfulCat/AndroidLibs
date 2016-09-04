@@ -5,6 +5,14 @@
 
 ---
 
+**StateView**: https://github.com/nukc/StateView
+
+StateView is a lightweight view that absorb characteristics of ViewStub. It can occupy less memory that the initia state is not visible and does not occupy the position of the layout
+
+<img src="https://raw.githubusercontent.com/nukc/stateview/master/art/custom.gif" width="280" />
+
+---
+
 **react-native-material-design**: https://github.com/react-native-material-design/react-native-material-design
 
 react-native-material-design
