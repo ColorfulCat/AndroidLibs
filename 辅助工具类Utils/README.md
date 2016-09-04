@@ -30,12 +30,6 @@ An anti-bikeshedding Kotlin linter with built-in formatter
 
 ---
 
-**Secured-Preference-Store**: https://github.com/iamMehedi/Secured-Preference-Store
-
-SharedPreferences 加密
-
----
-
 **tiger**: https://github.com/google/tiger
 
 java依赖注入
@@ -926,6 +920,18 @@ Composition over inheritance for Android components like Activity or Fragment
 **android-classyshark**: https://github.com/google/android-classyshark
 
 apk 反编译工具
+
+---
+
+**EncryptedPreferences**: https://github.com/PDDStudio/EncryptedPreferences
+
+SharedPreferences AES-256 加密
+
+---
+
+**Secured-Preference-Store**: https://github.com/iamMehedi/Secured-Preference-Store
+
+SharedPreferences 加密
 
 ---
 
