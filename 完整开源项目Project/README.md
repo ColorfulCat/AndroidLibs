@@ -981,6 +981,14 @@ CoCoin是一款记账APP，有记账、多种方式显示支出占比和支出�
 
 ---
 
+**RxZhiHu**: https://github.com/HotBitmapGG/RxZhiHu
+
+高仿系列の知了日报App
+
+<img src="https://raw.githubusercontent.com/HotBitmapGG/RxZhiHu/master/art/02.png" width="320" /> <img src="https://raw.githubusercontent.com/HotBitmapGG/RxZhiHu/master/art/11.png" width="320" />
+
+---
+
 **ZhihuDailyRRD**:  https://github.com/lsxiao/ZhihuDailyRRD
 
 知乎日报，created by RRD(Retrofit,RxJava,Dagger2).
