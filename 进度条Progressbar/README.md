@@ -6,6 +6,14 @@
 
 ---
 
+**RingProgressBar**: https://github.com/HotBitmapGG/RingProgressBar
+
+自定义控件のMaterial design风格的圆环进度条
+
+<img src="https://raw.githubusercontent.com/HotBitmapGG/RingProgressBar/master/art/03.gif" width="320" />
+
+---
+
 **CreditSesameRingView**: https://github.com/HotBitmapGG/CreditSesameRingView
 
 支付宝芝麻信用
