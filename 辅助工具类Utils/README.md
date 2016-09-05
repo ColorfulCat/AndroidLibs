@@ -1029,6 +1029,14 @@ Helper to generate Javadocs within a Gradle Android library
 
 ---
 
+**FcPermissions**: https://github.com/lypeer/FcPermissions
+
+6.0权限管理
+
+<img src="https://camo.githubusercontent.com/b0d132cc990213eb71ac0139163ff5f60efd71d1/687474703a2f2f61632d636e797634376c612e636c6f7564646e2e636f6d2f646162313765333731343630313138372e676966" width="230" />
+
+---
+
 **PermissionDispatcher**: https://github.com/a1018875550/PermissionDispatcher
 
 6.0权限管理，适配 miui 系统
