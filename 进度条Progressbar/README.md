@@ -6,6 +6,14 @@
 
 ---
 
+**CreditSesameRingView**: https://github.com/HotBitmapGG/CreditSesameRingView
+
+支付宝芝麻信用
+
+<img src="https://raw.githubusercontent.com/HotBitmapGG/CreditSesameRingView/master/art/01.gif" width="320" /> <img src="https://raw.githubusercontent.com/HotBitmapGG/CreditSesameRingView/master/art/02.gif" width="320" />
+
+---
+
 **MaterialProgressBar**: https://github.com/chaossss/MaterialProgressBar
 
 MaterialProgressBar
