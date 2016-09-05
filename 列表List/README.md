@@ -6,6 +6,14 @@
 
 ---
 
+**EasyRecycleAdapterHelper**: https://github.com/HotBitmapGG/EasyRecycleAdapterHelper
+
+一个轻量级简单实用的RecycleViewAdapter辅助类库
+
+<img src="https://raw.githubusercontent.com/HotBitmapGG/EasyRecycleAdapterHelper/master/art/01.gif" width="320" /> <img src="https://raw.githubusercontent.com/HotBitmapGG/EasyRecycleAdapterHelper/master/art/02.gif" width="320" />
+
+---
+
 **SmartisanPull**: https://github.com/hougr/SmartisanPull
 
 “锤子下拉”，东半球最优雅的下拉控件。也叫SmartisanRefreshableLayout
