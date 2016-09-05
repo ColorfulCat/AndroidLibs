@@ -6,6 +6,14 @@
 
 ---
 
+**code-reader**: https://github.com/loopeer/code-reader
+
+手机端代码阅读
+
+<img src="https://raw.githubusercontent.com/loopeer/code-reader/master/screenshot/codereader_setting_day.gif" width="230" /> <img src="https://raw.githubusercontent.com/loopeer/code-reader/master/screenshot/codereader_itemtouch.gif" width="230" />
+
+---
+
 **HAgnostic-News**: https://github.com/grigio/HAgnostic-News
 
 React Native app (Android / iOS) 阅读
