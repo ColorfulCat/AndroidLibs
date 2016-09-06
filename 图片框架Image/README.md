@@ -6,6 +6,14 @@
 
 ---
 
+**RecyclerViewCardGallery**: https://github.com/huazhiyuan2008/RecyclerViewCardGallery
+
+RecyclerView实现Card Gallery效果，替代ViewPager方案
+
+<img src = "https://raw.githubusercontent.com/huazhiyuan2008/RecyclerViewCardGallery/master/art/RecyclerViewCardGallery_blur.gif" width = "320"/>
+
+---
+
 **CompareImage**: https://github.com/Onkarn92/CompareImage
 
 编辑后图片对比
