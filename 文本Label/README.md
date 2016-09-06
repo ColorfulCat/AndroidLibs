@@ -6,6 +6,14 @@
 
 ---
 
+**EllipsizeTextView**: https://github.com/dinuscxj/EllipsizeTextView
+
+可显示省略号的 EditText
+
+<img ="https://raw.githubusercontent.com/dinuscxj/EllipsizeTextView/master/Preview/EllipsizeTextView.gif?width=300" width="320"/>
+
+---
+
 **HintAnim-EditText**: https://github.com/cctanfujun/HintAnim-EditText
 
 提示可变化的 EditText
