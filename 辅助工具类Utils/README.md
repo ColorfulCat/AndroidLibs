@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**android-autoprovider**: https://github.com/futuresimple/android-autoprovider
+
+Utility for creating ContentProviders without boilerplate and with heavy customization options
+
+---
+
 **spek**: https://github.com/JetBrains/spek
 
 A specification framework for Kotlin
