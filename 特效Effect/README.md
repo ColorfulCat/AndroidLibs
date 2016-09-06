@@ -6,6 +6,14 @@
 
 ---
 
+**confetti**: https://github.com/jinatonic/confetti
+
+雪花，粒子爆炸效果
+
+<img src="https://raw.githubusercontent.com/jinatonic/confetti/master/assets/confetti_with_touch.gif" width="320" /> <img src="https://raw.githubusercontent.com/jinatonic/confetti/master/assets/explosion_confetti.gif" width="320" />
+
+---
+
 **Gradbar**: https://github.com/flouthoc/Gradbar
 
 颜色可变的 ActionBar
