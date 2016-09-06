@@ -362,6 +362,12 @@ Reactive Event Hub
 
 ---
 
+**ToyRoom**: https://github.com/eleme/ToyRoom
+
+饿了么开发的一套面向业务逻辑的编程库-ToyRoom
+
+---
+
 **HermesEventBus**: https://github.com/eleme/HermesEventBus
 
 饿了么开源的Android跨进程事件分发框架
