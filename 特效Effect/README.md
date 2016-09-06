@@ -6,6 +6,14 @@
 
 ---
 
+**ScrollingBackgroundView**: https://github.com/noties/ScrollingBackgroundView
+
+可跟随手指滑动，进行响应式滑动的背景效果
+
+<img src="https://raw.githubusercontent.com/noties/ScrollingBackgroundView/master/gifs/gif_pager.gif" width="240" /> <img src="https://raw.githubusercontent.com/noties/ScrollingBackgroundView/master/gifs/gif_recycler.gif" width="240" />
+
+---
+
 **confetti**: https://github.com/jinatonic/confetti
 
 雪花，粒子爆炸效果
