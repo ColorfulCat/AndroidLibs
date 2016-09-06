@@ -6,6 +6,14 @@
 
 ---
 
+**nice-spinner**: https://github.com/arcadefire/nice-spinner
+
+nice-spinner
+
+<img src="https://raw.githubusercontent.com/arcadefire/nice-spinner/master/nice-spinner.gif" width="320" />
+
+---
+
 **android_contact_picker**: https://github.com/codinguser/android_contact_picker
 
 提取、显示安卓联系人
