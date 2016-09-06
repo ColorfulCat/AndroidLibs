@@ -430,6 +430,14 @@ A third party app for androidweekly.net
 
 ---
 
+**StudyProject**: https://github.com/HotBitmapGG/StudyProject
+
+A Material Design style Gank. Io unofficial client App
+
+<img src="https://raw.githubusercontent.com/HotBitmapGG/StudyProject/master/art/01.png" width="320" /><img src="https://raw.githubusercontent.com/HotBitmapGG/StudyProject/master/art/08.png" width="320" />
+
+---
+
 **Gank**: https://github.com/JohnnyShieh/Gank
 
 An unofficial client of gank.io, based on Flux pattern and Rx series
