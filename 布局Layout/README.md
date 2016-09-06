@@ -5,6 +5,14 @@
 
 ---
 
+**ThumbnailMenu**: https://github.com/Hitomis/ThumbnailMenu
+
+简单而精致的 Fragment 菜单控件，它可以让你切换 Fragment 的时候眼前一亮
+
+<img src="https://raw.githubusercontent.com/Hitomis/ThumbnailMenu/master/preview/menu_left.gif" width="270" /> <img src="https://raw.githubusercontent.com/Hitomis/ThumbnailMenu/master/preview/menu_bottom.gif" width="270" /> <img src="https://raw.githubusercontent.com/Hitomis/ThumbnailMenu/master/preview/menu_right.gif" width="270" />
+
+---
+
 **StateView**: https://github.com/nukc/StateView
 
 StateView is a lightweight view that absorb characteristics of ViewStub. It can occupy less memory that the initia state is not visible and does not occupy the position of the layout
