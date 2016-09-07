@@ -563,6 +563,14 @@ Navigation tab strip with smooth interaction
 
 ---
 
+**Material-Design-Login**: https://github.com/Yellow5A5/Material-Design-Login
+
+Material-Design风格的动画注册登陆界面～够清爽～
+
+<img src="https://raw.githubusercontent.com/Yellow5A5/Material-Design-Login/master/image/demo_show1.gif" width="320" /> <img src="https://raw.githubusercontent.com/Yellow5A5/Material-Design-Login/master/image/demo_show2.gif" width="320" />
+
+---
+
 **unipiazza-android-twostepslogin**: https://github.com/unipiazza/unipiazza-android-twostepslogin
 
 一个很棒的两步登录界面设计
