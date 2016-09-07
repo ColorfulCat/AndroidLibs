@@ -1256,6 +1256,14 @@ Screaming fast JSON parsing and serialization library for Android.
 
 ---
 
+**Recovery**: https://github.com/Sunzxyong/Recovery
+
+App 崩溃后，帮助你恢复现场并查看崩溃信息的库，在开发阶段相当实用，建议大家集成进去节省些开发时间
+
+<img src="https://camo.githubusercontent.com/679c1c2da9b22e690b99de8c232408b52fcc8639/687474703a2f2f3778737778662e636f6d322e7a302e676c622e71696e697563646e2e636f6d2f626c6f672f5265636f766572792e706e67" width="640" />
+
+---
+
 **FireCrasher**: https://github.com/osama-raddad/FireCrasher
 
 FireCrasher is a Uncaught Exceptions handler library for android
