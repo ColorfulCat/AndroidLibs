@@ -6,6 +6,14 @@
 
 ---
 
+**FrescoImageViewer**: https://github.com/stfalcon-studio/FrescoImageViewer
+
+对 ImageView 实现了全屏浏览效果，同时支持了图片缩放效果，和滑动消失效果
+
+<img src = "https://raw.githubusercontent.com/stfalcon-studio/FrescoImageViewer/master/images/fresco_image_viewer_demo.gif" width = "270"/>
+
+---
+
 **RecyclerViewCardGallery**: https://github.com/huazhiyuan2008/RecyclerViewCardGallery
 
 RecyclerView实现Card Gallery效果，替代ViewPager方案
