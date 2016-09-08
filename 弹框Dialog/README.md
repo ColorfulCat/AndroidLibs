@@ -6,6 +6,14 @@
 
 ---
 
+**FlipShare**: https://github.com/JeasonWong/FlipShare
+
+炫酷分享组件
+
+<img src="https://raw.githubusercontent.com/jeasonwong/FlipShare/master/screenshots/flipshare.gif" width="280" />
+
+---
+
 **DropDownWarning**: https://github.com/Brudigem/DropDownWarning
 
 掉落通知效果
