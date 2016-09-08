@@ -6,6 +6,14 @@
 
 ---
 
+**DropDownWarning**: https://github.com/Brudigem/DropDownWarning
+
+掉落通知效果
+
+<img src="https://raw.githubusercontent.com/Brudigem/DropDownWarning/master/gif/bounce.gif" width="320" />
+
+---
+
 **ColorDialog**: https://github.com/andyxialm/ColorDialog
 
 ColorDialog & PromptDialog
