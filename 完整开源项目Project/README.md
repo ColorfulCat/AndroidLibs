@@ -6,6 +6,14 @@
 
 ---
 
+**LingDong2.0**: https://github.com/zhoubowen-sky/LingDong2.0
+
+“面对面文件快传”，Android端灵动快传，安卓互传文件，局域网，无网传输文件
+
+<img src="https://raw.githubusercontent.com/zhoubowen-sky/LingDong2.0/master/github-images-folder/cebianlan.jpg" width="270" /> <img src="https://raw.githubusercontent.com/zhoubowen-sky/LingDong2.0/master/github-images-folder/main.jpg" width="270" /> <img src="https://raw.githubusercontent.com/zhoubowen-sky/LingDong2.0/master/github-images-folder/trans.jpg" width="270" />
+
+---
+
 **code-reader**: https://github.com/loopeer/code-reader
 
 手机端代码阅读
