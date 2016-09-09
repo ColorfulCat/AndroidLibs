@@ -6,6 +6,12 @@
 
 ---
 
+**delta**: https://github.com/byteam/delta
+
+Android热修复与增量升级，基于微信Tinker原理
+
+---
+
 **Amigo**: https://github.com/eleme/Amigo
 
 A hotfix library for Android platform, and not just this...
