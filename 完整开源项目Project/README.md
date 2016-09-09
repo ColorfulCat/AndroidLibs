@@ -6,6 +6,14 @@
 
 ---
 
+**GeekNews**: https://github.com/codeestX/GeekNews
+
+A pure reading App based on Material Design + MVP + RxJava + Retrofit + Dagger2 + Realm + Glide
+
+<img src="https://github.com/codeestX/GeekNews/raw/master/screenshots/GIF1.gif" width="320" /> <img src="https://github.com/codeestX/GeekNews/raw/master/screenshots/GIF2.gif" width="320" />
+
+---
+
 **Filmy**: https://github.com/salRoid/Filmy
 
 一款超漂亮的基于 MD 设计的电影 App
