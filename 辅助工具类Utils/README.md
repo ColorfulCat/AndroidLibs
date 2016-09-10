@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**ResourcesPoet**: https://github.com/Commit451/ResourcesPoet
+
+Like JavaPoet, but for Android XML Resources
+
+---
+
 **root-tools**: https://github.com/rarnu/root-tools
 
 RootTools 是一款专注于给 root 后的用户提供方便的软件
