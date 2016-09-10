@@ -369,6 +369,14 @@ RecyclerView.Adapter 的封装，可自动排序并添加 header
 
 ---
 
+**WaveSideBar**: https://github.com/gjiazhe/WaveSideBar
+
+An index side bar with wave effect
+
+<img src="https://raw.githubusercontent.com/gjiazhe/WaveSideBar/master/screenshot/gif.gif" width="270" /> <img src="https://raw.githubusercontent.com/gjiazhe/WaveSideBar/master/screenshot/position_left.png" width="270" />
+
+---
+
 **Android-QuickSideBar**: https://github.com/saiwu-bigkoo/Android-QuickSideBar
 
 帮助快速查阅对应分组的侧边栏
