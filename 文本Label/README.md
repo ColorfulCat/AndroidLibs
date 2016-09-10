@@ -6,6 +6,14 @@
 
 ---
 
+**AutoTypingTextView**: https://github.com/krsticdragan/AutoTypingTextView
+
+带动画、加密、解密 EditText
+
+<img ="https://camo.githubusercontent.com/e075cf282998a371e6c988adc055b3b2a06a6a9a/687474703a2f2f7777772e64726167616e6b72737469632e636f6d2f6175746f7479706574657874766965772f616c6c616e696d6174696f6e2e676966" width="320"/>
+
+---
+
 **EllipsizeTextView**: https://github.com/dinuscxj/EllipsizeTextView
 
 可显示省略号的 EditText
