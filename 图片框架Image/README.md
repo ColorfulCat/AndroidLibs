@@ -6,6 +6,14 @@
 
 ---
 
+**TedBottomPicker**: https://github.com/ParkSangGwon/TedBottomPicker
+
+TedBottomPicker is simple image picker using bottom sheet
+
+<img src = "https://raw.githubusercontent.com/ParkSangGwon/TedBottomPicker/master/screenshot1.jpeg" width = "320"/> <img src = "https://raw.githubusercontent.com/ParkSangGwon/TedBottomPicker/master/demo.gif" width = "320"/>
+
+---
+
 **FrescoImageViewer**: https://github.com/stfalcon-studio/FrescoImageViewer
 
 对 ImageView 实现了全屏浏览效果，同时支持了图片缩放效果，和滑动消失效果
