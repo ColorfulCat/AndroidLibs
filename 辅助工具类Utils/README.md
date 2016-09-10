@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**root-tools**: https://github.com/rarnu/root-tools
+
+RootTools 是一款专注于给 root 后的用户提供方便的软件
+
+---
+
 **android-autoprovider**: https://github.com/futuresimple/android-autoprovider
 
 Utility for creating ContentProviders without boilerplate and with heavy customization options
