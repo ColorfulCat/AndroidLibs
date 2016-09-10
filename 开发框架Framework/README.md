@@ -24,6 +24,12 @@ A hotfix library for Android platform, and not just this...
 
 ---
 
+**SmartGo**: https://github.com/Sausure/SmartGo
+
+An easier way to launch framework components
+
+---
+
 **restito**: https://github.com/mkotsur/restito
 
 Restito - mocking framework for testing rest clients
