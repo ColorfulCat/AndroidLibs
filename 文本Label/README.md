@@ -6,6 +6,14 @@
 
 ---
 
+**AutoFormatEditText**: https://github.com/aldoKelvianto/AutoFormatEditText
+
+数字自动添加分割 EditText
+
+<img ="https://camo.githubusercontent.com/df9757767f491bed46b18bb6f2575ccf4f09f950/687474703a2f2f696d672e796f75747562652e636f6d2f76692f384566373955717748666b2f302e6a7067" width="480"/>
+
+---
+
 **AutoTypingTextView**: https://github.com/krsticdragan/AutoTypingTextView
 
 带动画、加密、解密 EditText
