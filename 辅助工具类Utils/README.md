@@ -1047,6 +1047,14 @@ Helper to generate Javadocs within a Gradle Android library
 
 ---
 
+**permissive**: https://github.com/jksiezni/permissive
+
+A lightweight Android library for permissions handling at runtime
+
+<img src="https://raw.githubusercontent.com/jksiezni/permissive/gh-pages/images/screenshots/educate_up_front.png" width="270" /> <img src="https://raw.githubusercontent.com/jksiezni/permissive/gh-pages/images/screenshots/educate_in_context.png" width="270" /> <img src="https://raw.githubusercontent.com/jksiezni/permissive/gh-pages/images/screenshots/ask_in_context.png" width="270" />
+
+---
+
 **FcPermissions**: https://github.com/lypeer/FcPermissions
 
 6.0权限管理
