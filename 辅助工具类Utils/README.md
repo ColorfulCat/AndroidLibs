@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**RxJava2Interop**: https://github.com/akarnokd/RxJava2Interop
+
+RxJava 1.x and 2.x 转换
+
+---
+
 **java-error-handler**: https://github.com/Workable/java-error-handler
 
 异常处理
