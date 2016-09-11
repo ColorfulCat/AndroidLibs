@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**java-error-handler**: https://github.com/Workable/java-error-handler
+
+异常处理
+
+---
+
 **java-object-diff**: https://github.com/SQiShER/java-object-diff
 
 Library to diff and merge Java objects with ease http://sqisher.github.io/java-object-diff/
