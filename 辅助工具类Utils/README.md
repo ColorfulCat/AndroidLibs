@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**Android-ORM**: https://github.com/Jamling/Android-ORM
+
+Android ORM (Aorm) in an ORM implementation on Android platform
+
+---
+
 **ResourcesPoet**: https://github.com/Commit451/ResourcesPoet
 
 Like JavaPoet, but for Android XML Resources
