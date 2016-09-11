@@ -6,6 +6,12 @@
 
 ---
 
+**realm-android-adapters**: https://github.com/realm/realm-android-adapters
+
+This repository holds adapters for combining Realm Java with Android UI components and framework classes
+
+---
+
 **EasyRecycleAdapterHelper**: https://github.com/HotBitmapGG/EasyRecycleAdapterHelper
 
 一个轻量级简单实用的RecycleViewAdapter辅助类库
