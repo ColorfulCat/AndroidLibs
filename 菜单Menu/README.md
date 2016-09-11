@@ -6,6 +6,14 @@
 
 ---
 
+**FantasySlide**: https://github.com/mzule/FantasySlide
+
+一个 DrawerLayout 的扩展,具有帅气的动画与创新的交互，一次手势完成滑出侧边栏与选择菜单
+
+<img src="https://raw.githubusercontent.com/mzule/FantasySlide/master/sample.gif" width="320"/>
+
+---
+
 **vertical_floating_menu**: https://github.com/samsao/vertical_floating_menu
 
 vertical_floating_menu
