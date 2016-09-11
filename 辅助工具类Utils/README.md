@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**java-object-diff**: https://github.com/SQiShER/java-object-diff
+
+Library to diff and merge Java objects with ease http://sqisher.github.io/java-object-diff/
+
+---
+
 **Android-ORM**: https://github.com/Jamling/Android-ORM
 
 Android ORM (Aorm) in an ORM implementation on Android platform
