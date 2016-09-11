@@ -6,6 +6,14 @@
 
 ---
 
+**CannyViewAnimator**: https://github.com/LiveTyping/CannyViewAnimator
+
+好看的动画
+
+<img src="https://raw.githubusercontent.com/LiveTyping/CannyViewAnimator/master/readme_extra/top_1.gif" width="240" /> <img src="https://raw.githubusercontent.com/LiveTyping/CannyViewAnimator/master/readme_extra/top_2.gif" width="240" /> <img src="https://raw.githubusercontent.com/LiveTyping/CannyViewAnimator/master/readme_extra/top_3.gif" width="240" />
+
+---
+
 **ClockDrawableAnimation**: https://github.com/evelyne24/ClockDrawableAnimation
 
 Android animated clock Drawable
