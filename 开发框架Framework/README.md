@@ -30,6 +30,12 @@ An easier way to launch framework components
 
 ---
 
+**abtestgen**: https://github.com/imperial-crystalline-recursion/abtestgen
+
+An Android library for generating simple A/B tests
+
+---
+
 **restito**: https://github.com/mkotsur/restito
 
 Restito - mocking framework for testing rest clients
