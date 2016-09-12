@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**Preservely**: https://github.com/samiuelson/Preservely
+
+安卓横竖屏变化处理库
+
+---
+
 **RxJava2Interop**: https://github.com/akarnokd/RxJava2Interop
 
 RxJava 1.x and 2.x 转换
