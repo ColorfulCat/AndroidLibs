@@ -120,6 +120,14 @@ LiveButton
 
 ---
 
+**SwitchButton**: https://github.com/BaymaxTong/SwitchButton
+
+DayOrNight SwitchButton
+
+<img src="https://raw.githubusercontent.com/BaymaxTong/SwitchButton/master/gifImage/SwitchButton.gif" width="320" />
+
+---
+
 **DayNightToggleButton**: https://github.com/SilenceDut/DayNightToggleButton
 
 A Funny ToggleButton for day and night change
