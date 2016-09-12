@@ -6,6 +6,14 @@
 
 ---
 
+**RetailMeNotList**: https://github.com/iielse/RetailMeNotList
+
+视差效果的 Item 滑动变大
+
+<img src="https://github.com/iielse/RetailMeNotList/raw/master/previews/123456789.gif" width="320" /> <img src="https://github.com/iielse/RetailMeNotList/raw/master/previews/987654321.gif" width="320" />
+
+---
+
 **realm-android-adapters**: https://github.com/realm/realm-android-adapters
 
 This repository holds adapters for combining Realm Java with Android UI components and framework classes
