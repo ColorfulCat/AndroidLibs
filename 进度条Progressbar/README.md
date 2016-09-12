@@ -6,6 +6,14 @@
 
 ---
 
+**ProgressRoundButton**: https://github.com/cctanfujun/ProgressRoundButton
+
+渐变的下载按钮，发现不少小伙伴要做类似效果的
+
+<img src="https://camo.githubusercontent.com/9f8bcc3edf49c2052cc0d1258143282c5abedd38/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f303036306c6d37546777316578317972326239786a6a3330656730676f37356e2e6a7067" width="320" />
+
+---
+
 **RingProgressBar**: https://github.com/HotBitmapGG/RingProgressBar
 
 自定义控件のMaterial design风格的圆环进度条
