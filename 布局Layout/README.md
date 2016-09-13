@@ -1010,6 +1010,14 @@ The TileView widget is a subclass of android.view.ViewGroup that asynchronously 
 
 ---
 
+**TapTargetView**: https://github.com/KeepSafe/TapTargetView
+
+超级漂亮的一个高亮功能提醒效果
+
+<img src="https://raw.githubusercontent.com/KeepSafe/TapTargetView/master/art/video.gif" width="270" /> <img src="https://raw.githubusercontent.com/KeepSafe/TapTargetView/master/art/screenshot1.png" width="270" /> <img src="https://raw.githubusercontent.com/KeepSafe/TapTargetView/master/art/screenshot2.png" width="270" />
+
+---
+
 **TutoShowcase**: https://github.com/florent37/TutoShowcase
 
 A simple and Elegant Showcase view for Android
