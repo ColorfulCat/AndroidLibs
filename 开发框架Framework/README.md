@@ -82,6 +82,12 @@ Lightweight Dagger 2 scoped component management library
 
 ---
 
+**ThirtyInch**: https://github.com/grandcentrix/ThirtyInch
+
+a MVP library for Android
+
+---
+
 **Auster**: https://github.com/Prokky/Auster
 
 Simple lightweight MVP library for Android
