@@ -190,6 +190,14 @@ A simple implementation of swipe card like StreetView!!
 
 ---
 
+**SupermanMusicPlayer**: https://github.com/tedhappy/SupermanMusicPlayer
+
+本地音乐播放器源码, 该音乐播放器除了实现基本的播放音乐之外, 还可以睡眠定时, 剪辑铃声, 第三方分享等功能
+
+<img src="https://raw.githubusercontent.com/tedhappy/SupermanMusicPlayer/master/screenshots/1.gif" width="270" /> <img src="https://raw.githubusercontent.com/tedhappy/SupermanMusicPlayer/master/screenshots/2.gif" width="270" /> <img src="https://raw.githubusercontent.com/tedhappy/SupermanMusicPlayer/master/screenshots/5.gif" width="270" />
+
+---
+
 **android-UniversalMusicPlayer**: https://github.com/googlesamples/android-UniversalMusicPlayer
 
 多平台（手机，平板，手表）音乐播放器
