@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**DataAutoAccess**: https://github.com/ThirtyDegreesRay/DataAutoAccess
+
+Android由于系统内存不足时，activity被杀死时的数据存取方案
+
+---
+
 **Preservely**: https://github.com/samiuelson/Preservely
 
 安卓横竖屏变化处理库
