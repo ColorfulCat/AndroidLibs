@@ -130,6 +130,14 @@ Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法
 
 ---
 
+**Qart**: https://github.com/scola/Qart
+
+将生成的二维码与选择的图片合成，生成的新二维码
+
+<img src="https://camo.githubusercontent.com/b3484d2714d126883be6a4a1ec69ba8f1ed402a3/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f613135623461666567773166376a6c766f746468776a32306b66306b6664676d2e6a7067" width="320" />
+
+---
+
 **android-zxingLibrary**: https://github.com/yipianfengye/android-zxingLibrary
 
 Android 二维码，条码扫描，生成库
