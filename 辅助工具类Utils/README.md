@@ -24,6 +24,14 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**ActiveHashTag**: https://github.com/mugku/ActiveHashTag
+
+Android HashTag Lib
+
+<img src="https://raw.githubusercontent.com/mugku/ActiveHashTag/master/pic/pic.gif" width="600"/>
+
+---
+
 **DataAutoAccess**: https://github.com/ThirtyDegreesRay/DataAutoAccess
 
 Android由于系统内存不足时，activity被杀死时的数据存取方案

@@ -30,6 +30,14 @@ An easier way to launch framework components
 
 ---
 
+**green-coffee**: https://github.com/mauriciotogneri/green-coffee
+
+Android library that allows you to run Cucumber scenarios in your instrumentation tests
+
+<img src="https://camo.githubusercontent.com/5948fb2a1f9c0ec487383669be1cdbed22d38c87/687474703a2f2f692e696d6775722e636f6d2f34724d4b314b4b2e676966" width="600"/>
+
+---
+
 **abtestgen**: https://github.com/imperial-crystalline-recursion/abtestgen
 
 An Android library for generating simple A/B tests
