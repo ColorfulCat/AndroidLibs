@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**RxJava2-Android-Samples**: https://github.com/amitshekhariitbhu/RxJava2-Android-Samples
+
+RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
+
+---
+
 **java-object-diff**: https://github.com/SQiShER/java-object-diff
 
 Library to diff and merge Java objects with ease http://sqisher.github.io/java-object-diff/
