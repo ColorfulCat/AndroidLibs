@@ -30,6 +30,12 @@ RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJ
 
 ---
 
+**fingerlock**: https://github.com/aitorvs/fingerlock
+
+指纹认证
+
+---
+
 **java-object-diff**: https://github.com/SQiShER/java-object-diff
 
 Library to diff and merge Java objects with ease http://sqisher.github.io/java-object-diff/
