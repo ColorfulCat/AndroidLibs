@@ -6,6 +6,14 @@
 
 ---
 
+**colortextview**: https://github.com/apocalx/colortextview
+
+Colors for TextViews
+
+<img ="https://raw.githubusercontent.com/apocalx/colortextview/master/screenshot.png" width="320"/>
+
+---
+
 **AutoFormatEditText**: https://github.com/aldoKelvianto/AutoFormatEditText
 
 数字自动添加分割 EditText
