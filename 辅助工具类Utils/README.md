@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**PlayVideo-OpenGL**: https://github.com/ChouRay/PlayVideo-OpenGL
+
+通过Opengl ES去绘制视频的demo
+
+---
+
 **XTML**: https://github.com/metalurgus/XTML
 
 GSON analog for serialization/deserialization of Java objects into HTML code and back
