@@ -30,6 +30,12 @@ RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJ
 
 ---
 
+**AndroidAudioConverter**: https://github.com/adrielcafe/AndroidAudioConverter
+
+音频转换 支持：WAV, AAC, MP3, M4A, WMA and FLAC
+
+---
+
 **fingerlock**: https://github.com/aitorvs/fingerlock
 
 指纹认证
