@@ -1115,6 +1115,12 @@ Helper to generate Javadocs within a Gradle Android library
 
 ---
 
+**allowme**: https://github.com/aitorvs/allowme
+
+Simple library to handle Android M permissions
+
+---
+
 **permissive**: https://github.com/jksiezni/permissive
 
 A lightweight Android library for permissions handling at runtime
