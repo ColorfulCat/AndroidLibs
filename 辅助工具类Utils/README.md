@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**XTML**: https://github.com/metalurgus/XTML
+
+GSON analog for serialization/deserialization of Java objects into HTML code and back
+
+---
+
 **DBC-Android**: https://github.com/busybusy/DBC-Android
 
 Fluent design by contract constructs for android
