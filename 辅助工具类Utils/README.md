@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**LocalNetwork**: https://github.com/itsJoKr/LocalNetwork
+
+两设备通过 Wifi 通信
+
+---
+
 **AnalyticsKit-Android**: https://github.com/busybusy/AnalyticsKit-Android
 
 Analytics framework for Android
