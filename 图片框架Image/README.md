@@ -130,6 +130,14 @@ Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法
 
 ---
 
+**Android-Zxing**: https://github.com/mylhyl/Android-Zxing
+
+android google zxing 可配置扫描框、线样式 ，生成二维码（文字、联系人） http://blog.csdn.net/hupei/article/details/51859171
+
+<img src="https://raw.githubusercontent.com/mylhyl/Android-Zxing/master/preview/gif.gif" width="270" />
+
+---
+
 **Qart**: https://github.com/scola/Qart
 
 将生成的二维码与选择的图片合成，生成的新二维码
