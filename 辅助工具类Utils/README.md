@@ -408,12 +408,6 @@ Interactive Extensions for Java, the dual of RxJava. Originally implemented in t
 
 ---
 
-**RealmContactsForAndroid**: https://github.com/SergioDim3nsions/RealmContactsForAndroid
-
-This is an example for realm database in android
-
----
-
 **FlatBuffer**: https://github.com/amitshekhariitbhu/FlatBuffer
 
 This app shows how fast flat buffer works when we compare it with json
@@ -704,6 +698,24 @@ RxJava 和 RxBinding 结合的格式验证库
 
 ---
 
+**RealmRxNotifications**: https://github.com/ZherebtsovAlexandr/RealmRxNotifications
+
+Reactive layer (similar to the pattern repository) for the Realm
+
+---
+
+**Kolumbus**: https://github.com/MGaetan89/Kolumbus
+
+浏览应用 Realm 数据库
+
+---
+
+**RealmContactsForAndroid**: https://github.com/SergioDim3nsions/RealmContactsForAndroid
+
+This is an example for realm database in android
+
+---
+
 **RebDroid**: https://github.com/Snakeice/RebDroid
 
 Realm DB browser and editor
@@ -841,12 +853,6 @@ AsyncTask 替代者
 **thinr**: https://github.com/bjoernQ/thinr
 
 AsyncTask 替代者
-
----
-
-**Kolumbus**: https://github.com/MGaetan89/Kolumbus
-
-浏览应用 Realm 数据库
 
 ---
 
