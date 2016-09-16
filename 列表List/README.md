@@ -6,6 +6,14 @@
 
 ---
 
+**android-ElasticListView**: https://github.com/eschao/android-ElasticListView
+
+ListView 下拉刷新，上拉更多
+
+<img src="https://raw.githubusercontent.com/eschao/android-ElasticListView/master/images/elasticlistview_updating.png" width="300" /> <img src="https://raw.githubusercontent.com/eschao/android-ElasticListView/master/images/elasticlistview_loading.png" width="300" />
+
+---
+
 **RetailMeNotList**: https://github.com/iielse/RetailMeNotList
 
 视差效果的 Item 滑动变大
