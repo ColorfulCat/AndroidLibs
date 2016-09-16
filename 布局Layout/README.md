@@ -5,6 +5,14 @@
 
 ---
 
+**MiniNavigationDrawer**: https://github.com/nganthony/MiniNavigationDrawer
+
+Implementation of mini navigation drawer for Android
+
+<img src="https://camo.githubusercontent.com/20106ebe2a024f5a50729c22f970b2cc98f5105b/687474703a2f2f6e67616e74686f6e792e6769746875622e696f2f696d616765732f616e64726f69642d6d696e692d6e617669676174696f6e2d66696e616c2e676966" width="800" />
+
+---
+
 **ThumbnailMenu**: https://github.com/Hitomis/ThumbnailMenu
 
 简单而精致的 Fragment 菜单控件，它可以让你切换 Fragment 的时候眼前一亮
