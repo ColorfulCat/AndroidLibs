@@ -6,6 +6,14 @@
 
 ---
 
+**pictorial**: https://github.com/jonasbleyl/pictorial
+
+A universal image viewer for Android
+
+<img src = "https://camo.githubusercontent.com/31ffb9fe8e4dd0878d7b35919fc41a13fe6e2345/687474703a2f2f692e696d6775722e636f6d2f747a6c423169302e706e67" width = "320"/>
+
+---
+
 **TedBottomPicker**: https://github.com/ParkSangGwon/TedBottomPicker
 
 TedBottomPicker is simple image picker using bottom sheet
