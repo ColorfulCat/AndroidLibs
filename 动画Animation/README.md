@@ -6,6 +6,14 @@
 
 ---
 
+**DoorSignView**: https://github.com/renaudcerrato/DoorSignView
+
+类似商店关门的动画
+
+<img src="https://raw.githubusercontent.com/renaudcerrato/DoorSignView/master/assets/sample.gif" width="240" />
+
+---
+
 **CannyViewAnimator**: https://github.com/LiveTyping/CannyViewAnimator
 
 好看的动画
