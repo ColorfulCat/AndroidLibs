@@ -381,6 +381,14 @@ Quick image ViewPagers
 
 ---
 
+**Exposure-Video-Player**: https://github.com/UrbanChrisy/Exposure-Video-Player
+
+Custom Android video player API library
+
+<img src="https://raw.githubusercontent.com/UrbanChrisy/Exposure-Video-Player/master/screenshots/screenshot_1.png" width="320" /> <img src="https://raw.githubusercontent.com/UrbanChrisy/Exposure-Video-Player/master/screenshots/screenshot_2.png" width="320" />
+
+---
+
 **jjdxm_ijkplayer**: https://github.com/jjdxmashl/jjdxm_ijkplayer
 
 基于ijkplayer简单的UI界面 当前项目是基于ijkplayer项目进行的播放器界面UI封装
