@@ -390,6 +390,14 @@ Views and Drawable for displaying animated GIFs on Android
 
 ---
 
+**LowPoly**: https://github.com/CoXier/LowPoly
+
+一行代码实现 LowPoly
+
+<img src="https://raw.githubusercontent.com/CoXier/LowPoly/master/art/captain.jpg" width="640" />
+
+---
+
 **LowPoly**: https://github.com/zzhoujay/LowPoly
 
 Low Poly风格图片生成器
