@@ -190,6 +190,14 @@ A simple implementation of swipe card like StreetView!!
 
 ---
 
+**StylishMusicPlayer**: https://github.com/ryanhoo/StylishMusicPlayer
+
+A stylish music player for android device 16+
+
+<img src="https://raw.githubusercontent.com/ryanhoo/StylishMusicPlayer/develop/materials/Artboard.png" width="640" />
+
+---
+
 **SupermanMusicPlayer**: https://github.com/tedhappy/SupermanMusicPlayer
 
 本地音乐播放器源码, 该音乐播放器除了实现基本的播放音乐之外, 还可以睡眠定时, 剪辑铃声, 第三方分享等功能
