@@ -92,6 +92,12 @@ Android HashTag Lib
 
 ---
 
+**Save-to-Activity**: https://github.com/Metroxe/Save-to-Activity
+
+This library is an easy to use series of commands to interact with a hashmap across multiple fragments attached to any running activity
+
+---
+
 **DataAutoAccess**: https://github.com/ThirtyDegreesRay/DataAutoAccess
 
 Android由于系统内存不足时，activity被杀死时的数据存取方案
