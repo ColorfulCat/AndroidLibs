@@ -6,6 +6,14 @@
 
 ---
 
+**CircleRecyclerView**: https://github.com/kHRYSTAL/CircleRecyclerView
+
+CircleRecyclerView
+
+<img src="https://raw.githubusercontent.com/kHRYSTAL/CircleRecyclerView/master/screenshot/screenshot1.gif" width="320" /> <img src="https://raw.githubusercontent.com/kHRYSTAL/CircleRecyclerView/master/screenshot/screenshot2.gif" width="320" />
+
+---
+
 **android-ElasticListView**: https://github.com/eschao/android-ElasticListView
 
 ListView 下拉刷新，上拉更多
