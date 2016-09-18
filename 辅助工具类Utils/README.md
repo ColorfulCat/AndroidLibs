@@ -340,6 +340,12 @@ Gradle tips for all of us
 
 ---
 
+**droitatedDB**: https://github.com/arconsis/droitatedDB
+
+droitatedDB is a lightweight framework, which frees you from the burden of dealing with the Android SQLite database directly 
+
+---
+
 **CopyExternalDB**: https://github.com/emrekose26/CopyExternalDB
 
 数据库复制
