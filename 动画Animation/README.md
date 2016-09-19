@@ -6,6 +6,14 @@
 
 ---
 
+**FlipAnimation**: https://github.com/4xes/FlipAnimation
+
+双面翻转 View 效果
+
+<img src="https://raw.githubusercontent.com/4xes/FlipAnimation/master/art/readme_demo.gif" width="240" />
+
+---
+
 **DoorSignView**: https://github.com/renaudcerrato/DoorSignView
 
 类似商店关门的动画
