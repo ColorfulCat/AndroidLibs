@@ -6,6 +6,14 @@
 
 ---
 
+**SmartMenu**: https://github.com/xue5455/SmartMenu
+
+一个好看的Float菜单
+
+<img src="https://raw.githubusercontent.com/xue5455/SmartMenu/master/screenshot/Gif.gif" width="320"/>
+
+---
+
 **FantasySlide**: https://github.com/mzule/FantasySlide
 
 一个 DrawerLayout 的扩展,具有帅气的动画与创新的交互，一次手势完成滑出侧边栏与选择菜单
