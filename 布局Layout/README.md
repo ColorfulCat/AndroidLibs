@@ -756,11 +756,19 @@ A beautiful way to introduce users to your app
 
 ---
 
-**LiulishuoPreview**: https://github.com/JeasonWong/LiulishuoPreview
+**ahoy-onboarding**: https://github.com/codemybrainsout/ahoy-onboarding
 
-英语流利说炫酷引导页
+带有色彩渐变的新功能引导页
 
-<img src="https://raw.githubusercontent.com/jeasonwong/LiulishuoPreview/master/screenshots/liulishuo.gif" width="280" />
+<img src="https://raw.githubusercontent.com/codemybrainsout/ahoy-onboarding/master/preview/preview-gradient.png" width="640" />
+
+---
+
+**GuideView**: https://github.com/eoinfogarty/Onboarding
+
+A beautiful way to introduce users to your app
+
+<img src="https://github.com/eoinfogarty/Onboarding/raw/master/graphics/example.gif" width="640" />
 
 ---
 
