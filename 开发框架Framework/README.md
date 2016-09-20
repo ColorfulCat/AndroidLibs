@@ -6,6 +6,14 @@
 
 ---
 
+**AnoleFix**: https://github.com/dodola/AnoleFix
+
+Another hotfix 另一个热修复方案 Alpha，来自InstantRun 和 Robust 类似
+
+<img src="https://raw.githubusercontent.com/dodola/AnoleFix/master/screenshot/2.png" width="320"/>
+
+---
+
 **delta**: https://github.com/byteam/delta
 
 Android热修复与增量升级，基于微信Tinker原理
