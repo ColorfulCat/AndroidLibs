@@ -316,6 +316,14 @@ Tool for create complex morphing animations using VectorDrawables (allows morphi
 
 ---
 
+**GoogleClock**: https://github.com/lypeer/GoogleClock
+
+纯用SVG做的Google I/O 2016那个炫酷的时钟
+
+<img src="https://raw.githubusercontent.com/lypeer/GoogleClock/master/gif/smallclock.gif" width="320" />
+
+---
+
 **AnimatedSvgView**: https://github.com/jaredrummler/AnimatedSvgView
 
 Animated SVG Drawing for Android
