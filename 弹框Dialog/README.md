@@ -6,6 +6,14 @@
 
 ---
 
+**PlaceSearchDialog**: https://github.com/codemybrainsout/PlaceSearchDialog
+
+位置搜索智能提示框
+
+<img src="https://raw.githubusercontent.com/codemybrainsout/PlaceSearchDialog/master/preview/preview.png" width="640" />
+
+---
+
 **FlipShare**: https://github.com/JeasonWong/FlipShare
 
 炫酷分享组件
