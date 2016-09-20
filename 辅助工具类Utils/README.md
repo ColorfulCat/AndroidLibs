@@ -24,9 +24,15 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**maoni-email**: https://github.com/rm3l/maoni-email
+
+Android 收集用户基本信息利器，比如 App 崩溃后的地理位置，GPS网络状态，当前页面截屏等
+
+---
+
 **PlayVideo-OpenGL**: https://github.com/ChouRay/PlayVideo-OpenGL
 
-通过Opengl ES去绘制视频的demo
+通过Opengl ES去绘制视频的demo(可实现视频画中画)
 
 ---
 
