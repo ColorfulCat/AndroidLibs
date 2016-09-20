@@ -37,13 +37,6 @@ Please Pull Request~
 希望各位能帮忙添加一些优秀的内容，为开源做一份贡献~ ^ ^ 
 快来PR吧~
 
----
-
-Contributors:
-
-| [大花猫(Owner)](http://androidcat.com/) | [jp1017](http://jp1017.github.io/) | [Patrick](15920996910sun@gmail.com) | [孙福生](http://sunfusheng.com/) |
-| :---: | :---: | :---: | :---: |
-| <img src="https://avatars1.githubusercontent.com/u/6687122?v=3&s=460" width="240"/> | <img src="https://avatars3.githubusercontent.com/u/7868514?v=3&s=460" width="240"/> | <img src="https://avatars0.githubusercontent.com/u/4728583?v=3&s=460" width="240"/>  | <img src="https://avatars1.githubusercontent.com/u/8130553?v=3&s=460" width="240"/> |
 
 ---
 
