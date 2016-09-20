@@ -30,6 +30,14 @@ Android 收集用户基本信息利器，比如 App 崩溃后的地理位置，G
 
 ---
 
+**maoni**: https://github.com/rm3l/maoni
+
+Android 收集用户基本信息利器，比如 App 崩溃后的地理位置，GPS网络状态，当前页面截屏等
+
+<img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/maoni_2.3.1.gif" width="320"/>
+
+---
+
 **PlayVideo-OpenGL**: https://github.com/ChouRay/PlayVideo-OpenGL
 
 通过Opengl ES去绘制视频的demo(可实现视频画中画)
