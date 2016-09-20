@@ -6,6 +6,14 @@
 
 ---
 
+**UPMiss**: https://github.com/qiujuer/UPMiss
+
+一个完整的生日管理 App
+
+<img src="https://raw.githubusercontent.com/qiujuer/UPMiss/master/arts/shot.png" width="640" />
+
+---
+
 **GeekNews**: https://github.com/codeestX/GeekNews
 
 A pure reading App based on Material Design + MVP + RxJava + Retrofit + Dagger2 + Realm + Glide
