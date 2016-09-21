@@ -48,9 +48,17 @@ Colors for TextViews
 
 **SmsCodeHelper**: https://github.com/RikkaW/SmsCodeHelper
 
-识别短信中的二维码并复制
+识别短信中的验证码并复制
 
 <img ="https://raw.githubusercontent.com/RikkaW/SmsCodeHelper/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="180"/>
+
+---
+
+**richeditor-android**: https://github.com/wasabeef/richeditor-android
+
+目前来看 Android 上最棒的一款富文本编辑器
+
+<img ="https://raw.githubusercontent.com/wasabeef/richeditor-android/master/art/demo2.gif" width="270"/>
 
 ---
 
