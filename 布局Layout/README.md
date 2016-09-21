@@ -748,6 +748,14 @@ Expand your view with no problem
 
 ---
 
+**material-intro-screen**: https://github.com/TangoAgency/material-intro-screen
+
+Material 风格的介绍页，在做介绍的同时，可以向用户申请权限
+
+<img src="https://github.com/TangoAgency/material-intro-screen/raw/master/images/simple_slide.gif" width="270" /> <img src="https://github.com/TangoAgency/material-intro-screen/raw/master/images/custom_slide.gif" width="270" /> <img src="https://github.com/TangoAgency/material-intro-screen/raw/master/images/permissions_slide.gif" width="270" />
+
+---
+
 **GuideView**: https://github.com/eoinfogarty/Onboarding
 
 A beautiful way to introduce users to your app
