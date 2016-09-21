@@ -5,6 +5,14 @@
 
 ---
 
+**and_swipeback**: https://github.com/XBeats/and_swipeback
+
+高仿最新版微信6.2手势滑动返回
+
+<img src="https://raw.githubusercontent.com/XBeats/and_swipeback/master/screenshot/swipeback.gif" width="320" />
+
+---
+
 **MiniNavigationDrawer**: https://github.com/nganthony/MiniNavigationDrawer
 
 Implementation of mini navigation drawer for Android
