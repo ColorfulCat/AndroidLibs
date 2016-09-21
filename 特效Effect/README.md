@@ -6,6 +6,14 @@
 
 ---
 
+**Material-SearchTransition**: https://github.com/alexstyl/Material-SearchTransition
+
+Android 搜索 过度效果
+
+<img src="https://raw.githubusercontent.com/alexstyl/Material-SearchTransition/art/transition-to-search.gif" width="320" />
+
+---
+
 **ScrollingBackgroundView**: https://github.com/noties/ScrollingBackgroundView
 
 可跟随手指滑动，进行响应式滑动的背景效果
