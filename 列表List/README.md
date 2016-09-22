@@ -6,6 +6,14 @@
 
 ---
 
+**pinned-section-listview**: https://github.com/beworker/pinned-section-listview
+
+选中的item置顶的List
+
+<img src="https://raw.githubusercontent.com/beworker/pinned-section-listview/master/web/screen3.png" width="220" />
+
+---
+
 **DoubleStickyHeadersList**: https://github.com/Kenber/DoubleStickyHeadersList
 
 双Header的List
