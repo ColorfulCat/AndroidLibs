@@ -6,6 +6,14 @@
 
 ---
 
+**TelegramGallery**: https://github.com/TangXiaoLv/TelegramGallery
+
+QQ 相册风格，相册选择器
+
+<img src = "https://github.com/TangXiaoLv/TelegramGallery/raw/master/png/1.gif" width = "320"/>
+
+---
+
 **pictorial**: https://github.com/jonasbleyl/pictorial
 
 A universal image viewer for Android
