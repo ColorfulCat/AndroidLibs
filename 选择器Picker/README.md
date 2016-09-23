@@ -6,6 +6,14 @@
 
 ---
 
+**country-picker-x**: https://github.com/ekimual/country-picker-x
+
+城市选择
+
+<img src="https://cloud.githubusercontent.com/assets/16832215/18738030/600bf0c0-80ca-11e6-97b2-0fff48ec1ba5.png" width="320" />
+
+---
+
 **nice-spinner**: https://github.com/arcadefire/nice-spinner
 
 nice-spinner
