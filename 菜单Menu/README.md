@@ -6,6 +6,14 @@
 
 ---
 
+**SpinMenu**: https://github.com/Hitomis/SpinMenu
+
+轮盘样式的 Fragment 选择菜单，可转动轮盘切换 Fragment
+
+<img src="https://raw.githubusercontent.com/Hitomis/SpinMenu/master/preview/menu_cyclic.gif" width="320"/>
+
+---
+
 **SmartMenu**: https://github.com/xue5455/SmartMenu
 
 一个好看的Float菜单
