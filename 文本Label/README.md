@@ -6,6 +6,14 @@
 
 ---
 
+**Material-UpVote**: https://github.com/hiteshsahu/Material-UpVote
+
+Material Design 风格的投票效果
+
+<img ="https://raw.githubusercontent.com/hiteshsahu/Material-UpVote/master/Art/demo_upvote.gif" width="320"/>
+
+---
+
 **colortextview**: https://github.com/apocalx/colortextview
 
 Colors for TextViews
