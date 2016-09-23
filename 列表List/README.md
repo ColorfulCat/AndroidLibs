@@ -6,6 +6,12 @@
 
 ---
 
+**SnappyRecyclerAdapter**: https://github.com/longbkiter07/SnappyRecyclerAdapter
+
+manage RecyclerViewAdapter easier
+
+---
+
 **pinned-section-listview**: https://github.com/beworker/pinned-section-listview
 
 选中的item置顶的List
