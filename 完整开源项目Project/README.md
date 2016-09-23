@@ -6,6 +6,14 @@
 
 ---
 
+**BookReader**: https://github.com/JustWayward/BookReader
+
+“任阅”，开源小说阅读器，高仿追书神器，实现追书推荐、标签检索、翻书效果、文章阅读、缓存章节、日夜间模式、文本朗读等功能
+
+<img src="https://raw.githubusercontent.com/JustWayward/BookReader/master/screenshot/home_zhuishu.png" width="270" /> <img src="https://raw.githubusercontent.com/JustWayward/BookReader/master/screenshot/read_page_4.png" width="270" /> <img src="https://raw.githubusercontent.com/JustWayward/BookReader/master/screenshot/discuss.png" width="270" />
+
+---
+
 **UPMiss**: https://github.com/qiujuer/UPMiss
 
 一个完整的生日管理 App
