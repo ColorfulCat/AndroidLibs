@@ -12,6 +12,14 @@ manage RecyclerViewAdapter easier
 
 ---
 
+**PinnedList-Android**: https://github.com/Joseph82/PinnedList-Android
+
+This library allows you to create a list of items that are pinned by a floating label (text or image) on the left of the list
+
+<img src="https://camo.githubusercontent.com/f5d88bebd99eccc89168d93c8c7ba31583733729/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f79753235353862626d7633747763352f746578745f64656d6f312e6769663f7261773d74727565" width="220" /> <img src="https://camo.githubusercontent.com/2bb257d1e851edcbde37313420cb7de1fccbf7af/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f74376d3779643876683677346a69622f696d6167655f64656d6f312e6769663f7261773d74727565" width="220" />
+
+---
+
 **pinned-section-listview**: https://github.com/beworker/pinned-section-listview
 
 选中的item置顶的List

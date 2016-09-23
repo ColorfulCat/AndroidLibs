@@ -37,6 +37,14 @@ Implementation of mini navigation drawer for Android
 
 ---
 
+**MultiStateView**: https://github.com/XuDaojie/MultiStateView
+
+一个通用状态切换视图
+
+<img src="https://raw.githubusercontent.com/XuDaojie/MultiStateView/develop/art/MultiStateView.gif" width="320" />
+
+---
+
 **StateView**: https://github.com/nukc/StateView
 
 StateView is a lightweight view that absorb characteristics of ViewStub. It can occupy less memory that the initia state is not visible and does not occupy the position of the layout
