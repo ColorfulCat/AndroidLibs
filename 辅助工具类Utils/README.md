@@ -1189,6 +1189,12 @@ Helper to generate Javadocs within a Gradle Android library
 
 ---
 
+**RxPermissionsResult**: https://github.com/VictorAlbertos/RxPermissionsResult
+
+RxJava + 6.0权限申请
+
+---
+
 **allowme**: https://github.com/aitorvs/allowme
 
 Simple library to handle Android M permissions
