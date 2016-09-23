@@ -106,6 +106,12 @@ Android HashTag Lib
 
 ---
 
+**RxActivityResult**: https://github.com/NateWickstrom/RxActivityResult
+
+An Rx wrapper for receiving results from startActivityForResult() as an Observable
+
+---
+
 **Save-to-Activity**: https://github.com/Metroxe/Save-to-Activity
 
 This library is an easy to use series of commands to interact with a hashmap across multiple fragments attached to any running activity
