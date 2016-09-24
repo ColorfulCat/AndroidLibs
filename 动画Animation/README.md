@@ -6,6 +6,14 @@
 
 ---
 
+**BubbleAnimationLayout**: https://github.com/Cleveroad/BubbleAnimationLayout
+
+气泡动画
+
+<img src="https://raw.githubusercontent.com/Cleveroad/BubbleAnimationLayout/master/images/demo_.gif" width="640" />
+
+---
+
 **ActSwitchAnimTool**: https://github.com/Yellow5A5/ActSwitchAnimTool
 
 兼容4.0以上版本的点击扩散动画库，几行代码实现Activity转场动画效果 及新增自定义界面转场动画
