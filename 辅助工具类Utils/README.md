@@ -402,6 +402,12 @@ Android Utils for context and thread
 
 ---
 
+**Versionberg**: https://github.com/rockerhieu/Versionberg
+
+每次 commit 自动生成版本号
+
+---
+
 **AutoVersion**: https://github.com/nillith/AutoVersion
 
 根据 commit 数自动生成版本号
