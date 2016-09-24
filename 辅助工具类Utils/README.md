@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**Pury**: https://github.com/NikitaKozlov/Pury
+
+测量多事件耗时
+
+---
+
 **maoni-email**: https://github.com/rm3l/maoni-email
 
 Android 收集用户基本信息利器，比如 App 崩溃后的地理位置，GPS网络状态，当前页面截屏等
