@@ -6,6 +6,14 @@
 
 ---
 
+**tinker**: https://github.com/Tencent/tinker
+
+腾讯热修复方法 tinker
+
+<img src="https://raw.githubusercontent.com/Tencent/tinker/dev/assets/tinker.png" width="640"/>
+
+---
+
 **AnoleFix**: https://github.com/dodola/AnoleFix
 
 Another hotfix 另一个热修复方案 Alpha，来自InstantRun 和 Robust 类似
