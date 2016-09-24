@@ -5,6 +5,14 @@
 
 ---
 
+**Forcelayout**: https://github.com/kai0masanari/Forcelayout
+
+You can drawing graph with spring-like attractive forces
+
+<img src="https://raw.githubusercontent.com/kai0masanari/Forcelayout/master/art/image2.gif" width="320" /> <img src="https://raw.githubusercontent.com/kai0masanari/Forcelayout/master/art/image3.gif" width="320" />
+
+---
+
 **NodeFlow**: https://github.com/Telenav/NodeFlow
 
 一个实现树形内容展示的库
