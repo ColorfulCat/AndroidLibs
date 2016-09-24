@@ -6,6 +6,14 @@
 
 ---
 
+**PercentBarView**: https://github.com/aykuttasil/PercentBarView
+
+百分比显示
+
+<img ="https://cloud.githubusercontent.com/assets/3179872/18619207/44e432da-7dff-11e6-8988-91d1faf4eed0.gif" width="320"/>
+
+---
+
 **Material-UpVote**: https://github.com/hiteshsahu/Material-UpVote
 
 Material Design 风格的投票效果
