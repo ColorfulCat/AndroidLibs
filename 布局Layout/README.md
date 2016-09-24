@@ -53,6 +53,14 @@ Implementation of mini navigation drawer for Android
 
 ---
 
+**ProgressLayout**: https://github.com/nguyenhoanglam/ProgressLayout
+
+An extension of RelativeLayout that helps show loading, empty and error layout
+
+<img src="https://cloud.githubusercontent.com/assets/4979755/18741168/db29b992-80d7-11e6-9a6a-36b626b003bf.png" width="270" /> <img src="https://cloud.githubusercontent.com/assets/4979755/18741171/db86bb42-80d7-11e6-9d6f-c7a00b2b9b27.png" width="270" /> <img src="https://cloud.githubusercontent.com/assets/4979755/18741169/db7879ec-80d7-11e6-9158-a4ff89b78e79.png" width="270" />
+
+---
+
 **MultiStateView**: https://github.com/XuDaojie/MultiStateView
 
 一个通用状态切换视图
