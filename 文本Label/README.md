@@ -104,6 +104,14 @@ represent any prices in Russian rouble currency
 
 ---
 
+**emojiconize**: https://github.com/rockerhieu/emojiconize
+
+一行代码渲染 emoji
+
+<img src="https://raw.githubusercontent.com/rockerhieu/emojiconize/master/assets/sample.jpg" width="640" />
+
+---
+
 **EmojiEverywhere**: https://github.com/chathudan/EmojiEverywhere
 
 Emoji in TextView, EditText for Android (like Android KitKat Emoji Keyboard)
