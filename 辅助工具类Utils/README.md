@@ -24,6 +24,12 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**AppAuth-Android**: https://github.com/openid/AppAuth-Android
+
+Android client SDK for communicating with OAuth 2.0 and OpenID Connect providers
+
+---
+
 **Pury**: https://github.com/NikitaKozlov/Pury
 
 测量多事件耗时
