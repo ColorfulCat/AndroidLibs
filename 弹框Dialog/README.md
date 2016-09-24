@@ -110,6 +110,14 @@ Magic Toast
 
 ---
 
+**SnackEngage**: https://github.com/ligi/SnackEngage
+
+Engage Users with a Snackbar to e.g. rate or translate the app
+
+<img src="https://raw.githubusercontent.com/ligi/SnackEngage/master/doc/screenshots/rate_small.png" width="320" /> <img src="https://raw.githubusercontent.com/ligi/SnackEngage/master/doc/screenshots/betatest_small.png" width="320" />
+
+---
+
 **FluentSnackbar**: https://github.com/AntonyGolovin/FluentSnackbar
 
 Snackbar 封装库
