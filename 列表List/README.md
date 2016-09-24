@@ -429,6 +429,14 @@ RecyclerView.Adapter 的封装，可自动排序并添加 header
 
 ---
 
+**MaterialScrollBar**: https://github.com/turing-tech/MaterialScrollBar
+
+An Android library that brings the Material Design 5.1 sidebar to pre-5.1 devices
+
+<img src="https://raw.githubusercontent.com/turing-tech/MaterialScrollBar/master/sample.png" width="320" />
+
+---
+
 **WaveSideBar**: https://github.com/gjiazhe/WaveSideBar
 
 An index side bar with wave effect
