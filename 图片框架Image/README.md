@@ -6,6 +6,14 @@
 
 ---
 
+**gallerymodule**: https://github.com/guiguegon/gallerymodule
+
+Simple gallery to retrieve one or more images. It allow to take new photos or videos
+
+<img src = "https://raw.githubusercontent.com/guiguegon/GalleryModule/master/screenshots/gallery.png" width = "320"/> <img src = "https://raw.githubusercontent.com/guiguegon/GalleryModule/master/screenshots/take_photo.png" width = "320"/>
+
+---
+
 **croperino**: https://github.com/ekimual/croperino
 
 图片裁剪
