@@ -6,6 +6,15 @@
 
 ---
 
+**CheckBox**: https://github.com/CoXier/CheckBox
+
+A custom checkbox with animation
+
+<img src="https://raw.githubusercontent.com/CoXier/CheckBox/master/art/screenshot.gif" width="320" />
+
+
+---
+
 **CheckableButton**: https://github.com/ashokslsk/CheckableButton
 
 CheckableView Libarary for Buttons and ImageButtons
