@@ -24,6 +24,14 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 
 ---
 
+**android-data-binding-rxjava**: https://github.com/TangoAgency/android-data-binding-rxjava
+
+Demo that shows how to use RxJava with Android Data Binding ObservableFields
+
+<img src="https://cloud.githubusercontent.com/assets/469111/18312397/db8996fc-7509-11e6-9bcd-0cee0bac0754.gif" width="320"/>
+
+---
+
 **truetime-android**: https://github.com/instacart/truetime-android
 
 获取当前时间
