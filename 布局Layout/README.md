@@ -5,6 +5,14 @@
 
 ---
 
+**android-md-core**: https://github.com/henrytao-me/android-md-core
+
+Material bootstrap for Android development
+
+<img src="https://raw.githubusercontent.com/henrytao-me/android-md-core/master/screenshots/all-in-one.jpg" width="640" />
+
+---
+
 **ABTestView**: https://github.com/shts/ABTestView
 
 View for AB test of Android
