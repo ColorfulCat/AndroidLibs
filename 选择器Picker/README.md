@@ -339,6 +339,14 @@ A material Date Range Picker based on wdullaers MaterialDateTimePicker.
 
 ---
 
+**vertical-slide-color-picker**: https://github.com/veritas1/vertical-slide-color-picker
+
+竖向颜色选择器
+
+<img src="https://camo.githubusercontent.com/35e1b55a96070cb8c5cb0db103bcdf8506378429/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d3042345f39654466387748464a4e455a5757586c7a516d64745a6e4d" width="320" />
+
+---
+
 **HoloColorPicker**: https://github.com/LarsWerkman/HoloColorPicker
 
 An Android Holo themed colorpicker designed by Marie Schweiz
