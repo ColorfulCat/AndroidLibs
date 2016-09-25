@@ -6,6 +6,14 @@
 
 ---
 
+**ViewEffects**: https://github.com/mirrajabi/ViewEffects
+
+Apply custom effects on view backgrounds
+
+<img src="https://cloud.githubusercontent.com/assets/8886687/18458361/c1b9227c-7975-11e6-8105-84a58c37c2aa.jpg" width="270" /> <img src="https://cloud.githubusercontent.com/assets/8886687/18769067/bab40082-8136-11e6-9083-90a74fc86fde.jpg" width="270" />
+
+---
+
 **Material-SearchTransition**: https://github.com/alexstyl/Material-SearchTransition
 
 Android 搜索 过度效果
