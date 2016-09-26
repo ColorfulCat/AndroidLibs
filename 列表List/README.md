@@ -856,7 +856,7 @@ Android library to achieve in an easy way, the behaviour of the home page in the
 
 ---
 
-**Android-ObservableScrollView**: [Android-https://github.com/ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
+**Android-ObservableScrollView**: [https://github.com/ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
 
 Android library to observe scroll events on scrollable views.[http://ksoichiro.github.io/Android-ObservableScrollView/](http://ksoichiro.github.io/Android-ObservableScrollView/)
 
