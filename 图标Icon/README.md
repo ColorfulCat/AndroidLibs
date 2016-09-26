@@ -14,6 +14,14 @@
 
 ---
 
+**live-emoji**: https://github.com/RomainPiel/live-emoji
+
+利用 AnimatedVectorDrawable 实现会动的 emoji
+
+<img src="https://raw.githubusercontent.com/RomainPiel/live-emoji/master/image.gif" width="320" />
+
+---
+
 **emojicon**: https://github.com/rockerhieu/emojicon
 
 A library to show emoji in TextView, EditText (like WhatsApp) for Android
