@@ -339,6 +339,14 @@ A material Date Range Picker based on wdullaers MaterialDateTimePicker.
 
 ---
 
+**colorpreference**: https://github.com/kizitonwose/colorpreference
+
+带颜色选择的 preference
+
+<img src="https://raw.githubusercontent.com/kizitonwose/colorpreference/master/art/screenshot3.png" width="270" /> <img src="https://raw.githubusercontent.com/kizitonwose/colorpreference/master/art/screenshot2.png" width="270" /> <img src="https://raw.githubusercontent.com/kizitonwose/colorpreference/master/art/screenshot1.png" width="270" />
+
+---
+
 **vertical-slide-color-picker**: https://github.com/veritas1/vertical-slide-color-picker
 
 竖向颜色选择器
