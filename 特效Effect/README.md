@@ -335,6 +335,14 @@ Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+
 
 ---
 
+**RealtimeBlurView**: https://github.com/mmin18/RealtimeBlurView
+
+Android 高性能实时模糊（Blur） View 效果Android 高性能实时模糊（Blur） View 效果
+
+<img src="https://raw.githubusercontent.com/mmin18/RealtimeBlurView/master/imgs/1.gif" width="320" />
+
+---
+
 **EtsyBlur**: [https://github.com/Manabu-GT/EtsyBlur](https://github.com/Manabu-GT/EtsyBlur)
 
 EtsyBlur is an Android library that allows developers to easily add a glass-like effect implemented in the Etsy app.
