@@ -182,6 +182,14 @@ showcasing specific features in the app
 
 ---
 
+**polygonsview**: https://github.com/jiangzehui/polygonsview
+
+模仿掌上英雄联盟能力分析效果
+
+<img src="https://raw.githubusercontent.com/jiangzehui/polygonsview/master/png/p1.png" width="320" /> <img src="https://raw.githubusercontent.com/jiangzehui/polygonsview/master/png/p2.png" width="320" />
+
+---
+
 **SpiderWebScoreView**: https://github.com/xiaopansky/SpiderWebScoreView
 
 Android上的一个蜘蛛网评分控件
