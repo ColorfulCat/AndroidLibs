@@ -106,6 +106,12 @@ RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJ
 
 ---
 
+**RxActivityResult**: https://github.com/NateWickstrom/RxActivityResult
+
+RxJava 处理 Activity Result
+
+---
+
 **FragmentArgs**: https://github.com/itsJoKr/FragmentArgs
 
 Fragment 参数传递
