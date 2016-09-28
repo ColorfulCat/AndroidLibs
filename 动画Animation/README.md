@@ -6,6 +6,14 @@
 
 ---
 
+**ClockScroller**: https://github.com/andyb129/ClockScroller
+
+A cool animated RecyclerView clock face scroller handle inspired by the following MaterialUp submission
+
+<img src="https://raw.githubusercontent.com/andyb129/ClockScroller/master/screenshots/clock_scroller_anim.gif" width="320" />
+
+---
+
 **BubbleAnimationLayout**: https://github.com/Cleveroad/BubbleAnimationLayout
 
 气泡动画
