@@ -38,6 +38,12 @@ Android 搜索 过度效果
 
 ---
 
+**Snowfall**: https://github.com/StylingAndroid/Snowfall
+
+下雪动画 https://blog.stylingandroid.com/snowfall
+
+---
+
 **confetti**: https://github.com/jinatonic/confetti
 
 雪花，粒子爆炸效果
