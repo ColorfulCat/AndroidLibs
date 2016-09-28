@@ -204,6 +204,14 @@ A simple Android TextView to display amounts of money in different formats
 
 ---
 
+**cornerlabelview**: https://github.com/czy1121/cornerlabelview
+
+Android 角标组件效果
+
+<img src="https://raw.githubusercontent.com/czy1121/cornerlabelview/master/screenshot_corner_label_view.png" width="320" />
+
+---
+
 **SlantedTextView**: https://github.com/HeZaiJin/SlantedTextView
 
 倾斜的 TextView，可做标签
