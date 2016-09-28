@@ -6,6 +6,14 @@
 
 ---
 
+**NetGuard**: https://github.com/M66B/NetGuard
+
+非root禁止应用联网
+
+<img src="https://raw.githubusercontent.com/M66B/NetGuard/master/screenshots/01-main.png" width="320" /> <img src="https://raw.githubusercontent.com/M66B/NetGuard/master/screenshots/08-notifications.png" width="320" />
+
+---
+
 **BookReader**: https://github.com/JustWayward/BookReader
 
 “任阅”，开源小说阅读器，高仿追书神器，实现追书推荐、标签检索、翻书效果、文章阅读、缓存章节、日夜间模式、文本朗读等功能
