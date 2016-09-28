@@ -32,6 +32,12 @@ Demo that shows how to use RxJava with Android Data Binding ObservableFields
 
 ---
 
+**apk-dependency-graph**: https://github.com/alexzaitsev/apk-dependency-graph
+
+解析apk包，图表展示依赖及结构
+
+---
+
 **truetime-android**: https://github.com/instacart/truetime-android
 
 获取当前时间
