@@ -1239,6 +1239,14 @@ Helper to generate Javadocs within a Gradle Android library
 
 ---
 
+**Permissify**: https://github.com/holidaycheck/Permissify
+
+Android 又一个6.0权限管理
+
+<img src="https://raw.githubusercontent.com/holidaycheck/Permissify/master/art/sample_record.gif" width="290" />
+
+---
+
 **RxPermissionsResult**: https://github.com/VictorAlbertos/RxPermissionsResult
 
 RxJava + 6.0权限申请
