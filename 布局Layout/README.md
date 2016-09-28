@@ -5,6 +5,14 @@
 
 ---
 
+**SlideshowToolbar**: https://github.com/JuL1205/SlideshowToolbar
+
+Toolbar 组件展示 Banner 图片效果
+
+<img src="https://raw.githubusercontent.com/JuL1205/SlideshowToolbar/master/images/screen.gif" width="320" />
+
+---
+
 **android-md-core**: https://github.com/henrytao-me/android-md-core
 
 Material bootstrap for Android development
