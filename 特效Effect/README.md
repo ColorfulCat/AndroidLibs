@@ -30,6 +30,14 @@ Android 搜索 过度效果
 
 ---
 
+**SnowingView**: https://github.com/HelloVass/SnowingView
+
+一个看起来还不错的下雪动画
+
+<img src="https://raw.githubusercontent.com/HelloVass/SnowingView/master/design/SnowingView.gif" width="320" />
+
+---
+
 **confetti**: https://github.com/jinatonic/confetti
 
 雪花，粒子爆炸效果
