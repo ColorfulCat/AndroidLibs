@@ -46,6 +46,14 @@ A custom wavy line view for android
 
 ---
 
+**LiveLayout**: https://github.com/Qiang3570/LiveLayout
+
+类似于映客，快手，等直播APP布局，直播刷礼物特效，定时清除礼物，计时器，圆形头像，横行listview等
+
+<img src="https://raw.githubusercontent.com/Qiang3570/LiveLayout/master/sample.gif" width="240" />
+
+---
+
 **WeChatPswKeyboard**: https://github.com/zuiwuyuan/WeChatPswKeyboard
 
 高仿微信数字键盘、支付键盘（密码键盘）
