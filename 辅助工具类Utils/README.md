@@ -32,6 +32,12 @@ Demo that shows how to use RxJava with Android Data Binding ObservableFields
 
 ---
 
+**ButterKnifeLite**: https://github.com/janishar/ButterKnifeLite
+
+Light version of the concept of ButterKnife
+
+---
+
 **apk-dependency-graph**: https://github.com/alexzaitsev/apk-dependency-graph
 
 解析apk包，图表展示依赖及结构
