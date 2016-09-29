@@ -32,6 +32,12 @@ Demo that shows how to use RxJava with Android Data Binding ObservableFields
 
 ---
 
+**PhoneNumberValidator**: https://github.com/KingsMentor/PhoneNumberValidator
+
+This library helps make sure the number is valid for the selected country
+
+---
+
 **ButterKnifeLite**: https://github.com/janishar/ButterKnifeLite
 
 Light version of the concept of ButterKnife
