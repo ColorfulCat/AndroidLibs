@@ -474,31 +474,6 @@ A custom view with keyboard and character display to be used for authentication
 
 ---
 
-**GestureLockMaster**: https://github.com/AMQR/GestureLockMaster
-
-手势解锁通用库 android
-
-<img src="https://raw.githubusercontent.com/AMQR/GestureLockMaster/master/ges.gif" width="320" />
-
----
-
-**LolliPin**: [https://github.com/OrangeGangsters/LolliPin](https://github.com/OrangeGangsters/LolliPin)
-
-A Material design Android pincode library. Supports Fingerprint
-
-<img src="https://github.com/OrangeGangsters/LolliPin/blob/master/app/src/main/res/raw/github_gif.gif" width="320" />
-<img src="https://github.com/OrangeGangsters/LolliPin/blob/master/app/src/main/res/raw/github_gif2.gif" width="320" />
-
----
-
-**PinLockView**: https://github.com/aritraroy/PinLockView
-
-A clean, minimal, highly customizable pin lock view
-
-<img src="https://raw.githubusercontent.com/aritraroy/PinLockView/master/screens/promo.png" width="640" />
-
----
-
 **ViewPager3D**: https://github.com/renard314/ViewPager3D/tree/master/ViewPager3D
 
 Extension of Android ViewPager with a 3D swipe effect

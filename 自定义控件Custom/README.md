@@ -6,6 +6,31 @@
 
 ---
 
+**GestureLockMaster**: https://github.com/AMQR/GestureLockMaster
+
+手势解锁通用库 android
+
+<img src="https://raw.githubusercontent.com/AMQR/GestureLockMaster/master/ges.gif" width="320" />
+
+---
+
+**LolliPin**: [https://github.com/OrangeGangsters/LolliPin](https://github.com/OrangeGangsters/LolliPin)
+
+A Material design Android pincode library. Supports Fingerprint
+
+<img src="https://github.com/OrangeGangsters/LolliPin/blob/master/app/src/main/res/raw/github_gif.gif" width="320" />
+<img src="https://github.com/OrangeGangsters/LolliPin/blob/master/app/src/main/res/raw/github_gif2.gif" width="320" />
+
+---
+
+**PinLockView**: https://github.com/aritraroy/PinLockView
+
+A clean, minimal, highly customizable pin lock view
+
+<img src="https://raw.githubusercontent.com/aritraroy/PinLockView/master/screens/promo.png" width="640" />
+
+---
+
 **CouponView**: https://github.com/dongjunkun/CouponView
 
 锯齿边框，类似优惠劵效果的自定义 View
