@@ -6,6 +6,12 @@
 
 ---
 
+**jus**: https://github.com/apptik/jus
+
+Flexible and Easy HTTP/REST Communication library for Java and Android
+
+---
+
 **SimpleRestClientHelper**: https://github.com/ravi123shanker/SimpleRestClientHelper
 
 Simplest library to implement rest client APIs using okhttp3 in your app
