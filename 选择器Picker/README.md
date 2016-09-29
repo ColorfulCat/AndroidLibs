@@ -82,6 +82,14 @@ TagSelectorView
 
 ---
 
+**android-calendar-view**: https://github.com/myjoybar/android-calendar-view
+
+显示阳历，农历，节假日和二十四节气 实现对某月日期的单选或者多选的andorid 日历控件库
+
+<img src="https://raw.githubusercontent.com/myjoybar/android-calendar-view/master/screenshots/screenshot.gif" width="320" />
+
+---
+
 **HorizontalExpandableCalendar-Android**: https://github.com/sulo61/HorizontalExpandableCalendar-Android
 
 Android Expandable Calendar
