@@ -6,6 +6,14 @@
 
 ---
 
+**SnappyImageViewer**: https://github.com/nshmura/SnappyImageViewer
+
+Android Image Viewer inspired by StackOverflow's with swipe-to-dimiss and moving animations
+
+<img src = "https://github.com/nshmura/SnappyImageViewer/raw/master/assets/capture.gif" width = "320"/>
+
+---
+
 **gallerymodule**: https://github.com/guiguegon/gallerymodule
 
 Simple gallery to retrieve one or more images. It allow to take new photos or videos
