@@ -6,6 +6,12 @@
 
 ---
 
+**ParaCamera**: https://github.com/janishar/ParaCamera
+
+Simple android camera to take and get image bitmaps
+
+---
+
 **SnappyImageViewer**: https://github.com/nshmura/SnappyImageViewer
 
 Android Image Viewer inspired by StackOverflow's with swipe-to-dimiss and moving animations
