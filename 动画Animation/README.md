@@ -6,6 +6,14 @@
 
 ---
 
+**NaturalAnim**: https://github.com/xuyisheng/NaturalAnim
+
+模拟自然动画的精髓——TimeInterpolator与TypeEvaluator
+
+<img src="https://raw.githubusercontent.com/xuyisheng/NaturalAnim/master/pic/7.gif" width="320" /> <img src="https://raw.githubusercontent.com/xuyisheng/NaturalAnim/master/pic/5.gif" width="320" />
+
+---
+
 **AnimateVectorDrawableDEMO**: https://github.com/ghuiii/AnimateVectorDrawableDEMO
 
 通过 AnimateVectoreDrawer 实现的一些动画效果
