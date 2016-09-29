@@ -474,6 +474,14 @@ A custom view with keyboard and character display to be used for authentication
 
 ---
 
+**GestureLockMaster**: https://github.com/AMQR/GestureLockMaster
+
+手势解锁通用库 android
+
+<img src="https://raw.githubusercontent.com/AMQR/GestureLockMaster/master/ges.gif" width="320" />
+
+---
+
 **LolliPin**: [https://github.com/OrangeGangsters/LolliPin](https://github.com/OrangeGangsters/LolliPin)
 
 A Material design Android pincode library. Supports Fingerprint
