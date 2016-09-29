@@ -6,6 +6,14 @@
 
 ---
 
+**MentionEditText**: https://github.com/luckyandyzhang/MentionEditText
+
+支持 at 别人效果的 EditText
+
+<img ="https://raw.githubusercontent.com/luckyandyzhang/MentionEditText/master/art/demo.gif" width="320"/>
+
+---
+
 **PercentBarView**: https://github.com/aykuttasil/PercentBarView
 
 百分比显示
