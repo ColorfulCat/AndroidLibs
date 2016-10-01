@@ -320,6 +320,12 @@ Usb serial controller for Android
 
 ---
 
+**Router**: https://github.com/yjfnypeu/Router
+
+一款简单的Android端用于Activity跳转的路由框架
+
+---
+
 **router**: https://github.com/eyeem/router
 
 Dynamic in app URL router for Android
