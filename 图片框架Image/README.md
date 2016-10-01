@@ -504,6 +504,14 @@ Adds touch functionality to Android ImageView.
 
 ---
 
+**avatar-view**: https://github.com/TangoAgency/avatar-view
+
+根据首字母显示头像
+
+<img src="https://raw.githubusercontent.com/TangoAgency/avatar-view/master/images/example1.gif" width="320" /> <img src="https://raw.githubusercontent.com/TangoAgency/avatar-view/master/images/example2.gif" width="320" />
+
+---
+
 **CircleImageView**: [https://github.com/hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView)
 
 A circular ImageView for Android
