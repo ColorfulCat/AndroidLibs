@@ -6,6 +6,14 @@
 
 ---
 
+**EasyHeaderFooterAdapter**: https://github.com/rubengees/EasyHeaderFooterAdapter
+
+An Android library which adds headers and footers to the RecyclerView
+
+<img src="https://raw.githubusercontent.com/rubengees/EasyHeaderFooterAdapter/master/art/sample.gif" width="320" />
+
+---
+
 **StickyViewPagerGridHeaders**: https://github.com/pchauhan/StickyViewPagerGridHeaders
 
 StickyGridView + ViewPager + Header
