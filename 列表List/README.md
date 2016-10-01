@@ -178,6 +178,14 @@ Decouple the item(/nested viewholder) from recyclerview's adapter
 
 ---
 
+**groupie**:https://github.com/Genius/groupie
+
+Groupie helps you display and manage complex RecyclerView layouts
+
+<img src="https://camo.githubusercontent.com/37f2d500453ef5c5441c7f68bc69ad1145460a9a/687474703a2f2f692e696d6775722e636f6d2f6566744f4530762e676966" width="320" />
+
+---
+
 **MultiTypeView**: https://github.com/LuckyJayce/MultiTypeView
 
 简化RecyclerView的多种type的adapter，Fragment可以动态添加到RecyclerView上，实现复杂的界面分多个模块开发
