@@ -334,6 +334,12 @@ GifLoadingViewhttps://amitshekhariitbhu.github.io/GlideBitmapPool/
 
 ---
 
+**glide-bindingadapter**: https://github.com/s0nerik/glide-bindingadapter
+
+Configurable @BindingAdapter for Glide
+
+---
+
 **GlideBitmapPool**: https://github.com/amitshekhariitbhu/GlideBitmapPool
 
 Glide Bitmap Pool is a memory management library for reusing the bitmap memory https://amitshekhariitbhu.github.io/GlideBitmapPool/
