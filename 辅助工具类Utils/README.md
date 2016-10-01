@@ -130,6 +130,12 @@ RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJ
 
 ---
 
+**RxLifecycle**: https://github.com/trello/RxLifecycle
+
+Lifecycle handling APIs for Android apps using RxJava
+
+---
+
 **RxActivityResult**: https://github.com/NateWickstrom/RxActivityResult
 
 RxJava 处理 Activity Result
