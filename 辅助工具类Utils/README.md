@@ -1177,6 +1177,12 @@ apk 反编译工具
 
 ---
 
+**UniversalPreferences**: https://github.com/Zookey/UniversalPreferences
+
+use Shared Preferences in an easy way
+
+---
+
 **tiamat**: https://github.com/hotchemi/tiamat
 
 Reactive SharedPreferences code generator for Android
