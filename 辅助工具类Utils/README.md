@@ -350,6 +350,14 @@ An Android service to retrieve GPS locations and route stats using RxJava
 
 ---
 
+**keyboard-dismisser**: https://github.com/GabrielSamojlo/keyboard-dismisser
+
+Dismiss your keyboard by tapping anywhere outside it
+
+<img src="https://camo.githubusercontent.com/e3fa7baf5a19bbd47d2cdede656262c9d300e791/687474703a2f2f692e67697068792e636f6d2f6c33765261764e4c306151664c327476612e676966" width="260"/>
+
+---
+
 **AnySoftKeyboard**: https://github.com/AnySoftKeyboard/AnySoftKeyboard
 
 Android (f/w 1.5+) on screen keyboard for multiple languages http://anysoftkeyboard.github.io/
