@@ -332,6 +332,12 @@ Usb serial controller for Android
 
 ---
 
+**krouter**: https://github.com/denisidoro/krouter
+
+A lightweight Android activity router
+
+---
+
 **Router**: https://github.com/yjfnypeu/Router
 
 一款简单的Android端用于Activity跳转的路由框架
