@@ -1137,6 +1137,12 @@ Gradle plugin to optimize png files and reduce resultant apk size within an Andr
 
 ---
 
+**Camera2-Video**: https://github.com/WesleyElliott/Camera2-Video
+
+A simple Android wrapper for interfacing with the new Camera2 API for video capture
+
+---
+
 **VidEffects**: https://github.com/krazykira/VidEffects
 
 实时视频滤镜
