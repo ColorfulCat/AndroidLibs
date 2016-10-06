@@ -112,6 +112,14 @@ Fluent design by contract constructs for android
 
 ---
 
+**NetMonitor**: https://github.com/GHdeng/NetMonitor
+
+使用广播监听网络变化更新UI
+
+<img src="https://raw.githubusercontent.com/GHdeng/NetMonitor/master/NetMonitor2.gif" width="320"/>
+
+---
+
 **LocalNetwork**: https://github.com/itsJoKr/LocalNetwork
 
 两设备通过 Wifi 通信
