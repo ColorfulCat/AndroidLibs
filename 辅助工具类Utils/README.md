@@ -150,6 +150,12 @@ RxJava 处理 Activity Result
 
 ---
 
+**Fragmentation**: https://github.com/YoKeyword/Fragmentation
+
+为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG
+
+---
+
 **FragmentArgs**: https://github.com/itsJoKr/FragmentArgs
 
 Fragment 参数传递
