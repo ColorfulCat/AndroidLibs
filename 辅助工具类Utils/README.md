@@ -154,6 +154,8 @@ RxJava 处理 Activity Result
 
 为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG
 
+<img src="https://raw.githubusercontent.com/YoKeyword/Fragmentation/master/gif/demo.gif" width="270"/> <img src="https://raw.githubusercontent.com/YoKeyword/Fragmentation/master/gif/wechat.gif" width="270"/> <img src="https://raw.githubusercontent.com/YoKeyword/Fragmentation/master/gif/nested.gif" width="270"/>
+
 ---
 
 **FragmentArgs**: https://github.com/itsJoKr/FragmentArgs
@@ -1480,6 +1482,14 @@ Very easy to use wrapper library for Android SharePreferences
 **Favor**: https://github.com/soarcn/Favor
 
 A easy way to use android sharepreference http://cocosw.com/Favor/
+
+---
+
+**android-sql-logging**：https://github.com/explodes/android-sql-logging
+
+App-local sql logging with viewer activity
+
+<img src="https://camo.githubusercontent.com/9b5fc15a1484dddcf4d86b646b3896ea368926a6/687474703a2f2f692e696d6775722e636f6d2f746e65415541462e706e67" width="400" />
 
 ---
 
