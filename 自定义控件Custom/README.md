@@ -6,6 +6,14 @@
 
 ---
 
+**SGiOSViews**: https://github.com/Shubhank101/SGiOSViews
+
+IOS 风格选择控制
+
+<img src="https://camo.githubusercontent.com/92bdc502c25ff25dca9596e0246d1afd994d2f84/687474703a2f2f692e696d6775722e636f6d2f59434f67487a722e676966" width="270" />
+
+---
+
 **GestureLockMaster**: https://github.com/AMQR/GestureLockMaster
 
 手势解锁通用库 android
