@@ -36,6 +36,14 @@ Simple gallery to retrieve one or more images. It allow to take new photos or vi
 
 ---
 
+**croperino**: https://github.com/ekimual/croperino
+
+图片裁剪
+
+<img src = "https://cloud.githubusercontent.com/assets/16832215/18544278/855d9aae-7b66-11e6-8236-ba1bc89a8e44.png" width = "320"/>
+
+---
+
 **TelegramGallery**: https://github.com/TangXiaoLv/TelegramGallery
 
 QQ 相册风格，相册选择器

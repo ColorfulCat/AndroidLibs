@@ -6,6 +6,12 @@
 
 ---
 
+**Milano**: https://github.com/IntruderShanky/Milano
+
+A powerful android library to handle cookies
+
+---
+
 **jus**: https://github.com/apptik/jus
 
 Flexible and Easy HTTP/REST Communication library for Java and Android
