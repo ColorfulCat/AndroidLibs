@@ -28,11 +28,11 @@ Simple gallery to retrieve one or more images. It allow to take new photos or vi
 
 ---
 
-**croperino**: https://github.com/ekimual/croperino
+**Blaze**: https://github.com/IntruderShanky/Blaze
 
-图片裁剪
+图片移动及缩放
 
-<img src = "https://cloud.githubusercontent.com/assets/16832215/18544278/855d9aae-7b66-11e6-8236-ba1bc89a8e44.png" width = "320"/>
+<img src = "https://github.com/IntruderShanky/Blaze/raw/master/Screenshots/motion_view.gif" width = "320"/>
 
 ---
 
