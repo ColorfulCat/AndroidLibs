@@ -6,6 +6,14 @@
 
 ---
 
+**Better-Link-Movement-Method**: https://github.com/Saketme/Better-Link-Movement-Method
+
+TextViews 中处理超链接
+
+<img ="https://raw.githubusercontent.com/Saketme/Better-Link-Movement-Method/master/EXAMPLE.gif" width="640"/>
+
+---
+
 **MentionEditText**: https://github.com/luckyandyzhang/MentionEditText
 
 支持 at 别人效果的 EditText
