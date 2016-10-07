@@ -6,6 +6,14 @@
 
 ---
 
+**Diagonalify**: https://github.com/developer-shivam/Diagonalify
+
+图片对角线分割风格
+
+<img src = "https://raw.githubusercontent.com/developer-shivam/Diagonalify/master/art/screenshot_1.png" width = "320"/> <img src = "https://raw.githubusercontent.com/developer-shivam/Diagonalify/master/art/screenshot_2.png" width = "320"/>
+
+---
+
 **PhotoViewSlider**: https://github.com/jeancsanchez/PhotoViewSlider
 
 图片浏览器
