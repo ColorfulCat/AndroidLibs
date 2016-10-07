@@ -6,6 +6,12 @@
 
 ---
 
+**patchrom_miui**: https://github.com/MiCode/patchrom_miui
+
+MIUI 8 系统
+
+---
+
 **tinker**: https://github.com/Tencent/tinker
 
 腾讯热修复方法 tinker
