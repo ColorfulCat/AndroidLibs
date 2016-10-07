@@ -826,9 +826,39 @@ Easily group RxJava Observables together and tie them to your Android Activity l
 
 ---
 
+**force-update**: https://github.com/skoumalcz/force-update
+
+app 强制更新
+
+---
+
 **UpdateApp**: https://github.com/yaming116/UpdateApp
 
 开箱即用的app更新，主要负责软件下载、软件安装等
+
+---
+
+**MAHAndroidUpdater**: https://github.com/hummatli/MAHAndroidUpdater
+
+Android app update checker
+
+<img src="https://github.com/hummatli/MAHAndroidUpdater/blob/master/imgs/updater_dlg.png" width="200px"/> <img src="https://github.com/hummatli/MAHAndroidUpdater/blob/master/imgs/restricter_dlg.png" width="200px"/>
+
+---
+
+**UpdatePlugin**: https://github.com/yjfnypeu/UpdatePlugin
+
+可任意定制的app更新组件
+
+<img src="https://raw.githubusercontent.com/yjfnypeu/UpdatePlugin/master/screenshots/default_strategy.gif" width="270" /> <img src="https://raw.githubusercontent.com/yjfnypeu/UpdatePlugin/master/screenshots/default_all_dialog_show.gif" width="270" /> <img src="https://raw.githubusercontent.com/yjfnypeu/UpdatePlugin/master/screenshots/default_auto_install.gif" width="270" />
+
+---
+
+**android-auto-update**: https://github.com/feicien/android-auto-update
+
+Android 应用自动更新
+
+<img src="https://camo.githubusercontent.com/8e0be231005184234cf715c5fc40bfbc0dac5bbb/68747470733a2f2f7261772e6769746875622e636f6d2f6665696369656e2f616e64726f69642d6175746f2d7570646174652f6d61737465722f73637265656e73686f74732f73616d706c652e706e67" width="320" /> <img src="https://camo.githubusercontent.com/039c92955ce092a2e81cd6d4cd5203f31bf32c92/68747470733a2f2f7261772e6769746875622e636f6d2f6665696369656e2f616e64726f69642d6175746f2d7570646174652f6d61737465722f73637265656e73686f74732f6469616c6f672e706e67" width="320" />
 
 ---
 
@@ -1111,22 +1141,6 @@ An Android Keyboard visibility listener
 Android键盘面板冲突 布局闪动处理方案
 
 <img src="https://raw.githubusercontent.com/Jacksgong/JKeybordPanelSwitch/master/art/non-fullscreen_resolved.gif" width="320" /> <img src="https://raw.githubusercontent.com/Jacksgong/JKeybordPanelSwitch/master/art/adjust_resolved.gif" width="320" />
-
----
-
-**UpdatePlugin**: https://github.com/yjfnypeu/UpdatePlugin
-
-可任意定制的app更新组件
-
-<img src="https://raw.githubusercontent.com/yjfnypeu/UpdatePlugin/master/screenshots/default_strategy.gif" width="270" /> <img src="https://raw.githubusercontent.com/yjfnypeu/UpdatePlugin/master/screenshots/default_all_dialog_show.gif" width="270" /> <img src="https://raw.githubusercontent.com/yjfnypeu/UpdatePlugin/master/screenshots/default_auto_install.gif" width="270" />
-
----
-
-**android-auto-update**: https://github.com/feicien/android-auto-update
-
-Android 应用自动更新
-
-<img src="https://camo.githubusercontent.com/8e0be231005184234cf715c5fc40bfbc0dac5bbb/68747470733a2f2f7261772e6769746875622e636f6d2f6665696369656e2f616e64726f69642d6175746f2d7570646174652f6d61737465722f73637265656e73686f74732f73616d706c652e706e67" width="320" /> <img src="https://camo.githubusercontent.com/039c92955ce092a2e81cd6d4cd5203f31bf32c92/68747470733a2f2f7261772e6769746875622e636f6d2f6665696369656e2f616e64726f69642d6175746f2d7570646174652f6d61737465722f73637265656e73686f74732f6469616c6f672e706e67" width="320" />
 
 ---
 
@@ -1713,13 +1727,6 @@ Performance metrics library for Android development (includes dagger2metrics)
 
 <img src="https://raw.githubusercontent.com/frogermcs/androiddevmetrics/master/art/activities_metrics.png" width="480" />
 
----
-
-**MAHAndroidUpdater**: https://github.com/hummatli/MAHAndroidUpdater
-
-Android app update checker
-
-<img src="https://github.com/hummatli/MAHAndroidUpdater/blob/master/imgs/updater_dlg.png" width="200px"/> <img src="https://github.com/hummatli/MAHAndroidUpdater/blob/master/imgs/restricter_dlg.png" width="200px"/>
 ---
 
 **MAHAds**: https://github.com/hummatli/MAHAds
