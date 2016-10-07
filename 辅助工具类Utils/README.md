@@ -188,6 +188,12 @@ Fragment 参数传递
 
 ---
 
+**FingerprintAuthDemo**: https://github.com/pro100svitlo/FingerprintAuthDemo
+
+指纹认证
+
+---
+
 **fingerlock**: https://github.com/aitorvs/fingerlock
 
 指纹认证
