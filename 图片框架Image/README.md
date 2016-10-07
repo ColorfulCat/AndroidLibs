@@ -6,6 +6,14 @@
 
 ---
 
+**PhotoViewSlider**: https://github.com/jeancsanchez/PhotoViewSlider
+
+图片浏览器
+
+<img src = "https://raw.githubusercontent.com/jeancsanchez/PhotoViewSlider/master/PhotoViewSlider.gif" width = "200"/>
+
+---
+
 **ParaCamera**: https://github.com/janishar/ParaCamera
 
 Simple android camera to take and get image bitmaps
