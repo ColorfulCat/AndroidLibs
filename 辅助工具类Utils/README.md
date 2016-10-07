@@ -144,6 +144,12 @@ RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJ
 
 ---
 
+**RxComprehensions**: https://github.com/pakoito/RxComprehensions
+
+Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and switchMaps
+
+---
+
 **RxLifecycle**: https://github.com/trello/RxLifecycle
 
 Lifecycle handling APIs for Android apps using RxJava
