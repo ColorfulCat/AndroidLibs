@@ -6,6 +6,14 @@
 
 ---
 
+**AnimatorDurationTile**: https://github.com/nickbutcher/AnimatorDurationTile
+
+A quick settings tile to quickly set the animator duration scale
+
+<img src="https://raw.githubusercontent.com/nickbutcher/AnimatorDurationTile/master/screenshots/duration_scale_toggle_demo.gif" width="280" />
+
+---
+
 **NaturalAnim**: https://github.com/xuyisheng/NaturalAnim
 
 模拟自然动画的精髓——TimeInterpolator与TypeEvaluator
