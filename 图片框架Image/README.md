@@ -6,6 +6,14 @@
 
 ---
 
+**Squint**: https://github.com/IntruderShanky/Squint
+
+对角线风格
+
+<img src = "https://raw.githubusercontent.com/IntruderShanky/Squint/master/screenshot.png" width = "320"/>
+
+---
+
 **Diagonalify**: https://github.com/developer-shivam/Diagonalify
 
 图片对角线分割风格
