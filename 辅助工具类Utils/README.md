@@ -144,6 +144,12 @@ Lifecycle handling APIs for Android apps using RxJava
 
 ---
 
+**ActivityCommWithFragment**: https://github.com/niuxiaowei/ActivityCommWithFragment
+
+解决activity与fragment之间互相通信的一种方案
+
+---
+
 **RxActivityResult**: https://github.com/NateWickstrom/RxActivityResult
 
 RxJava 处理 Activity Result
