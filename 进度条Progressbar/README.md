@@ -6,6 +6,14 @@
 
 ---
 
+**FreshDownloadView**: https://github.com/dudu90/FreshDownloadView
+
+一个展示下载进度的View，下载完成和失败的时候会有酷酷的动画
+
+<img src="https://raw.githubusercontent.com/dudu90/FreshDownloadView/master/screen/screen.gif" width="320" />
+
+---
+
 **ProgressRoundButton**: https://github.com/cctanfujun/ProgressRoundButton
 
 渐变的下载按钮，发现不少小伙伴要做类似效果的
