@@ -6,6 +6,14 @@
 
 ---
 
+**Currency**: https://github.com/yiyuanliu/Currency
+
+一个简洁的汇率转换软件，使用 kotlin 编写，通过 anko 框架编写 UI 并实现漂亮的主题动态切换效果
+
+<img src="https://raw.githubusercontent.com/yiyuanliu/Currency/master/screenshots/Screenshot.png" width="640" />
+
+---
+
 **Telecine**: https://github.com/JakeWharton/Telecine
 
 屏幕录制
