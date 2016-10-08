@@ -6,6 +6,14 @@
 
 ---
 
+**android-page-transition**: https://github.com/xmuSistone/android-page-transition
+
+一个 Android Page 过渡效果 Demo 效果
+
+<img src="https://raw.githubusercontent.com/xmuSistone/android-page-transition/master/gif1.gif" width="280" />
+
+---
+
 **ViewEffects**: https://github.com/mirrajabi/ViewEffects
 
 Apply custom effects on view backgrounds
