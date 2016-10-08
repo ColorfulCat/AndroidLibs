@@ -1353,6 +1353,12 @@ Router activities
 
 ---
 
+**android-easy-crash-handle**: https://github.com/Mauiie/android-easy-crash-handle
+
+一个很容易使用的Android异常捕获、收集、提交的组件
+
+---
+
 **Bugtags-Android**: https://github.com/bugtags/Bugtags-Android
 
 Simple and effective bug & crash reporting tool for Android apps http://bugtags.com/
