@@ -6,6 +6,14 @@
 
 ---
 
+**BreadcrumbsView**: https://github.com/VictorAlbertos/BreadcrumbsView
+
+A customizable Android view for paginated forms
+
+<img src="https://raw.githubusercontent.com/VictorAlbertos/BreadcrumbsView/master/breadcrumbs.gif" width="320" />
+
+---
+
 **FreshDownloadView**: https://github.com/dudu90/FreshDownloadView
 
 一个展示下载进度的View，下载完成和失败的时候会有酷酷的动画
