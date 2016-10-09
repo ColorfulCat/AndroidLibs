@@ -220,6 +220,14 @@ A simple Android TextView to display amounts of money in different formats
 
 ---
 
+**ShortcutBadger**: https://github.com/leolin310148/ShortcutBadger
+
+为你的应用程序加上数字角标
+
+<img src="https://camo.githubusercontent.com/8d6b5fc29b1c73689def6598b144a70bf3a0c2eb/68747470733a2f2f7261772e6769746875622e636f6d2f6c656f6c696e3331303134382f53686f72746375744261646765722f6d61737465722f73637265656e73686f74732f73735f617375732e706e67" width="120" />
+
+---
+
 **cornerlabelview**: https://github.com/czy1121/cornerlabelview
 
 Android 角标组件效果
