@@ -6,12 +6,19 @@
 
 ---
 
+**progress-button**: https://github.com/Trikke/progress-button
+
+A button that shows custom drawables when entering a loading state
+
+<img src="https://camo.githubusercontent.com/cbfb88e44e58cbd1ad5b788b825052a85c5fdfa0/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f313131343236312f70726f6772657373627574746f6e2e706e67" width="320" />
+
+---
+
 **CheckBox**: https://github.com/CoXier/CheckBox
 
 A custom checkbox with animation
 
 <img src="https://raw.githubusercontent.com/CoXier/CheckBox/master/art/screenshot.gif" width="320" />
-
 
 ---
 
@@ -21,7 +28,6 @@ CheckableView Libarary for Buttons and ImageButtons
 
 <img src="https://raw.githubusercontent.com/ashokslsk/CheckableButton/master/screens/Screen1.gif" width="320" />
 
-
 ---
 
 **RadioRealButton**: https://github.com/ceryle/RadioRealButton
@@ -30,7 +36,6 @@ RadioRealButton
 
 <img src="https://cloud.githubusercontent.com/assets/20969019/18049723/9f86cfee-6df2-11e6-8ef4-9abf09d382d2.gif" width="260" /> 
 <img src="https://cloud.githubusercontent.com/assets/20969019/18049725/9f887a42-6df2-11e6-8974-413950c61ed5.gif" width="260" />
-
 
 ---
 
