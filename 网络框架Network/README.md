@@ -153,11 +153,20 @@ An HTTP+SPDY client for Android and Java applications.
 OkHttp封装的一个简单易用HTTP请求, OkHttp文件下载管理地址https://github.com/pengjianbo/FileDownloaderFinal
 
 <img src="https://raw.githubusercontent.com/pengjianbo/OkHttpFinal/master/images/okhttpfinal.jpg" width="640" />
+
 ---
 
 **retrofit1-okhttp3-client**: https://github.com/JakeWharton/retrofit1-okhttp3-client
 
 A OkHttp 3 client implementation for Retrofit 1
+
+---
+
+**okhttp-OkGo**: https://github.com/jeasonlzy/okhttp-OkGo
+
+OkHttpUtils-2.0.0 升级后改名 OkGo，全新完美支持RxJava，比Retrofit更简单易用
+
+<img src="https://raw.githubusercontent.com/jeasonlzy/Screenshots/master/okgo/demo13.gif" width="270" /> <img src="https://raw.githubusercontent.com/jeasonlzy/Screenshots/master/okgo/demo8.gif" width="270" /> <img src="https://raw.githubusercontent.com/jeasonlzy/Screenshots/master/okgo/demo9.gif" width="270" />
 
 ---
 
