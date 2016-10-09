@@ -18,6 +18,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**intentbuilder**: https://github.com/Trikke/intentbuilder
+
+IntentBuilder is a type safe way of creating intents and populating them with extras. Use them with your Activities and Services
+
+---
+
 **SimpleJavaJsBridge**: https://github.com/niuxiaowei/SimpleJavaJsBridge
 
 JS 与 Java 通信的简单桥梁
