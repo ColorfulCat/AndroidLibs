@@ -1373,6 +1373,14 @@ Helper to generate Javadocs within a Gradle Android library
 
 ---
 
+**RxPermissions**: https://github.com/raviteja06/RxPermissions
+
+Android 6.0权限管理 ReactiveX/RxAndroid way
+
+<img src="https://raw.githubusercontent.com/holidaycheck/Permissify/master/art/sample_record.gif" width="290" />
+
+---
+
 **Permissify**: https://github.com/holidaycheck/Permissify
 
 Android 又一个6.0权限管理
