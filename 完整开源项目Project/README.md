@@ -6,6 +6,14 @@
 
 ---
 
+**Bgm38**: https://github.com/zubinxiong/Bgm38
+
+番剧记录工具Bgm38( bangumi 第三方客户端 ),采用 RxJava + Retrofit + MVP, 设计上采用 Material Design
+
+<img src="https://raw.githubusercontent.com/zubinxiong/Bgm38/master/art/art0.jpg" width="270" /> <img src="https://raw.githubusercontent.com/zubinxiong/Bgm38/master/art/art1.jpg" width="270" /> <img src="https://raw.githubusercontent.com/zubinxiong/Bgm38/master/art/art3.jpg" width="270" />
+
+---
+
 **Currency**: https://github.com/yiyuanliu/Currency
 
 一个简洁的汇率转换软件，使用 kotlin 编写，通过 anko 框架编写 UI 并实现漂亮的主题动态切换效果
