@@ -186,7 +186,15 @@ Decouple the item(/nested viewholder) from recyclerview's adapter
 
 ---
 
-**groupie**:https://github.com/Genius/groupie
+**epoxy**: https://github.com/airbnb/epoxy
+
+又一个显示recycleview复杂效果的库
+
+<img src="https://raw.githubusercontent.com/airbnb/epoxy/master/epoxy-sample/epoxy_sample_app.gif" width="320" />
+
+---
+
+**groupie**: https://github.com/Genius/groupie
 
 Groupie helps you display and manage complex RecyclerView layouts
 
