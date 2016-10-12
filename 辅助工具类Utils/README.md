@@ -18,6 +18,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**android_silk_v3_decoder**: https://github.com/ketn4391/android_silk_v3_decoder
+
+转换微信QQ语音格式为MP3格式
+
+---
+
 **RxAwareness**: https://github.com/patloew/RxAwareness
 
 Reactive Awareness API Library for Android and RxJava
