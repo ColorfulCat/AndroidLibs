@@ -5,6 +5,14 @@
 
 ---
 
+**BubbleTab**: https://github.com/florent37/BubbleTab
+
+Put some bubble in your tabs and give your apps a supa fresh style 
+
+<img src="https://raw.githubusercontent.com/florent37/BubbleTab/master/media/video.gif" width="320" /> <img src="https://raw.githubusercontent.com/florent37/BubbleTab/master/media/different_icon.gif" width="320" />
+
+---
+
 **SlideshowToolbar**: https://github.com/JuL1205/SlideshowToolbar
 
 Toolbar 组件展示 Banner 图片效果
