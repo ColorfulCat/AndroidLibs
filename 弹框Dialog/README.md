@@ -10,7 +10,7 @@
 
 BottomDialog 是一个通过 DialogFragment 实现的底部弹窗布局，并且支持弹出动画，支持任意布局 http://shaohui.me
 
-<img src="https://raw.githubusercontent.com/shaohui10086/BottomDialog/master/preview/bottom_dialog_share.gif" width="320" /> <img src="https://raw.githubusercontent.com/shaohui10086/BottomDialog/master/preview/bottom_dialog_share.gif" width="320" />
+<img src="https://raw.githubusercontent.com/shaohui10086/BottomDialog/master/preview/bottom_dialog_share.gif" width="320" /> <img src="https://raw.githubusercontent.com/shaohui10086/BottomDialog/master/preview/bottom_dialog_edit.gif" width="320" />
 
 ---
 

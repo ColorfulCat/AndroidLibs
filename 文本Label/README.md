@@ -6,6 +6,14 @@
 
 ---
 
+**AnFQNumEditText**: https://github.com/FTandJYQ/AnFQNumEditText
+
+自定义EditText实现右下角计数控件
+
+<img ="https://camo.githubusercontent.com/07d924eb9645dc9a7485992707b08bf4e5f27fe5/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323037313736342d376265333762653437323531623764342e676966" width="320"/>
+
+---
+
 **Better-Link-Movement-Method**: https://github.com/Saketme/Better-Link-Movement-Method
 
 TextViews 中处理超链接
