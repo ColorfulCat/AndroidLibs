@@ -6,6 +6,12 @@
 
 ---
 
+**rexxar-android**: https://github.com/douban/rexxar-android
+
+豆瓣的混合开发框架 -- Rexxar
+
+---
+
 **patchrom_miui**: https://github.com/MiCode/patchrom_miui
 
 MIUI 8 系统
