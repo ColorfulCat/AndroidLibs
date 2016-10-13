@@ -208,6 +208,12 @@ A small tool to convert your app's png&jpg image files into WebP when possible
 
 ---
 
+**AdvancedLuban**: https://github.com/shaohui10086/AdvancedLuban
+
+高效、简洁的图片压缩工具库 / An Advanced Compress Image Library for Android http://shaohui.me
+
+---
+
 **Luban**: https://github.com/Curzibn/Luban
 
 Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法
