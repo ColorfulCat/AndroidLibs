@@ -6,6 +6,14 @@
 
 ---
 
+**SqliteLookup**: https://github.com/YeDaxia/SqliteLookup
+
+Sqlite 数据库查看
+
+<img src="https://raw.githubusercontent.com/YeDaxia/SqliteLookup/master/jietu-1.png" width="320" /> <img src="https://raw.githubusercontent.com/YeDaxia/SqliteLookup/master/jietu-2.png" width="320" />
+
+---
+
 **Bgm38**: https://github.com/zubinxiong/Bgm38
 
 番剧记录工具Bgm38( bangumi 第三方客户端 ),采用 RxJava + Retrofit + MVP, 设计上采用 Material Design
