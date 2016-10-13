@@ -6,6 +6,14 @@
 
 ---
 
+**AwesomeProgressbar**: https://github.com/alex5241/AwesomeProgressbar
+
+支持左右两边同时滚动的进度条
+
+<img src="https://raw.githubusercontent.com/alex5241/AwesomeProgressbar/master/Art/awesomebar.gif" width="320" />
+
+---
+
 **BreadcrumbsView**: https://github.com/VictorAlbertos/BreadcrumbsView
 
 A customizable Android view for paginated forms
