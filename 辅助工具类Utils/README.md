@@ -174,6 +174,12 @@ Lifecycle handling APIs for Android apps using RxJava
 
 ---
 
+**SafelyAndroid**: https://github.com/Piasy/SafelyAndroid
+
+打造健壮的安卓APP，从此告别 Activity Not Found、Activity State Loss 和 fragment transaction 中的 NPE
+
+---
+
 **ActivityCommWithFragment**: https://github.com/niuxiaowei/ActivityCommWithFragment
 
 解决activity与fragment之间互相通信的一种方案
