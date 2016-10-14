@@ -6,6 +6,14 @@
 
 ---
 
+**Sprayscape**: https://github.com/googlecreativelab/Sprayscape
+
+Google 开源了一个专为 VR 设计的相机 App
+
+<img src="https://raw.githubusercontent.com/googlecreativelab/Sprayscape/master/sprayscape.jpg" width="640" />
+
+---
+
 **SqliteLookup**: https://github.com/YeDaxia/SqliteLookup
 
 Sqlite 数据库查看
