@@ -6,6 +6,14 @@
 
 ---
 
+**InfinityMenu**: https://github.com/desnyki/InfinityMenu
+
+Android library to create a sleek menu
+
+<img src="https://raw.githubusercontent.com/desnyki/InfinityMenu/master/art/demo.gif" width="320"/>
+
+---
+
 **SpinMenu**: https://github.com/Hitomis/SpinMenu
 
 轮盘样式的 Fragment 选择菜单，可转动轮盘切换 Fragment
