@@ -82,6 +82,14 @@ TagSelectorView
 
 ---
 
+**Android-SwitchDateTimePicker**: https://github.com/Kunzisoft/Android-SwitchDateTimePicker
+
+Android library for Date and Time Picker in same dialog
+
+<img src="https://raw.githubusercontent.com/J-Jamet/Android-SwitchDateTimePicker/master/art/demo1.gif" width="270" /> <img src="https://raw.githubusercontent.com/J-Jamet/Android-SwitchDateTimePicker/master/art/demo2.gif" width="540" />
+
+---
+
 **android-calendar-view**: https://github.com/myjoybar/android-calendar-view
 
 显示阳历，农历，节假日和二十四节气 实现对某月日期的单选或者多选的andorid 日历控件库
