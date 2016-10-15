@@ -1403,6 +1403,14 @@ Helper to generate Javadocs within a Gradle Android library
 
 ---
 
+**Kotlin-Android-Permissions-DeviceInfo**: https://github.com/AnirudhLoya/Kotlin-Android-Permissions-DeviceInfo
+
+Android 6.0权限管理 Kotlin way
+
+<img src="https://raw.githubusercontent.com/AnirudhLoya/Kotlin-Android-Permissions-DeviceInfo/master/device-2016-09-24-183505.png" width="320" /> <img src="https://raw.githubusercontent.com/AnirudhLoya/Kotlin-Android-Permissions-DeviceInfo/master/call_permission.png" width="320" />
+
+---
+
 **RxPermissions**: https://github.com/raviteja06/RxPermissions
 
 Android 6.0权限管理 ReactiveX/RxAndroid way
