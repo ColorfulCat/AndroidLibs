@@ -34,7 +34,7 @@ Sqlite 数据库查看
 
 一个简洁的汇率转换软件，使用 kotlin 编写，通过 anko 框架编写 UI 并实现漂亮的主题动态切换效果
 
-<img src="https://raw.githubusercontent.com/yiyuanliu/Currency/master/screenshots/Screenshot.png" width="640" />
+<img src="https://raw.githubusercontent.com/yiyuanliu/Currency/master/screenshots/Screenshot.png" width="320" />
 
 ---
 
@@ -220,7 +220,7 @@ An application that helps you learn and better understand ReactiveX
 
 凡信 3.0 -最强微信仿品
 
-<img src="https://camo.githubusercontent.com/e592139b3d4a2a7198a70bbd00433d0984b1de6d/687474703a2f2f7777772e696d6765656b2e6f72672f75706c6f6164732f61727469636c652f32303136303731372f64383832336134373239326431633262623230326235626363366536393965392e706e67" width="270" /> <img src="https://camo.githubusercontent.com/980cf002143d2e9c12b918af216ba74f4e6c96cc/687474703a2f2f7777772e696d6765656b2e6f72672f75706c6f6164732f61727469636c652f32303136303731372f62313465333365323635383730393735333461643939363337306135396339652e706e67" width="270" /> <img src="https://camo.githubusercontent.com/2cf9177718ef081a6498cdc218cc6463acfd13c9/687474703a2f2f7777772e696d6765656b2e6f72672f75706c6f6164732f61727469636c652f32303136303731372f64363039396363633161656461643233326663376433313732376232646566382e706e67" width="270" />
+<img src="https://camo.githubusercontent.com/2cf9177718ef081a6498cdc218cc6463acfd13c9/687474703a2f2f7777772e696d6765656b2e6f72672f75706c6f6164732f61727469636c652f32303136303731372f64363039396363633161656461643233326663376433313732376232646566382e706e67" width="270" />
 
 ---
 
@@ -228,7 +228,7 @@ An application that helps you learn and better understand ReactiveX
 
 NBA头条新闻、视频集锦、比赛直播（目前仅支持文字直播、球队及球员数据统计）、球队战绩排行、球员数据排名、虎扑论坛专区、球队及球员详细资料
 
-<img src="https://raw.githubusercontent.com/smuyyh/SprintNBA/master/screenshot/home_news.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/smuyyh/SprintNBA/master/screenshot/home_video.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/smuyyh/SprintNBA/master/screenshot/home_player_stats.jpeg" width="270" />
+<img src="https://raw.githubusercontent.com/smuyyh/SprintNBA/master/screenshot/home_news.png" width="270" /> <img src="https://raw.githubusercontent.com/smuyyh/SprintNBA/master/screenshot/news_detail.png" width="270" /> <img src="https://raw.githubusercontent.com/smuyyh/SprintNBA/master/screenshot/home_team_sort.png" width="270" />
 
 ---
 
@@ -329,10 +329,10 @@ DataBinding demo
 
 Material Design implementation for Android 2.2+. Shadows, ripples, vectors, fonts, animations, widgets, rounded corners and more.[https://androidreclib.wordpress.com/](https://androidreclib.wordpress.com/)
 
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/anchors.png" width="240" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/buttonsusage.png" width="240" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/progress.png" width="240" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/recyclercards.png" width="240" />
+<img src="https://github.com/ZieIony/Carbon/blob/master/images/anchors.png" width="200" />
+<img src="https://github.com/ZieIony/Carbon/blob/master/images/buttonsusage.png" width="200" />
+<img src="https://github.com/ZieIony/Carbon/blob/master/images/progress.png" width="200" />
+<img src="https://github.com/ZieIony/Carbon/blob/master/images/recyclercards.png" width="200" />
 
 ---
 
@@ -498,7 +498,7 @@ Simple IPTV
 
 高仿微信朋友圈项目
 
-<img src="https://github.com/razerdp/FriendCircle/blob/main-dev/img/2016-04-21_dot_indicator.gif" width="320" />
+<img src="https://github.com/razerdp/FriendCirclePreview/raw/master/img/2016-04-21_dot_indicator.gif" width="320" />
 
 ---
 
@@ -562,7 +562,7 @@ RxJava+Retrofit+Glide构建的gank.io第三方客户端，包含妹子图和技�
 
 基于Gank.IO提供的API的第三方客户端 http://www.jianshu.com/p/3f137269a942
 
-<img src="https://camo.githubusercontent.com/6280639d05017a93b924b19fcad226a944bf09b4/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3632333530342d323732653936613765653137366166392e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="320" /> <img src="https://camo.githubusercontent.com/5ad3bf82cd132c12bb5690f17c72583e23478247/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3632333530342d343363393063343933393463326233642e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="320" />
+<img src="https://camo.githubusercontent.com/5ad3bf82cd132c12bb5690f17c72583e23478247/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3632333530342d343363393063343933393463326233642e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="320" />
 
 ---
 
@@ -590,7 +590,7 @@ gank.io unofficial client, RxJava & Retrofit
 
 一个看妹纸与开发资讯的Android APP，具有本地缓存、分享与添加收藏的功能，新手向大神学习的练手项目，来自代码家的API http://gank.io
 
-<img src="https://github.com/IvorHu/RealStuff/blob/master/screenshoots/Meizhi.PNG" width="260" /><img src="https://github.com/IvorHu/RealStuff/blob/master/screenshoots/collections.PNG" width="260" /><img src="https://github.com/IvorHu/RealStuff/blob/master/screenshoots/drawermenu.PNG" width="260" />
+<img src="https://raw.githubusercontent.com/IvorHu/RealStuff/master/screenshoots/clearCache.png" width="320" /><img src="https://raw.githubusercontent.com/IvorHu/RealStuff/master/screenshoots/navigation.png" width="320" /><img src="https://raw.githubusercontent.com/IvorHu/RealStuff/master/screenshoots/about.png" width="320" />
 
 ---
 
@@ -606,7 +606,7 @@ gank.io unofficial client, RxJava & Retrofit
 
 干货集中营提供的API，有美女福利图片，Android，IOS，前端，APP等资源。
 
-<img src="https://github.com/maning0303/GankMM/raw/master/screenshots/001.jpg" width="640"/>
+<img src="https://raw.githubusercontent.com/maning0303/GankMM/master/screenshots/gank_day_01.jpg" width="300"/> <img src="https://raw.githubusercontent.com/maning0303/GankMM/master/screenshots/gank_night_03.jpg" width="300"/>
 
 ---
 
@@ -641,7 +641,7 @@ MIUI开源的文件管理器
 
 This is a better android-tv-launcher,it can running on the tv box.Build with gradle.
 
-<img src="https://raw.githubusercontent.com/JackyAndroid/AndroidTVLauncher/master/screenshots/androidtv-leanback-sample.png" width = "640"/>
+<img src="https://raw.githubusercontent.com/JackyAndroid/AndroidTVLauncher/master/screenshots/design_sketch1.png" width = "400"/> <img src="https://raw.githubusercontent.com/JackyAndroid/AndroidTVLauncher/master/screenshots/design_sketch5.png" width = "400"/>
 
 ---
 
@@ -730,10 +730,10 @@ A beautiful app 简诗 for recording anything in your life with traditional Chin
 
 A todo list app base Material Design
 
-<img src="https://github.com/hanks-zyh/Conquer/blob/master/Screenshot/demo.gif" width="160" />
-<img src="https://github.com/hanks-zyh/Conquer/blob/master/Screenshot/demo2.gif" width="160" />
-<img src="https://github.com/hanks-zyh/Conquer/blob/master/Screenshot/s0.png" width="160" />
-<img src="https://github.com/hanks-zyh/Conquer/blob/master/Screenshot/s2.png" width="160" />
+<img src="https://github.com/hanks-zyh/Conquer/blob/master/Screenshot/demo.gif" width="180" />
+<img src="https://github.com/hanks-zyh/Conquer/blob/master/Screenshot/demo2.gif" width="180" />
+<img src="https://github.com/hanks-zyh/Conquer/blob/master/Screenshot/s0.png" width="180" />
+<img src="https://github.com/hanks-zyh/Conquer/blob/master/Screenshot/s2.png" width="180" />
 
 ---
 
@@ -741,10 +741,9 @@ A todo list app base Material Design
 
 App+是一个MD风格的用于传送、提取APK文件的开源工具软件。[http://fir.im/appplus](http://fir.im/appplus)
 
-<img src="https://github.com/maoruibin/AppPlus/blob/master/art/index.png" width="160" />
-<img src="https://github.com/maoruibin/AppPlus/blob/master/art/send.jpg" width="160" />
-<img src="https://github.com/maoruibin/AppPlus/blob/master/art/setting.png" width="160" />
-<img src="https://github.com/maoruibin/AppPlus/blob/master/art/theme.png" width="160" />
+<img src="https://github.com/maoruibin/AppPlus/blob/master/art/index.png" width="270" />
+<img src="https://github.com/maoruibin/AppPlus/blob/master/art/setting.png" width="270" />
+<img src="https://github.com/maoruibin/AppPlus/blob/master/art/theme.png" width="270" />
 
 ---
 
