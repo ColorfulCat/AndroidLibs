@@ -1261,6 +1261,12 @@ ffmpeg examples in Android / IOS / WinPhone http://leixiaohua1020.github.com/
 
 ---
 
+*MediaPlayer-Extended**: https://github.com/protyposis/MediaPlayer-Extended
+
+Android MediaPlayer API-compatible media player library with exact seek and DASH support
+
+---
+
 **360-video-player-for-android**: https://github.com/fbsamples/360-video-player-for-android
 
 Sample code for creating a 360 video player on Android
