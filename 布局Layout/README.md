@@ -109,6 +109,14 @@ react-native-material-design
 
 ---
 
+**Material-ViewPagerIndicator**: https://github.com/ronaldsmartin/Material-ViewPagerIndicator
+
+Dot-based Android ViewPager indicator with Material Design animations
+
+<img src="https://raw.githubusercontent.com/ronaldsmartin/Material-ViewPagerIndicator/assets/screenshots/1.0.0/capture-v1.0.0.gif" width="320" />
+
+---
+
 **UltraIndicator**: https://github.com/andyxialm/UltraIndicator
 
 A custom indicator for ViewPager
