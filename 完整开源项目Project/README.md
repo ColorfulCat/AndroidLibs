@@ -815,10 +815,10 @@ An Android App for Github
 
 **Watch**: https://github.com/tuesda/Watch
 
-A project which demonstrate how to develop a custom client on android for dribbble.com
+dribbble 客户端
 
-<img src="https://github.com/tuesda/Watch/blob/master/animation/home.gif" width="320" />
-<img src="https://github.com/tuesda/Watch/blob/master/animation/page.gif" width="320" />
+<img src="https://github.com/tuesda/Watch/raw/master/animation/home.gif" width="320" />
+<img src="https://github.com/tuesda/Watch/raw/master/animation/page.gif" width="320" />
 
 ---
 
@@ -849,19 +849,14 @@ This is an Android application with camera,picture cropping,collage sticking and
 
 掌上V2EX
 
-<img src="https://camo.githubusercontent.com/a40f84e0a72644980f07f7962fc2db4f82e45f88/68747470733a2f2f7261772e6769746875622e636f6d2f677265617479616f2f763265782d616e64726f69642f6d61737465722f736e617073686f74732f6c61746573742e706e67" width="160" />
-<img src="https://camo.githubusercontent.com/63c60941b0380e83a08769561afe7fbff43de92b/68747470733a2f2f7261772e6769746875622e636f6d2f677265617479616f2f763265782d616e64726f69642f6d61737465722f736e617073686f74732f686f742e706e67" width="160" />
-<img src="https://camo.githubusercontent.com/a7cc29cd8ba89e7244cbb008aab4f856a2e495ec/68747470733a2f2f7261772e6769746875622e636f6d2f677265617479616f2f763265782d616e64726f69642f6d61737465722f736e617073686f74732f746f7069635f64657461696c732e706e67" width="160" />
-<img src="https://camo.githubusercontent.com/bfe4171ef32eea1fd6d09471c4aed25daaec8e43/68747470733a2f2f7261772e6769746875622e636f6d2f677265617479616f2f763265782d616e64726f69642f6d61737465722f736e617073686f74732f6472617765722e706e67" width="160" />
-
 ---
 
 **OhMyBiliBili**: https://github.com/HotBitmapGG/OhMyBiliBili
 
 高仿系列の哔哩哔哩 - ( ゜- ゜)つロ 乾杯~
 
-<img src="https://raw.githubusercontent.com/HotBitmapGG/OhMyBiliBili/OhMyBiliBili/art/01.jpg" width="320" /> 
-<img src="https://raw.githubusercontent.com/HotBitmapGG/OhMyBiliBili/OhMyBiliBili/art/03.jpg" width="320" />
+<img src="https://raw.githubusercontent.com/HotBitmapGG/bilibili/master-x/art/01.png" width="270" /> 
+<img src="https://raw.githubusercontent.com/HotBitmapGG/bilibili/master-x/art/001.png" width="540" />
 
 ---         
 
@@ -1012,7 +1007,7 @@ Material Design Notes App
 
 干柴（客户端、服务端），专注于Android干货资源
 
-<img src="https://camo.githubusercontent.com/8339e46ede8f34532f3fc1bf3d1ca99ef56b460c/687474703a2f2f37786b73706b2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f53637265656e73686f745f323031352d30382d32382d30392d35312d32312e706e673f696d6167654d6f6772322f7468756d626e61696c2f21333070" width="320" /> <img src="https://camo.githubusercontent.com/87c56d95476213f6a43637174ab727d1fb60632e/687474703a2f2f37786b73706b2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f53637265656e73686f745f323031352d30382d32382d30392d35322d33362e706e673f696d6167654d6f6772322f7468756d626e61696c2f21333070" width="320" />
+<img src="https://camo.githubusercontent.com/8339e46ede8f34532f3fc1bf3d1ca99ef56b460c/687474703a2f2f37786b73706b2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f53637265656e73686f745f323031352d30382d32382d30392d35312d32312e706e673f696d6167654d6f6772322f7468756d626e61696c2f21333070" width="210" /> <img src="https://camo.githubusercontent.com/87c56d95476213f6a43637174ab727d1fb60632e/687474703a2f2f37786b73706b2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f53637265656e73686f745f323031352d30382d32382d30392d35322d33362e706e673f696d6167654d6f6772322f7468756d626e61696c2f21333070" width="210" />
 
 ---
 
@@ -1098,7 +1093,7 @@ CoCoin是一款记账APP，有记账、多种方式显示支出占比和支出�
 
 一个帮你成为顶尖开发者的APP http://www.growth.ren/
 
-<img src="https://raw.githubusercontent.com/phodal/growth/master/screenshot/1.pic.jpg" width="320" /> <img src="https://raw.githubusercontent.com/phodal/growth/master/screenshot/2.pic.jpg" width="320" />
+<img src="https://raw.githubusercontent.com/phodal/growth/master/marketing/1.pic.jpg" width="320" /> <img src="https://raw.githubusercontent.com/phodal/growth/master/marketing/2.pic.jpg" width="320" />
 
 ---
 
@@ -1112,9 +1107,9 @@ CoCoin是一款记账APP，有记账、多种方式显示支出占比和支出�
 
 **ZhihuDailyRRD**:  https://github.com/lsxiao/ZhihuDailyRRD
 
-知乎日报，created by RRD(Retrofit,RxJava,Dagger2).
+知乎日报，created by RRD(Retrofit,RxJava,Dagger2)
 
-<img src="https://raw.githubusercontent.com/lsxiao/ZhihuDailyFluxRRD/master/screenshot/Screenshot_20151116-231003.png" width="320" />
+<img src="https://github.com/lsxiao/ZhihuDailyRRD/raw/master/demo.gif?raw=true" width="320" />
 
 ---
 
