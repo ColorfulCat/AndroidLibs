@@ -1383,6 +1383,14 @@ Router activities
 
 ---
 
+**AutoCrashReporter**: https://github.com/devsideal/AutoCrashReporter
+
+ACR is an android library to simplify crash detection while your app is under development, crash will be automatically detect by the library then app tester/user can easily send the crash report on one click to developer that will help him to fix the issue
+
+<img src="https://raw.githubusercontent.com/devsideal/AutoCrashReporter/master/assets/acr_demo.gif" width="280" />
+
+---
+
 **android-easy-crash-handle**: https://github.com/Mauiie/android-easy-crash-handle
 
 一个很容易使用的Android异常捕获、收集、提交的组件
