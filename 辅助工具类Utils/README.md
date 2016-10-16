@@ -18,6 +18,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**IpGetter**: https://github.com/brunodles/IpGetter
+
+The IpGetter is a plugin which will help us to get the Ip of the current machine to use on a build.gradle
+
+---
+
 **StanKoUtils**: https://github.com/stan-ko/StanKoUtils
 
 Set of handy classes
