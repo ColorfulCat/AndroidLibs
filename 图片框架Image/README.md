@@ -14,6 +14,14 @@
 
 ---
 
+**DiagonalLayout**: https://github.com/florent37/DiagonalLayout
+
+斜角 View 效果，用来做 Profile 背景最适合不过
+
+<img src = "https://raw.githubusercontent.com/florent37/DiagonalLayout/master/media/sample.gif" width = "320"/>
+
+---
+
 **Diagonalify**: https://github.com/developer-shivam/Diagonalify
 
 图片对角线分割风格
