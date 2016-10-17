@@ -109,6 +109,14 @@ react-native-material-design
 
 ---
 
+**PageIndicatorView**: https://github.com/romandanylyk/PageIndicatorView
+
+Google 风格的 Page Indicator 效果
+
+<img src="https://raw.githubusercontent.com/romandanylyk/PageIndicatorView/master/assets/animation_worm.gif" width="320" />
+
+---
+
 **Material-ViewPagerIndicator**: https://github.com/ronaldsmartin/Material-ViewPagerIndicator
 
 Dot-based Android ViewPager indicator with Material Design animations
