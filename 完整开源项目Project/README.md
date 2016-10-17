@@ -486,6 +486,14 @@ ReactNative亲戚称谓计算器
 
 ---
 
+**TVSample**: https://github.com/hejunlin2013/TVSample
+
+1、仿泰捷视频最新TV版 Metro UI效果. 2、仿腾讯视频TV版(云视听·极光) 列表页
+
+<img src="https://raw.githubusercontent.com/hejunlin2013/TVSample/master/images/device-2016-10-13-170829.png" width="640" />
+
+---
+
 **IPTVFree**: https://github.com/michelelacorte/IPTVFree
 
 Simple IPTV
