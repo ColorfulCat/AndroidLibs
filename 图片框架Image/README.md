@@ -6,6 +6,14 @@
 
 ---
 
+**ImageTransition**: https://github.com/vikramkakkar/ImageTransition
+
+Android 图片放大过渡效果
+
+<img src = "https://github.com/vikramkakkar/ImageTransition/raw/master/img/image_transition.gif?raw=true" width = "320"/>
+
+---
+
 **Squint**: https://github.com/IntruderShanky/Squint
 
 对角线风格
