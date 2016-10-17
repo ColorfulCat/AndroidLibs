@@ -1233,6 +1233,14 @@ Gradle plugin to optimize png files and reduce resultant apk size within an Andr
 
 ---
 
+**WxRecoderVideo**: https://github.com/maimingliang/WxRecoderVideo
+
+基于VCamera，仿微信录制短视频
+
+<img src="https://github.com/maimingliang/WxRecoderVideo/raw/master/recoder.gif" width="320" />
+
+---
+
 **Camera2-Video**: https://github.com/WesleyElliott/Camera2-Video
 
 A simple Android wrapper for interfacing with the new Camera2 API for video capture
