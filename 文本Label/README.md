@@ -6,6 +6,14 @@
 
 ---
 
+**AutoFillEmailEditText**: https://github.com/wangshaolei/AutoFillEmailEditText
+
+自定义 自动补充 email 的 EditText
+
+<img ="https://raw.githubusercontent.com/wangshaolei/AutoFillEmailEditText/master/img/1.png" width="320"/>
+
+---
+
 **AnFQNumEditText**: https://github.com/FTandJYQ/AnFQNumEditText
 
 自定义EditText实现右下角计数控件
