@@ -6,6 +6,14 @@
 
 ---
 
+**SlideButton**: https://github.com/masterlittle/SlideButton
+
+SlideButton
+
+<img src="https://raw.githubusercontent.com/masterlittle/SlideButton/master/resource/slidebutton_clamp_2.gif" width="320" />
+
+---
+
 **progress-button**: https://github.com/Trikke/progress-button
 
 A button that shows custom drawables when entering a loading state
