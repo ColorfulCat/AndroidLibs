@@ -6,6 +6,14 @@
 
 ---
 
+**baso**: https://github.com/gitsindonesia/baso
+
+以组件的方式维护列表加载状态
+
+<img src="https://raw.githubusercontent.com/gitsindonesia/baso/master/image1.png" width="320" /> <img src="https://raw.githubusercontent.com/gitsindonesia/baso/master/image3.png" width="320" />
+
+---
+
 **AwesomeProgressbar**: https://github.com/alex5241/AwesomeProgressbar
 
 支持左右两边同时滚动的进度条
