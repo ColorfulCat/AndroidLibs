@@ -6,6 +6,14 @@
 
 ---
 
+**FanLayoutManager**: https://github.com/Cleveroad/FanLayoutManager
+
+风车效果的 LayoutManager
+
+<img src="https://raw.githubusercontent.com/Cleveroad/FanLayoutManager/develop/images/demo_.gif" width="640" />
+
+---
+
 **android-page-transition**: https://github.com/xmuSistone/android-page-transition
 
 一个 Android Page 过渡效果 Demo 效果
