@@ -198,6 +198,12 @@ Lifecycle handling APIs for Android apps using RxJava
 
 ---
 
+**AirCycle**: https://github.com/simonpercic/AirCycle
+
+Flexible binding of Android Activity lifecycle callbacks to fields
+
+---
+
 **RxActivityResult**: https://github.com/NateWickstrom/RxActivityResult
 
 RxJava 处理 Activity Result
