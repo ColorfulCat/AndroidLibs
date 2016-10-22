@@ -851,6 +851,14 @@ Expand your view with no problem
 
 ---
 
+**SlidingIntoView**: https://github.com/ihsanbal/SlidingIntoView
+
+引导页面
+
+<img src="https://github.com/ihsanbal/SlidingIntoView/raw/master/device-2016-10-12-125715.gif" width="640" />
+
+---
+
 **material-intro-screen**: https://github.com/TangoAgency/material-intro-screen
 
 Material 风格的介绍页，在做介绍的同时，可以向用户申请权限
