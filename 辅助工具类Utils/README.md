@@ -1307,6 +1307,12 @@ apk 反编译工具
 
 ---
 
+**easyPrefs**: https://github.com/Xstar97/easyPrefs
+
+easily use android preferences(the easy way!)
+
+---
+
 **UniversalPreferences**: https://github.com/Zookey/UniversalPreferences
 
 use Shared Preferences in an easy way
