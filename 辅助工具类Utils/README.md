@@ -18,6 +18,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**AndroidMapperObject**: https://github.com/Gperez88/AndroidMapperObject
+
+MapperObject which it is a library that allows you to transfer data between two objects
+
+---
+
 **libretorrent**: https://github.com/proninyaroslav/libretorrent
 
 基于 libtorrent 实现的种子下载客户端
