@@ -689,14 +689,6 @@ RecyclerView 超强助手
 
 ---
 
-**pull-to-make-soup**: https://github.com/Yalantis/pull-to-make-soup
-
-RecyclerView 下拉刷新
-
-<img src="https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif" width="600" />
-
----
-
 **android-PullRefreshLayout**: [https://github.com/baoyongzhang/android-PullRefreshLayout](https://github.com/baoyongzhang/android-PullRefreshLayout)
 
 This component like SwipeRefreshLayout, it is more beautiful than SwipeRefreshLayout.
@@ -757,6 +749,22 @@ Android View that displays different content based on its state
 The implementation of [https://dribbble.com/shots/2067564-Replace](https://dribbble.com/shots/2067564-Replace)
 
 <img src="https://github.com/race604/FlyRefresh/blob/master/images/flyrefresh.gif" width="320" />
+
+---
+
+**Multi-Selection**: https://github.com/Yalantis/Multi-Selection
+
+Yalantis 放出的又一大作：Multi-Selection （优雅多选框），把选中的先存起来
+
+<img src="https://raw.githubusercontent.com/Yalantis/Multi-Selection/develop/imgs/dribble.gif" width="600" />
+
+---
+
+**pull-to-make-soup**: https://github.com/Yalantis/pull-to-make-soup
+
+RecyclerView 下拉刷新
+
+<img src="https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif" width="600" />
 
 ---
 
