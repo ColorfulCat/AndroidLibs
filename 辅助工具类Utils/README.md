@@ -1831,6 +1831,12 @@ Simplify getting user's location for Android
 
 ---
 
+**BluetoothHelper**: https://github.com/a-voyager/BluetoothHelper
+
+Bluetooth Helper Library.—-蓝牙操作库
+
+---
+
 **RxBluetooth**: https://github.com/IvBaranov/RxBluetooth
 
 Android reactive bluetooth
