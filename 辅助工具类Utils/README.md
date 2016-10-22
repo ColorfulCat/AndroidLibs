@@ -18,6 +18,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**libretorrent**: https://github.com/proninyaroslav/libretorrent
+
+基于 libtorrent 实现的种子下载客户端
+
+---
+
 **IpGetter**: https://github.com/brunodles/IpGetter
 
 The IpGetter is a plugin which will help us to get the Ip of the current machine to use on a build.gradle
@@ -668,12 +674,6 @@ Blorm is a field validation lib for android
 
 ---
 
-**RxBluetoothAuto**: https://github.com/tawaasalage/RxBluetoothAuto
-
-rxAndroid Bluetooth NFC
-
----
-
 **ReactiveWiFi**: https://github.com/pwittchen/ReactiveWiFi
 
 WiFi Access Points and related information with RxJava Observables
@@ -987,12 +987,6 @@ Realm DB browser and editor
 **material-design-dimens**: https://github.com/DmitryMalkovich/material-design-dimens
 
 MD 设计中的尺寸和颜色指导
-
----
-
-**Bleep**: https://github.com/tamir7/Bleep
-
-Thin wrapper around the Android Bluetooth LE API
 
 ---
 
@@ -1834,6 +1828,18 @@ Simplify getting user's location for Android
 **BluetoothHelper**: https://github.com/a-voyager/BluetoothHelper
 
 Bluetooth Helper Library.—-蓝牙操作库
+
+---
+
+**RxBluetoothAuto**: https://github.com/tawaasalage/RxBluetoothAuto
+
+rxAndroid Bluetooth NFC
+
+---
+
+**Bleep**: https://github.com/tamir7/Bleep
+
+Thin wrapper around the Android Bluetooth LE API
 
 ---
 
