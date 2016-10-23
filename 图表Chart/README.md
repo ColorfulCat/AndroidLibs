@@ -6,6 +6,14 @@
 
 ---
 
+**KalmanRx**: https://github.com/kibotu/KalmanRx
+
+kalman 滤波
+
+<img src="https://raw.githubusercontent.com/kibotu/KalmanRx/master/screenshot.png" width="320" /> <img src="https://raw.githubusercontent.com/kibotu/KalmanRx/master/screenshot2.png" width="320" />
+
+---
+
 **Jgraph**: https://github.com/mychoices/Jgraph
 
 图表控件
