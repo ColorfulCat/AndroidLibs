@@ -48,6 +48,12 @@ Set of handy classes
 
 ---
 
+**RxLoader**: https://github.com/L4Digital/RxLoader
+
+An Android Loader that wraps an RxJava Observable
+
+---
+
 **RxAwareness**: https://github.com/patloew/RxAwareness
 
 Reactive Awareness API Library for Android and RxJava
