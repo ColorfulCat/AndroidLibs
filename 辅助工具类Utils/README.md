@@ -42,6 +42,12 @@ Set of handy classes
 
 ---
 
+**CallRecorder**: https://github.com/aykuttasil/CallRecorder
+
+通话录音
+
+---
+
 **android_silk_v3_decoder**: https://github.com/ketn4391/android_silk_v3_decoder
 
 转换微信QQ语音格式为MP3格式
