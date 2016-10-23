@@ -118,6 +118,12 @@ Lightweight Dagger 2 scoped component management library
 
 ---
 
+**avenging**: https://github.com/JoaquimLey/avenging
+
+MVP - Android no Dagger or RxJava example http://joaquimley.com
+
+---
+
 **ThirtyInch**: https://github.com/grandcentrix/ThirtyInch
 
 a MVP library for Android
