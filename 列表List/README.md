@@ -445,6 +445,14 @@ Video list auto playback made simple, specially built for RecyclerView
 
 ---
 
+**ListVideoPlay**: https://github.com/brucetoo/ListVideoPlay
+
+Play video in ListView,RecyclerView,and support full-screen,and more feature about video play control
+
+<img src="https://github.com/brucetoo/ListVideoPlay/raw/master/list_video_play.gif" width="300" />
+
+---
+
 **VideoListDemo**: https://github.com/w1123440793/VideoListDemo
 
 一个视频播放列表demo，视频播放使用的ijkplayer,正在播放视频拖动到不可见区域小窗口播放，可全屏切换
