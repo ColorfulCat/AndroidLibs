@@ -469,6 +469,14 @@ RecyclerView.Adapter 的封装，可自动排序并添加 header
 
 ---
 
+**FastScroll**: https://github.com/L4Digital/FastScroll
+
+A ListView-like FastScroller for Android’s RecyclerView
+
+<img src="https://raw.githubusercontent.com/L4Digital/FastScroll/master/fastscroll_example.png" width="320" />
+
+---
+
 **MaterialScrollBar**: https://github.com/turing-tech/MaterialScrollBar
 
 An Android library that brings the Material Design 5.1 sidebar to pre-5.1 devices
