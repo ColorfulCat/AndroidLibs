@@ -6,6 +6,14 @@
 
 ---
 
+**SwipeCoordinator**: https://github.com/VictorAlbertos/SwipeCoordinator
+
+A coordinator layout for Android views to animate and typify touch events as swipe gestures
+
+<img src="https://raw.githubusercontent.com/VictorAlbertos/SwipeCoordinator/master/swipe_coordinator_left_right.gif" width="300" /> <img src="https://raw.githubusercontent.com/VictorAlbertos/SwipeCoordinator/master/swipe_coordinator_top_bottom.gif" width="300" />
+
+---
+
 **baso**: https://github.com/gitsindonesia/baso
 
 以组件的方式维护列表加载状态
