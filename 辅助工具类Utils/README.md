@@ -1319,6 +1319,12 @@ Composition over inheritance for Android components like Activity or Fragment
 
 ---
 
+**Dexer**: https://github.com/zjutkz/Dexer
+
+一个轻量级的dex解析器
+
+---
+
 **android-classyshark**: https://github.com/google/android-classyshark
 
 apk 反编译工具
