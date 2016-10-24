@@ -6,6 +6,12 @@
 
 ---
 
+**CountDownProgressView**: https://github.com/kishorsinghgour/CountDownProgressView
+
+This is a simple rounded progress view that shows remaining time/cycle/events as text in center
+
+---
+
 **SwipeCoordinator**: https://github.com/VictorAlbertos/SwipeCoordinator
 
 A coordinator layout for Android views to animate and typify touch events as swipe gestures
