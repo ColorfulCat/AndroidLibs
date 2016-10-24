@@ -6,6 +6,14 @@
 
 ---
 
+**BigBang**: https://github.com/baoyongzhang/BigBang
+
+模仿 Smartisan OS 的 BigBang 功能
+
+<img ="https://raw.githubusercontent.com/baoyongzhang/BigBang/master/design/bigbang_demo.gif" width="320"/>
+
+---
+
 **AutoFillEmailEditText**: https://github.com/wangshaolei/AutoFillEmailEditText
 
 自定义 自动补充 email 的 EditText
