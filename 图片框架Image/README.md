@@ -6,6 +6,14 @@
 
 ---
 
+**SimpleOneStep**: https://github.com/gavinliu/SimpleOneStep
+
+仿 Smartisan OneStep
+
+<img src = "https://raw.githubusercontent.com/gavinliu/SimpleOneStep/master/screenshots.gif" width = "320"/> <img src = "https://raw.githubusercontent.com/gavinliu/SimpleOneStep/master/screenshots2.gif" width = "320"/>
+
+---
+
 **ImageTransition**: https://github.com/vikramkakkar/ImageTransition
 
 Android 图片放大过渡效果
