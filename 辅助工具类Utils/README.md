@@ -1685,9 +1685,15 @@ jlog是一款针对Android开发者的日志工具
 
 ---
 
-**KLog**: https://github.com/ZhaoKaiQiang/KLog
+**Android-PLog**: https://github.com/Muyangmin/Android-PLog
 
-This is a useful log tool for Android
+Android 专用日志封装库，轻巧易用，高扩展性
+
+<img src="https://raw.githubusercontent.com/Muyangmin/Android-PLog/master/ScreenShot.png" width="640" />
+
+---
+
+**KLog**: https://github.com/ZhaoKaiQiang/KLog
 
 Android LogCat 工具类，支持行号、所在函数、点击自动跳转、Json格式自定解析打印等功能。
 
