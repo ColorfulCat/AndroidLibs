@@ -159,6 +159,14 @@ MIUI8 悬浮球
 
 ---
 
+**MaterialRatingBar**: https://github.com/DreaminginCodeZH/MaterialRatingBar
+
+一款漂亮的打分效果
+
+<img src="https://raw.githubusercontent.com/DreaminginCodeZH/MaterialRatingBar/master/screenshot/sample_app.jpg" width="320" />
+
+---
+
 **SimpleRatingBar**: https://github.com/FlyingPumba/SimpleRatingBar
 
 A simple RatingBar for Android
