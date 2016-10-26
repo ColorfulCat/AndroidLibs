@@ -116,6 +116,22 @@ StateView is a lightweight view that absorb characteristics of ViewStub. It can 
 
 ---
 
+**StateLayout**: https://github.com/lufficc/StateLayout
+
+A custom layout that can easily switch different states(like empty,error,progress,content) with animations
+
+<img src="https://raw.githubusercontent.com/lufficc/StateLayout/master/pics/device-2016-08-30-174309.gif" width="320" />
+
+---
+
+**MaterialPageStateLayout**: https://github.com/Syehunter/MaterialPageStateLayout
+
+PageStateLayout could let you show [Loading][Empty][Error][Succeed][Requesting] state in Activity, Fragment, ViewGroup as you want.
+
+<img src="https://camo.githubusercontent.com/7f8b84dfd761480c284df204672d8fcf7cbbe429/687474703a2f2f37786e347a342e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f5061676553746174654c61796f75742e676966" width="320" />
+
+---
+
 **react-native-material-design**: https://github.com/react-native-material-design/react-native-material-design
 
 react-native-material-design
@@ -1559,14 +1575,6 @@ Android: iOS-like over-scrolling effect applicable over almost all scrollable An
 仿微信主页面，通过ViewPager实现，高度可定制化，页面可以左右滑动，点击下面那妞也可以切换。
 
 <img src="http://img.blog.csdn.net/20150831234404946" width="320" />
-
----
-
-**MaterialPageStateLayout**: https://github.com/Syehunter/MaterialPageStateLayout
-
-PageStateLayout could let you show [Loading][Empty][Error][Succeed][Requesting] state in Activity, Fragment, ViewGroup as you want.
-
-<img src="https://camo.githubusercontent.com/7f8b84dfd761480c284df204672d8fcf7cbbe429/687474703a2f2f37786e347a342e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f5061676553746174654c61796f75742e676966" width="320" />
 
 ---
 

@@ -39,6 +39,14 @@ A clean, minimal, highly customizable pin lock view
 
 ---
 
+**android-passcodeview**: https://github.com/Arjun-sna/android-passcodeview
+
+A custom view with keyboard and character display to be used for authentication
+
+<img src="https://camo.githubusercontent.com/e8de865b924b69792eae1052537f94c47f59a3a2/68747470733a2f2f61726a756e2d736e612e6769746875622e696f2f7261772f70617373636f6465766965775f312e676966" width="320" />
+
+---
+
 **CouponView**: https://github.com/dongjunkun/CouponView
 
 锯齿边框，类似优惠劵效果的自定义 View
@@ -51,15 +59,7 @@ A clean, minimal, highly customizable pin lock view
 
 仿锤子时间View
 
-<img src="https://camo.githubusercontent.com/00382740283c9ad1bd7c6ab9fdac33058e58624d/687474703a2f2f3778773030782e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f736d6172746973616e5f74696d652e676966" width="320" />
-
----
-
-**StateLayout**: https://github.com/lufficc/StateLayout
-
-A custom layout that can easily switch different states(like empty,error,progress,content) with animations
-
-<img src="https://raw.githubusercontent.com/lufficc/StateLayout/master/pics/state_layout.gif" width="320" />
+https://raw.githubusercontent.com/SpiritMan/SmartisanTime/master/images/smartisanTime.gif" width="320" />
 
 ---
 

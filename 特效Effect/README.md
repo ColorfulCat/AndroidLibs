@@ -482,14 +482,6 @@ A view that allows to paint and saves the result as a bitmap.[http://panavtec.me
 
 ---
 
-**android-passcodeview**: https://github.com/Arjun-sna/android-passcodeview
-
-A custom view with keyboard and character display to be used for authentication
-
-<img src="https://camo.githubusercontent.com/e8de865b924b69792eae1052537f94c47f59a3a2/68747470733a2f2f61726a756e2d736e612e6769746875622e696f2f7261772f70617373636f6465766965775f312e676966" width="320" />
-
----
-
 **ViewPager3D**: https://github.com/renard314/ViewPager3D/tree/master/ViewPager3D
 
 Extension of Android ViewPager with a 3D swipe effect
