@@ -6,6 +6,12 @@
 
 ---
 
+**dns66**: https://github.com/julian-klode/dns66
+
+基于 DNS 实现的 Android 广告拦截
+
+---
+
 **Gitskarios**: https://github.com/gitskarios/Gitskarios
 
 好用的 GitHub 客户端
