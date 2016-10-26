@@ -6,6 +6,14 @@
 
 ---
 
+**FriendGroupManage**: https://github.com/ysq1051838264/FriendGroupManage
+
+仿qq分组管理，可以删除、增加、以及修改等等
+
+<img src="https://raw.githubusercontent.com/ysq1051838264/FriendGroupManage/master/1.gif" width="320" />
+
+---
+
 **EasyHeaderFooterAdapter**: https://github.com/rubengees/EasyHeaderFooterAdapter
 
 An Android library which adds headers and footers to the RecyclerView
