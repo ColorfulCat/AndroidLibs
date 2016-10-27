@@ -6,6 +6,14 @@
 
 ---
 
+**SuperTextView**: https://github.com/lygttpod/SuperTextView
+
+一个功能强大的TextView，可以满足日常大部分布局方式
+
+<img ="https://raw.githubusercontent.com/lygttpod/SuperTextView/master/screenshot.png" width="320"/>
+
+---
+
 **BigBang**: https://github.com/baoyongzhang/BigBang
 
 模仿 Smartisan OS 的 BigBang 功能
