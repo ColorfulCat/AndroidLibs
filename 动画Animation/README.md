@@ -6,6 +6,14 @@
 
 ---
 
+**BubbleAnimationLayout**: https://github.com/Cleveroad/BubbleAnimationLayout
+
+让你的 App 不再那么无聊和单调，气泡风格的过渡动画效果
+
+<img src="https://raw.githubusercontent.com/Cleveroad/BubbleAnimationLayout/master/images/demo_.gif" width="640" />
+
+---
+
 **AnimatorDurationTile**: https://github.com/nickbutcher/AnimatorDurationTile
 
 A quick settings tile to quickly set the animator duration scale
