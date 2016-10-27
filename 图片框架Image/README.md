@@ -92,6 +92,14 @@ Simple gallery to retrieve one or more images. It allow to take new photos or vi
 
 ---
 
+**MultiType-FilePicker**: https://github.com/fishwjy/MultiType-FilePicker
+
+一款轻量级的文件选择器，支持多种文件类型
+
+<img src = "https://github.com/fishwjy/MultiType-FilePicker/raw/master/pic/pick_img.gif" width = "320"/> <img src = "https://github.com/fishwjy/MultiType-FilePicker/raw/master/pic/pick_file.png" width = "320"/>
+
+---
+
 **TelegramGallery**: https://github.com/TangXiaoLv/TelegramGallery
 
 QQ 相册风格，相册选择器
