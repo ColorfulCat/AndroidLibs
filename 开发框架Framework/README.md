@@ -6,6 +6,14 @@
 
 ---
 
+**AppAddUpdate**: https://github.com/kingwang666/AppAddUpdate
+
+Android app 增量更新
+
+<img src="https://camo.githubusercontent.com/d5e0b48f2e1ed7472c84f1fe32a7767439fc19fc/687474703a2f2f692e696d6775722e636f6d2f6e757445554b452e6a7067" width="270"/>
+
+---
+
 **rexxar-android**: https://github.com/douban/rexxar-android
 
 豆瓣的混合开发框架 -- Rexxar
