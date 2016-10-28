@@ -6,6 +6,14 @@
 
 ---
 
+**TinyDancer**: https://github.com/friendlyrobotnyc/TinyDancer
+
+Android 上展示 FPS(每秒显示帧数) 的悬浮组件
+
+<img src="https://raw.githubusercontent.com/brianPlummer/TinyDancer/master/assets/tinydancer1.gif" width="270" />
+
+---
+
 **SGiOSViews**: https://github.com/Shubhank101/SGiOSViews
 
 IOS 风格选择控制
