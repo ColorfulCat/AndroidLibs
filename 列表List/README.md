@@ -6,6 +6,14 @@
 
 ---
 
+**SmileRefresh**: https://github.com/songixan/SmileRefresh
+
+微笑下拉刷新。这是在 SwipeRefreshLayout基础上修改的下拉刷新库
+
+<img src="https://camo.githubusercontent.com/baf0794018fbb0812ade7d741a94d34ac3500b94/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313631303133323032313335373530" width="320" />
+
+---
+
 **FriendGroupManage**: https://github.com/ysq1051838264/FriendGroupManage
 
 仿qq分组管理，可以删除、增加、以及修改等等
