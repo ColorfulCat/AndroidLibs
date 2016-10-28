@@ -6,6 +6,14 @@
 
 ---
 
+**AndroidShortcuts**: https://github.com/pcevikogullari/AndroidShortcuts
+
+Android Support 25.0 中 Shortcut Demo
+
+<img src="https://raw.githubusercontent.com/pcevikogullari/AndroidShortcuts/master/shortcut1.gif" width="320" /> <img src="https://raw.githubusercontent.com/pcevikogullari/AndroidShortcuts/master/shortcut2.gif" width="320" />
+
+---
+
 **dns66**: https://github.com/julian-klode/dns66
 
 基于 DNS 实现的 Android 广告拦截
