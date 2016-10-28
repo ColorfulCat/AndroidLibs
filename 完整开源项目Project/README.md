@@ -66,6 +66,14 @@ Sqlite 数据库查看
 
 ---
 
+**Currency-Converter-Android**: https://github.com/samanyougarg/Currency-Converter-Android
+
+一款完整的货币转换的 App
+
+<img src="https://raw.githubusercontent.com/samanyougarg/Currency-Converter-Android/master/screenshots.png" width="640" />
+
+---
+
 **Currency**: https://github.com/yiyuanliu/Currency
 
 一个简洁的汇率转换软件，使用 kotlin 编写，通过 anko 框架编写 UI 并实现漂亮的主题动态切换效果
