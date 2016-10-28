@@ -24,6 +24,12 @@ MapperObject which it is a library that allows you to transfer data between two 
 
 ---
 
+**SensorAnnotations**: https://github.com/dvoiss/SensorAnnotations
+
+Sensor 注解：实现当传感器参数发生变化的时候，自动调用特定函数
+
+---
+
 **MaterialValues**: https://github.com/AoDevBlue/MaterialValues
 
 Material Design 中那些标准的设计常量
