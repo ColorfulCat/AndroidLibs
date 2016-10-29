@@ -18,6 +18,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**SQLiteParser**: https://github.com/jrvansuita/SQLiteParser
+
+This project comes in handy when you want to write a sql statement easily and smarter
+
+---
+
 **AndroidMapperObject**: https://github.com/Gperez88/AndroidMapperObject
 
 MapperObject which it is a library that allows you to transfer data between two objects
