@@ -6,6 +6,14 @@
 
 ---
 
+**DxLoadingButton**: https://github.com/StevenDXC/DxLoadingButton
+
+Android button with loading animation
+
+<img src="https://raw.githubusercontent.com/StevenDXC/DxLoadingButton/master/image/loadingButton.gif" width="320" />
+
+---
+
 **roundbutton**: https://github.com/czy1121/roundbutton
 
 可设置圆角背景边框的的按钮
