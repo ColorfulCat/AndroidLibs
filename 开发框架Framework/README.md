@@ -6,6 +6,12 @@
 
 ---
 
+**FunctionalAndroidReference**: https://github.com/pakoito/FunctionalAndroidReference
+
+Showcase project of Functional Reactive Programming on Android, using RxJava. http://tinyurl.com/RxDroidcon16
+
+---
+
 **AppAddUpdate**: https://github.com/kingwang666/AppAddUpdate
 
 Android app 增量更新
