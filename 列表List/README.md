@@ -6,6 +6,14 @@
 
 ---
 
+**ChipsLayoutManager**: https://github.com/BelooS/ChipsLayoutManager
+
+ANDROID. ChipsLayoutManager (SpanLayoutManager). A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recyclerView features
+
+<img src="https://github.com/BelooS/ChipsLayoutManager/raw/master/images/demo.gif" width="320" />
+
+---
+
 **SmileRefresh**: https://github.com/songixan/SmileRefresh
 
 微笑下拉刷新。这是在 SwipeRefreshLayout基础上修改的下拉刷新库
