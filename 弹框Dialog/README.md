@@ -6,6 +6,14 @@
 
 ---
 
+**flickabledialog**: https://github.com/t-kurimura/flickabledialog
+
+This dialog can flick and make it easy to dismiss sensuously
+
+<img src="https://raw.githubusercontent.com/t-kurimura/flickabledialog/master/sample_throw.gif" width="320" /> <img src="https://raw.githubusercontent.com/t-kurimura/flickabledialog/master/sample_back.gif" width="320" />
+
+---
+
 **BottomDialog**: https://github.com/shaohui10086/BottomDialog
 
 BottomDialog 是一个通过 DialogFragment 实现的底部弹窗布局，并且支持弹出动画，支持任意布局 http://shaohui.me
