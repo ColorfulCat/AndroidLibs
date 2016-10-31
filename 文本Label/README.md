@@ -6,6 +6,14 @@
 
 ---
 
+**TextHighlighter**: https://github.com/akshay-naik/TextHighlighter
+
+TextHighlighter is a simple android API for developers to show highlighted and styled text in android apps
+
+<img ="https://raw.githubusercontent.com/akshay-naik/TextHighlighter/master/screenshot.png" width="270"/>
+
+---
+
 **SuperTextView**: https://github.com/lygttpod/SuperTextView
 
 一个功能强大的TextView，可以满足日常大部分布局方式
