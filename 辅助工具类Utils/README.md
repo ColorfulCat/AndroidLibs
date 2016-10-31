@@ -60,6 +60,32 @@ Set of handy classes
 
 ---
 
+**AndroidAudioRecorder**: https://github.com/adrielcafe/AndroidAudioRecorder
+
+安卓音频录制库
+
+<img src="https://raw.githubusercontent.com/adrielcafe/AndroidAudioRecorder/master/screenshots.png" width="800"/>
+
+---
+
+**OmRecorder**: https://github.com/kailash09dabhi/OmRecorder
+
+A Simple Pcm / Wav audio recorder with nice api. https://kailash09dabhi.github.io/OmRecorder/
+
+---
+
+**ReactiveAudioRecord**: https://github.com/ahmedrizwan/ReactiveAudioRecord
+
+Rx wrapper library for Android's AudioRecord API
+
+---
+
+**AndroidAudioConverter**: https://github.com/adrielcafe/AndroidAudioConverter
+
+音频转换 支持：WAV, AAC, MP3, M4A, WMA and FLAC
+
+---
+
 **CallRecorder**: https://github.com/aykuttasil/CallRecorder
 
 通话录音
@@ -136,7 +162,7 @@ Light version of the concept of ButterKnife
 
 **truetime-android**: https://github.com/instacart/truetime-android
 
-获取当前时间
+获取当前时间，可自定义时间服务器
 
 ---
 
@@ -269,12 +295,6 @@ Fragment 回退处理库
 **FragmentArgs**: https://github.com/itsJoKr/FragmentArgs
 
 Fragment 参数传递
-
----
-
-**AndroidAudioConverter**: https://github.com/adrielcafe/AndroidAudioConverter
-
-音频转换 支持：WAV, AAC, MP3, M4A, WMA and FLAC
 
 ---
 
@@ -536,14 +556,6 @@ Android APK Decompiler
 
 ---
 
-**AndroidAudioRecorder**: https://github.com/adrielcafe/AndroidAudioRecorder
-
-安卓音频录制库
-
-<img src="https://raw.githubusercontent.com/adrielcafe/AndroidAudioRecorder/master/screenshots.png" width="800"/>
-
----
-
 **Endoscope**: https://github.com/hypeapps/Endoscope
 
 Endoscope - RTSP live video streamer for android devices via Wi-Fi
@@ -773,18 +785,6 @@ Android 表单验证库，用方法链构建你的验证规则
 **rxlist**: https://github.com/s0nerik/rxlist
 
 RxJava 方式对 List 的封装
-
----
-
-**OmRecorder**: https://github.com/kailash09dabhi/OmRecorder
-
-A Simple Pcm / Wav audio recorder with nice api. https://kailash09dabhi.github.io/OmRecorder/
-
----
-
-**ReactiveAudioRecord**: https://github.com/ahmedrizwan/ReactiveAudioRecord
-
-Rx wrapper library for Android's AudioRecord API
 
 ---
 

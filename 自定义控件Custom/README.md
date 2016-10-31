@@ -6,6 +6,14 @@
 
 ---
 
+**ClearScreenHelper**: https://github.com/Yellow5A5/ClearScreenHelper
+
+几行代码快速实现滑动清屏效果！动态绑定清屏UI，参考自淘宝直播
+
+<img src="https://raw.githubusercontent.com/Yellow5A5/ClearScreenHelper/master/image/demo_image1.gif" width="270" /> <img src="https://raw.githubusercontent.com/Yellow5A5/ClearScreenHelper/master/image/demo_image2.gif" width="270" />
+
+---
+
 **TinyDancer**: https://github.com/friendlyrobotnyc/TinyDancer
 
 Android 上展示 FPS(每秒显示帧数) 的悬浮组件
