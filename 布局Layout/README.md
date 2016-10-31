@@ -761,6 +761,14 @@ this is a draggable flow layout lib
 
 ---
 
+**SearchFilter**: https://github.com/Yalantis/SearchFilter
+
+Yalantis 出品：搜索过滤器交互效果
+
+<img src="https://github.com/Yalantis/SearchFilter/raw/master/gif/dribbble.gif" width="640" />
+
+---
+
 **FlowTag**: https://github.com/hanhailong/FlowTag
 
 Android流式布局，支持点击、单选、多选等，适合用于产品标签等
