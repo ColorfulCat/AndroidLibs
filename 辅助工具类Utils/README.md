@@ -12,6 +12,12 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
+**Multiples**: https://github.com/MFlisar/Multiples
+
+Based one Java Pair this library offers Triples, Quadriples and more (3 to 10 items)
+
+---
+
 **strman-java**: https://github.com/shekhargulati/strman-java
 
 A Java 8 string manipulation library. It is inspired by https://github.com/dleitee/strman
