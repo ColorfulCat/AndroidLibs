@@ -6,6 +6,14 @@
 
 ---
 
+**TransitionHelper**: https://github.com/ImmortalZ/TransitionHelper
+
+兼容5.0以下转场动画帮助类
+
+<img src="https://raw.githubusercontent.com/ImmortalZ/TransitionHelper/master/screenshots/image.gif" width="320" /> <img src="https://raw.githubusercontent.com/ImmortalZ/TransitionHelper/master/screenshots/button.gif" width="320" />
+
+---
+
 **BubbleAnimationLayout**: https://github.com/Cleveroad/BubbleAnimationLayout
 
 让你的 App 不再那么无聊和单调，气泡风格的过渡动画效果
