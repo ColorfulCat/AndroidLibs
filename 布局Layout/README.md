@@ -92,6 +92,14 @@ Implementation of mini navigation drawer for Android
 
 ---
 
+**DataLoadingLayoutAndroid**: https://github.com/lvleo/DataLoadingLayoutAndroid
+
+A custom view for data loading status on Android
+
+<img src="https://raw.githubusercontent.com/lvleo/DataLoadingLayoutAndroid/master/screen/screen.gif" width="320" />
+
+---
+
 **ProgressLayout**: https://github.com/nguyenhoanglam/ProgressLayout
 
 An extension of RelativeLayout that helps show loading, empty and error layout
