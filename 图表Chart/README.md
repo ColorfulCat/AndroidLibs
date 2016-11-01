@@ -14,6 +14,14 @@ kalman 滤波
 
 ---
 
+**JChart**: https://github.com/jiang111/JChart
+
+JChart
+
+<img src="https://raw.githubusercontent.com/jiang111/JChart/master/art/0.png" width="640" />
+
+---
+
 **Jgraph**: https://github.com/mychoices/Jgraph
 
 图表控件

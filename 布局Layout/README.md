@@ -13,6 +13,14 @@
 
 ---
 
+**SlideBack**: https://github.com/oubowu/SlideBack
+
+高仿微信视差手势滑动返回库
+
+<img src="https://raw.githubusercontent.com/oubowu/SlideBack/master/pic/demo.gif" width="260" />
+
+---
+
 **appbarlayout-spring-behavior**: https://github.com/ToDou/appbarlayout-spring-behavior
 
 使AppBarLayout 可以弹性下拉的Behavior
