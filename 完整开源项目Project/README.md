@@ -1034,14 +1034,24 @@ Material Design Notes App
 
 ---
 
-**superCleanMaster**:  https://github.com/joyoyao/superCleanMaster
+**MobileGuard**: https://github.com/ittianyu/MobileGuard
 
- 一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等。
+一款比较完整的 Android 安全管理 App
 
-<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg" width="180" />
-<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/1.jpg" width="180" />
-<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/2.jpg" width="180" />
-<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/3.jpg" width="180" />
+<img src="https://raw.githubusercontent.com/ittianyu/MobileGuard/master/read_me_images/anti-virus.gif" width="270" />
+<img src="https://raw.githubusercontent.com/ittianyu/MobileGuard/master/read_me_images/clear_cache.gif" width="270" />
+<img src="https://raw.githubusercontent.com/ittianyu/MobileGuard/master/read_me_images/msg_safe.gif" width="270" />
+
+---
+
+**superCleanMaster**: https://github.com/joyoyao/superCleanMaster
+
+一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等。
+
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/home.jpg" width="200" />
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/1.jpg" width="200" />
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/2.jpg" width="200" />
+<img src="https://github.com/joyoyao/superCleanMaster/blob/master/screenshot/3.jpg" width="200" />
 
 ---
 
