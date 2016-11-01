@@ -154,6 +154,14 @@ represent any prices in Russian rouble currency
 
 ---
 
+**input-mask-android**: https://github.com/RedMadRobot/input-mask-android
+
+给用户输入自动加上特定格式
+
+<img src="https://raw.githubusercontent.com/RedMadRobot/input-mask-android/assets/assets/gif-animations/direct-input.gif" width="320" />
+
+---
+
 **FormattEditText**: https://github.com/PaXLiCh/FormattEditText
 
 支持自动格式化的 EditText，比如货币、电话号码等等
