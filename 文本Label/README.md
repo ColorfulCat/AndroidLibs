@@ -519,6 +519,14 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**noticeview**: https://github.com/czy1121/noticeview
+
+滚动播放的公告控件
+
+<img src="https://raw.githubusercontent.com/czy1121/noticeview/master/screenshot.png" width="320" />
+
+---
+
 **MarqueeView**: https://github.com/sfsheng0322/MarqueeView
 
 垂直跑马灯 —— 垂直翻页公告
