@@ -247,6 +247,14 @@ showcasing specific features in the app
 
 ---
 
+**RadarChart**: https://github.com/qstumn/RadarChart
+
+一个可以自由定制、旋转交互的Android雷达图Lib
+
+<img src="https://raw.githubusercontent.com/qstumn/RadarChart/master/demo.gif" width="310" />
+
+---
+
 **polygonsview**: https://github.com/jiangzehui/polygonsview
 
 模仿掌上英雄联盟能力分析效果
