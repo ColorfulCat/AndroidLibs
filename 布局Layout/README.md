@@ -516,6 +516,12 @@ Quick image ViewPagers
 
 ---
 
+**UserAwareVideoView**: https://github.com/kevalpatel2106/UserAwareVideoView
+
+眼睛离开屏幕自动暂停的视频播放 View
+
+---
+
 **Exposure-Video-Player**: https://github.com/UrbanChrisy/Exposure-Video-Player
 
 Custom Android video player API library
