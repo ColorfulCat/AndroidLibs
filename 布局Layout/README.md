@@ -5,11 +5,11 @@
 
 ---
 
-**SlideBack**: https://github.com/oubowu/SlideBack
+**ClickableWebView**: https://github.com/AhmadNemati/ClickableWebView
 
-高仿微信视差手势滑动返回库
+Simple WebView for Detect click on an image
 
-<img src="https://raw.githubusercontent.com/oubowu/SlideBack/master/pic/demo.gif" width="260" />
+<img src="https://raw.githubusercontent.com/AhmadNemati/ClickableWebView/test/art/webview.gif" width="320" />
 
 ---
 
