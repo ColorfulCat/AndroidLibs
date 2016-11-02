@@ -24,6 +24,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**NorthWest**: https://github.com/MarsVard/NorthWest
+
+Simple RxAndroid library to get degrees to north
+
+---
+
 **AndroidPush**: https://github.com/jiang111/AndroidPush
 
 更方便的将各个rom厂商自己的推送服务进行集成,并统一管理
@@ -1488,6 +1494,12 @@ Simple and effective bug & crash reporting tool for Android apps http://bugtags.
 **gradle-android-javadocs**: https://github.com/Commit451/gradle-android-javadocs
 
 Helper to generate Javadocs within a Gradle Android library
+
+---
+
+**permissionHelper**: https://github.com/firetrap/permissionHelper
+
+Android 6.0 Permission Helper
 
 ---
 
