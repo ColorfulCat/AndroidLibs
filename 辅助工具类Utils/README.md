@@ -32,6 +32,12 @@ Simple implementation of ForceTouch on Android
 
 ---
 
+**HTTPDNSLib**: https://github.com/CNSRE/HTTPDNSLib
+
+全局精确流量调度新思路-HttpDNS服务详解
+
+---
+
 **NorthWest**: https://github.com/MarsVard/NorthWest
 
 Simple RxAndroid library to get degrees to north
