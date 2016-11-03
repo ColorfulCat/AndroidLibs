@@ -32,6 +32,12 @@ Simple implementation of ForceTouch on Android
 
 ---
 
+**dnsproxy2**: https://github.com/cernekee/dnsproxy2
+
+DNS proxy for Android 4.3+
+
+---
+
 **HTTPDNSLib**: https://github.com/CNSRE/HTTPDNSLib
 
 全局精确流量调度新思路-HttpDNS服务详解
