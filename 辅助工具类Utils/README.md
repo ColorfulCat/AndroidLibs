@@ -24,6 +24,14 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**ForceTouch**: https://github.com/michelelacorte/ForceTouch
+
+Simple implementation of ForceTouch on Android
+
+<img src="https://camo.githubusercontent.com/ba1666aa84ec083accb9fc982e961e7a05fd0361/68747470733a2f2f7331342e706f7374696d672e6f72672f3573337363716639742f73637265656e2e706e67" width="320"/>
+
+---
+
 **NorthWest**: https://github.com/MarsVard/NorthWest
 
 Simple RxAndroid library to get degrees to north
