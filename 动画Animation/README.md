@@ -6,6 +6,14 @@
 
 ---
 
+**android-TNRAnimationHelper**: https://github.com/thunderrise/android-TNRAnimationHelper
+
+Android 创造更精致的动画效果库
+
+<img src="https://raw.githubusercontent.com/thunderrise/android-TNRAnimationHelper/master/images/rotation.gif" width="640" />
+
+---
+
 **TransitionHelper**: https://github.com/ImmortalZ/TransitionHelper
 
 兼容5.0以下转场动画帮助类
