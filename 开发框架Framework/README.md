@@ -12,6 +12,14 @@ Showcase project of Functional Reactive Programming on Android, using RxJava. ht
 
 ---
 
+**AndroidMVPAuthenticationBoilerPlate**: https://github.com/TakeoffAndroid/AndroidMVPAuthenticationBoilerPlate
+
+Login/Signup app which handles boiler plate Validation logics using MVP design patterns with SQLite Database
+
+<img src="https://camo.githubusercontent.com/fa70071b3310bb98a865c560f320bd2d325d78fb/687474703a2f2f692e696d6775722e636f6d2f546f62344132322e676966" width="190"/> <img src="https://camo.githubusercontent.com/8906ef6aad16b32871365386f3042a0dc5dce505/687474703a2f2f692e696d6775722e636f6d2f79416939426d352e676966" width="190"/>
+
+---
+
 **AppAddUpdate**: https://github.com/kingwang666/AppAddUpdate
 
 Android app 增量更新
