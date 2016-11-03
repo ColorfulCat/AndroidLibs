@@ -6,6 +6,14 @@
 
 ---
 
+**SquareMenu**: https://github.com/devsideal/SquareMenu
+
+Android 方块儿展开菜单
+
+<img src="https://raw.githubusercontent.com/devsideal/SquareMenu/master/assets/square_menu_v1.0.0.gif" width="320"/>
+
+---
+
 **InfinityMenu**: https://github.com/desnyki/InfinityMenu
 
 Android library to create a sleek menu
