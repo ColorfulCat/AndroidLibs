@@ -1230,6 +1230,12 @@ Gradle plugin to check library licenses and generate license pages
 
 ---
 
+**SimpleNFC**: https://github.com/tawaasalage/SimpleNFC
+
+This is a sample project that include NFC value reading using insanely easy way
+
+---
+
 **nordpol**: https://github.com/fidesmo/nordpol
 
 The Android Support Library for NFC
