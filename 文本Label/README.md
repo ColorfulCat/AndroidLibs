@@ -6,6 +6,14 @@
 
 ---
 
+**TyperEditText**: https://github.com/andyxialm/TyperEditText
+
+Android 仿业问 打字机效果
+
+<img ="https://raw.githubusercontent.com/andyxialm/TyperEditText/master/art/screenshot.gif" width="265"/>
+
+---
+
 **TextHighlighter**: https://github.com/akshay-naik/TextHighlighter
 
 TextHighlighter is a simple android API for developers to show highlighted and styled text in android apps
