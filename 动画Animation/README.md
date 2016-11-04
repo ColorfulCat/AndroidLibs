@@ -6,6 +6,14 @@
 
 ---
 
+**FloatingView**: https://github.com/UFreedom/FloatingView
+
+一个能够让 View 执行漂亮的漂浮动画的库
+
+<img src="https://raw.githubusercontent.com/UFreedom/FloatingView/master/images/demo.gif" width="640" />
+
+---
+
 **android-TNRAnimationHelper**: https://github.com/thunderrise/android-TNRAnimationHelper
 
 Android 创造更精致的动画效果库
