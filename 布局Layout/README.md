@@ -5,6 +5,14 @@
 
 ---
 
+**Android-ScaleLayout**: https://github.com/gavinliu/Android-ScaleLayout
+
+一个简单的,方便的多屏适配的Android库
+
+<img src="https://raw.githubusercontent.com/gavinliu/Android-ScaleLayout/master/screenhot.png" width="800" />
+
+---
+
 **ClickableWebView**: https://github.com/AhmadNemati/ClickableWebView
 
 Simple WebView for Detect click on an image
