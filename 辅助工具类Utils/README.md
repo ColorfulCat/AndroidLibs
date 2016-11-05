@@ -24,6 +24,14 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**Prevent-Screen-Off**: https://github.com/kevalpatel2106/Prevent-Screen-Off
+
+用户盯着屏幕时保持屏幕常亮
+
+<img src="https://raw.githubusercontent.com/kevalpatel2106/Prevent-Screen-Off/master/assets/Prevent_screen_off.gif" width="540"/>
+
+---
+
 **ForceTouch**: https://github.com/michelelacorte/ForceTouch
 
 Simple implementation of ForceTouch on Android
