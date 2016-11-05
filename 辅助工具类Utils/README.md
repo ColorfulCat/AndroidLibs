@@ -32,6 +32,12 @@ Simple implementation of ForceTouch on Android
 
 ---
 
+**RxSchedulerRule**: https://github.com/Plastix/RxSchedulerRule
+
+Simple JUnit rule for overriding RxJava/RxAndroid schedulers during unit tests
+
+---
+
 **dnsproxy2**: https://github.com/cernekee/dnsproxy2
 
 DNS proxy for Android 4.3+
