@@ -468,6 +468,14 @@ Animated SVG Drawing for Android
 
 ---
 
+**ShapedImageView**: https://github.com/gavinliu/ShapedImageView
+
+Android Rounded, Circle, Path ImageView
+
+<img src="https://raw.githubusercontent.com/gavinliu/ShapedImageView/master/screenshots1.png" width="320" /> <img src="https://raw.githubusercontent.com/gavinliu/ShapedImageView/master/screenshots2.png" width="320" />
+
+---
+
 **AvatarImageView**: https://github.com/Carbs0126/AvatarImageView
 
 显示圆形图片或文本
