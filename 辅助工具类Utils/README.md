@@ -1042,6 +1042,12 @@ RxJava 和 RxBinding 结合的格式验证库
 
 ---
 
+**android-proguards**: https://github.com/yongjhih/android-proguards
+
+AAR proguards
+
+---
+
 **AndroidProguardPlugin**: https://github.com/zhonghanwen/AndroidProguardPlugin
 
 生成混淆代码的 Android Studio 插件
