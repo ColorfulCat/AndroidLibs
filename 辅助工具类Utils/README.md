@@ -32,6 +32,14 @@ Simple implementation of ForceTouch on Android
 
 ---
 
+**RxDownloader**: https://github.com/esafirm/RxDownloader
+
+An Rx wrapper for Download Manager in Android
+
+<img src="https://raw.githubusercontent.com/esafirm/RxDownloader/master/art/sample.gif" width="320"/>
+
+---
+
 **RxSchedulerRule**: https://github.com/Plastix/RxSchedulerRule
 
 Simple JUnit rule for overriding RxJava/RxAndroid schedulers during unit tests
