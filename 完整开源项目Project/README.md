@@ -6,6 +6,14 @@
 
 ---
 
+**monotweety**: https://github.com/yshrsmz/monotweety
+
+Simple Twitter Client just for tweeting, written in Kotlin with reactive MVVM-like approach
+
+<img src="https://raw.githubusercontent.com/yshrsmz/monotweety/master/assets/screenshots/screenshot_setting.png" width="320" /> <img src="https://raw.githubusercontent.com/yshrsmz/monotweety/master/assets/screenshots/screenshot_editor_1.png" width="320" />
+
+---
+
 **Villains-and-Heroes**: https://github.com/andremion/Villains-and-Heroes
 
 App using Marvel Comics API that allows developers everywhere to access information about Marvel's vast library of comics
