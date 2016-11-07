@@ -6,6 +6,14 @@
 
 ---
 
+**LoadingDialog**: https://github.com/ForgetAll/LoadingDialog
+
+一个简单好用的LoadingDialog 
+
+<img src="https://camo.githubusercontent.com/da188e3e26dbaa067d13a230f2ab8cb2669164f9/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313937363134372d366563356233306239666435393032332e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="320" />
+
+---
+
 **flickabledialog**: https://github.com/t-kurimura/flickabledialog
 
 This dialog can flick and make it easy to dismiss sensuously
