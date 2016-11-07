@@ -6,6 +6,14 @@
 
 ---
 
+**FastAccess**: https://github.com/k0shk0sh/FastAccess
+
+仿三星桌面的浮动工具
+
+<img src="https://raw.githubusercontent.com/k0shk0sh/FastAccess/master/art/1024x500.png" width="640" />
+
+---
+
 **monotweety**: https://github.com/yshrsmz/monotweety
 
 Simple Twitter Client just for tweeting, written in Kotlin with reactive MVVM-like approach
