@@ -134,6 +134,14 @@ Engage Users with a Snackbar to e.g. rate or translate the app
 
 ---
 
+**SnackbarUtils**: https://github.com/HuanHaiLiuXin/SnackbarUtils
+
+Snackbar工具类,方法丰富,支持链式调用,可以满足Snackbar绝大部分的使用场景
+
+<img src="https://raw.githubusercontent.com/HuanHaiLiuXin/SnackbarUtils/master/%E5%BD%95%E5%B1%8F/%E6%89%80%E6%9C%89%E5%8A%9F%E8%83%BD%E5%BD%95%E5%B1%8F.gif" width="320" />
+
+---
+
 **FluentSnackbar**: https://github.com/AntonyGolovin/FluentSnackbar
 
 Snackbar 封装库
