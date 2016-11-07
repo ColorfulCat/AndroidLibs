@@ -1717,6 +1717,12 @@ Library enables to request a permission from any Context(Service, IntentService,
 
 ---
 
+**keytool-importkeypair**: https://github.com/getfatday/keytool-importkeypair
+
+为已存在的签名文件添加系统权限签名，可直接编译运行
+
+---
+
 **apkReSign**: https://github.com/pengwei1024/apkReSign
 
 安卓一键重签名工具
