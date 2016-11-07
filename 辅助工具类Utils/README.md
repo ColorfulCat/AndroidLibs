@@ -48,6 +48,12 @@ An Rx wrapper for Download Manager in Android
 
 ---
 
+**Fingerprint2Sleep**: https://github.com/ztc1997/Fingerprint2Sleep
+
+自定义 Android 指纹识别快捷方式
+
+---
+
 **RxSchedulerRule**: https://github.com/Plastix/RxSchedulerRule
 
 Simple JUnit rule for overriding RxJava/RxAndroid schedulers during unit tests
