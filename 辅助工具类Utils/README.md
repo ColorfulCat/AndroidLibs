@@ -1493,6 +1493,12 @@ Simple Android SharedPreferences wrapper
 
 ---
 
+**TurboDex**: https://github.com/asLody/TurboDex
+
+在Android瞬间加载Dex
+
+---
+
 **legend**: https://github.com/asLody/legend
 
 A framework for hook java methods
