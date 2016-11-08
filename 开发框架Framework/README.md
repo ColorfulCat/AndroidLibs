@@ -6,6 +6,12 @@
 
 ---
 
+**BGAScaffolding-Android**: https://github.com/bingoogolapple/BGAScaffolding-Android
+
+Android MVC、MVP、MVVM 项目开发脚手架
+
+---
+
 **FunctionalAndroidReference**: https://github.com/pakoito/FunctionalAndroidReference
 
 Showcase project of Functional Reactive Programming on Android, using RxJava. http://tinyurl.com/RxDroidcon16
