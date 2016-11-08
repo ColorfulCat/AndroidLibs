@@ -13,6 +13,14 @@
 
 ---
 
+**ActivitySwitcher**: https://github.com/Hitomis/ActivitySwitcher
+
+以卡片视图的形式管理你的 Activity，让你的 app 可以自由的切换、跳转、关闭 Activity 以及结束 app 程序
+
+<img src="https://raw.githubusercontent.com/Hitomis/ActivitySwitcher/master/preview/activity_swither.gif" width="320" />
+
+---
+
 **ClickableWebView**: https://github.com/AhmadNemati/ClickableWebView
 
 Simple WebView for Detect click on an image
