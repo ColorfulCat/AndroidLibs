@@ -276,6 +276,14 @@ A simple Android TextView to display amounts of money in different formats
 
 ---
 
+**BadgeView**: https://github.com/AlexLiuSheng/BadgeView
+
+a BadeView base on android
+
+<img src="https://raw.githubusercontent.com/AlexLiuSheng/BadgeView/master/library/gif.png" width="320" />
+
+---
+
 **badgebutton**: https://github.com/czy1121/badgebutton
 
 带有徽标(数字，小红点)的按钮
