@@ -1493,6 +1493,12 @@ Simple Android SharedPreferences wrapper
 
 ---
 
+**VirtualApp**: https://github.com/asLody/VirtualApp
+
+VirtualApp是一个App虚拟引擎的完整实现（简称VA）
+
+---
+
 **TurboDex**: https://github.com/asLody/TurboDex
 
 在Android瞬间加载Dex
