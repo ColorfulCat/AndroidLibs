@@ -24,6 +24,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**ThinRPlugin**: https://github.com/mogujie/ThinRPlugin
+
+apk 瘦身之去除android中的R.class
+
+---
+
 **Prevent-Screen-Off**: https://github.com/kevalpatel2106/Prevent-Screen-Off
 
 用户盯着屏幕时保持屏幕常亮
