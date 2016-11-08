@@ -6,6 +6,14 @@
 
 ---
 
+**Audiogram**: https://github.com/alxrm/Audiogram
+
+Lightweight audiowave progressbar
+
+<img src="https://raw.githubusercontent.com/alxrm/Audiogram/master/imgs/wave.gif" width="480" />
+
+---
+
 **CountDownProgressView**: https://github.com/kishorsinghgour/CountDownProgressView
 
 This is a simple rounded progress view that shows remaining time/cycle/events as text in center
