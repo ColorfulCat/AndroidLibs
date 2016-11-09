@@ -6,6 +6,14 @@
 
 ---
 
+**DexMovingImageView**: https://github.com/dexlex/DexMovingImageView
+
+一个实现了最新的Google Calender中月份图片的效果的ImageView,图片会随着外部ScrollView的滚动而滚动
+
+<img src = "https://raw.githubusercontent.com/dexlex/DexMovingImageView/master/assets/screenshot/home.png" width = "220"/> <img src = "https://raw.githubusercontent.com/dexlex/DexMovingImageView/master/assets/screenshot/menu.png" width = "220"/>
+
+---
+
 **SimpleOneStep**: https://github.com/gavinliu/SimpleOneStep
 
 仿 Smartisan OneStep
