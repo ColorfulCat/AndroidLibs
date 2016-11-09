@@ -1290,7 +1290,15 @@ Mr. lock screen is a simple, cool lock screen software, the ability to provide c
 
 ---
 
-**Douya**:  https://github.com/DreaminginCodeZH/Douya
+**banya**: https://github.com/forezp/banya
+
+瓣呀，一个非官方的豆瓣app
+
+<img src="https://raw.githubusercontent.com/forezp/banya/master/art/1.jpg" width="270" /> <img src="https://raw.githubusercontent.com/forezp/banya/master/art/6.jpg" width="270" /> <img src="https://raw.githubusercontent.com/forezp/banya/master/art/10.jpg" width="270" />
+
+---
+
+**Douya**: https://github.com/DreaminginCodeZH/Douya
 
 开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）
 
