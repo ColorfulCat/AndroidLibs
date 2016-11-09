@@ -224,6 +224,14 @@ Android Base MVP Concept with RXJava, Dagger, Event Bus, Retrofit, Glide, OkHTTP
 
 ---
 
+**MVP**：https://github.com/SuperMan42/MVP
+
+App based on Material Design + MVP + Rxjava + Retrofit + Okhttp + Glide
+
+<img src="https://github.com/SuperMan42/MVP/raw/master/hpw.gif" width="320" />
+
+---
+
 **AMVP**：https://github.com/rubensousa/AMVP
 
 A simple Model-View-Presenter library for Android
