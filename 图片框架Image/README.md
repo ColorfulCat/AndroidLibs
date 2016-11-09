@@ -14,6 +14,14 @@
 
 ---
 
+**BigImageViewer**: https://github.com/Piasy/BigImageViewer
+
+大图查看加载库，支持拖动和缩放，利用 fresco 加载，超级方便，但是内存占用超级低，一点也不卡
+
+<img src = "https://github.com/Piasy/BigImageViewer/raw/master/art/fresco_big_image_viewer_demo.gif" width = "320"/>
+
+---
+
 **ImageTransition**: https://github.com/vikramkakkar/ImageTransition
 
 Android 图片放大过渡效果
