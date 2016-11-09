@@ -62,6 +62,14 @@ ColorDialog & PromptDialog
 
 ---
 
+**SlidingDrawer**: https://github.com/PierfrancescoSoffritti/SlidingDrawer
+
+Android custom View implementing the bottom sheet pattern
+
+<img src="https://raw.githubusercontent.com/PierfrancescoSoffritti/SlidingDrawer/master/pics/SlidingView.gif" width="320" />
+
+---
+
 **BottomSheetExample**: https://github.com/rubensousa/BottomSheetExample
 
 A sample project with the new BottomSheet classes from the android support library
