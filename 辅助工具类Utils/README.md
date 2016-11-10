@@ -674,6 +674,14 @@ Gradle tips for all of us
 
 ---
 
+**SQLiteOnWeb-Android**: https://github.com/skyhacker2/SQLiteOnWeb-Android
+
+通过浏览器管理sqlite数据库
+
+<img src="https://raw.githubusercontent.com/skyhacker2/SQLiteOnWeb-Android/master/screenshots/2.png" width="640"/>
+
+---
+
 **droitatedDB**: https://github.com/arconsis/droitatedDB
 
 droitatedDB is a lightweight framework, which frees you from the burden of dealing with the Android SQLite database directly 
