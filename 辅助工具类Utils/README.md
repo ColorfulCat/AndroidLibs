@@ -1012,6 +1012,12 @@ Easily group RxJava Observables together and tie them to your Android Activity l
 
 ---
 
+**LessCode-Update**: https://github.com/openproject/LessCode-Update
+
+兼容 Android7.0+ app更新
+
+---
+
 **force-update**: https://github.com/skoumalcz/force-update
 
 app 强制更新
