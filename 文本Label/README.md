@@ -6,6 +6,14 @@
 
 ---
 
+**GetWordTextView**: https://github.com/burgessjp/GetWordTextView
+
+一个支持选词的 TextView，类似与单词 app 中点击单词翻译的效果
+
+<img ="https://raw.githubusercontent.com/burgessjp/GetWordTextView/master/capture/capture.gif" width="320"/>
+
+---
+
 **TyperEditText**: https://github.com/andyxialm/TyperEditText
 
 Android 仿业问 打字机效果
