@@ -188,6 +188,14 @@ MD 风格飞出效果菜单选择
 
 ---
 
+**RippleLayout**: https://github.com/liuguangqiang/RippleLayout
+
+一个真正的Ripple效果，需要考虑Ripple的圆心变化
+
+<img src="https://raw.githubusercontent.com/liuguangqiang/RippleLayout/master/arts/ripple2.gif" width="320" />
+
+---
+
 **RippleView**: https://github.com/ruzhan123/RippleView
 
 水波纹，涟漪效果，可用于设备查找之类的特效
