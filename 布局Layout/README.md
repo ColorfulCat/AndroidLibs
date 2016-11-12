@@ -5,6 +5,14 @@
 
 ---
 
+**dynamic-load-view**: https://github.com/kot32go/dynamic-load-view
+
+副作用小的在线热更新View库，可将View作为一个独立模块进行更新抽换
+
+<img src="https://camo.githubusercontent.com/9f3f711562a2b14ca721163bebec282785b597b2/687474703a2f2f3766766a37302e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f64796e616d69632d6c6f61642d766965772e676966" width="320" />
+
+---
+
 **ReView**: https://github.com/maoruibin/ReView
 
 ReView 一个用于辅助程序员、设计师“在线”查看字体大小以及颜色等属性的 View 组件集合
