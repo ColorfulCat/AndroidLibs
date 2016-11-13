@@ -1589,6 +1589,12 @@ Helper to generate Javadocs within a Gradle Android library
 
 ---
 
+**Simplify-Permissions**: https://github.com/anshulagarwal06/Simplify-Permissions
+
+Framework to simplify android marshmallow permission support
+
+---
+
 **permissionHelper**: https://github.com/firetrap/permissionHelper
 
 Android 6.0 Permission Helper
