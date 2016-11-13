@@ -13,6 +13,12 @@
 
 ---
 
+**GiggleViewRecorder**: https://github.com/iamvaliyev/GiggleViewRecorder
+
+安卓屏幕录制，参考的 Telecine
+
+---
+
 **ReView**: https://github.com/maoruibin/ReView
 
 ReView 一个用于辅助程序员、设计师“在线”查看字体大小以及颜色等属性的 View 组件集合
