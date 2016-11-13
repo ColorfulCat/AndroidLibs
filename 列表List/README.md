@@ -46,6 +46,12 @@ StickyGridView + ViewPager + Header
 
 ---
 
+**MjolnirRecyclerView**: https://github.com/infinum/MjolnirRecyclerView
+
+Provides a simple way to extend the default RecyclerView behaviour with support for headers, footers, empty view, DiffUtil and ArrayAdapter like methods
+
+---
+
 **SnappyRecyclerAdapter**: https://github.com/longbkiter07/SnappyRecyclerAdapter
 
 manage RecyclerViewAdapter easier
