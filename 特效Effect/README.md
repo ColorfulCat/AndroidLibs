@@ -373,11 +373,28 @@ Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+
 
 ---
 
+**GaussianBlur**: https://github.com/jrvansuita/GaussianBlur
+
+A easy and simple library to apply Gaussian blur on images
+
+<img src="https://raw.githubusercontent.com/jrvansuita/GaussianBlur/master/screenshot/screenshot.jpg" width="320" />
+
+---
+
 **RealtimeBlurView**: https://github.com/mmin18/RealtimeBlurView
 
 Android 高性能实时模糊（Blur） View 效果Android 高性能实时模糊（Blur） View 效果
 
 <img src="https://raw.githubusercontent.com/mmin18/RealtimeBlurView/master/imgs/1.gif" width="320" />
+
+---
+
+**android-stackblur**: [https://github.com/kikoso/android-stackblur](https://github.com/kikoso/android-stackblur)
+
+Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.
+
+<img src="https://camo.githubusercontent.com/9c26fa38f23bb218558ad1843f59042ae3d90309/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f616e64726f69642d737461636b626c75722f6d61737465722f6172742f73637265656e73686f74312e706e67" width="320" />
+<img src="https://camo.githubusercontent.com/821ae0abdf62af50624fc429f79b2d47f4f22d53/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f616e64726f69642d737461636b626c75722f6d61737465722f6172742f73637265656e73686f74322e706e67" width="320" />
 
 ---
 
@@ -404,15 +421,6 @@ Easily have blurred and transparent background effect on your Android views.
 A velocimeter View for Android
 
 <img src="https://github.com/glomadrian/velocimeter-view/blob/master/art/velocimeter.gif" width="320" />
-
----
-
-**android-stackblur**: [https://github.com/kikoso/android-stackblur](https://github.com/kikoso/android-stackblur)
-
-Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.
-
-<img src="https://camo.githubusercontent.com/9c26fa38f23bb218558ad1843f59042ae3d90309/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f616e64726f69642d737461636b626c75722f6d61737465722f6172742f73637265656e73686f74312e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/821ae0abdf62af50624fc429f79b2d47f4f22d53/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f616e64726f69642d737461636b626c75722f6d61737465722f6172742f73637265656e73686f74322e706e67" width="320" />
 
 ---
 
