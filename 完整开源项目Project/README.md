@@ -390,6 +390,14 @@ A simple implementation of swipe card like StreetView!!
 
 ---
 
+**JcPlayer**: https://github.com/jeancsanchez/JcPlayer
+
+A simple audio player for Android applications
+
+<img src="https://raw.githubusercontent.com/jeancsanchez/JcPlayer/master/sample/jcplayer-gif-definitive.gif" width="240" />
+
+---
+
 **StylishMusicPlayer**: https://github.com/ryanhoo/StylishMusicPlayer
 
 A stylish music player for android device 16+
