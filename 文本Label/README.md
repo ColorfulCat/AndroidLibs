@@ -6,6 +6,14 @@
 
 ---
 
+**SimpleText**: https://github.com/jaychang0917/SimpleText
+
+A simple spannable string helper
+
+<img ="https://raw.githubusercontent.com/jaychang0917/SimpleText/master/SimpleText_320.gif" width="320"/>
+
+---
+
 **GetWordTextView**: https://github.com/burgessjp/GetWordTextView
 
 一个支持选词的 TextView，类似与单词 app 中点击单词翻译的效果
