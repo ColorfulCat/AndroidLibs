@@ -829,6 +829,14 @@ Yalantis 出品：搜索过滤器交互效果
 
 ---
 
+**LaybelLayout**: https://github.com/paulyung541/LaybelLayout
+
+一个标签布局
+
+<img src="https://raw.githubusercontent.com/paulyung541/LaybelLayout/master/demo.jpg" width="240" />
+
+---
+
 **FlowTag**: https://github.com/hanhailong/FlowTag
 
 Android流式布局，支持点击、单选、多选等，适合用于产品标签等
