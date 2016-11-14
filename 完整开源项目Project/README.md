@@ -863,7 +863,7 @@ GitHot is an Android App that will help you to find the world most popular proje
 
 **jianshi**: [https://github.com/wingjay/jianshi](https://github.com/wingjay/jianshi)
 
-A beautiful app 简诗 for recording anything in your life with traditional Chinese style.
+A Full-Stack mobile app, including Android & Server, Simple-Poem 简诗. You can write poem in graceful & traditional Chinese style
 
 <img src="https://camo.githubusercontent.com/b5cd7b49447c88ceac096b4e969b8c1b94f3b10a/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3238313636352d623563343465393034323639376539332e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="320" />
 <img src="https://camo.githubusercontent.com/3f9940a080521d28fa2ad1e6bc40c25d104f411f/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3238313636352d613539613063336165326532616630342e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="320" />
@@ -907,7 +907,7 @@ App+是一个MD风格的用于传送、提取APK文件的开源工具软件。[h
 <img src="https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/qrcode.gif" width="320" />
 <img src="https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/all_in_one.jpg" width="640" />
 
----  
+---
 
 **ZhiHuDaily-React-Native**: https://github.com/race604/ZhiHuDaily-React-Native
 
@@ -917,7 +917,7 @@ A Zhihu Daily(http://daily.zhihu.com/) App client implemented using React Native
 <img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/drawer.jpg" width="260" />
 <img src="https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/content.jpg" width="260" />
 
----   
+---
 
 **ToolWizAppLock**: https://github.com/Toolwiz/ToolWizAppLock
 
@@ -927,7 +927,7 @@ Smart App Lock for Android http://www.toolwiz.com/
 <img src="https://github.com/Toolwiz/ToolWizAppLock/blob/master/img/6.pic_hd.jpg" width="260" />
 <img src="https://github.com/Toolwiz/ToolWizAppLock/blob/master/img/7.pic_hd.jpg" width="260" />
 
----    
+---
 
 **archi**: https://github.com/ivacf/archi
 
@@ -936,7 +936,7 @@ Repository that showcases 3 Android app architectures: "Standard Android", MVP a
 <img src="https://github.com/ivacf/archi/blob/master/images/archi-screenshots.png" width="320" />
 <img src="https://github.com/ivacf/archi/blob/master/images/archi-screenshots.png" width="320" />
 
----     
+---
 
 **Clip-Stack**: https://github.com/heruoxin/Clip-Stack
 

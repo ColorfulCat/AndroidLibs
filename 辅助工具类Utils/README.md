@@ -1799,6 +1799,12 @@ App-local sql logging with viewer activity
 
 ---
 
+**xLog**：https://github.com/elvishew/xLog
+
+Android logger, simple and pretty, powerful and flexible, all you need is here
+
+---
+
 **Console**：https://github.com/jraska/Console
 
 可在手机上查看 `logcat`
