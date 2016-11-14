@@ -1803,6 +1803,8 @@ App-local sql logging with viewer activity
 
 Android logger, simple and pretty, powerful and flexible, all you need is here
 
+<img src="https://raw.githubusercontent.com/elvishew/XLog/master/images/classic_log.png" width="640" />
+
 ---
 
 **Console**：https://github.com/jraska/Console

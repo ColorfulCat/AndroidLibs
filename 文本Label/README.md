@@ -593,6 +593,14 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**SmartFonts**: https://github.com/smart-fun/SmartFonts
+
+Smart Fonts for Android is a Library which makes it easy to use Custom Fonts in Apps
+
+<img src="https://raw.githubusercontent.com/smart-fun/SmartFonts/master/app/extras/editor_screenshot.png" width="320" />
+
+---
+
 **AndroidFontsManager**: https://github.com/GcsSloop/AndroidFontsManager
 
 字体管理器，方便快速的为应用内所有组件更换字体。
