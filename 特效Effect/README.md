@@ -244,6 +244,14 @@ A Layoutmanager that must be used with RecyclerView. When list is scrolled views
 
 ---
 
+**smart-app-rate**: https://github.com/codemybrainsout/smart-app-rate
+
+An Android library to encourage users to rate the app on the Google PlayStore
+
+<img src="https://raw.githubusercontent.com/codemybrainsout/smart-app-rate/master/preview/preview.png" width="640" />
+
+---
+
 **ThumbUp**: https://github.com/ldoublem/ThumbUp
 
 超炫的点赞效果
