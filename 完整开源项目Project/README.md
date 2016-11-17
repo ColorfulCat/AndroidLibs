@@ -6,6 +6,14 @@
 
 ---
 
+**RecordWave**: https://github.com/CarGuo/RecordWave
+
+MP3音频录制，支持类似IOS原生的单边或者双边波形显示，低版本音频权限兼容，本地或者在线音频播放的波形显示，录制波形和播放波形会根据声音频率变色的功能
+
+<img src="https://raw.githubusercontent.com/CarGuo/RecordWave/master/02.gif" width="320" />
+
+---
+
 **android-TopActivity**: https://github.com/109021017/android-TopActivity
 
 Android 逆向实用小插件：展示页面 Top Activity 的名称和包名
