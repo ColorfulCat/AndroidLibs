@@ -214,6 +214,14 @@ A demo to show bezier.
 
 ---
 
+**RapidInterpolator**: https://github.com/MartinRGB/RapidInterpolator
+
+动画插值器的编辑器
+
+<img src="https://raw.githubusercontent.com/MartinRGB/RapidInterpolator/master/example.gif" width="300" />
+
+---
+
 **yava**: https://github.com/hujiaweibujidao/yava
 
 安卓动画插值器
