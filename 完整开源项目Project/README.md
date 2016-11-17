@@ -36,6 +36,12 @@ Android 逆向实用小插件：展示页面 Top Activity 的名称和包名
 
 ---
 
+**RxJava2-Android-Samples**: https://github.com/amitshekhariitbhu/RxJava2-Android-Samples
+
+RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
+
+---
+
 **RxJava-Android-Samples**: https://github.com/kaushikgopal/RxJava-Android-Samples
 
 Learning RxJava for Android by example
