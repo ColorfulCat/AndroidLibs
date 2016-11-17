@@ -5,6 +5,14 @@
 
 ---
 
+**AndroidAutoLayout**: https://github.com/hongyangAndroid/AndroidAutoLayout
+
+Android屏幕适配方案
+
+<img src="https://raw.githubusercontent.com/hongyangAndroid/AndroidAutoLayout/master/preview/preview_03.png" width="640" />
+
+---
+
 **dynamic-load-view**: https://github.com/kot32go/dynamic-load-view
 
 副作用小的在线热更新View库，可将View作为一个独立模块进行更新抽换
