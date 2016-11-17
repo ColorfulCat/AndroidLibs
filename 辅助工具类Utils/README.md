@@ -46,23 +46,9 @@ Simple implementation of ForceTouch on Android
 
 ---
 
-**RxDownloader**: https://github.com/esafirm/RxDownloader
-
-An Rx wrapper for Download Manager in Android
-
-<img src="https://raw.githubusercontent.com/esafirm/RxDownloader/master/art/sample.gif" width="320"/>
-
----
-
 **Fingerprint2Sleep**: https://github.com/ztc1997/Fingerprint2Sleep
 
 自定义 Android 指纹识别快捷方式
-
----
-
-**RxSchedulerRule**: https://github.com/Plastix/RxSchedulerRule
-
-Simple JUnit rule for overriding RxJava/RxAndroid schedulers during unit tests
 
 ---
 
@@ -173,6 +159,26 @@ Rx wrapper library for Android's AudioRecord API
 **android_silk_v3_decoder**: https://github.com/ketn4391/android_silk_v3_decoder
 
 转换微信QQ语音格式为MP3格式
+
+---
+
+**RxErrorHandler**: https://github.com/JessYanCoding/RxErrorHandler
+
+error handle of Rxjava
+
+---
+
+**RxDownloader**: https://github.com/esafirm/RxDownloader
+
+An Rx wrapper for Download Manager in Android
+
+<img src="https://raw.githubusercontent.com/esafirm/RxDownloader/master/art/sample.gif" width="320"/>
+
+---
+
+**RxSchedulerRule**: https://github.com/Plastix/RxSchedulerRule
+
+Simple JUnit rule for overriding RxJava/RxAndroid schedulers during unit tests
 
 ---
 
