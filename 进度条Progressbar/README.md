@@ -6,6 +6,14 @@
 
 ---
 
+**CircleAlarmTimerView**: https://github.com/yingLanNull/CircleAlarmTimerView
+
+圆形进度条
+
+<img src="https://raw.githubusercontent.com/yingLanNull/CircleAlarmTimerView/master/show/2.gif" width="290" />
+
+---
+
 **Audiogram**: https://github.com/alxrm/Audiogram
 
 Lightweight audiowave progressbar
