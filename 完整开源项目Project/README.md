@@ -6,6 +6,14 @@
 
 ---
 
+**DrawView**: https://github.com/ByoxCode/DrawView
+
+Android 画板 View，随心所欲的画画
+
+<img src="https://raw.githubusercontent.com/ByoxCode/DrawView/master/2016.11.10_17.57.50.gif" width="240" /> <img src="https://raw.githubusercontent.com/ByoxCode/DrawView/master/2016.11.10_18.00.25.gif" width="240" /> <img src="https://raw.githubusercontent.com/ByoxCode/DrawView/master/2016.11.10_18.03.14.gif" width="240" />
+
+---
+
 **RecordWave**: https://github.com/CarGuo/RecordWave
 
 MP3音频录制，支持类似IOS原生的单边或者双边波形显示，低版本音频权限兼容，本地或者在线音频播放的波形显示，录制波形和播放波形会根据声音频率变色的功能
