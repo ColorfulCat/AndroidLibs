@@ -224,6 +224,12 @@ Android MVC/MVP/MVVM framework http://kejunxia.github.io/AndroidMvc
 
 ---
 
+**MVPArms**：https://github.com/JessYanCoding/MVPArms
+
+a common Architecture for Android Applications developing based on MVP，integrates many Open Source Projects( like Dagger2,Rxjava,Retrofit... )
+
+---
+
 **android-base-mvp**：https://github.com/derohimat/android-base-mvp
 
 Android Base MVP Concept with RXJava, Dagger, Event Bus, Retrofit, Glide, OkHTTP
