@@ -680,6 +680,14 @@ Gradle tips for all of us
 
 ---
 
+**Android-Debug-Database**: https://github.com/amitshekhariitbhu/Android-Debug-Database
+
+通过网页来查看 Android 本机数据库和 SharedPreference 数据
+
+<img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-Debug-Database/master/assets/debugdb.png" width="640"/>
+
+---
+
 **SQLiteOnWeb-Android**: https://github.com/skyhacker2/SQLiteOnWeb-Android
 
 通过浏览器管理sqlite数据库
