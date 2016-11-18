@@ -30,6 +30,14 @@ MP3音频录制，支持类似IOS原生的单边或者双边波形显示，低�
 
 ---
 
+**AlgorithmVisualizer-Android**: https://github.com/naman14/AlgorithmVisualizer-Android
+
+Android 实现的算法可是工具，随时随地帮助学习算法
+
+<img src="https://raw.githubusercontent.com/naman14/AlgorithmVisualizer-Android/master/screenshots/screen1.png" width="320" /> <img src="https://raw.githubusercontent.com/naman14/AlgorithmVisualizer-Android/master/screenshots/screen4.png" width="320" />
+
+---
+
 **android-TopActivity**: https://github.com/109021017/android-TopActivity
 
 Android 逆向实用小插件：展示页面 Top Activity 的名称和包名
