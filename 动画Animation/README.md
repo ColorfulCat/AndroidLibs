@@ -6,6 +6,22 @@
 
 ---
 
+**ENViews**: https://github.com/codeestX/ENViews
+
+ENViews, 一个华丽丽的动效控件库
+
+| Original design | Android demo | Class |
+| :--: | :--: | :--: |
+| ![](http://odck16ake.bkt.clouddn.com/Github/o_download.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/download.gif) |ENDownloadView|
+| ![](http://odck16ake.bkt.clouddn.com/Github/o_volume.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/volume.gif)|ENVolumeView|
+| ![](http://odck16ake.bkt.clouddn.com/Github/o_loading.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/loading.gif)  | ENLoadingView |
+| ![](http://odck16ake.bkt.clouddn.com/Github/o_play.gif)| ![](http://odck16ake.bkt.clouddn.com/Github/play.gif) | ENPlayView |
+| ![](http://odck16ake.bkt.clouddn.com/Github/o_search.gif)| ![](http://odck16ake.bkt.clouddn.com/Github/search.gif) |ENSearchView
+|![](http://odck16ake.bkt.clouddn.com/Github/o_scroll.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/scroll.gif)  |ENScrollView
+|![](http://odck16ake.bkt.clouddn.com/Github/o_refresh.gif)  | ![](http://odck16ake.bkt.clouddn.com/Github/refresh.gif)  |ENRefreshView|
+
+---
+
 **FloatingView**: https://github.com/UFreedom/FloatingView
 
 一个能够让 View 执行漂亮的漂浮动画的库
