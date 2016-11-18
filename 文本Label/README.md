@@ -292,6 +292,14 @@ A simple Android TextView to display amounts of money in different formats
 
 ---
 
+**MaterialBadgeTextView**: https://github.com/matrixxun/MaterialBadgeTextView
+
+Badge 风格的 TextView，支持 Shadow 和 Elevation
+
+<img src="https://raw.githubusercontent.com/matrixxun/MaterialBadgeTextView/master/MaterialBadgeTextView/art/device-2016-11-17-171018.png" width="320" />
+
+---
+
 **BadgeView**: https://github.com/AlexLiuSheng/BadgeView
 
 a BadeView base on android
