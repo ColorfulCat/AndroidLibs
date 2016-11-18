@@ -6,6 +6,14 @@
 
 ---
 
+**u2020**: https://github.com/JakeWharton/u2020
+
+A sample Android app which showcases advanced usage of Dagger among other open source libraries
+
+<img src="https://github.com/JakeWharton/u2020/raw/master/u2020.gif" width="320" />
+
+---
+
 **wallsplash-android**: https://github.com/mikepenz/wallsplash-android
 
 android client for the awesome unsplash.com
