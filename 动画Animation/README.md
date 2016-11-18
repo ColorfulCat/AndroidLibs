@@ -26,7 +26,7 @@ ENViews, 一个华丽丽的动效控件库
 
 一个能够让 View 执行漂亮的漂浮动画的库
 
-<img src="https://raw.githubusercontent.com/UFreedom/FloatingView/master/images/demo.gif" width="640" />
+<img src="https://raw.githubusercontent.com/UFreedom/FloatingView/master/images/demo.gif" width="320" />
 
 ---
 
@@ -74,7 +74,7 @@ A quick settings tile to quickly set the animator duration scale
 
 通过 AnimateVectoreDrawer 实现的一些动画效果
 
-<img src="https://camo.githubusercontent.com/89ff93e01d180ad27db093a7ea90d6e4f831a146/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966312e676966" width="160" /> <img src="https://camo.githubusercontent.com/b5973bb46cd2bc5d7d89133aa2878d6f49846c7c/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966322e676966" width="160" /> <img src="https://camo.githubusercontent.com/f1c501d454122b9e9238fa4f81b30dcb1610576a/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966342e676966" width="160" /> <img src="https://camo.githubusercontent.com/eb93e349cec4bd5c6ae118b041b19fc9b6156438/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f67696666352e676966" width="160" /> <img src="https://camo.githubusercontent.com/dda6ddeba8bc975510b6ef260d5abc1e257f74af/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966372e676966" width="160" />
+<img src="https://camo.githubusercontent.com/ebf3dfcf38c0562fd19187eaa7d142460e0e41df/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966332e676966" width="160" /> <img src="https://camo.githubusercontent.com/b5973bb46cd2bc5d7d89133aa2878d6f49846c7c/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966322e676966" width="160" /> <img src="https://camo.githubusercontent.com/f1c501d454122b9e9238fa4f81b30dcb1610576a/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966342e676966" width="160" /> <img src="https://camo.githubusercontent.com/eb93e349cec4bd5c6ae118b041b19fc9b6156438/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f67696666352e676966" width="160" /> <img src="https://camo.githubusercontent.com/dda6ddeba8bc975510b6ef260d5abc1e257f74af/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966372e676966" width="160" />
  
 ---
 
