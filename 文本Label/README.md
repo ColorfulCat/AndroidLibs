@@ -6,6 +6,14 @@
 
 ---
 
+**SRML**: https://github.com/jasonwyatt/SRML
+
+String Resource Markup Language. Style your localized strings for Android
+
+<img ="https://raw.githubusercontent.com/jasonwyatt/SRML/develop/docs/srml.gif" width="320"/>
+
+---
+
 **SimpleText**: https://github.com/jaychang0917/SimpleText
 
 A simple spannable string helper
