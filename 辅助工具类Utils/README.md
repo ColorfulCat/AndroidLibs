@@ -24,6 +24,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**gradle-retrolambda**: https://github.com/evant/gradle-retrolambda
+
+A gradle plugin for getting java lambda support in java 6, 7 and android
+
+---
+
 **Napkin**: https://github.com/AleksanderMielczarek/Napkin
 
 Common scopes and qualifiers for Dagger 2
