@@ -20,6 +20,14 @@ ANDROID. ChipsLayoutManager (SpanLayoutManager). A custom layout manager for Rec
 
 ---
 
+**DataBinding_For_RecyclerView**: https://github.com/drstranges/DataBinding_For_RecyclerView
+
+Android Data Binding for RecyclerView: flexible way https://habrahabr.ru/post/308872/
+
+<img src="https://raw.githubusercontent.com/drstranges/DataBinding_For_RecyclerView/master/!_img/img1.png" width="320" />
+
+---
+
 **SmileRefresh**: https://github.com/songixan/SmileRefresh
 
 微笑下拉刷新。这是在 SwipeRefreshLayout基础上修改的下拉刷新库
