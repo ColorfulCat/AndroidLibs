@@ -5,6 +5,12 @@
 
 ---
 
+**SmartCoordinatorLayout**: https://github.com/lalosoft/SmartCoordinatorLayout
+
+An Android library for implement CoordinatorLayout easily
+
+---
+
 **ExtraWebView**: https://github.com/bkhezry/ExtraWebView
 
 the flexible and easy to use WebView library
