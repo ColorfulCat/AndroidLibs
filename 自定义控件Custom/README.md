@@ -12,6 +12,14 @@ Materially inspired widgets and views that expose RxJava bindings
 
 ---
 
+**Timecon**: https://github.com/alxrm/Timecon
+
+Easy-to-use animated clock icon
+
+<img src="https://raw.githubusercontent.com/alxrm/Timecon/master/imgs/timecon.gif" width="320" />
+
+---
+
 **ClearScreenHelper**: https://github.com/Yellow5A5/ClearScreenHelper
 
 几行代码快速实现滑动清屏效果！动态绑定清屏UI，参考自淘宝直播
