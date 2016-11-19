@@ -6,6 +6,12 @@
 
 ---
 
+**VectorSupportView**: https://github.com/akashandroid90/VectorSupportView
+
+VectorSupportView is a library to support vector assets in compound drawables
+
+---
+
 **DexMovingImageView**: https://github.com/dexlex/DexMovingImageView
 
 一个实现了最新的Google Calender中月份图片的效果的ImageView,图片会随着外部ScrollView的滚动而滚动
