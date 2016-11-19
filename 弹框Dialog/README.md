@@ -6,6 +6,14 @@
 
 ---
 
+**panter-dialog**: https://github.com/kngfrhzs/panter-dialog
+
+Panter Dialog is an stylish android library that helps users add cool features like adding header and header logos
+
+<img src="https://camo.githubusercontent.com/2f9c06e137b7d2b1b0a4d9763cf9cff70c1710f4/687474703a2f2f692e696d6775722e636f6d2f456d7067504d422e706e67" width="800" />
+
+---
+
 **LoadingDialog**: https://github.com/ForgetAll/LoadingDialog
 
 一个简单好用的LoadingDialog 
