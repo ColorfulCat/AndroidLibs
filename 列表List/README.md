@@ -6,6 +6,12 @@
 
 ---
 
+**SwipeCardview**: https://github.com/iravul/SwipeCardview
+
+SwipeCardview for listing item or products
+
+---
+
 **ChipsLayoutManager**: https://github.com/BelooS/ChipsLayoutManager
 
 ANDROID. ChipsLayoutManager (SpanLayoutManager). A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recyclerView features
