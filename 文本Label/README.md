@@ -246,12 +246,6 @@ Implementation of LineBackgroundSpan that adds rounded rectangle backgrounds to 
 
 ---
 
-**FontZip**: https://github.com/forJrking/FontZip
-
-字体资源文件压缩神器
-
----
-
 **LongTextView**: https://github.com/metalurgus/LongTextView
 
 Very long text support for Android
@@ -620,6 +614,18 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 密码的显示隐藏
 
 <img src="https://raw.githubusercontent.com/pucamafra/android-edittextpassword/master/screenshots/sample.png" width="320" />
+
+---
+
+**FontZip**: https://github.com/forJrking/FontZip
+
+字体资源文件压缩神器
+
+---
+
+**EasyFont**: https://github.com/vishal259/EasyFont
+
+Easy Font for Android is a Library which makes it easy to use Custom Fonts in Android Application
 
 ---
 
