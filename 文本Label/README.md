@@ -70,6 +70,12 @@ TextHighlighter is a simple android API for developers to show highlighted and s
 
 ---
 
+**linkable-text-android**: https://github.com/fobid/linkable-text-android
+
+Clickable @mentions, #hashtags and links
+
+---
+
 **Better-Link-Movement-Method**: https://github.com/Saketme/Better-Link-Movement-Method
 
 TextViews 中处理超链接
