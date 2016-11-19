@@ -12,6 +12,14 @@ VectorSupportView is a library to support vector assets in compound drawables
 
 ---
 
+**HighPassSkinSmoothing-Android**: https://github.com/AmniX/HighPassSkinSmoothing-Android
+
+An implementation of High Pass Skin Smoothing on Android Bitmap 美颜
+
+<img src = "https://camo.githubusercontent.com/1b009f525c52b22822d43b56f0747d594652bf70/687474703a2f2f7975616f2e6769746875622e696f2f595543494869676850617373536b696e536d6f6f7468696e672f70726576696577732f312e6a7067" width = "640"/>
+
+---
+
 **DexMovingImageView**: https://github.com/dexlex/DexMovingImageView
 
 一个实现了最新的Google Calender中月份图片的效果的ImageView,图片会随着外部ScrollView的滚动而滚动
