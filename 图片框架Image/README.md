@@ -12,6 +12,14 @@ VectorSupportView is a library to support vector assets in compound drawables
 
 ---
 
+**crescento**: https://github.com/developer-shivam/crescento
+
+Add curve at bottom of image views and relative layouts
+
+<img src = "https://raw.githubusercontent.com/developer-shivam/Crescento/master/art/sample2.gif" width = "320"/>
+
+---
+
 **HighPassSkinSmoothing-Android**: https://github.com/AmniX/HighPassSkinSmoothing-Android
 
 An implementation of High Pass Skin Smoothing on Android Bitmap 美颜
