@@ -698,6 +698,14 @@ Gradle tips for all of us
 
 ---
 
+**Stetho-Couchbase**: https://github.com/RobotPajamas/Stetho-Couchbase
+
+Stetho-Couchbase is a plugin for Stetho to enable visualizing and debugging Android Couchbase databases in Chrome
+
+<img src="https://raw.githubusercontent.com/amitshekhariitbhu/Android-Debug-Database/master/assets/debugdb.png" width="640"/>
+
+---
+
 **Android-Debug-Database**: https://github.com/amitshekhariitbhu/Android-Debug-Database
 
 通过网页来查看 Android 本机数据库和 SharedPreference 数据
