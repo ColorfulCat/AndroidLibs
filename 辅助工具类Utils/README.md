@@ -24,6 +24,14 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**MemoryMonitor**: https://github.com/Kyson/MemoryMonitor
+
+内存监控器
+
+<img src="https://raw.githubusercontent.com/Kyson/MemoryMonitor/master/ART/mm_preview.gif" width="320"/>
+
+---
+
 **mathjs-android**: https://github.com/niltonvasques/mathjs-android
 
 An android wrapper library to mathjs.org javascript library
