@@ -134,6 +134,14 @@ MDDialog
 
 ---
 
+**ToastLibrary**: https://github.com/droidbyme/ToastLibrary
+
+Library for custom toast
+
+<img src="https://raw.githubusercontent.com/droidbyme/ToastLibrary/master/screenshots/screen1.png" width="320" /> <img src="https://raw.githubusercontent.com/droidbyme/ToastLibrary/master/screenshots/screen2.png" width="320" />
+
+---
+
 **pretty-toast**: https://github.com/CROSP/pretty-toast
 
 This is quite simple toast library, that make it easier to show and create custom toast
