@@ -24,6 +24,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**mathjs-android**: https://github.com/niltonvasques/mathjs-android
+
+An android wrapper library to mathjs.org javascript library
+
+---
+
 **gradle-retrolambda**: https://github.com/evant/gradle-retrolambda
 
 A gradle plugin for getting java lambda support in java 6, 7 and android
