@@ -24,6 +24,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**Napkin**: https://github.com/AleksanderMielczarek/Napkin
+
+Common scopes and qualifiers for Dagger 2
+
+---
+
 **ThinRPlugin**: https://github.com/mogujie/ThinRPlugin
 
 apk 瘦身之去除android中的R.class
