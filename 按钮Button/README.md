@@ -46,6 +46,14 @@ A button that shows custom drawables when entering a loading state
 
 ---
 
+**RMSwitch**: https://github.com/RiccardoMoro/RMSwitch
+
+Android 两状态 或者 三状态 Switch 按钮，三状态切换超实用
+
+<img src="https://raw.githubusercontent.com/RiccardoMoro/RMSwitch/master/switch-sample.gif" width="320" />
+
+---
+
 **CheckBox**: https://github.com/CoXier/CheckBox
 
 A custom checkbox with animation
