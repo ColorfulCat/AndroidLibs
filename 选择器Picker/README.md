@@ -90,6 +90,14 @@ Android library for Date and Time Picker in same dialog
 
 ---
 
+**LightCalendarView**: https://github.com/recruit-mp/LightCalendarView
+
+简洁风格的日历 View
+
+<img src="https://cloud.githubusercontent.com/assets/21093614/18807459/a6692ca4-8282-11e6-921d-1ea46c545ed4.gif" width="320" />
+
+---
+
 **android-calendar-view**: https://github.com/myjoybar/android-calendar-view
 
 显示阳历，农历，节假日和二十四节气 实现对某月日期的单选或者多选的andorid 日历控件库

@@ -60,7 +60,7 @@ IOS 风格选择控制
 
 ---
 
-**LolliPin**: [https://github.com/OrangeGangsters/LolliPin](https://github.com/OrangeGangsters/LolliPin)
+**LolliPin**: https://github.com/OrangeGangsters/LolliPin
 
 A Material design Android pincode library. Supports Fingerprint
 
