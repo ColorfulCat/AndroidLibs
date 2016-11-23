@@ -12,6 +12,14 @@ Materially inspired widgets and views that expose RxJava bindings
 
 ---
 
+**ArcLayout**: https://github.com/florent37/ArcLayout
+
+漂亮的弧形顶部布局效果
+
+<img src="https://raw.githubusercontent.com/florent37/ArcLayout/master/media/video1.gif" width="320" />
+
+---
+
 **Timecon**: https://github.com/alxrm/Timecon
 
 Easy-to-use animated clock icon
