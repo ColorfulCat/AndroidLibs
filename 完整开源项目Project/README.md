@@ -6,6 +6,14 @@
 
 ---
 
+**FingerColoring-Android**: https://github.com/SwiftyWang/FingerColoring-Android
+
+一个自己做的填图应用
+
+<img src="https://raw.githubusercontent.com/SwiftyWang/FingerColoring-Android/master/screenshot/S61118-20264887.jpg" width="320" /> <img src="https://raw.githubusercontent.com/SwiftyWang/FingerColoring-Android/master/screenshot/S61118-20275245.jpg" width="320" />
+
+---
+
 **u2020**: https://github.com/JakeWharton/u2020
 
 A sample Android app which showcases advanced usage of Dagger among other open source libraries
