@@ -138,6 +138,14 @@ Simple gallery to retrieve one or more images. It allow to take new photos or vi
 
 ---
 
+**MediaPickerInstagram**: https://github.com/NodensN/MediaPickerInstagram
+
+Material 风格的类似 Instagram 的图片选择器
+
+<img src = "https://cloud.githubusercontent.com/assets/10350755/20528721/99b9154a-b0cd-11e6-8597-d0ddf11bdca4.png" width = "240"/> <img src = "https://cloud.githubusercontent.com/assets/10350755/20528723/9aa26b64-b0cd-11e6-983d-e796701f52f8.png" width = "240"/>
+
+---
+
 **TelegramGallery**: https://github.com/TangXiaoLv/TelegramGallery
 
 QQ 相册风格，相册选择器
