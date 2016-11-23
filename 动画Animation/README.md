@@ -22,6 +22,14 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**SquareLoading**: https://github.com/yuweiguocn/SquareLoading
+
+Android 方块加载器动画
+
+<img src="https://raw.githubusercontent.com/yuweiguocn/SquareLoading/master/art/square-loading-demo.gif" width="260" />
+
+---
+
 **FloatingView**: https://github.com/UFreedom/FloatingView
 
 一个能够让 View 执行漂亮的漂浮动画的库
