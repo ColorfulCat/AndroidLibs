@@ -12,6 +12,14 @@ Materially inspired widgets and views that expose RxJava bindings
 
 ---
 
+**Thermometer**: https://github.com/kofigyan/Thermometer
+
+android温度计
+
+<img src="https://raw.githubusercontent.com/kofigyan/Thermometer/master/screenshots/therm_anim.gif" width="320" />
+
+---
+
 **ArcLayout**: https://github.com/florent37/ArcLayout
 
 漂亮的弧形顶部布局效果
