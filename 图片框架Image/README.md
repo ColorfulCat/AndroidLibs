@@ -522,6 +522,14 @@ Android Rounded, Circle, Path ImageView
 
 ---
 
+**CircleImageView**: https://github.com/zuoweitan/CircleImageView
+
+使用clippath实现的CircleImageView,没有Bitmap,没有锯齿
+
+<img src="https://raw.githubusercontent.com/zuoweitan/CircleImageView/master/screen_shot.png" width="320" />
+
+---
+
 **AvatarImageView**: https://github.com/Carbs0126/AvatarImageView
 
 显示圆形图片或文本
