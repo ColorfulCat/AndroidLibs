@@ -54,6 +54,14 @@ A button that shows custom drawables when entering a loading state
 
 ---
 
+**TriStateToggleButton**: https://github.com/BeppiMenozzi/TriStateToggleButton
+
+又一个三状态 Toggle Button
+
+<img src="https://raw.githubusercontent.com/BeppiMenozzi/TriStateToggleButton/master/images/tstb.gif" width="320" />
+
+---
+
 **RMSwitch**: https://github.com/RiccardoMoro/RMSwitch
 
 Android 两状态 或者 三状态 Switch 按钮，三状态切换超实用
