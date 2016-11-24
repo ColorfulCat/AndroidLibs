@@ -6,6 +6,14 @@
 
 ---
 
+**ExpandableTextView**: https://github.com/Chen-Sir/ExpandableTextView
+
+支持展开的 TextView
+
+<img ="https://raw.githubusercontent.com/Chen-Sir/ExpandableTextView/master/art/sample.gif" width="320"/>
+
+---
+
 **SRML**: https://github.com/jasonwyatt/SRML
 
 String Resource Markup Language. Style your localized strings for Android
