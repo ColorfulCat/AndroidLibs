@@ -134,6 +134,14 @@ MDDialog
 
 ---
 
+**ToastBar**: https://github.com/SwiftyWang/ToastBar
+
+一个ToastBar, 可以像Snackbar一样attach到viewgroup里面或者像Toast一样的overlay，支持Top/Bottom两种模式
+
+<img src="https://raw.githubusercontent.com/SwiftyWang/ToastBar/master/sample/2016_11_25_10_11_11_10_37_12.gif" width="320" />
+
+---
+
 **ToastLibrary**: https://github.com/droidbyme/ToastLibrary
 
 Library for custom toast
