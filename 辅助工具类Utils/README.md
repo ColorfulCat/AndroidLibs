@@ -24,6 +24,14 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**ijkplayer**: https://github.com/l123456789jy/ijkplayer
+
+在ijkplayer编译的bilibili开源编译版本上，去掉失败的依赖，增加对https支持
+
+<img src="https://raw.githubusercontent.com/l123456789jy/ijkplayer/master/66.png" width="320"/>
+
+---
+
 **MemoryMonitor**: https://github.com/Kyson/MemoryMonitor
 
 内存监控器
