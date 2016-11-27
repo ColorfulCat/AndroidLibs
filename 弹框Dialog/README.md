@@ -142,6 +142,14 @@ MDDialog
 
 ---
 
+**MyDynamicToastLibrary**: https://github.com/vatsaldesai92/MyDynamicToastLibrary
+
+MyDynamicToastLibrary
+
+<img src="https://raw.githubusercontent.com/vatsaldesai92/MyDynamicToastLibrary/master/app/src/main/assets/images/mydynamictoast1.png" width="320" /> <img src="https://raw.githubusercontent.com/vatsaldesai92/MyDynamicToastLibrary/master/app/src/main/assets/images/mydynamictoast2.png" width="320" /> <img src="https://raw.githubusercontent.com/vatsaldesai92/MyDynamicToastLibrary/master/app/src/main/assets/images/mydynamictoast3.png" width="320" />
+
+---
+
 **ToastLibrary**: https://github.com/droidbyme/ToastLibrary
 
 Library for custom toast
