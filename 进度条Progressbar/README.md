@@ -6,6 +6,14 @@
 
 ---
 
+**CircularProgressBar**: https://github.com/Shah-Sahab/CircularProgressBar
+
+CircularProgressBar
+
+<img src="https://github.com/Shah-Sahab/CircularProgressBar/blob/master/device-2015-06-14-003353.png" width="320" />
+
+---
+
 **CircleAlarmTimerView**: https://github.com/yingLanNull/CircleAlarmTimerView
 
 圆形进度条
