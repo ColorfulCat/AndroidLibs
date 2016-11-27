@@ -780,6 +780,14 @@ Navigation tab strip with smooth interaction
 
 ---
 
+**OnePageSigninSignup**: https://github.com/irfaan008/OnePageSigninSignup
+
+很赞的登录注册布局
+
+<img src="https://raw.githubusercontent.com/irfaan008/OnePageSigninSignup/master/onePageLoginSignup.gif" width="640" />
+
+---
+
 **Material-Design-Login**: https://github.com/Yellow5A5/Material-Design-Login
 
 Material-Design风格的动画注册登陆界面～够清爽～
