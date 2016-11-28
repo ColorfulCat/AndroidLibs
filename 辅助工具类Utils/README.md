@@ -1094,6 +1094,14 @@ app 强制更新
 
 ---
 
+**update**: https://github.com/czy1121/update
+
+清晰灵活简单易用的应用更新库
+
+<img src="https://github.com/czy1121/update/raw/master/screenshot1.png" width="320"/> <img src="https://github.com/czy1121/update/raw/master/screenshot4.png" width="320"/>
+
+---
+
 **MAHAndroidUpdater**: https://github.com/hummatli/MAHAndroidUpdater
 
 Android app update checker
