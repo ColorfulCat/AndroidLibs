@@ -381,6 +381,14 @@ Lollipop ViewAnimationUtils.createCircularReveal for everyone 2.3+
 
 ---
 
+**blurkit-android**: https://github.com/wonderkiln/blurkit-android
+
+目测是目前来看做 Blur 效果速度最快的库
+
+<img src="https://github.com/wonderkiln/blurkit-android/raw/master/.repo/demo.gif" width="320" />
+
+---
+
 **GaussianBlur**: https://github.com/jrvansuita/GaussianBlur
 
 A easy and simple library to apply Gaussian blur on images
