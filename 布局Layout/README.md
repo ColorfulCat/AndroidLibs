@@ -606,6 +606,14 @@ Custom Android video player API library
 
 ---
 
+**GSYVideoPlayer**: https://github.com/CarGuo/GSYVideoPlayer
+
+视频播放器（IJKplayer），支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，其他一些小动画效果
+
+<img src="https://raw.githubusercontent.com/CarGuo/GSYVideoPlayer/master/04.gif" width="320" />
+
+---
+
 **JieCaoVideoPlayer**: https://github.com/lipangit/JieCaoVideoPlayer
 
 android videoplayer mediaplayer videoview mediaview and fullscreen
