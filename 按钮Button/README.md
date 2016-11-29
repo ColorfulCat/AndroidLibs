@@ -231,6 +231,14 @@ FAB 动画显示
 
 ---
 
+**faboptions**: https://github.com/JoaquimLey/faboptions
+
+超漂亮的，支持展开菜单的 Fab 按钮
+
+<img src="https://raw.githubusercontent.com/JoaquimLey/faboptions/master/art/faboptions_materialup_demo.gif" width="640" />
+
+---
+
 **FABtransitions**: https://github.com/Adirockzz95/FABtransitions
 
 悬浮的 FAB
