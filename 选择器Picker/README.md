@@ -90,6 +90,14 @@ Android library for Date and Time Picker in same dialog
 
 ---
 
+**Cadar**: https://github.com/memfis19/Cadar
+
+类似 Google 日历的实现，做的不错
+
+<img src="https://raw.githubusercontent.com/memfis19/Cadar/master/art/interaction_anim.gif" width="300" />
+
+---
+
 **LightCalendarView**: https://github.com/recruit-mp/LightCalendarView
 
 简洁风格的日历 View
