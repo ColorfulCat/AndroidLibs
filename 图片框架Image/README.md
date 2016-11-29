@@ -304,6 +304,14 @@ Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法
 
 ---
 
+**ZXingDemo**: https://github.com/vivian8725118/ZXingDemo
+
+六种二维码生成的样式
+
+<img src="https://raw.githubusercontent.com/vivian8725118/ZXingDemo/master/art/S61128-17080029.jpg" width="320" />
+
+---
+
 **MobileVisionBarcodeScanner**: https://github.com/KingsMentor/MobileVisionBarcodeScanner
 
 二维码扫描
