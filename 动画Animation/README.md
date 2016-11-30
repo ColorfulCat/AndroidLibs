@@ -22,6 +22,14 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**OverWatchLoading**: https://github.com/zhangyuChen1991/OverWatchLoading
+
+守望先锋的加载效果
+
+<img src="https://raw.githubusercontent.com/zhangyuChen1991/some_sources/master/ow_show_1.gif" width="320" />
+
+---
+
 **SquareLoading**: https://github.com/yuweiguocn/SquareLoading
 
 Android 方块加载器动画
