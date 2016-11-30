@@ -6,6 +6,14 @@
 
 ---
 
+**PinchZoomTextView**: https://github.com/androidessence/PinchZoomTextView
+
+支持放大缩小的 TextView
+
+<img ="https://raw.githubusercontent.com/androidessence/PinchZoomTextView/master/sample.gif" width="320"/>
+
+---
+
 **ExpandableTextView**: https://github.com/Chen-Sir/ExpandableTextView
 
 支持展开的 TextView
