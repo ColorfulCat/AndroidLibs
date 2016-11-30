@@ -6,6 +6,14 @@
 
 ---
 
+**AdBlockedWebView-Android**: https://github.com/AmniX/AdBlockedWebView-Android
+
+Adblock Webview，支持自动屏蔽广告
+
+<img src = "https://camo.githubusercontent.com/7d15198ddb087ae09141ea29becb661bfaa96d21/687474703a2f2f7777772e67756964696e67746563682e636f6d2f6173736574732f706f7374696d616765732f323031362f30312f626c6f636b2d6164732d6f6e2d656467652d62726f777365722e706e67" width = "640"/>
+
+---
+
 **SwipeCaptcha**: https://github.com/mcxtzhang/SwipeCaptcha
 
 仿斗鱼滑动验证码
