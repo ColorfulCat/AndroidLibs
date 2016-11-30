@@ -6,6 +6,14 @@
 
 ---
 
+**NumberAnimTextView**: https://github.com/Bakumon/NumberAnimTextView
+
+数字增加动画的 TextView
+
+<img ="https://raw.githubusercontent.com/Bakumon/NumberAnimTextView/master/gif/GIF.gif" width="300"/>
+
+---
+
 **PinchZoomTextView**: https://github.com/androidessence/PinchZoomTextView
 
 支持放大缩小的 TextView
