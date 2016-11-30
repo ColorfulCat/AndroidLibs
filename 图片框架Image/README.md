@@ -12,14 +12,6 @@ VectorSupportView is a library to support vector assets in compound drawables
 
 ---
 
-**CaptchaImageView**: https://github.com/jineshfrancs/CaptchaImageView
-
-验证码图片 ImageView，相当实用
-
-<img src = "https://raw.githubusercontent.com/jineshfrancs/CaptchaImageView/master/screens/captcha_screen.gif" width = "270"/> <img src = "https://raw.githubusercontent.com/jineshfrancs/CaptchaImageView/master/screens/captcha_screen_2.gif" width = "270"/>
-
----
-
 **crescento**: https://github.com/developer-shivam/crescento
 
 Add curve at bottom of image views and relative layouts

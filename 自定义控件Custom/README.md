@@ -6,6 +6,22 @@
 
 ---
 
+**SwipeCaptcha**: https://github.com/mcxtzhang/SwipeCaptcha
+
+仿斗鱼滑动验证码
+
+<img src = "https://camo.githubusercontent.com/b8f50f4047b3c1aedd077aea3d1f23079c83adc5/687474703a2f2f61632d6d686b65306b75762e636c6f7564646e2e636f6d2f37666362353836353365333538623965633030332e676966" width = "320"/>
+
+---
+
+**CaptchaImageView**: https://github.com/jineshfrancs/CaptchaImageView
+
+验证码图片 ImageView，相当实用
+
+<img src = "https://raw.githubusercontent.com/jineshfrancs/CaptchaImageView/master/screens/captcha_screen.gif" width = "270"/> <img src = "https://raw.githubusercontent.com/jineshfrancs/CaptchaImageView/master/screens/captcha_screen_2.gif" width = "270"/>
+
+---
+
 **Rx.Widgets**: https://github.com/andrefio/Rx.Widgets
 
 Materially inspired widgets and views that expose RxJava bindings
