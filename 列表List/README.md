@@ -12,6 +12,14 @@ SwipeCardview for listing item or products
 
 ---
 
+**ScrollablePanel**: https://github.com/Kelin-Hong/ScrollablePanel
+
+支持多个方向滑动的 View，类似 Calendar 里的 UI 效果
+
+<img src="https://raw.githubusercontent.com/Kelin-Hong/ScrollablePanel/master/art/ScrollablePanelDemo.gif" width="320" />
+
+---
+
 **ChipsLayoutManager**: https://github.com/BelooS/ChipsLayoutManager
 
 ANDROID. ChipsLayoutManager (SpanLayoutManager). A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recyclerView features
