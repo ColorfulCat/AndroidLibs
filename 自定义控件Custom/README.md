@@ -6,6 +6,14 @@
 
 ---
 
+**TContributionsView**: https://github.com/barryhappy/TContributionsView
+
+Android：用以显示类似github贡献度的View，当然，也绝不仅限于此~
+
+<img src = "https://raw.githubusercontent.com/barryhappy/TContributionsView/master/images/overview.png" width = "640"/>
+
+---
+
 **AdBlockedWebView-Android**: https://github.com/AmniX/AdBlockedWebView-Android
 
 Adblock Webview，支持自动屏蔽广告
