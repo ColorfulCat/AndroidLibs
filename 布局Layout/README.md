@@ -883,6 +883,14 @@ Yalantis 出品：搜索过滤器交互效果
 
 ---
 
+**AssembleEssay**: https://github.com/rantianhua/AssembleEssay
+
+自定义LayoutManager实现一个展示文章的View，支持拖动插入以及相应的动画展示
+
+<img src="https://raw.githubusercontent.com/rantianhua/AssembleEssay/master/app/images/Flow_Drag_Essay_View.gif" width="320" />
+
+---
+
 **LaybelLayout**: https://github.com/paulyung541/LaybelLayout
 
 一个标签布局
