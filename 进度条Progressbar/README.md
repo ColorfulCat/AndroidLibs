@@ -6,6 +6,14 @@
 
 ---
 
+**segmentedview**: https://github.com/czy1121/segmentedview
+
+ios风格的分段控件，类似 UISegmentedControl
+
+<img src="https://raw.githubusercontent.com/czy1121/segmentedview/master/screenshot.png" width="320" />
+
+---
+
 **CircularProgressBar**: https://github.com/Shah-Sahab/CircularProgressBar
 
 CircularProgressBar
