@@ -184,6 +184,14 @@ An extension of RelativeLayout that helps show loading, empty and error layout
 
 ---
 
+**loadinglayout**: https://github.com/czy1121/loadinglayout
+
+简单实用的页面多状态布局(content,loading,empty,error)
+
+<img src="https://raw.githubusercontent.com/czy1121/loadinglayout/master/screenshot1.png" width="320" /> <img src="https://raw.githubusercontent.com/czy1121/loadinglayout/master/screenshot2.png" width="320" />
+
+---
+
 **MultiStateView**: https://github.com/XuDaojie/MultiStateView
 
 一个通用状态切换视图
