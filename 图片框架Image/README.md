@@ -12,6 +12,14 @@ VectorSupportView is a library to support vector assets in compound drawables
 
 ---
 
+**ScrollParallaxImageView**: https://github.com/gjiazhe/ScrollParallaxImageView
+
+滚动时图片产生视差效果的ImageView
+
+<img src = "https://raw.githubusercontent.com/gjiazhe/ScrollParallaxImageView/master/screenshot/ss1.gif" width = "240"/> <img src = "https://raw.githubusercontent.com/gjiazhe/ScrollParallaxImageView/master/screenshot/ss3.gif" width = "240"/>
+
+---
+
 **crescento**: https://github.com/developer-shivam/crescento
 
 Add curve at bottom of image views and relative layouts
