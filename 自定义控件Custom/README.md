@@ -6,6 +6,14 @@
 
 ---
 
+**HideKeyboard**: https://github.com/yingLanNull/HideKeyboard
+
+仿ios输入法点击输入框以外区域 自动隐藏软键盘轻量级库
+
+<img src = "https://raw.githubusercontent.com/yingLanNull/HideKeyboard/master/show/show.gif" width = "290"/>
+
+---
+
 **TContributionsView**: https://github.com/barryhappy/TContributionsView
 
 Android：用以显示类似github贡献度的View，当然，也绝不仅限于此~

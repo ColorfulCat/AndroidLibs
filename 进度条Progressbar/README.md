@@ -6,6 +6,14 @@
 
 ---
 
+**ImageLoadingView**: https://github.com/yingLanNull/ImageLoadingView
+
+类似微信图片加载,微博图片加载,视频加载时的进度view
+ 
+<img src = "https://raw.githubusercontent.com/yingLanNull/ImageLoadingView/master/Show/1.gif" width = "290"/> <img src = "https://raw.githubusercontent.com/yingLanNull/ImageLoadingView/master/Show/2.gif" width = "290"/>
+
+---
+
 **segmentedview**: https://github.com/czy1121/segmentedview
 
 ios风格的分段控件，类似 UISegmentedControl
