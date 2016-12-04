@@ -218,6 +218,12 @@ Android Design 设计模板
 
 ---
 
+**mvp-helpers**：https://github.com/BlackBoxVision/mvp-helpers
+
+Helper classes to build Android Apps through MVP pattern in a faster way https://blackboxvision.github.io/mvp
+
+---
+
 **AndroidMvc**：https://github.com/kejunxia/AndroidMvc
 
 Android MVC/MVP/MVVM framework http://kejunxia.github.io/AndroidMvc
