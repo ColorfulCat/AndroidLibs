@@ -12,6 +12,14 @@
 
 ---
 
+**DateRangePicker**: https://github.com/MedAmineTazarki/DateRangePicker
+
+A Dialogo fragment with date pickers which can be used to select a time range
+
+<img src="https://raw.githubusercontent.com/MedAmineTazarki/DateRangePicker/master/art/demo.png" width="320" />
+
+---
+
 **RegionSelector**: https://github.com/a5533348/RegionSelector
 
 android 省市区选择控件
