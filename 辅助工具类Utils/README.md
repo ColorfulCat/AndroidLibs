@@ -722,6 +722,14 @@ Stetho-Couchbase is a plugin for Stetho to enable visualizing and debugging Andr
 
 ---
 
+**ProbeTools**: https://github.com/pavel163/ProbeTools
+
+ProbeTools displays the data from the Database and SharedPreferences in the browser
+
+<img src="https://raw.githubusercontent.com/pavel163/ProbeTools/master/1.png" width="640"/>
+
+---
+
 **Android-Debug-Database**: https://github.com/amitshekhariitbhu/Android-Debug-Database
 
 通过网页来查看 Android 本机数据库和 SharedPreference 数据
