@@ -12,6 +12,14 @@ SwipeCardview for listing item or products
 
 ---
 
+**EasyRecyclerView**: https://github.com/zhuliyuan921112/EasyRecyclerView
+
+一个下拉刷新上拉加载更多框架
+
+<img src="https://camo.githubusercontent.com/7467ac57d7290756110b1949b71cdb455d517548/687474703a2f2f6f66316b74796b737a2e626b742e636c6f7564646e2e636f6d2f6572765f6d6174657269616c5f6865616465722e676966" width="320" />
+
+---
+
 **ScrollablePanel**: https://github.com/Kelin-Hong/ScrollablePanel
 
 支持多个方向滑动的 View，类似 Calendar 里的 UI 效果
