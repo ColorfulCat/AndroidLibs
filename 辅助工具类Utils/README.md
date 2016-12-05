@@ -24,6 +24,14 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**smart-scheduler-android**: https://github.com/hypertrack/smart-scheduler-android
+
+Android 智能 Scheduler，根据用户手机场景，决定任务执行方式
+
+<img src="https://camo.githubusercontent.com/32f13ca5e698e3a40fa04b4f83df9240dbbee063/687474703a2f2f692e696d6775722e636f6d2f5835336b6c555a2e6769663f31" width="320"/>
+
+---
+
 **ijkplayer**: https://github.com/l123456789jy/ijkplayer
 
 在ijkplayer编译的bilibili开源编译版本上，去掉失败的依赖，增加对https支持
