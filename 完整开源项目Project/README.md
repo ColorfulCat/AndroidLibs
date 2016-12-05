@@ -6,6 +6,14 @@
 
 ---
 
+**MyDiary**: https://github.com/erttyy8821/MyDiary
+
+In the Movie "-your name.-" (君の名は。, 你的名字) , "My Diary" of android version is
+
+<img src="https://raw.githubusercontent.com/erttyy8821/MyDiary/master/screenshot/s_2.png" width="240" /> <img src="https://raw.githubusercontent.com/erttyy8821/MyDiary/master/screenshot/s_3.png" width="240" /> <img src="https://raw.githubusercontent.com/erttyy8821/MyDiary/master/screenshot/s_5.png" width="240" />
+
+---
+
 **FingerColoring-Android**: https://github.com/SwiftyWang/FingerColoring-Android
 
 一个自己做的填图应用
