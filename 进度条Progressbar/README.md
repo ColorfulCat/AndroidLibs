@@ -261,6 +261,14 @@ A layout that creates a loading-like progress around it's child ( circle ), insp
 
 ---
 
+**BubbleSeekBar**: https://github.com/woxingxiao/BubbleSeekBar
+
+自定义SeekBar，进度变化由可视化气泡样式呈现
+
+<img src="https://raw.githubusercontent.com/woxingxiao/BubbleSeekBar/master/demo.gif" width="300" />
+
+---
+
 **SeekArc**: [https://github.com/Triggertrap/SeekArc](https://github.com/Triggertrap/SeekArc)
 
 Circular SeekBar view for Android
