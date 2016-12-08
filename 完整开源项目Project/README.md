@@ -771,6 +771,14 @@ A Material Design style Gank. Io unofficial client App
 
 ---
 
+**react-native-Gank**: https://github.com/wangdicoder/react-native-Gank
+
+主题换色，夜间模式，省流量策略。。。这可能是最友好的Gank.io(干货集中营)客户端了
+
+<img src="https://raw.githubusercontent.com/wangdicoder/react-native-Gank/master/screenshot/discoverytab.png" width="320" /><img src="https://raw.githubusercontent.com/wangdicoder/react-native-Gank/master/screenshot/theme.gif" width="320" />
+
+---
+
 **Gank**: https://github.com/JohnnyShieh/Gank
 
 An unofficial client of gank.io, based on Flux pattern and Rx series
