@@ -596,6 +596,13 @@ A Demo with Retrofit2 Okhttp3 Dagger RxJava RxAndroid ButterKnife...
 
 ---
 
+**KnowWeather**: https://github.com/SilenceDut/KnowWeather
+
+知天气——天气尽在掌握之中
+
+<img src="https://camo.githubusercontent.com/c9b87b7e25da0017371c2595aa0f724be8bb2e0d/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f30303679386c566167773166616965636d787878326a333132773064777463692e6a7067" width="800" />
+---
+
 **WeatherAlarmClock**: https://github.com/kaku2015/WeatherAlarmClock
 
 天气闹钟
