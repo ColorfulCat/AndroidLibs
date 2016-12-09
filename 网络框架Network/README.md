@@ -14,6 +14,12 @@
 
 ---
 
+**Pacman**: https://github.com/rahulchowdhury/Pacman
+
+Easy & Simple Parallel API Calls Manager for Java and Android
+
+---
+
 **Milano**: https://github.com/IntruderShanky/Milano
 
 A powerful android library to handle cookies
