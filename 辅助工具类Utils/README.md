@@ -18,6 +18,12 @@ Based one Java Pair this library offers Triples, Quadriples and more (3 to 10 it
 
 ---
 
+**PDD**: https://github.com/jparkie/PDD
+
+Advanced Bloom Filter Based Algorithms for Efficient Approximate Data De-Duplication in Streams
+
+---
+
 **strman-java**: https://github.com/shekhargulati/strman-java
 
 A Java 8 string manipulation library. It is inspired by https://github.com/dleitee/strman
