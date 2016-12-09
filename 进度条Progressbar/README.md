@@ -6,6 +6,14 @@
 
 ---
 
+**WaveLoading**: https://github.com/race604/WaveLoading
+
+一个全能的水波加载动画
+ 
+<img src = "https://raw.githubusercontent.com/race604/WaveLoading/master/screenshots/screenshot.gif" width = "320"/>
+
+---
+
 **ImageLoadingView**: https://github.com/yingLanNull/ImageLoadingView
 
 类似微信图片加载,微博图片加载,视频加载时的进度view
