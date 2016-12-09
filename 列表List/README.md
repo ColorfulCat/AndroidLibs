@@ -12,6 +12,14 @@ SwipeCardview for listing item or products
 
 ---
 
+**Paginate**: https://github.com/MarkoMilos/Paginate
+
+下拉加载更多框架
+
+<img src="https://raw.githubusercontent.com/MarkoMilos/Paginate/master/art/demo.gif" width="320" />
+
+---
+
 **EasyRecyclerView**: https://github.com/zhuliyuan921112/EasyRecyclerView
 
 一个下拉刷新上拉加载更多框架
