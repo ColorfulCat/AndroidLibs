@@ -11,6 +11,14 @@ An Android library for implement CoordinatorLayout easily
 
 ---
 
+**smooth-app-bar-layout**: https://github.com/henrytao-me/smooth-app-bar-layout
+
+Smooth version of Google Support Design AppBarLayout
+
+<img src="https://raw.githubusercontent.com/henrytao-me/smooth-app-bar-layout/master/screenshots/screenshots.jpg" width="800" />
+
+---
+
 **TabStacker**: https://github.com/smart-fun/TabStacker
 
 Tab Stacker is an Android library that handles Multiple Fragment History (Back Stacks), like it is done on iOS Apps
