@@ -6,6 +6,14 @@
 
 ---
 
+**heins-input-dialogs**: https://github.com/maiconhellmann/heins-input-dialogs
+
+It is a library with several commonly used Input Dialogs implementations
+
+<img src="https://raw.githubusercontent.com/maiconhellmann/heins-input-dialogs/master/docs/img/main_activity.png" width="270" /> <img src="https://raw.githubusercontent.com/maiconhellmann/heins-input-dialogs/master/docs/img/calculator_input_dialog.png" width="270" /> <img src="https://raw.githubusercontent.com/maiconhellmann/heins-input-dialogs/master/docs/img/heins_date_picker_dialog.png" width="270" />
+
+---
+
 **panter-dialog**: https://github.com/kngfrhzs/panter-dialog
 
 Panter Dialog is an stylish android library that helps users add cool features like adding header and header logos
