@@ -248,6 +248,14 @@ IntentBuilder is a type safe way of creating intents and populating them with ex
 
 ---
 
+**HybridBridge**: https://github.com/YouJZ/HybridBridge
+
+A basic framework for Android hybrid development, bridge between JavaScript and java
+
+<img src="https://raw.githubusercontent.com/YouJZ/HybridBridge/master/demo.gif" width="320" />
+
+---
+
 **SimpleJavaJsBridge**: https://github.com/niuxiaowei/SimpleJavaJsBridge
 
 JS 与 Java 通信的简单桥梁
