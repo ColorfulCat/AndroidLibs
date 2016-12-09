@@ -260,6 +260,14 @@ Sqlite 数据库查看
 
 ---
 
+**FolioReader-Android**: https://github.com/FolioReader/FolioReader-Android
+
+完成度很高的一款 ePub Android 阅读器
+
+<img src="https://cloud.githubusercontent.com/assets/1277242/19012915/0661c7b2-87e0-11e6-81d6-8c71051e1074.gif" width="300" /> <img src="https://cloud.githubusercontent.com/assets/1277242/19012908/d61f3ce2-87df-11e6-8652-d72b6a1ad9a3.gif" width="300" />
+
+---
+
 **BookReader**: https://github.com/JustWayward/BookReader
 
 “任阅”，开源小说阅读器，高仿追书神器，实现追书推荐、标签检索、翻书效果、文章阅读、缓存章节、日夜间模式、文本朗读等功能
