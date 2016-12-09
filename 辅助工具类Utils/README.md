@@ -30,6 +30,14 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**stf**: https://github.com/openstf/stf
+
+浏览器控制管理手机引用
+
+<img src="https://raw.githubusercontent.com/openstf/stf/master/doc/7s_usage.gif" width="700"/>
+
+---
+
 **smart-scheduler-android**: https://github.com/hypertrack/smart-scheduler-android
 
 Android 智能 Scheduler，根据用户手机场景，决定任务执行方式
