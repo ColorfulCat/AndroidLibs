@@ -955,6 +955,14 @@ A Full-Stack mobile app, including Android & Server, Simple-Poem 简诗. You can
 
 ---
 
+**KuaiChuan**: https://github.com/mayubao/KuaiChuan
+
+仿茄子快传的一款文件传输应用
+
+<img src="https://raw.githubusercontent.com/mayubao/KuaiChuan/master/ScreenShot/home.gif" width="320" /> <img src="https://raw.githubusercontent.com/mayubao/KuaiChuan/master/ScreenShot/fr_1.gif" width="320" />
+
+---
+
 **AnyShareOfAndroid**: [https://github.com/gpfduoduo/AnyShareOfAndroid](https://github.com/gpfduoduo/AnyShareOfAndroid)
 
 西瓜快传 仿照市场上的茄子快传 或者 360文件传输 在局域网内，如果没有局域网，接收方建立热点，发送发接入热点，进行文件（发送方的app、音视频、图片等文件）
