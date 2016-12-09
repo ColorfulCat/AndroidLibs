@@ -404,6 +404,14 @@ Sometimes, we need to show a label above an ImageView or any other views. Well, 
 
 ---
 
+**MarkdownIME**: https://github.com/laobubu/MarkdownIME
+
+实时预览的线上 Makrdown 编辑器
+
+<img src="https://camo.githubusercontent.com/1b03ccd2c170b030d4b61753203b3df8e9f94989/687474703a2f2f6c616f627562752e6769746875622e696f2f4d61726b646f776e494d452f64656d6f2e6769663f636163686533" width="400" />
+
+---
+
 **MarkdownView**: https://github.com/fiskurgit/MarkdownView
 
 Display Markdown in your apps, useful for FAQs, Help, Size Guides, About screens etc
