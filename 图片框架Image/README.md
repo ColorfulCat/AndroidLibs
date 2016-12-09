@@ -12,6 +12,14 @@ VectorSupportView is a library to support vector assets in compound drawables
 
 ---
 
+**FocusSurfaceView**: https://github.com/CGmaybe10/FocusSurfaceView
+
+拍照时在相机的预览界面指定一个区域的大小，形状和位置，只拍摄该指定区域里的图像
+
+<img src = "https://raw.githubusercontent.com/CGmaybe10/FocusSurfaceView/master/screenshots/demo.gif" width = "240"/>
+
+---
+
 **ScrollParallaxImageView**: https://github.com/gjiazhe/ScrollParallaxImageView
 
 滚动时图片产生视差效果的ImageView
