@@ -108,6 +108,14 @@ Android 图片放大过渡效果
 
 ---
 
+**android-hidden-camera**: https://github.com/kevalpatel2106/android-hidden-camera
+
+This library is to take picture using camera without camera preview
+
+<img src = "https://raw.githubusercontent.com/kevalpatel2106/android-hidden-camera/master/apk/sample.png" width = "210"/>
+
+---
+
 **ParaCamera**: https://github.com/janishar/ParaCamera
 
 Simple android camera to take and get image bitmaps
