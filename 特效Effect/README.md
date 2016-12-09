@@ -148,6 +148,14 @@ Android水波动画帮助类，一行代码实现View显示/隐藏/startActivity
 
 ---
 
+**android-PageFlip**: https://github.com/eschao/android-PageFlip
+
+3D Style Page Flip on Android
+
+<img src="https://cloud.githubusercontent.com/assets/20178358/20646731/20f6ebc6-b4bc-11e6-9857-efd8367db80c.png" width="500" />
+
+---
+
 **Android-3DTouch-PeekView**: https://github.com/klinker24/Android-3DTouch-PeekView
 
 Simple and powerful library to emulate iOS's "3D Touch" preview functionality on Android
