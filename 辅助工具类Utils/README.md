@@ -2020,6 +2020,14 @@ Debug and QA tool for android
 
 ---
 
+**ApkChannelBuilder**: https://github.com/baoyongzhang/ApkChannelBuilder
+
+一个 Mac App，用于 Apk 多渠道打包
+
+<img src="https://raw.githubusercontent.com/baoyongzhang/ApkChannelBuilder/master/Screenshots/storyboard.png" width="480" />
+
+---
+
 **ApkCustomizationTool**: https://github.com/SSOOnline/ApkCustomizationTool
 
 apk多渠道打包定制工具
