@@ -118,6 +118,14 @@ A simple Floating Action Button that shows an anchored Navigation View
 
 ---
 
+**AchievementToast**: https://github.com/mkodekar/AchievementToast
+
+Alternative to show Toast or an alert message just inside your activity
+
+<img src="https://raw.githubusercontent.com/mkodekar/AchievementToast/master/achievementtoastlibrary/blobs/AchievementToast.gif" width="320" />
+
+---
+
 **TastyToast**: https://github.com/yadav-rahul/TastyToast
 
 Make your native android Toasts Tasty
