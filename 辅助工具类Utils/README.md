@@ -24,6 +24,12 @@ Advanced Bloom Filter Based Algorithms for Efficient Approximate Data De-Duplica
 
 ---
 
+**realjavascript**: https://github.com/sanjulr/realjavascript
+
+RealJavaScript enables dynamic scripting in Java
+
+---
+
 **strman-java**: https://github.com/shekhargulati/strman-java
 
 A Java 8 string manipulation library. It is inspired by https://github.com/dleitee/strman
