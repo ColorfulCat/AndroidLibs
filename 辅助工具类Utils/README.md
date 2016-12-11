@@ -1901,6 +1901,12 @@ App-local sql logging with viewer activity
 
 ---
 
+**LogFilter**：https://github.com/smart-fun/LogFilter
+
+Simple Android library which filters Logs, for example by keeping only ERROR LOGS in RELEASE MODE
+
+---
+
 **XLog**：https://github.com/Qiu800820/XLog
 
 追踪上线BUG,自动保存,管理LOG,一键上传
