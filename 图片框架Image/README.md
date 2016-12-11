@@ -12,6 +12,14 @@ VectorSupportView is a library to support vector assets in compound drawables
 
 ---
 
+**gifencoder**: https://github.com/square/gifencoder
+
+A pure Java library implementing the GIF89a specification. Suitable for use on Android
+
+<img src = "https://raw.githubusercontent.com/square/gifencoder/master/gallery/simple-animation.gif" width = "240"/>
+
+---
+
 **FocusSurfaceView**: https://github.com/CGmaybe10/FocusSurfaceView
 
 拍照时在相机的预览界面指定一个区域的大小，形状和位置，只拍摄该指定区域里的图像
