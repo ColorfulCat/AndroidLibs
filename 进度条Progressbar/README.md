@@ -188,6 +188,14 @@ Custom UI control for android which is showing data as a segments and a value in
 
 ---
 
+**SwagPoints**: https://github.com/enginebai/SwagPoints
+
+An Android custom circular SeekBar that supports max/min range and step settings
+
+<img src="https://raw.githubusercontent.com/enginebai/SwagPoints/master/art/graphic.png" width="600" />
+
+---
+
 **RangeBarVertical**: https://github.com/ITheBK/RangeBarVertical
 
 Android rangebar(seekbar) vertical having two thumbs
