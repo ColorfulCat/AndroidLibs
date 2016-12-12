@@ -36,6 +36,14 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**overlaypermission**: https://github.com/czy1121/overlaypermission
+
+悬浮窗权限兼容库
+
+<img src="https://raw.githubusercontent.com/czy1121/overlaypermission/master/screenshot2.png" width="320"/>
+
+---
+
 **XiaomiPJ**: https://github.com/CankingApp/XiaomiPJ
 
 小米悬浮窗全自动完美一键开启
