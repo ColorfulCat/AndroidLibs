@@ -36,6 +36,14 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**XiaomiPJ**: https://github.com/CankingApp/XiaomiPJ
+
+小米悬浮窗全自动完美一键开启
+
+<img src="https://camo.githubusercontent.com/00207b0c98de0cec744b2c2a696cf4e4e5cc454c/687474703a2f2f63616e6b696e676170702e6769746875622e696f2f323031362f30362f30322f6163636573732d666c6f61742f616374696f6e2e676966" width="320"/>
+
+---
+
 **stf**: https://github.com/openstf/stf
 
 浏览器控制管理手机引用
