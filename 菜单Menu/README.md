@@ -6,6 +6,14 @@
 
 ---
 
+**BoomMenu**: https://github.com/Nightonke/BoomMenu
+
+爆炸展开菜单的按钮，加入了更多的按钮和新特性
+
+<img src="https://raw.githubusercontent.com/Nightonke/BoomMenu/master/Pictures/text-inside-button.gif" width="320"/> <img src="https://raw.githubusercontent.com/Nightonke/BoomMenu/master/Pictures/ham-button.gif" width="320"/>
+
+---
+
 **AllAngleExpandableButton**: https://github.com/uin3566/AllAngleExpandableButton
 
 简单易用的可定制展开角度的button menu
