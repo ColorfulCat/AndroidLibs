@@ -278,6 +278,12 @@ A basic framework for Android hybrid development, bridge between JavaScript and 
 
 ---
 
+**WebViewJavascriptBridge**: https://github.com/jesse01/WebViewJavascriptBridge
+
+WebViewJavascriptBridge for Android
+
+---
+
 **SimpleJavaJsBridge**: https://github.com/niuxiaowei/SimpleJavaJsBridge
 
 JS 与 Java 通信的简单桥梁
