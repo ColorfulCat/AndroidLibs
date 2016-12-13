@@ -6,14 +6,406 @@
 
 ---
 
+**ZuiMeiTAG**: https://github.com/huage2580/ZuiMeiTAG
+
+仿最美应用的底栏，使用recyclerView实现
+
+<img src = "https://raw.githubusercontent.com/huage2580/ZuiMeiTAG/master/hello.gif" width = "290"/>
+
+---
+
+**HideKeyboard**: https://github.com/yingLanNull/HideKeyboard
+
+仿ios输入法点击输入框以外区域 自动隐藏软键盘轻量级库
+
+<img src = "https://raw.githubusercontent.com/yingLanNull/HideKeyboard/master/show/show.gif" width = "290"/>
+
+---
+
+**TContributionsView**: https://github.com/barryhappy/TContributionsView
+
+Android：用以显示类似github贡献度的View，当然，也绝不仅限于此~
+
+<img src = "https://raw.githubusercontent.com/barryhappy/TContributionsView/master/images/overview.png" width = "640"/>
+
+---
+
+**AdBlockedWebView-Android**: https://github.com/AmniX/AdBlockedWebView-Android
+
+Adblock Webview，支持自动屏蔽广告
+
+<img src = "https://camo.githubusercontent.com/7d15198ddb087ae09141ea29becb661bfaa96d21/687474703a2f2f7777772e67756964696e67746563682e636f6d2f6173736574732f706f7374696d616765732f323031362f30312f626c6f636b2d6164732d6f6e2d656467652d62726f777365722e706e67" width = "640"/>
+
+---
+
+**SwipeCaptcha**: https://github.com/mcxtzhang/SwipeCaptcha
+
+仿斗鱼滑动验证码
+
+<img src = "https://camo.githubusercontent.com/b8f50f4047b3c1aedd077aea3d1f23079c83adc5/687474703a2f2f61632d6d686b65306b75762e636c6f7564646e2e636f6d2f37666362353836353365333538623965633030332e676966" width = "320"/>
+
+---
+
+**CaptchaImageView**: https://github.com/jineshfrancs/CaptchaImageView
+
+验证码图片 ImageView，相当实用
+
+<img src = "https://raw.githubusercontent.com/jineshfrancs/CaptchaImageView/master/screens/captcha_screen.gif" width = "270"/> <img src = "https://raw.githubusercontent.com/jineshfrancs/CaptchaImageView/master/screens/captcha_screen_2.gif" width = "270"/>
+
+---
+
+**Rx.Widgets**: https://github.com/andrefio/Rx.Widgets
+
+Materially inspired widgets and views that expose RxJava bindings
+
+---
+
+**mismeter**: https://github.com/yongjhih/mismeter
+
+简单的仪表盘
+
+<img src="https://raw.githubusercontent.com/yongjhih/mismeter/master/art/screenshot.png" width="300" />
+
+---
+
+**Thermometer**: https://github.com/kofigyan/Thermometer
+
+android温度计
+
+<img src="https://raw.githubusercontent.com/kofigyan/Thermometer/master/screenshots/therm_anim.gif" width="320" />
+
+---
+
+**ArcLayout**: https://github.com/florent37/ArcLayout
+
+漂亮的弧形顶部布局效果
+
+<img src="https://raw.githubusercontent.com/florent37/ArcLayout/master/media/video1.gif" width="320" />
+
+---
+
+**Timecon**: https://github.com/alxrm/Timecon
+
+Easy-to-use animated clock icon
+
+<img src="https://raw.githubusercontent.com/alxrm/Timecon/master/imgs/timecon.gif" width="320" />
+
+---
+
+**ClearScreenHelper**: https://github.com/Yellow5A5/ClearScreenHelper
+
+几行代码快速实现滑动清屏效果！动态绑定清屏UI，参考自淘宝直播
+
+<img src="https://raw.githubusercontent.com/Yellow5A5/ClearScreenHelper/master/image/demo_image1.gif" width="270" /> <img src="https://raw.githubusercontent.com/Yellow5A5/ClearScreenHelper/master/image/demo_image2.gif" width="270" />
+
+---
+
+**TinyDancer**: https://github.com/friendlyrobotnyc/TinyDancer
+
+Android 上展示 FPS(每秒显示帧数) 的悬浮组件
+
+<img src="https://raw.githubusercontent.com/brianPlummer/TinyDancer/master/assets/tinydancer1.gif" width="270" />
+
+---
+
+**SGiOSViews**: https://github.com/Shubhank101/SGiOSViews
+
+IOS 风格选择控制
+
+<img src="https://camo.githubusercontent.com/92bdc502c25ff25dca9596e0246d1afd994d2f84/687474703a2f2f692e696d6775722e636f6d2f59434f67487a722e676966" width="270" />
+
+---
+
+**GestureLockMaster**: https://github.com/AMQR/GestureLockMaster
+
+手势解锁通用库 android
+
+<img src="https://raw.githubusercontent.com/AMQR/GestureLockMaster/master/ges.gif" width="320" />
+
+---
+
+**LolliPin**: https://github.com/OrangeGangsters/LolliPin
+
+A Material design Android pincode library. Supports Fingerprint
+
+<img src="https://github.com/OrangeGangsters/LolliPin/blob/master/app/src/main/res/raw/github_gif.gif" width="320" />
+<img src="https://github.com/OrangeGangsters/LolliPin/blob/master/app/src/main/res/raw/github_gif2.gif" width="320" />
+
+---
+
+**PinLockView**: https://github.com/aritraroy/PinLockView
+
+A clean, minimal, highly customizable pin lock view
+
+<img src="https://raw.githubusercontent.com/aritraroy/PinLockView/master/screens/promo.png" width="640" />
+
+---
+
+**android-passcodeview**: https://github.com/Arjun-sna/android-passcodeview
+
+A custom view with keyboard and character display to be used for authentication
+
+<img src="https://camo.githubusercontent.com/e8de865b924b69792eae1052537f94c47f59a3a2/68747470733a2f2f61726a756e2d736e612e6769746875622e696f2f7261772f70617373636f6465766965775f312e676966" width="320" />
+
+---
+
+**CouponView**: https://github.com/dongjunkun/CouponView
+
+锯齿边框，类似优惠劵效果的自定义 View
+
+<img src="https://raw.githubusercontent.com/dongjunkun/CouponView/master/art/couponView.png" width="640" />
+
+---
+
+**SmartisanTime**: https://github.com/SpiritMan/SmartisanTime
+
+仿锤子时间View
+
+https://raw.githubusercontent.com/SpiritMan/SmartisanTime/master/images/smartisanTime.gif" width="320" />
+
+---
+
+**WavyLineView**: https://github.com/andyxialm/WavyLineView
+
+A custom wavy line view for android
+
+<img src="https://raw.githubusercontent.com/andyxialm/WavyLineView/master/art/wavyline.gif" width="320" />
+
+---
+
+**CompoundLayout**: https://github.com/Jaouan/CompoundLayout
+
+让任何布局支持选中状态，类似 Checkbox 的属性
+
+<img src="https://raw.githubusercontent.com/Jaouan/CompoundLayout/master/art/demo.gif" width="320" />
+
+---
+
+**LiveLayout**: https://github.com/Qiang3570/LiveLayout
+
+类似于映客，快手，等直播APP布局，直播刷礼物特效，定时清除礼物，计时器，圆形头像，横行listview等
+
+<img src="https://raw.githubusercontent.com/Qiang3570/LiveLayout/master/sample.gif" width="240" />
+
+---
+
+**WeChatPswKeyboard**: https://github.com/zuiwuyuan/WeChatPswKeyboard
+
+高仿微信数字键盘、支付键盘（密码键盘）
+
+<img src="https://raw.githubusercontent.com/zuiwuyuan/WeChatPswKeyboard/master/imgs/img.gif" width="320" />
+
+---
+
+**ActionCardView**: https://github.com/AdamMc331/ActionCardView
+
+Detailed CardView that displays an action title, description, and buttons to initiate that action
+
+<img src="https://camo.githubusercontent.com/fed08272fc8bd4aca27087b27722874d15c0a6d3/687474703a2f2f692e696d6775722e636f6d2f687078706472392e6a7067" width="320" />
+
+---
+
+**Article-Details-Transition-Example**: https://github.com/Jaouan/Article-Details-Transition-Example
+
+It's just an example of material transition
+
+<img src="https://raw.githubusercontent.com/Jaouan/Article-Details-Transition-Example/master/art/popfromtop.gif" width="320" /> <img src="https://raw.githubusercontent.com/Jaouan/Article-Details-Transition-Example/master/art/popfromitem.gif" width="320" />
+
+---
+
+**FlightSeat**: https://github.com/ldoublem/FlightSeat
+
+机票座位选择
+
+<img src="https://raw.githubusercontent.com/ldoublem/FlightSeat/master/screenshot/seat_gif.gif" width="320" /> <img src="https://raw.githubusercontent.com/ldoublem/FlightSeat/master/screenshot/seat_png.png" width="320" />
+
+---
+
+**maoni**: https://github.com/rm3l/maoni
+
+轻量安卓反馈库
+
+<img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/1_Maoni_main_activity.png" width="270" /> <img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/2_Maoni_main_activity_with_screenshot_thumbnail.png" width="270" /> <img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/3_Maoni_main_activity_with_screenshot_touch_to_preview.png" width="270" />
+
+---
+
+**FloatingViewService**: https://github.com/hanbaokun/FloatingViewService
+
+MIUI8 悬浮球
+
+<img src="https://raw.githubusercontent.com/hanbaokun/FloatingViewService/master/Screenshot_2016-07-14-14-30-59-237_com.miui.home.png" width="320" />
+
+---
+
+**android-versioninfo**: https://github.com/saschpe/android-versioninfo
+
+方便的以 dialog 或 fragment 显示软件版本
+
+<img src="https://raw.githubusercontent.com/saschpe/android-versioninfo/master/doc/img/versioninfo-sample-dialog.png" width="256" /> <img src="https://raw.githubusercontent.com/saschpe/android-versioninfo/master/doc/img/versioninfo-sample-fragment.png" width="256" />
+
+---
+
+**StackOverView**: https://github.com/Bossyao168/StackOverView
+
+类似 5.0 任务栏的自定义控件
+
+<img src="https://camo.githubusercontent.com/eb5076c5b0b759f5a9ee9288ab754e6e9c54fd27/687474703a2f2f69313036302e70686f746f6275636b65742e636f6d2f616c62756d732f743434342f626f737379616f3136382f323031352d30342d303325323032305f35315f35305f7a7073636475696d6274612e676966" width="360" />
+
+---
+
+**MarqueeLayoutLibrary**: https://github.com/oubowu/MarqueeLayoutLibrary
+
+一个支持四个方向循环滚动的自定义控件
+
+<img src="https://raw.githubusercontent.com/oubowu/MarqueeLayoutLibrary/master/pic/demo.gif" width="360" />
+
+---
+
+**MaterialRatingBar**: https://github.com/DreaminginCodeZH/MaterialRatingBar
+
+一款漂亮的打分效果
+
+<img src="https://raw.githubusercontent.com/DreaminginCodeZH/MaterialRatingBar/master/screenshot/sample_app.jpg" width="320" />
+
+---
+
+**SimpleRatingBar**: https://github.com/FlyingPumba/SimpleRatingBar
+
+A simple RatingBar for Android
+
+<img src="https://raw.githubusercontent.com/FlyingPumba/SimpleRatingBar/master/images/sample.gif" width="320" />
+
+---
+
+**RatingView**: https://github.com/Ornolfr/RatingView
+
+等级评分
+
+<img src="https://camo.githubusercontent.com/3db8e39d6d0754b4a2561564a8620dff1bd7870e/68747470733a2f2f676f6f676c6564726976652e636f6d2f686f73742f3042777a315f62396d413758596243314551323878614856776347632f726174696e6776696577322e6a7067" width="320" />
+
+---
+
+**SmileBar**: https://github.com/eugeneek/SmileBar
+
+等级评分
+
+<img src="https://raw.githubusercontent.com/eugeneek/SmileBar/master/img/screenshot.png" width="320" />
+
+---
+
+**BezierMaker**: https://github.com/venshine/BezierMaker
+
+通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画
+
+<img src="https://raw.githubusercontent.com/venshine/BezierMaker/master/screenshot/2.gif" width="270" /> <img src="https://raw.githubusercontent.com/venshine/BezierMaker/master/screenshot/3.gif" width="270" /> <img src="https://raw.githubusercontent.com/venshine/BezierMaker/master/screenshot/7.gif" width="270" /> 
+
+---
+
+**MagicaSakura**: https://github.com/Bilibili/MagicaSakura
+
+B 站出品的 Android 主题切换
+
+<img src="https://raw.githubusercontent.com/Bilibili/MagicaSakura/master/screenshot/magicasakura.gif" width="320" />
+
+---
+
+**Scoops**: https://github.com/52inc/Scoops
+
+主题管理切换
+
+<img src="https://camo.githubusercontent.com/d7ec90078d65ad6728580b5752b63658e8b92dcd/687474703a2f2f692e696d6775722e636f6d2f3553716a62684c2e676966" width="320" />
+
+---
+
+**Spotlight**: https://github.com/wooplr/Spotlight
+
+showcasing specific features in the app
+
+<img src="https://raw.githubusercontent.com/wooplr/Spotlight/master/art/intro.gif?token=AA5ZAHdvAspW6Zj8YyyKamkV7jWXFtMHks5XaQovwA%3D%3D" width="320" />
+
+---
+
+**Android-Cling**: https://github.com/MajeurAndroid/Android-Cling
+
+首次使用软件时指导用户操作
+
+<img src="https://raw.githubusercontent.com/MajeurAndroid/Android-Cling/master/web_art/device_example.png" width="320" />
+
+---
+
+**RadarChart**: https://github.com/qstumn/RadarChart
+
+一个可以自由定制、旋转交互的Android雷达图Lib
+
+<img src="https://raw.githubusercontent.com/qstumn/RadarChart/master/demo.gif" width="310" />
+
+---
+
+**polygonsview**: https://github.com/jiangzehui/polygonsview
+
+模仿掌上英雄联盟能力分析效果
+
+<img src="https://raw.githubusercontent.com/jiangzehui/polygonsview/master/png/p1.png" width="320" /> <img src="https://raw.githubusercontent.com/jiangzehui/polygonsview/master/png/p2.png" width="320" />
+
+---
+
+**SpiderWebScoreView**: https://github.com/xiaopansky/SpiderWebScoreView
+
+Android上的一个蜘蛛网评分控件
+
+<img src="https://raw.githubusercontent.com/xiaopansky/SpiderWebScoreView/master/docs/sample.png" width="320" />
+
+---
+
+**AbilityChart**: https://github.com/jiefly/AbilityChart
+
+一个能力值属性分布的控件
+
+<img src="https://raw.githubusercontent.com/jiefly/AbilityChart/master/app/Screenshot_20160522-150549.png" width="320" /> <img src="https://raw.githubusercontent.com/jiefly/AbilityChart/master/app/Screenshot_20160521-203747.png" width="320" />
+
+---
+
+**hintcase**: https://github.com/Nescafemix/hintcase
+
+HintCase is a library for Android that will help you create really awesome hints/tips for your apps
+
+<img src="https://github.com/Nescafemix/hintcase/raw/master/assets/welcome_demo.gif" width="320" /> <img src="https://github.com/Nescafemix/hintcase/raw/master/assets/bubble_demo.gif" width="320" />
+
+---
+
+**HorizontalWheelView**: https://github.com/shchurov/HorizontalWheelView
+
+HorizontalWheelView
+
+<img src="https://camo.githubusercontent.com/947f61681a1700e42fae62f45618d1a9c1adb6e3/68747470733a2f2f692e696d6775722e636f6d2f775759625238522e706e67" width="480" />
+
+<img src="https://camo.githubusercontent.com/ee6124cc259de10d4a4f6bfbc06ff3c06728803b/687474703a2f2f692e67697068792e636f6d2f764831715378637742424f69512e676966" width="270" />
+
+---
+
+**MultipleStatusView**: https://github.com/qyxxjd/MultipleStatusView
+
+一个支持多种状态的自定义View,可以方便的切换到：加载中视图、错误视图、空数据视图、网络异常视图、内容视图
+
+<img src="https://raw.githubusercontent.com/qyxxjd/MultipleStatusView/master/screenshots/demo.gif" width="320" />
+
+---
+
+**QQBubbleView**: https://github.com/Yasic/QQBubbleView
+
+利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效
+
+<img src="https://camo.githubusercontent.com/dcac7c2c31993d2a7c38dbf4bed192579bc05978/687474703a2f2f646979636f64652e62302e7570616979756e2e636f6d2f70686f746f2f323031362f35356238306334633237306534316534323963343638393733663231356363372e676966" width="270" />
+
+---
+
 **SwipeableCard**: https://github.com/michelelacorte/SwipeableCard
 
 A simple implementation of swipe card like StreetView!!
 
-<img src="http://i.giphy.com/3ornjQLD95Osp4qlm8.gif" width="320" />
-<img src="http://i.giphy.com/26FPDYox55jE0UBVu.gif" width="320" />
-<img src="http://i.giphy.com/3o8doUXxjOCwHw2GEo.gif" width="320" />
-<img src="http://i.giphy.com/3o8doQxv28CVTGdM6Q.gif" width="320" />
+<img src="http://i.giphy.com/3ornjQLD95Osp4qlm8.gif" width="270" />
+<img src="http://i.giphy.com/26FPDYox55jE0UBVu.gif" width="270" />
+<img src="http://i.giphy.com/3o8doUXxjOCwHw2GEo.gif" width="270" />
 
 ---
 
@@ -25,11 +417,11 @@ Android Material Design Theme UI and Tool Library. http://genius.qiujuer.net
 
 ---
 
-**SlideSwitch**: [https://github.com/Leaking/SlideSwitch](https://github.com/Leaking/SlideSwitch)
+**MemorySpinner**: https://github.com/Jasonchenlijian/MemorySpinner
 
-A widget you can slide it to open or close something
+可以记住历史选项的spinner
 
-<img src="https://github.com/Leaking/SlideSwitch/blob/master/Example/TestLibs/res/drawable-hdpi/slide_c.gif" width="320" />
+<img src="https://camo.githubusercontent.com/7dd0f4e141fa57a7906ad608027dc1fe84db9c7c/68747470733a2f2f696d672e616c6963646e2e636f6d2f696d6765787472612f69342f3138313235373637312f544232537068436b585858585861755870585858585858585858585f21213138313235373637312e676966" width="320" />
 
 ---
 
@@ -41,27 +433,9 @@ Spinner with Material Design - Down to API 9
 
 ---
 
-**Calligraphy**: [https://github.com/chrisjenx/Calligraphy](https://github.com/chrisjenx/Calligraphy)
+**DanmakuFlameMaster**: https://github.com/Bilibili/DanmakuFlameMaster
 
-Custom fonts in Android the easy way...
-
-<img src="https://github.com/chrisjenx/Calligraphy/raw/master/screenshot.png" width="320" />
-
----
-
-**loadtoast**: [https://github.com/code-mc/loadtoast](https://github.com/code-mc/loadtoast)
-
-Pretty material design toasts with feedback animations
-
-<img src="https://camo.githubusercontent.com/96592555c77792a317564369f8ff53bafcba2a13/687474703a2f2f692e696d6775722e636f6d2f57776f784c4d752e676966" width="320" />
-
----
-
-**justified**: [https://github.com/programingjd/justified](https://github.com/programingjd/justified)
-
-Android TextView or EditText with justified text.
-
-<img src="https://github.com/programingjd/justified/blob/master/screenshot.jpg" width="320" />
+B 站出品的 Android 开源弹幕引擎 —— 烈焰弹幕使
 
 ---
 
@@ -87,14 +461,6 @@ Phrase is an Android string resource templating library
 
 ---
 
-**ColorPhrase**: [https://github.com/THEONE10211024/ColorPhrase](https://github.com/THEONE10211024/ColorPhrase)
-
-Phrase is an Android string resource color setting library
-
-<img src="https://github.com/THEONE10211024/ColorPhrase/blob/master/screenshot/Screenshot_2015-05-16-18-12-23.jpeg" width="320" />
-
----
-
 **TourGuide**: [https://github.com/worker8/TourGuide](https://github.com/worker8/TourGuide)
 
 TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View
@@ -103,28 +469,11 @@ TourGuide is an Android library that aims to provide an easy way to add pointers
 
 ---
 
-**TagCloudView**: [https://github.com/kingideayou/TagCloudView](https://github.com/kingideayou/TagCloudView)
-
-支持 SingleLine 模式的标签云效果
-
-<img src="https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_1.png" width="320" />
-<img src="https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_2.png" width="320" />
-
----
-
 **cheesesquare**: [https://github.com/chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare)
 
 Demos the new Android Design library.
 
 <img src="http://www.23code.com/wp-content/uploads/2015/08/device-2015-08-14-153220.jpg" width="320" />
-
----
-
-**SnailBar**: [https://github.com/android-cjj/SnailBar](https://github.com/android-cjj/SnailBar)
-
-A lovely snail,You can use it as a seekbar or progressbar.
-
-<img src="https://camo.githubusercontent.com/898918cea97a610539213a27e49fe9d8b0cd8e4a/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530392f31342f31353133333971756e76753636753272756b6e72366e2e676966" width="320" />
 
 ---
 
@@ -140,9 +489,9 @@ A lovely snail,You can use it as a seekbar or progressbar.
 
 Android quantity view with add and remove button.
 
-<img src="https://raw.githubusercontent.com/himanshu-soni/QuantityView/master/screenshots/device-2015-09-29-191352.png" width="320" />
-<img src="https://raw.githubusercontent.com/himanshu-soni/QuantityView/master/screenshots/device-2015-10-09-175354.png" width="320" />
-<img src="https://raw.githubusercontent.com/himanshu-soni/QuantityView/master/screenshots/device-2015-10-09-175420.png" width="320" />
+<img src="https://raw.githubusercontent.com/himanshu-soni/QuantityView/master/screenshots/device-2015-09-29-191352.png" width="270" />
+<img src="https://raw.githubusercontent.com/himanshu-soni/QuantityView/master/screenshots/device-2015-10-09-175354.png" width="270" />
+<img src="https://raw.githubusercontent.com/himanshu-soni/QuantityView/master/screenshots/device-2015-10-09-175420.png" width="270" />
 
 ---
 
@@ -167,71 +516,11 @@ This is a library with components of Android L to you use in android 2.2
 
 ---
 
-**SeekArc**: [https://github.com/Triggertrap/SeekArc](https://github.com/Triggertrap/SeekArc)
-
-Circular SeekBar view for Android
-
-<img src="https://camo.githubusercontent.com/1f5a943833fb6f1dc825d12df588dbf34c6da057/68747470733a2f2f7261772e6769746875622e636f6d2f6e65696c643030312f5365656b4172632f6d61737465722f7261772f73616d706c655f6170702e706e67" width="640" />
-
----
-
-**MaterialEditText**: [https://github.com/rengwuxian/MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
-
-EditText in Material Design
-
-<img src="https://github.com/rengwuxian/MaterialEditText/blob/master/images/material_edittext.png" width="320" />
-
----
-
-**materialish-progress**: [https://github.com/pnikosis/materialish-progress](https://github.com/pnikosis/materialish-progress)
-
-A material style progress wheel compatible with 2.3
-
-<img src="https://github.com/pnikosis/materialish-progress/blob/master/spinningwheel.gif" width="320" />
-
----
-
-**material-range-bar**: [https://github.com/oli107/material-range-bar](https://github.com/oli107/material-range-bar)
-
-Android widget for selecting a range of values.
-
-<img src="https://github.com/oli107/material-range-bar/blob/master/Screenshots/pin%20expand.gif" width="320" />
-
----
-
 **Lollipop-AppCompat-Widgets-Skeleton**: [https://github.com/sachin1092/Lollipop-AppCompat-Widgets-Skeleton](https://github.com/sachin1092/Lollipop-AppCompat-Widgets-Skeleton)
 
 A skeleton of google's appcompat android navigation drawer with material design.
 
 <img src="https://github.com/sachin1092/Lollipop-AppCompat-Skeleton/blob/master/art/LollipopAppCompatWidgetSkeleton.gif" width="320" />
-
----
-
-**Carbon**: [https://github.com/ZieIony/Carbon](https://github.com/ZieIony/Carbon)
-
-Material Design implementation for Android 2.2+. Shadows, ripples, vectors, fonts, animations, widgets, rounded corners and more.[https://androidreclib.wordpress.com/](https://androidreclib.wordpress.com/)
-
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/anchors.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/spinner.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/buttonsusage.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/autocomplete.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/powermenu.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/progress.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/textappearances.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/calculator.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/sampleapp.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/recyclercards.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/pagertabstrip.png" width="320" />
-<img src="https://github.com/ZieIony/Carbon/blob/master/images/drawer.png" width="320" />
-
----
-
-**material-calendarview**: [https://github.com/prolificinteractive/material-calendarview](https://github.com/prolificinteractive/material-calendarview)
-
-A Material design back port of Android's CalendarView.[https://prolificinteractive.github.io/material-calendarview/](https://prolificinteractive.github.io/material-calendarview/)
-
-<img src="https://github.com/prolificinteractive/material-calendarview/blob/master/images/ic_launcher-web.png" width="320" />
-<img src="https://github.com/prolificinteractive/material-calendarview/blob/master/images/screencast.gif" width="320" />
 
 ---
 
@@ -254,14 +543,6 @@ A library to bring fully animated Material Design components to pre-Lolipop Andr
 <img src="https://github.com/rey5137/Material/raw/master/image/dialog_3.png" width="160" />
 <img src="https://github.com/rey5137/Material/raw/master/image/dialog_4.png" width="160" />
 <img src="https://github.com/rey5137/Material/raw/master/image/theme.gif" width="160" />
-
----
-
-**MaterialTextField**: [https://github.com/florent37/MaterialTextField](https://github.com/florent37/MaterialTextField)
-
-A different beautiful Floating Edit Text.
-
-<img src="https://www.youtube.com/watch?v=Rax_o3URazU" width="320" />
 
 ---
 
@@ -289,31 +570,6 @@ Bubbles for Android is an Android library to provide chat heads capabilities on 
 
 ---
 
-**labelview**: [https://github.com/linger1216/labelview](https://github.com/linger1216/labelview)
-
-Sometimes, we need to show a label above an ImageView or any other views. Well, LabelView will be able to help you. It's easy to implement as well!
-
-<img src="https://github.com/linger1216/labelview/blob/master/img/img1.png" width="320" />
-
----
-
-**Shimmer-android**: [https://github.com/RomainPiel/Shimmer-android](https://github.com/RomainPiel/Shimmer-android)
-
-An Android TextView with a shimmering effect
-
-<img src="http://youtu.be/7EOsegp4J2o" width="320" />
-
----
-
-**colorpicker**:  https://github.com/QuadFlask/colorpicker
-
-color picker for android
-
-<img src="https://github.com/QuadFlask/colorpicker/blob/master/screenshot/screenshot3.png" width="320" />
-<img src="https://github.com/QuadFlask/colorpicker/blob/master/screenshot/screenshot.png" width="320" />
-
----
-
 **Android-Lock9View**:  https://github.com/TakWolf/Android-Lock9View
 
  An Android grid lock screen view with a callback interface.
@@ -330,246 +586,10 @@ color picker for android
 
 ---
 
-**JumpingBeans**:  https://github.com/frakbot/JumpingBeans
-
- A Span-based library to make your text jump like Mexican beans. Oh, and the "..."s in Hangouts.
-
-<img src="https://github.com/frakbot/JumpingBeans/blob/master/art/jumpingdots.gif" width="320" />
-<img src="https://github.com/frakbot/JumpingBeans/blob/master/art/jumpingword.gif" width="320" />
-
----
-
-**BezierDemo**:  https://github.com/chenupt/BezierDemo
-
-A demo to show bezier.
-
-<img src="https://raw.githubusercontent.com/chenupt/BezierDemo/master/pic/bezier.gif" width="320" />
-
----
-
-**SlideDateTimePicker**:  https://github.com/jjobes/SlideDateTimePicker
-
- A combined DatePicker and TimePicker in a DialogFragment for Android
-
-<img src="https://camo.githubusercontent.com/4896da076522a1187ebaadc747ed7d437393adab/68747470733a2f2f7261772e6769746875622e636f6d2f6a6a6f6265732f536c6964654461746554696d655069636b65722f6d61737465722f73637265656e73686f74732f312e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/666c1296f27bd9289b72d94b7986336d5ef2f3eb/68747470733a2f2f7261772e6769746875622e636f6d2f6a6a6f6265732f536c6964654461746554696d655069636b65722f6d61737465722f73637265656e73686f74732f322e706e67" width="320" />
-
----
-
-**AutoCompleteBubbleText**:  https://github.com/FrederickRider/AutoCompleteBubbleText
-
- Android AutoCompleteTextView with attached ListView, and drawable background
-
-<img src="https://github.com/FrederickRider/AutoCompleteBubbleText/blob/master/images/Screenshot_1.png" width="320" />
-
----
-
-**shimmer-android**: [https://github.com/facebook/shimmer-android](https://github.com/facebook/shimmer-android)
-
-An easy, flexible way to add a shimmering effect to any view in an Android app.[http://facebook.github.io/shimmer-android/](http://facebook.github.io/shimmer-android/)
-
-<img src="https://github.com/facebook/shimmer-android/blob/master/shimmer.gif?raw=true" width="320" />
-
----
-
-**Titanic**: [https://github.com/RomainPiel/Titanic](https://github.com/RomainPiel/Titanic)
-
-Android experiment showing a sinking TextView
-
-<img src="https://github.com/RomainPiel/Titanic/blob/master/titanic.gif" width="320" />
-
----
-
-**MatchView**: [https://github.com/Rogero0o/MatchView](https://github.com/Rogero0o/MatchView)
-
-Include MatchTextView and MatchButton..Come..you will like it
-
-<img src="https://camo.githubusercontent.com/a71e9d26a7f90ea70270b3681d99785a29f83be5/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f6136393561636465677731656d79746e6b347334356732306567306d6b3439302e676966" width="320" />
-
----
-
-**android-autofittextview**: [https://github.com/grantland/android-autofittextview](https://github.com/grantland/android-autofittextview)
-
-A TextView that automatically resizes text to fit perfectly within its bounds.
-
-<img src="https://github.com/grantland/android-autofittextview/blob/master/website/static/autofittextview.gif?raw=true" width="640" />
-
----
-
-**SecretTextView**: [https://github.com/matthewrkula/SecretTextView](https://github.com/matthewrkula/SecretTextView)
-
-A TextView that simulates the effect from the app Secret where the characters fade in/out at different speeds.
-
-<img src="https://camo.githubusercontent.com/bbb38412d3ae652f565556711e7aa6db67ebb4c7/68747470733a2f2f692e696d67666c69702e636f6d2f39356d39312e676966" width="320" />
-
----
-
-**TextJustify-Android**: [https://github.com/bluejamesbond/TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android)
-
-Android Text Full Jusiftication / Wrapping / Justify / Hyphenate - V2.0 [https://github.com/bluejamesbond/TextJustify-Android/wiki](https://github.com/bluejamesbond/TextJustify-Android/wiki)
-
-<img src="https://camo.githubusercontent.com/061a4a460340c26422b2a2f43d7fe39e73246297/687474703a2f2f692e696d6775722e636f6d2f6b3662415764302e6a7067" width="320" />
-
----
-
-**RoundedLetterView**: [https://github.com/pavlospt/RoundedLetterView](https://github.com/pavlospt/RoundedLetterView)
-
-RoundedLetterView like the one in Android 5.0 Contacts app
-
-<img src="https://github.com/pavlospt/RoundedLetterView/blob/master/Screenshots/device-2014-11-13-191000.png" width="320" />
-
----
-
-**TextDrawable**: [https://github.com/amulyakhare/TextDrawable](https://github.com/amulyakhare/TextDrawable)
-
-This light-weight library provides images with letter/text like the Gmail app. It extends the Drawable class thus can be used with existing/custom/network ImageView classes. Also included is a fluent interface for creating drawables and a customizable ColorGenerator.
-
-<img src="https://github.com/amulyakhare/TextDrawable/blob/master/screens/screen1-material.png" width="320" />
-<img src="https://github.com/amulyakhare/TextDrawable/blob/master/screens/screen2-material.png" width="320" />
-
----
-
-**BabushkaText**: [https://github.com/quiqueqs/BabushkaText](https://github.com/quiqueqs/BabushkaText)
-
-A simpler way to style your TextViews
-
-<img src="https://github.com/quiqueqs/BabushkaText/blob/master/images/example.png" width="320" />
-
----
-
-**ExpandableTextView**: [https://github.com/Manabu-GT/ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView)
-
-Android's TextView that can expand/collapse like the Google Play's app description
-
-<img src="https://camo.githubusercontent.com/8bf46083b3bd152c2051ae4c234649dbbb975376/68747470733a2f2f7261772e6769746875622e636f6d2f4d616e6162752d47542f457870616e6461626c6554657874566965772f6d61737465722f6172742f726561646d655f64656d6f2e676966" width="320" />
-
----
-
-**floatlabelededittext**: [https://github.com/wrapp/floatlabelededittext](https://github.com/wrapp/floatlabelededittext)
-
-Floating hint from edit text - inspired by Matt D. Smith's design:[http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users](http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users)
-
-<img src="https://camo.githubusercontent.com/9b15f9bfcdacc9bf053fff9d06e7a91a0d1b5070/687474703a2f2f692e696d6775722e636f6d2f75635264316a6d2e676966" width="320" />
-
----
-
-**SizeAdjustingTextView**: [https://github.com/erchenger/SizeAdjustingTextView](https://github.com/erchenger/SizeAdjustingTextView)
-
-This is based on an open source autosizing textview for Android.
-
----
-
-**ParkedTextView**: [https://github.com/gotokatsuya/ParkedTextView](https://github.com/gotokatsuya/ParkedTextView)
-
-A editable text with a constant text/placeholder for Android.
-
-<img src="https://github.com/gotokatsuya/ParkedTextView/blob/master/doc/demo-gif.gif" width="320" />
-
----
-
-**material-code-input**: [https://github.com/glomadrian/material-code-input](https://github.com/glomadrian/material-code-input)
-
-A material style input for codes
-
-<img src="https://github.com/glomadrian/material-code-input/blob/master/art/codeInput1.gif" width="320" />
-<img src="https://github.com/glomadrian/material-code-input/blob/master/art/codeInput2.gif" width="320" />
-
----
-
-**TextSurface**: [https://github.com/elevenetc/TextSurface](https://github.com/elevenetc/TextSurface)
-
-A little animation framework which could help you to show message in a nice looking way
-
-<img src="https://github.com/elevenetc/TextSurface/blob/master/docs/demo.gif" width="320" />
-
----
-
 **discreteSeekBar**: [https://github.com/AnderWeb/discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar)
 
 <img src="https://camo.githubusercontent.com/b1c5e00bc9164c24b995a95942dbb731edd8d39e/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d4a6a7678564d436d3175672f56485550575642667062492f41414141414141414874512f5450746f4f6a4849354d412f773633392d683335362f7365656b626172322e676966" width="320" />
 <img src="https://camo.githubusercontent.com/e717e2597779d1ddc980ace6f3943f62483d8a8c/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d376e62565058785568596b2f56472d724f3634704d57492f414141414141414148734d2f614d52676c7432567a726b2f773633392d683438302f616e696d6174696f6e2e676966" width="320" />
-
----
-
-**SHSegmentControl**: [https://github.com/7heaven/SHSegmentControl](https://github.com/7heaven/SHSegmentControl)
-
-segmentcontrol widget for android 
-
-<img src="https://github.com/7heaven/SHSegmentControl/blob/master/arts/arts2.gif" width="160" />
-<img src="https://github.com/7heaven/SHSegmentControl/blob/master/arts/arts1.gif" width="320" />
-
----
-
-**ElasticDownload**: [https://github.com/Tibolte/ElasticDownload](https://github.com/Tibolte/ElasticDownload)
-
-We are not Gif makers, We are developers
-
-<img src="https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/success.gif" width="320" />
-<img src="https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/fail.gif" width="320" />
-
----
-
-**FABProgressCircle**: [https://github.com/JorgeCastilloPrz/FABProgressCircle](https://github.com/JorgeCastilloPrz/FABProgressCircle)
-
-Material progress circle around any FloatingActionButton. 100% Guidelines.
-
-<img src="https://github.com/JorgeCastilloPrz/FABProgressCircle/blob/master/art/fabprogresscircle.gif" width="320" />
-<img src="https://github.com/JorgeCastilloPrz/FABProgressCircle/blob/master/art/fabprogresscircle2.gif" width="320" />
-
----
-
-**Loading**: [https://github.com/yankai-victor/Loading](https://github.com/yankai-victor/Loading)
-
-Android loading view
-
-<img src="https://github.com/yankai-victor/Loading/blob/master/images/RotateLoading.gif" width="240" />
-<img src="https://github.com/yankai-victor/Loading/blob/master/images/BookLoading.gif" width="240" />
-<img src="https://github.com/yankai-victor/Loading/blob/master/images/NewtonCradleLoading.gif" width="240" />
-
----
-
-**AnimatedCircleLoadingView**: [https://github.com/jlmd/AnimatedCircleLoadingView](https://github.com/jlmd/AnimatedCircleLoadingView)
-
-An animated circle loading view
-
-<img src="https://github.com/jlmd/AnimatedCircleLoadingView/blob/master/art/indeterminate_ok.gif" width="320" />
-<img src="https://github.com/jlmd/AnimatedCircleLoadingView/blob/master/art/indeterminate_failure.gif" width="320" />
-
----
-
-**AndroidFillableLoaders**: [https://github.com/JorgeCastilloPrz/AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders)
-
-Android fillable progress view working with SVG paths. This is a nice option too if you want to create an interesting branding logo for your app. Based on the iOS project:[https://github.com/poolqf/FillableLoaders](https://github.com/poolqf/FillableLoaders)
-
-<img src="https://github.com/JorgeCastilloPrz/AndroidFillableLoaders/blob/master/art/demoWaves.gif" width="160" />
-<img src="https://github.com/JorgeCastilloPrz/AndroidFillableLoaders/blob/master/art/demoPlain.gif" width="160" />
-<img src="https://github.com/JorgeCastilloPrz/AndroidFillableLoaders/blob/master/art/demoSpikes.gif" width="160" />
-<img src="https://github.com/JorgeCastilloPrz/AndroidFillableLoaders/blob/master/art/demoRounded.gif" width="160" />
-
----
-
-**spots-dialog**: [https://github.com/d-max/spots-dialog](https://github.com/d-max/spots-dialog)
-
-Android AlertDialog with mowing dots progress indicator
-
-<img src="https://camo.githubusercontent.com/d8108413298d70047f52cff9ac05603a5fd51988/687474703a2f2f332e62702e626c6f6773706f742e636f6d2f2d6c3155765657694d5341672f564c61355a6657346444492f41414141414141414e54632f7273576f755f71623042632f733332302f593648615453772e676966" width="320" />
-
----
-
-**AVLoadingIndicatorView**: [https://github.com/81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
-
-Nice loading animations for Android
-
-<img src="https://github.com/81813780/AVLoadingIndicatorView/blob/master/Demo2.gif" width="320" />
-
----
-
-**Caldroid**: [https://github.com/roomorama/Caldroid](https://github.com/roomorama/Caldroid)
-
-A better calendar for Android
-
-<img src="https://camo.githubusercontent.com/8160f830305493135ea8ae1fbd9e12713d6f0972/68747470733a2f2f7261772e6769746875622e636f6d2f726f6f6d6f72616d612f43616c64726f69642f6d61737465722f73637265656e73686f742f312e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/7ef947cbda3fd00d9b05bdf321499af9f4ec35f0/68747470733a2f2f7261772e6769746875622e636f6d2f726f6f6d6f72616d612f43616c64726f69642f6d61737465722f73637265656e73686f742f6461726b2e706e67" width="320" />
 
 ---
 
@@ -581,136 +601,11 @@ A 'Google Fit' like activity indicator for Android
 
 ---
 
-**CircleTimerView**: [https://github.com/jiahuanyu/CircleTimerView](https://github.com/jiahuanyu/CircleTimerView)
-
-Circular timer on Android platform.
-
-<img src="https://github.com/jiahuanyu/CircleTimerView/blob/master/images/sample.gif" width="320" />
-<img src="https://github.com/jiahuanyu/CircleTimerView/blob/master/images/sample2.gif" width="320" />
-
----
-
-**Pugnotification**: [https://github.com/halysongoncalves/Pugnotification](https://github.com/halysongoncalves/Pugnotification)
-
-A powerful library for creating notifications in android platform.
-
-<img src="https://raw.githubusercontent.com/halysongoncalves/pugnotification/master/art/screenshot.png" width="320" />
-
----
-
-**Spanny**: [https://github.com/binaryfork/Spanny](https://github.com/binaryfork/Spanny)
-
-A helper class that extends SpannableStringBuilder and adds methods to easily mark the text with multiple spans.
-
-<img src="https://camo.githubusercontent.com/16b6d49cf7481709a8bb43803489e6f43e26c1ac/687474703a2f2f692e696d6775722e636f6d2f4e506e6c3079792e706e673f31" width="320" />
-
----
-
-**android-times-square**: [https://github.com/square/android-times-square](https://github.com/square/android-times-square)
-
-Standalone Android widget for picking a single date from a calendar view.
-
-<img src="https://github.com/square/android-times-square/blob/master/timesSquareScreenshot.png" width="320" />
-
----
-
-**Android-MonthCalendarWidget**: [https://github.com/romannurik/Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget)
-
-A simple example of a responsive Month Calendar app widget for Android
-
-<img src="https://camo.githubusercontent.com/d5fe492d922b4ff1fb2e050fc33e0d99dc12105f/68747470733a2f2f7261772e6769746875622e636f6d2f726f6d616e6e7572696b2f416e64726f69642d4d6f6e746843616c656e6461725769646765742f6d61737465722f6865726f2e706e67" width="320" />
-
----
-
-**android-betterpickers**: [https://github.com/derekbrameyer/android-betterpickers](https://github.com/derekbrameyer/android-betterpickers)
-
-Android library for better Picker DialogFragments
-
-<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_calendar_date.png" width="80" />
-<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_date.png" width="80" />
-<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_expiration.png" width="80" />
-<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_hms.png" width="80" />
-<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_number.png" width="80" />
-<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_radial_time.png" width="80" />
-<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_recurrence.png" width="80" />
-<img src="https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_time.png" width="80" />
-
----
-
-**Android-Week-View**: [https://github.com/alamkanak/Android-Week-View](https://github.com/alamkanak/Android-Week-View)
-
-Android Week View is an android library to display calendars (week view or day view) within the app. It supports custom styling.
-
-<img src="https://github.com/alamkanak/Android-Week-View/blob/develop/images/screen-shot.png" width="640" />
-
----
-
-**SilkCal**: [https://github.com/NLMartian/SilkCal](https://github.com/NLMartian/SilkCal)
-
-Android calendar view inspired by Sunrise calendar and iOS7 stock calendar
-
-<img src="https://github.com/NLMartian/SilkCal/raw/master/images/screenshot.gif" width="320" />
-
----
-
-**SublimePicker**: [https://github.com/vikramkakkar/SublimePicker](https://github.com/vikramkakkar/SublimePicker)
-
-A material-styled android view that provisions picking of a date, time & recurrence option, all from a single user-interface.
-
-<img src="https://github.com/vikramkakkar/SublimePicker/blob/master/img/date_picker.png?raw=true" width="320" />
-<img src="https://github.com/vikramkakkar/SublimePicker/blob/master/img/time_picker.png?raw=true" width="320" />
-<img src="https://github.com/vikramkakkar/SublimePicker/blob/master/img/recurrence_picker.png?raw=true" width="320" />
-<img src="https://github.com/vikramkakkar/SublimePicker/blob/master/img/recurrence_option_creator.png?raw=true" width="320" />
-
----
-
-**MaterialDateTimePicker**: [https://github.com/wdullaer/MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker)
-
-Pick a date or time on Android in style
-
-<img src="https://camo.githubusercontent.com/1467c2b5d209d68aef8ac96cc6bdc28a6c2b1f3d/68747470733a2f2f7261772e6769746875622e636f6d2f7764756c6c6165722f4d6174657269616c4461746554696d655069636b65722f67682d70616765732f696d616765732f646174655f7069636b65722e706e67" width="320" />
-<img src="https://camo.githubusercontent.com/968ac1b84bfe4514fabf2c25c94a1381d3af3973/68747470733a2f2f7261772e6769746875622e636f6d2f7764756c6c6165722f4d6174657269616c4461746554696d655069636b65722f67682d70616765732f696d616765732f74696d655f7069636b65722e706e67" width="320" />
-
----
-
-**velocimeter-view**: [https://github.com/glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view)
-
-A velocimeter View for Android
-
-<img src="https://github.com/glomadrian/velocimeter-view/blob/master/art/velocimeter.gif" width="320" />
-
----
-
-**CompactCalendarView**: [https://github.com/SundeepK/CompactCalendarView](https://github.com/SundeepK/CompactCalendarView)
-
-An android library which provides a compact calendar view much like the one used in google calenders, following material design.
-
-<img src="https://github.com/SundeepK/CompactCalendarView/blob/master/images/compact-calendar-view-example.png" width="320" />
-<img src="https://github.com/SundeepK/CompactCalendarView/blob/master/images/chinese-locale-daynames.png" width="320" />
-
----
-
-**Swipecards**: [https://github.com/Diolor/Swipecards](https://github.com/Diolor/Swipecards)
-
-A Tinder-like Android library to create the swipe cards effect. You can swipe left or right to like or dislike the content.
-
-<img src="https://github.com/Diolor/Swipecards/blob/master/screenshot.gif" width="320" />
-
----
-
 **Android-Bootstrap**: [https://github.com/Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)
 
 Bootstrap style widgets for Android, with Glyph Icons
 
 <img src="https://camo.githubusercontent.com/51755d59ed6fd53158a0d84696e6d184c3a6f4d5/68747470733a2f2f7261772e6769746875622e636f6d2f426561726465642d48656e2f416e64726f69642d426f6f7473747261702f6d61737465722f696d616765732f626f6f7473747261705f627574746f6e2e706e67" width="320" />
-
----
-
-**android-pdfview**: [https://github.com/JoanZapata/android-pdfview](https://github.com/JoanZapata/android-pdfview)
-
-A fast PDF reader component for Android development.[http://joanzapata.com/android-pdfview/](http://joanzapata.com/android-pdfview/)
-
-<img src="https://play.google.com/store/apps/details?id=com.joanzapata.pdfview.sample" width="320" />
 
 ---
 
@@ -730,30 +625,13 @@ Define and render UI specs on top of your Android UI
 
 ---
 
-**LolliPin**: [https://github.com/OrangeGangsters/LolliPin](https://github.com/OrangeGangsters/LolliPin)
-
-A Material design Android pincode library. Supports Fingerprint.
-
-<img src="https://github.com/OrangeGangsters/LolliPin/blob/master/app/src/main/res/raw/github_gif.gif" width="320" />
-<img src="https://github.com/OrangeGangsters/LolliPin/blob/master/app/src/main/res/raw/github_gif2.gif" width="320" />
-
----
-
-**DrawableView**: [https://github.com/PaNaVTEC/DrawableView](https://github.com/PaNaVTEC/DrawableView)
-
-A view that allows to paint and saves the result as a bitmap.[http://panavtec.me](http://panavtec.me)
-
-<img src="https://github.com/PaNaVTEC/DrawableView/blob/master/art/DrawableView.gif" width="320" />
-
----
-
 **android-materialshadowninepatch**: [https://github.com/h6ah4i/android-materialshadowninepatch](https://github.com/h6ah4i/android-materialshadowninepatch)
 
 Provides 9-patch based drop shadow for view elements. Works on API level 9 or later.
 
-<img src="https://github.com/h6ah4i/android-materialshadowninepatch/blob/master/pic/gb.png?raw=true" width="320" />
-<img src="https://github.com/h6ah4i/android-materialshadowninepatch/blob/master/pic/ics.png?raw=true" width="320" />
-<img src="https://github.com/h6ah4i/android-materialshadowninepatch/blob/master/pic/lollipop.png?raw=true" width="320" />
+<img src="https://github.com/h6ah4i/android-materialshadowninepatch/blob/master/pic/gb.png?raw=true" width="270" />
+<img src="https://github.com/h6ah4i/android-materialshadowninepatch/blob/master/pic/ics.png?raw=true" width="270" />
+<img src="https://github.com/h6ah4i/android-materialshadowninepatch/blob/master/pic/lollipop.png?raw=true" width="270" />
 
 ---
 
@@ -761,10 +639,9 @@ Provides 9-patch based drop shadow for view elements. Works on API level 9 or la
 
 Android
 
-<img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/screens/1.gif" width="320" />
-<img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/screens/2.gif" width="320" />
-<img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/screens/4.gif" width="320" />
-<img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/screens/3.gif" width="320" />
+<img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/screens/1.gif" width="270" />
+<img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/screens/2.gif" width="270" />
+<img src="https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/screens/4.gif" width="270" />
 
 ---
 
@@ -780,16 +657,7 @@ Android layout decorators : Injecting custom attributes in layout files, Using d
 
 Simple Visualizer from mic input for Android.
 
-<img src="http://www.youtube.com/watch?v=fJTl1bgQ3j4" width="320" />
-
----
-
-**easyfonts**: [https://github.com/vsvankhede/easyfonts](https://github.com/vsvankhede/easyfonts)
-
-Useful library to use custom fonts in your android app
-
-<img src="https://github.com/vsvankhede/easyfonts/blob/master/images/fontface_list.png" width="320" />
-<img src="https://github.com/vsvankhede/easyfonts/blob/master/images/banner.png" width="320" />
+<img src="https://camo.githubusercontent.com/dec65b58525ce17eff5e0318d3c39ae33760284a/687474703a2f2f696d672e796f75747562652e636f6d2f76692f664a546c31626751336a342f302e6a7067" width="320" />
 
 ---
 
@@ -801,29 +669,6 @@ Useful library to use custom fonts in your android app
 
 ---
 
-**SegmentedBarView**: https://github.com/gspd-mobi/SegmentedBarView
-
-Custom UI control for android which is showing data as a segments and a value inside them.
-
-<img src="https://camo.githubusercontent.com/9837de76dfa76929b63d3053b5cc2457516b90d5/687474703a2f2f692e696d6775722e636f6d2f4531697654374e2e706e67" width="320" />
-
----
-
-**AnimCheckBox**: https://github.com/lguipeng/AnimCheckBox
-
-Animation CheckBox
-
-<img src="https://github.com/lguipeng/AnimCheckBox/blob/master/art/animcheckbox.gif" width="320" />
-
----
-
-**AndroidTagView**: https://github.com/whilu/AndroidTagView
-
-A TagView library for Android. Customize your own & `Drag` effect.
-
-<img src="https://github.com/whilu/AndroidTagView/blob/master/screenshots/androidtagview_record_1.gif" width="320" />
-
----
 
 
 

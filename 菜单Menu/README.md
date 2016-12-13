@@ -8,18 +8,131 @@
 
 **BoomMenu**: https://github.com/Nightonke/BoomMenu
 
+爆炸展开菜单的按钮，加入了更多的按钮和新特性
+
+<img src="https://raw.githubusercontent.com/Nightonke/BoomMenu/master/Pictures/text-inside-button.gif" width="320"/> <img src="https://raw.githubusercontent.com/Nightonke/BoomMenu/master/Pictures/ham-button.gif" width="320"/>
+
+---
+
+**AllAngleExpandableButton**: https://github.com/uin3566/AllAngleExpandableButton
+
+简单易用的可定制展开角度的button menu
+
+<img src="https://raw.githubusercontent.com/uin3566/AllAngleExpandableButton/master/screenshot/demo.gif" width="320"/>
+
+---
+
+**SquareMenu**: https://github.com/devsideal/SquareMenu
+
+Android 方块儿展开菜单
+
+<img src="https://raw.githubusercontent.com/devsideal/SquareMenu/master/assets/square_menu_v1.0.0.gif" width="320"/>
+
+---
+
+**InfinityMenu**: https://github.com/desnyki/InfinityMenu
+
+Android library to create a sleek menu
+
+<img src="https://raw.githubusercontent.com/desnyki/InfinityMenu/master/art/demo.gif" width="320"/>
+
+---
+
+**SpinMenu**: https://github.com/Hitomis/SpinMenu
+
+轮盘样式的 Fragment 选择菜单，可转动轮盘切换 Fragment
+
+<img src="https://raw.githubusercontent.com/Hitomis/SpinMenu/master/preview/menu_cyclic.gif" width="320"/>
+
+---
+
+**SmartMenu**: https://github.com/xue5455/SmartMenu
+
+一个好看的Float菜单
+
+<img src="https://raw.githubusercontent.com/xue5455/SmartMenu/master/screenshot/Gif.gif" width="320"/>
+
+---
+
+**FantasySlide**: https://github.com/mzule/FantasySlide
+
+一个 DrawerLayout 的扩展,具有帅气的动画与创新的交互，一次手势完成滑出侧边栏与选择菜单
+
+<img src="https://raw.githubusercontent.com/mzule/FantasySlide/master/sample.gif" width="320"/>
+
+---
+
+**vertical_floating_menu**: https://github.com/samsao/vertical_floating_menu
+
+vertical_floating_menu
+
+<img src="https://raw.githubusercontent.com/samsao/vertical_floating_menu/master/assets/CheckThisOut.gif" width="320"/>
+
+---
+
+**popmenulayout**: https://github.com/whilu/popmenulayout
+
+A multi level menu view(like WeChat subscription Accounts) library for Android
+
+<img src="https://raw.githubusercontent.com/whilu/PopMenuLayout/master/screenshots/device-2016-08-22-232610.png" width="320"/>
+
+---
+
+**SwipeMenuDemo**: https://github.com/Brioal/SwipeMenuDemo
+
+多达288种动画效果定制的侧滑菜单库
+
+<img src="https://raw.githubusercontent.com/Brioal/SwipeMenuDemo/master/art/2.gif" width="200"/> <img src="https://raw.githubusercontent.com/Brioal/SwipeMenuDemo/master/art/6.gif" width="200"/> <img src="https://raw.githubusercontent.com/Brioal/SwipeMenuDemo/master/art/10.gif" width="200"/>
+
+---
+
+**FloatingActionMenuAndroid**: https://github.com/pmahsky/FloatingActionMenuAndroid
+
+FloatingActionMenuAndroid
+
+<img src="https://raw.githubusercontent.com/pmahsky/FloatingActionMenuAndroid/master/Screenshot/screenshot_roboto.png" width="320"/> <img src="https://raw.githubusercontent.com/pmahsky/FloatingActionMenuAndroid/master/Screenshot/demo_gif.gif" width="320"/>
+
+---
+
+**QuickMenu**: https://github.com/ImangazalievM/QuickMenu
+
+Small library for creating menus with fast settings
+
+<img src="https://raw.githubusercontent.com/ImangazalievM/QuickMenu/master/screenshots/1.jpg" width="320"/> <img src="https://raw.githubusercontent.com/ImangazalievM/QuickMenu/master/screenshots/2.jpg" width="320"/>
+
+---
+
+**BoomMenu**: https://github.com/Nightonke/BoomMenu
+
 A menu which can ... BOOM!
 
 ![Circle](https://github.com/Nightonke/BoomMenu/blob/master/Pictures/show_circle.gif?raw=true) ![Ham](https://github.com/Nightonke/BoomMenu/blob/master/Pictures/show_ham.gif?raw=true)
 
 ---
 
-**FabTransitionLayout**: [https://github.com/bowyer-app/FabTransitionLayout](https://github.com/bowyer-app/FabTransitionLayout)
+**android-widget-fanmenu**: https://github.com/BCGDV-ASIA/android-widget-fanmenu
 
-Provides the Floating Action Button Transition as specified in the Material Design Guide in a simple library.
+A simple widget that can be used to display menu's which can be animated in and out
+
+<img src="https://camo.githubusercontent.com/bab8d4d1061dca2957e0ad34b027faa7c5f76951/687474703a2f2f692e67697068792e636f6d2f6c3044454b484e7166777743546d5338552e676966" width="320" />
+
+---
+
+**FabTransitionLayout**: https://github.com/bowyer-app/FabTransitionLayout
+
+Provides the Floating Action Button Transition as specified in the Material Design Guide in a simple library
 
 <img src="https://github.com/bowyer-app/FabTransitionLayout/blob/master/art/bottomsheet.gif" width="320" />
 <img src="hhttps://github.com/bowyer-app/FabTransitionLayout/blob/master/art/toolbar.gif" width="320" />
+
+---
+
+**FloatMenuSample**: https://github.com/fanOfDemo/FloatMenuSample
+
+android 悬浮窗菜单，可在launcher或app中使用
+
+<img src="https://github.com/fanOfDemo/FloatMenuSample/blob/master/pickture/201605031543.gif" width="320" />
+<img src="https://github.com/fanOfDemo/FloatMenuSample/blob/master/pickture/201605041543.gif" width="320" />
 
 ---
 
@@ -142,7 +255,7 @@ Pinterest like awesome menu control for Android
 
 An open source implementation of the long press actions in the Pinterest app.
 
-<img src="https://camo.githubusercontent.com/a1c3b444734ca8fca1388b41cf5f56c850f8e019/687474703a2f2f692e696d6775722e636f6d2f6a6249364261792e676966" width="320" /> <img src="https://camo.githubusercontent.com/59c05f7b5d3193845954e330e7e7392201a1f60a/687474703a2f2f692e696d6775722e636f6d2f5945744e426d6e2e676966" width="320" /> <img src="https://camo.githubusercontent.com/be675a7fc622ab75d67d3b3cc27dc8ca2d98e4ec/687474703a2f2f692e696d6775722e636f6d2f424b6c6c7946592e676966" width="320" />
+<img src="https://camo.githubusercontent.com/a1c3b444734ca8fca1388b41cf5f56c850f8e019/687474703a2f2f692e696d6775722e636f6d2f6a6249364261792e676966" width="270" /> <img src="https://camo.githubusercontent.com/59c05f7b5d3193845954e330e7e7392201a1f60a/687474703a2f2f692e696d6775722e636f6d2f5945744e426d6e2e676966" width="270" /> <img src="https://camo.githubusercontent.com/be675a7fc622ab75d67d3b3cc27dc8ca2d98e4ec/687474703a2f2f692e696d6775722e636f6d2f424b6c6c7946592e676966" width="270" />
 
 ---
 

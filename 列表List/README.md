@@ -6,6 +6,757 @@
 
 ---
 
+**SwipeCardview**: https://github.com/iravul/SwipeCardview
+
+SwipeCardview for listing item or products
+
+---
+
+**TwinklingRefreshLayout**: https://github.com/lcodecorex/TwinklingRefreshLayout
+
+TwinklingRefreshLayout 小而强大的刷新控件，自带顺滑的越界回弹
+
+<img src="https://github.com/lcodecorex/TwinklingRefreshLayout/raw/master/art/gif_recyclerview.gif" width="320" /> <img src="https://github.com/lcodecorex/TwinklingRefreshLayout/raw/master/art/gif_recyclerview2.gif" width="320" />
+
+---
+
+**Paginate**: https://github.com/MarkoMilos/Paginate
+
+下拉加载更多框架
+
+<img src="https://raw.githubusercontent.com/MarkoMilos/Paginate/master/art/demo.gif" width="320" />
+
+---
+
+**EasyRecyclerView**: https://github.com/zhuliyuan921112/EasyRecyclerView
+
+一个下拉刷新上拉加载更多框架
+
+<img src="https://camo.githubusercontent.com/7467ac57d7290756110b1949b71cdb455d517548/687474703a2f2f6f66316b74796b737a2e626b742e636c6f7564646e2e636f6d2f6572765f6d6174657269616c5f6865616465722e676966" width="320" />
+
+---
+
+**ScrollablePanel**: https://github.com/Kelin-Hong/ScrollablePanel
+
+支持多个方向滑动的 View，类似 Calendar 里的 UI 效果
+
+<img src="https://raw.githubusercontent.com/Kelin-Hong/ScrollablePanel/master/art/ScrollablePanelDemo.gif" width="320" />
+
+---
+
+**ChipsLayoutManager**: https://github.com/BelooS/ChipsLayoutManager
+
+ANDROID. ChipsLayoutManager (SpanLayoutManager). A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recyclerView features
+
+<img src="https://github.com/BelooS/ChipsLayoutManager/raw/master/images/demo.gif" width="320" />
+
+---
+
+**DataBinding_For_RecyclerView**: https://github.com/drstranges/DataBinding_For_RecyclerView
+
+Android Data Binding for RecyclerView: flexible way https://habrahabr.ru/post/308872/
+
+<img src="https://raw.githubusercontent.com/drstranges/DataBinding_For_RecyclerView/master/!_img/img1.png" width="320" />
+
+---
+
+**SmileRefresh**: https://github.com/songixan/SmileRefresh
+
+微笑下拉刷新。这是在 SwipeRefreshLayout基础上修改的下拉刷新库
+
+<img src="https://camo.githubusercontent.com/baf0794018fbb0812ade7d741a94d34ac3500b94/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313631303133323032313335373530" width="320" />
+
+---
+
+**FriendGroupManage**: https://github.com/ysq1051838264/FriendGroupManage
+
+仿qq分组管理，可以删除、增加、以及修改等等
+
+<img src="https://raw.githubusercontent.com/ysq1051838264/FriendGroupManage/master/1.gif" width="320" />
+
+---
+
+**EasyHeaderFooterAdapter**: https://github.com/rubengees/EasyHeaderFooterAdapter
+
+An Android library which adds headers and footers to the RecyclerView
+
+<img src="https://raw.githubusercontent.com/rubengees/EasyHeaderFooterAdapter/master/art/sample.gif" width="320" />
+
+---
+
+**StickyViewPagerGridHeaders**: https://github.com/pchauhan/StickyViewPagerGridHeaders
+
+StickyGridView + ViewPager + Header
+
+<img src="https://raw.githubusercontent.com/pchauhan/StickyViewPagerGridHeaders/master/Screenshots/ScreenOne.png" width="270" /> <img src="https://raw.githubusercontent.com/pchauhan/StickyViewPagerGridHeaders/master/Screenshots/Screenhalfscroll.png" width="270" /> <img src="https://raw.githubusercontent.com/pchauhan/StickyViewPagerGridHeaders/master/Screenshots/Screenfullscroll.png" width="270" />
+
+---
+
+**MjolnirRecyclerView**: https://github.com/infinum/MjolnirRecyclerView
+
+Provides a simple way to extend the default RecyclerView behaviour with support for headers, footers, empty view, DiffUtil and ArrayAdapter like methods
+
+---
+
+**SnappyRecyclerAdapter**: https://github.com/longbkiter07/SnappyRecyclerAdapter
+
+manage RecyclerViewAdapter easier
+
+---
+
+**PinnedList-Android**: https://github.com/Joseph82/PinnedList-Android
+
+This library allows you to create a list of items that are pinned by a floating label (text or image) on the left of the list
+
+<img src="https://camo.githubusercontent.com/f5d88bebd99eccc89168d93c8c7ba31583733729/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f79753235353862626d7633747763352f746578745f64656d6f312e6769663f7261773d74727565" width="220" /> <img src="https://camo.githubusercontent.com/2bb257d1e851edcbde37313420cb7de1fccbf7af/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f74376d3779643876683677346a69622f696d6167655f64656d6f312e6769663f7261773d74727565" width="220" />
+
+---
+
+**pinned-section-listview**: https://github.com/beworker/pinned-section-listview
+
+选中的item置顶的List
+
+<img src="https://raw.githubusercontent.com/beworker/pinned-section-listview/master/web/screen3.png" width="220" />
+
+---
+
+**DoubleStickyHeadersList**: https://github.com/Kenber/DoubleStickyHeadersList
+
+双Header的List
+
+<img src="https://raw.githubusercontent.com/Kenber/DoubleStickyHeadersList/master/samplePicture/sample.gif" width="320" />
+
+---
+
+**CircleRecyclerView**: https://github.com/kHRYSTAL/CircleRecyclerView
+
+CircleRecyclerView
+
+<img src="https://raw.githubusercontent.com/kHRYSTAL/CircleRecyclerView/master/screenshot/screenshot1.gif" width="320" /> <img src="https://raw.githubusercontent.com/kHRYSTAL/CircleRecyclerView/master/screenshot/screenshot2.gif" width="320" />
+
+---
+
+**android-ElasticListView**: https://github.com/eschao/android-ElasticListView
+
+ListView 下拉刷新，上拉更多
+
+<img src="https://raw.githubusercontent.com/eschao/android-ElasticListView/master/images/elasticlistview_updating.png" width="300" /> <img src="https://raw.githubusercontent.com/eschao/android-ElasticListView/master/images/elasticlistview_loading.png" width="300" />
+
+---
+
+**RetailMeNotList**: https://github.com/iielse/RetailMeNotList
+
+视差效果的 Item 滑动变大
+
+<img src="https://github.com/iielse/RetailMeNotList/raw/master/previews/123456789.gif" width="320" /> <img src="https://github.com/iielse/RetailMeNotList/raw/master/previews/987654321.gif" width="320" />
+
+---
+
+**realm-android-adapters**: https://github.com/realm/realm-android-adapters
+
+This repository holds adapters for combining Realm Java with Android UI components and framework classes
+
+---
+
+**EasyRecycleAdapterHelper**: https://github.com/HotBitmapGG/EasyRecycleAdapterHelper
+
+一个轻量级简单实用的RecycleViewAdapter辅助类库
+
+<img src="https://raw.githubusercontent.com/HotBitmapGG/EasyRecycleAdapterHelper/master/art/01.gif" width="320" /> <img src="https://raw.githubusercontent.com/HotBitmapGG/EasyRecycleAdapterHelper/master/art/02.gif" width="320" />
+
+---
+
+**SmartisanPull**: https://github.com/hougr/SmartisanPull
+
+“锤子下拉”，东半球最优雅的下拉控件。也叫SmartisanRefreshableLayout
+
+<img src="https://raw.githubusercontent.com/hougr/SmartisanPull/master/screenshot/smartisan_pull_small.gif" width="230" />
+
+---
+
+**AnimateFilterCalendarGridLayout**: https://github.com/DevLight-Mobile-Agency/AnimateFilterCalendarGridLayout
+
+It is a layout like GridLayout. But children in it will fill the column. And you can filter your items with animation. And you can add animated calendar to your project.
+
+<img src="https://camo.githubusercontent.com/5e017416bb7ab1281ced4b4be75b50d1e7ff156f/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d4f4d5674354f77327473452f56736276626d4a4f6f75492f4141414141414141434c732f61516f417a5835684759772f773338362d683535312d6e6f2f6166676c2e676966" width="320" /> <img src="https://camo.githubusercontent.com/8703b683fe9df6fa645bb27c2037746571a03713/68747470733a2f2f6c68342e676f6f676c6575736572636f6e74656e742e636f6d2f2d64586f556e476a474c48452f56736276627465685633492f4141414141414141434c732f45715942364141356659492f773339362d683535322d6e6f2f6163676c2e676966" width="320" />
+
+---
+
+**itemtouchhelper-extension**: https://github.com/loopeer/itemtouchhelper-extension
+
+itemtouchhelper 左滑删除等操作
+
+<img src="https://raw.githubusercontent.com/loopeer/itemtouchhelper-extension/master/screenshot/itemtouch_spring.gif" width="230" /> <img src="https://raw.githubusercontent.com/loopeer/itemtouchhelper-extension/master/screenshot/itemtouch_recycler_width.gif" width="230" />
+
+---
+
+**RecyclerViewSnap**: https://github.com/rubensousa/RecyclerViewSnap
+
+RecyclerView 边缘特效
+
+<img src="https://raw.githubusercontent.com/rubensousa/RecyclerViewSnap/master/screens/snap_googleplay.gif" width="320" /> <img src="https://raw.githubusercontent.com/rubensousa/RecyclerViewSnap/master/screens/snap_final.gif" width="320" />
+
+---
+
+**ListView-Snapshot-Demo**: https://github.com/abhijith0505/ListView-Snapshot-Demo
+
+A demo android application that uses the listview-snapshot android library
+
+<img src="https://raw.githubusercontent.com/abhijith0505/ListView-Snapshot-Demo/master/screenshot.jpg" width="320" />
+
+---
+
+**SelectableListDecoration**: https://github.com/bhargavms/SelectableListDecoration
+
+An Item decoration class for google design lib's RecyclerView
+
+<img src="https://raw.githubusercontent.com/bhargavms/SelectableListDecoration/master/assets/Selection_001.png" width="320" /> <img src="https://raw.githubusercontent.com/bhargavms/SelectableListDecoration/master/assets/Selection_002.png" width="320" />
+
+---
+
+**SimpleRecycler**: https://github.com/e16din/SimpleRecycler
+
+This library extends RecyclerView + Recycler Adapter
+
+---
+
+**RecyclerRefreshLayout**: https://github.com/dinuscxj/RecyclerRefreshLayout
+
+A pull to refresh layout for android, the RecyclerRefreshLayout is based on the SwipeRefreshLayout
+
+<img src="https://raw.githubusercontent.com/dinuscxj/RecyclerRefreshLayout/master/Preview/RecyclerRefreshLayoutNormal.gif?width=300" width="270" /> <img src="https://raw.githubusercontent.com/dinuscxj/RecyclerRefreshLayout/master/Preview/RecyclerRefreshLayoutNoData.gif?width=300" width="270" /> <img src="https://raw.githubusercontent.com/dinuscxj/RecyclerRefreshLayout/master/Preview/RecyclerRefreshLayoutFailure.gif?width=300" width="270" />
+
+---
+
+**AssemblyAdapter**: https://github.com/xiaopansky/AssemblyAdapter
+
+Assembly Adapter Adapter is an extension library on Android, and with it you do not write the Adapter
+
+---
+
+**OkAdapters**: https://github.com/miguelbcr/OkAdapters
+
+Wrappers for Android adapters to simply its api at a minimum
+
+---
+
+**PopupBubble**: https://github.com/webianks/PopupBubble
+
+Easily add and customise "New Post" popup button with the feeds (RecyclerView) of your app
+
+<img src="https://camo.githubusercontent.com/3f8912b907378a5227100a1c6d2868d641a826c6/687474703a2f2f7777772e77656269616e6b732e636f6d2f706f707570627562626c652f322e706e67" width="320" /> <img src="https://camo.githubusercontent.com/9374a2962d3bd61817569fc8483b651d2fbcd1b0/687474703a2f2f7777772e77656269616e6b732e636f6d2f706f707570627562626c652f332e706e67" width="320" />
+
+---
+
+**ExpandableRecyclerview-Databinding**: https://github.com/zaihuishou/ExpandableRecyclerview-Databinding
+
+ExpandableRecyclerview Databinding implemention
+
+<img src="https://raw.githubusercontent.com/zaihuishou/ExpandableRecyclerview-Databinding/master/Screenshots.gif" width="320" />
+
+---
+
+**ItemPool**: https://github.com/nekocode/ItemPool
+
+Decouple the item(/nested viewholder) from recyclerview's adapter
+
+---
+
+**epoxy**: https://github.com/airbnb/epoxy
+
+又一个显示recycleview复杂效果的库
+
+<img src="https://raw.githubusercontent.com/airbnb/epoxy/master/epoxy-sample/epoxy_sample_app.gif" width="320" />
+
+---
+
+**groupie**: https://github.com/Genius/groupie
+
+Groupie helps you display and manage complex RecyclerView layouts
+
+<img src="https://camo.githubusercontent.com/37f2d500453ef5c5441c7f68bc69ad1145460a9a/687474703a2f2f692e696d6775722e636f6d2f6566744f4530762e676966" width="320" />
+
+---
+
+**MultiTypeView**: https://github.com/LuckyJayce/MultiTypeView
+
+简化RecyclerView的多种type的adapter，Fragment可以动态添加到RecyclerView上，实现复杂的界面分多个模块开发
+
+<img src="https://raw.githubusercontent.com/LuckyJayce/MultiTypeView/master/raw/1.png" width="320" />
+
+---
+
+**MultiType**: https://github.com/drakeet/MultiType
+
+一个列表显示多个不同条目
+
+<img src="https://raw.githubusercontent.com/drakeet/MultiType/master/art/screenshot.png" width="320" />
+
+---
+
+**FunGameRefresh**: https://github.com/Hitomis/FunGameRefresh
+
+好玩的下拉刷新控件，让我们一起来回味童年
+
+<img src="https://raw.githubusercontent.com/Hitomis/FunGameRefresh/master/preview/HitBlock.gif" width="270" /> <img src="https://raw.githubusercontent.com/Hitomis/FunGameRefresh/master/preview/BattleCity.gif" width="270" />
+
+---
+
+**PullToRefresh**: https://github.com/lubeast/PullToRefresh
+
+A PullToRefresh widget. https://lubeast.github.io/PullToRefresh/
+
+<img src="https://camo.githubusercontent.com/f390437ba548be66a9e4c91389e5587000533c24/68747470733a2f2f7261772e6769746875622e636f6d2f6c7562656173742f50756c6c4c61756e6368526f636b65742f6d61737465722f73637265656e73686f74732f726f636b65742e676966" width="240" /> <img src="https://camo.githubusercontent.com/3947994e16b8e19b744f254e69219c626527fe37/68747470733a2f2f7261772e6769746875622e636f6d2f6c7562656173742f50756c6c4c61756e6368526f636b65742f6d61737465722f73637265656e73686f74732f73756e72616973652e676966" width="240" />
+
+---
+
+**SlyceMessaging**: https://github.com/snipsnap/SlyceMessaging
+
+Easily add Sticky Headers to your RecyclerView
+
+<img src="https://raw.githubusercontent.com/snipsnap/SlyceMessaging/master/sample-photos/example.png" width="240" /> <img src="https://raw.githubusercontent.com/snipsnap/SlyceMessaging/master/sample-photos/chat-with-image.png" width="240" />
+
+---
+
+**StickyHeaderListView**: https://github.com/sfsheng0322/StickyHeaderListView
+
+StickyHeaderListView 是基于实际需求做出的灵活可定制的UI功能，具体实现功能如下：  
+一、支持无限循环的广告位。  
+二、高度可动态配置的Header2和Header3（使用GridView实现）。  
+三、主要功能：分类、排序和筛选布局滑动到顶部后吸附、悬停。  
+四、自定义FilterView筛选控件，支持动画显示与动画隐藏。  
+五、支持标题栏背景颜色渐变、字体颜色渐变。  
+六、数据不足一屏动态添加空数据占位。  
+七、数据为空时，ListView加载暂无数据视图。  
+八、思路清晰、界面优美，添加ripple点击效果。  
+九、支持下拉刷新和上拉加载更多功能。  
+
+<table>
+    <tr>
+        <td><img src="https://github.com/sfsheng0322/StickyHeaderListView/raw/master/screenshots/stickyheader.gif" style="width: 30%;"></td>
+        <td><img src="https://github.com/sfsheng0322/StickyHeaderListView/raw/master/screenshots/stickyheader2.gif" style="width: 30%;"></td>
+    </tr>
+</table>
+
+---
+
+**ClearRecyclerAdapter**: https://github.com/Prokky/ClearRecyclerAdapter
+
+Boilerplate code free Adapter for RecyclerView
+
+---
+
+**Endless-RecyclerView**: https://github.com/ybq/Endless-RecyclerView
+
+加载更多 RecyclerView
+
+---
+
+**SpringView**: https://github.com/liaoinstan/SpringView
+
+A custom view can pull up and down,support ScrollView,ListView,RecyclerView,WebView
+
+![1](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212323072_s.gif) ![2](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212372609_s.gif)
+![3](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212462800_s.gif) ![4](https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212485237_s.gif)
+
+---
+
+**StickyHeaders**: https://github.com/bgogetap/StickyHeaders
+
+Easily add Sticky Headers to your RecyclerView
+
+<img src="https://github.com/bgogetap/StickyHeaders/raw/master/art/demo.gif" width="270" />
+
+---
+
+**ExtendedRecyclerAdapter**: https://github.com/sergiocasero/ExtendedRecyclerAdapter
+
+Simple library for DRY recycler adapter
+
+<img src="https://raw.githubusercontent.com/sergiocasero/ExtendedRecyclerAdapter/master/art/ExtendedRecyclerView.gif" width="270" />
+
+---
+
+**recycler-core**: https://github.com/carrot/recycler-core
+
+Multiple view type handling in RecyclerViews with 90% less tears
+
+<img src="https://camo.githubusercontent.com/37e1cf21eef72546c34f463eba54d40e6ea34740/687474703a2f2f692e696d6775722e636f6d2f4e503757626f712e706e67" width="360" />
+
+---
+
+**RecyclerViewTools**: https://github.com/eyeem/RecyclerViewTools
+
+Collection of tools for RecyclerView. Includes headers, sections, pull to refresh, etc
+
+---
+
+**overscroll-bouncy-android**: https://github.com/chthai64/overscroll-bouncy-android
+
+Overscroll bounce effect for Android
+
+<img src="https://github.com/chthai64/overscroll-bouncy-android/raw/master/arts/OverscrollDemo.gif" width="320" />
+
+---
+
+**CircleRefreshLayout**: https://github.com/tuesda/CircleRefreshLayout
+
+a custom pull-to-refresh layout which contains a interesting animation
+
+<img src="https://github.com/tuesda/CircleRefreshLayout/blob/master/gif/circlerefresh.gif" width="320" />
+
+---
+
+**SnappySmoothScroller**: https://github.com/nshmura/SnappySmoothScroller
+
+可流畅滚动的 Recyclerview
+
+<img src="https://raw.githubusercontent.com/nshmura/SnappySmoothScroller/master/assets/demo.gif" width="320" />
+
+---
+
+**SwiftAdapter**: https://github.com/vkondrav/SwiftAdapter
+
+可展开的 Recyclerview
+
+<img src="https://camo.githubusercontent.com/7d442887b9fcf56f0244f698f63307fab73b453b/687474703a2f2f63646e2e73747265616d61626c652e636f6d2f696d6167652f686772692e6a7067" width="320" />
+
+---
+
+**ExpandableRecyclerview**: https://github.com/zaihuishou/ExpandableRecyclerview
+
+可展开的 Recyclerview
+
+<img src="https://raw.githubusercontent.com/zaihuishou/ExpandableRecyclerview/master/sample-screen.gif" width="320" />
+
+---
+
+**baseAdapter**: https://github.com/hongyangAndroid/baseAdapter
+
+Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况
+
+<img src="https://raw.githubusercontent.com/hongyangAndroid/baseAdapter/master/screenshot/single.png" width="320" /> <img src="https://raw.githubusercontent.com/hongyangAndroid/baseAdapter/master/screenshot/rvadapter_01.png" width="320" />
+
+---
+
+**GridBuilder**: https://github.com/Eason90/GridBuilder
+
+A Builder of Android GridLayout
+
+<img src="https://raw.githubusercontent.com/Eason90/GridBuilder/master/screenshots/GridBuilder_1.png" width="600" />
+
+---
+
+**power-adapters**: https://github.com/NextFaze/power-adapters
+
+Composable adapters for Android RecyclerViews and ListViews
+
+---
+
+**rxlist-binder**: https://github.com/s0nerik/rxlist-binder
+
+Binds RxList with the RecyclerView.Adapter
+
+---
+
+**WheelView**: https://github.com/venshine/WheelView
+
+Android滚轮控件，基于ListView实现，可以自定义样式
+
+<img src="https://raw.githubusercontent.com/venshine/WheelView/master/screenshot/screenshot.gif" width="280" /> <img src="https://raw.githubusercontent.com/venshine/WheelView/master/screenshot/screenshot1.png" width="280" />
+
+---
+
+**FocusResize**: https://github.com/borjabravo10/FocusResize
+
+RecyclerView 实现的焦点自动调整
+
+<img src="https://raw.githubusercontent.com/borjabravo10/FocusResize/master/resources/focusResize.gif" width="320" />
+
+---
+
+**TEmptyView**: https://github.com/barryhappy/TEmptyView
+
+TEmptyView是一个小轮子，可简单地设置EmptyView
+
+<img src="https://raw.githubusercontent.com/barryhappy/TEmptyView/master/etc/demo1.png" width="320" /> <img src="https://raw.githubusercontent.com/barryhappy/TEmptyView/master/etc/demo2.png" width="320" />
+
+---
+
+**HeaderAndFooterRecyclerView**: https://github.com/cundong/HeaderAndFooterRecyclerView
+
+A RecyclerView solution, Support addHeaderView, addFooterView, and page loading
+
+<img src="https://raw.githubusercontent.com/cundong/HeaderAndFooterRecyclerView/master/art/art1.png" width="270" /> <img src="https://raw.githubusercontent.com/cundong/HeaderAndFooterRecyclerView/master/art/art3.png" width="270" /> <img src="https://raw.githubusercontent.com/cundong/HeaderAndFooterRecyclerView/master/art/art5.png" width="270" />
+
+---
+
+**LastAdapter**: https://github.com/nitrico/LastAdapter
+
+Don't write a RecyclerView adapter again. Not even a ViewHolder!
+
+---
+
+**Persei.android**: https://github.com/android-cjj/Persei.android
+
+android 版本 Persei
+
+<img src="https://raw.githubusercontent.com/Yalantis/Persei/master/Assets/animation.gif" width="800" />
+
+---
+
+**RecyclerView-MultipleViewTypesAdapter**: https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter
+
+Android library defining adapter classes of RecyclerView to manage multiple view types
+
+<img src="https://raw.githubusercontent.com/yqritc/RecyclerView-MultipleViewTypesAdapter/master/sample/sample.gif" width="300" />
+
+---
+
+**Toro**: https://github.com/eneim/Toro
+
+Video list auto playback made simple, specially built for RecyclerView
+
+<img src="https://raw.githubusercontent.com/eneim/Toro/master/art/sample_2.gif" width="300" /> <img src="https://raw.githubusercontent.com/eneim/Toro/master/art/sample_4.gif" width="300" />
+
+---
+
+**ListVideoPlay**: https://github.com/brucetoo/ListVideoPlay
+
+Play video in ListView,RecyclerView,and support full-screen,and more feature about video play control
+
+<img src="https://github.com/brucetoo/ListVideoPlay/raw/master/list_video_play.gif" width="300" />
+
+---
+
+**VideoListDemo**: https://github.com/w1123440793/VideoListDemo
+
+一个视频播放列表demo，视频播放使用的ijkplayer,正在播放视频拖动到不可见区域小窗口播放，可全屏切换
+
+<img src="https://raw.githubusercontent.com/w1123440793/VideoListDemo/master/screenshots/vidiolist.gif" width="300" />
+
+---
+
+**Barandroid-sectioned-adapter**: https://github.com/CardinalNow/android-sectioned-adapter
+
+RecyclerView.Adapter 的封装，可自动排序并添加 header
+
+<img src="https://camo.githubusercontent.com/3b85d647e98d540f0ea2be9850691771b430cf79/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f33333838303133382f5374616e646172644865616465722e706e67" width="320" /> <img src="https://camo.githubusercontent.com/cb545f8abe903267a9a31df07c126b6b7682dce9/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f33333838303133382f437573746f6d486561646572732e706e67" width="320" />
+
+---
+
+**FastScroll**: https://github.com/L4Digital/FastScroll
+
+A ListView-like FastScroller for Android’s RecyclerView
+
+<img src="https://raw.githubusercontent.com/L4Digital/FastScroll/master/fastscroll_example.png" width="320" />
+
+---
+
+**MaterialScrollBar**: https://github.com/turing-tech/MaterialScrollBar
+
+An Android library that brings the Material Design 5.1 sidebar to pre-5.1 devices
+
+<img src="https://raw.githubusercontent.com/turing-tech/MaterialScrollBar/master/sample.png" width="320" />
+
+---
+
+**WaveSideBar**: https://github.com/gjiazhe/WaveSideBar
+
+An index side bar with wave effect
+
+<img src="https://raw.githubusercontent.com/gjiazhe/WaveSideBar/master/screenshot/gif.gif" width="270" /> <img src="https://raw.githubusercontent.com/gjiazhe/WaveSideBar/master/screenshot/position_left.png" width="270" />
+
+---
+
+**Android-QuickSideBar**: https://github.com/saiwu-bigkoo/Android-QuickSideBar
+
+帮助快速查阅对应分组的侧边栏
+
+<img src="https://raw.githubusercontent.com/saiwu-bigkoo/Android-QuickSideBar/master/preview/quicksidebardemo.gif" width="320" />
+
+---
+
+**SideBar**: https://github.com/kongnanlive/SideBar
+
+全新的快速索引导航栏，联系人字母排序侧边栏
+
+<img src="https://raw.githubusercontent.com/kongnanlive/SideBar/master/gif5.gif" width="200" />
+
+---
+
+**AnimSideBar**: https://github.com/AlexLiuSheng/AnimSideBar
+
+A SiderBar base on Android that has a beautiful anim
+
+<img src="https://cloud.githubusercontent.com/assets/12408339/15278798/0df854a2-1b50-11e6-962e-15cb94ecc113.gif" width="320" />
+
+---
+
+**SpringHeader**: https://github.com/loopeer/SpringHeader
+
+CoordinatorLayout 实现的下拉刷新
+
+<img src="https://raw.githubusercontent.com/loopeer/SpringHeader/master/art/demo.gif" width="320" />
+
+---
+
+**AdapterDelegates-ListView**: https://github.com/esafirm/AdapterDelegates-ListView
+
+ListView Adapter 代理工具
+
+---
+
+**SwipeActionAdapter**: https://github.com/wdullaer/SwipeActionAdapter
+
+ListView 左滑右滑
+
+<img src="https://camo.githubusercontent.com/d02997a8f88b797a1df02e768a822a2bf7e9daa5/68747470733a2f2f7261772e6769746875622e636f6d2f7764756c6c6165722f5377697065416374696f6e416461707465722f67682d70616765732f696d616765732f73776970655f322e706e67" width="400" /> <img src="https://camo.githubusercontent.com/7215066edafdb957f51fa7c30bd1e62f74a1210e/68747470733a2f2f7261772e6769746875622e636f6d2f7764756c6c6165722f5377697065416374696f6e416461707465722f67682d70616765732f696d616765732f73776970655f312e706e67" width="400" />
+
+---
+
+**ParallaxRecyclerView**: https://github.com/mzelzoghbi/ParallaxRecyclerView
+
+视差效果 RecyclerView 
+
+<img src="https://raw.githubusercontent.com/mzelzoghbi/ParallaxRecyclerView/master/gif_1.gif" width="240" /> <img src="https://raw.githubusercontent.com/mzelzoghbi/ParallaxRecyclerView/master/gif_2.gif" width="240" />
+
+---
+
+**MultiChoiceRecyclerView**: https://github.com/dvdciri/MultiChoiceRecyclerView
+
+RecyclerView 实现的多选框架
+
+<img src="https://raw.githubusercontent.com/dvdciri/MultiChoiceRecyclerView/master/example1.png" width="270" /> <img src="https://raw.githubusercontent.com/dvdciri/MultiChoiceRecyclerView/master/example2.png" width="270" /> <img src="https://raw.githubusercontent.com/dvdciri/MultiChoiceRecyclerView/master/example.png" width="270" />
+
+---
+
+**RecyclerViewEnhanced**: https://github.com/nikhilpanju/RecyclerViewEnhanced
+
+RecyclerView 用法增强
+
+<img src="https://raw.githubusercontent.com/nikhilpanju/RecyclerViewEnhanced/master/sample/src/common/images/Demo.gif" width="320" />
+
+---
+
+**CardStackView**: https://github.com/loopeer/CardStackView
+
+Show something like cards with 3 kinds of animations
+
+<img src="https://raw.githubusercontent.com/loopeer/CardStackView/master/screenshot/screenshot1.gif" width="320" /> <img src="https://raw.githubusercontent.com/loopeer/CardStackView/master/screenshot/screenshot3.gif" width="320" />
+
+---
+
+**RecyclerViewUndoSwipe**: https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe
+
+超实用！！ Android RecyclerView Undo Swipe支持
+
+<img src="https://camo.githubusercontent.com/633c9f0144b49b6a90edb18e44361f843010cd0f/687474703a2f2f696d6775722e636f6d2f523931554a716c2e676966" width="640" />
+
+---
+
+**flowlayoutmanager**: https://github.com/xiaofeng-han/AndroidLibs/tree/master/flowlayoutmanager
+
+FlowLayoutManager is a layoutManager that works with Android RecyclerView Widget
+
+<img src="https://cloud.githubusercontent.com/assets/15362031/15170689/fe3117d6-16fc-11e6-8ffc-3e90b9bf5430.gif" width="320" />
+
+---
+
+**ExpandableDelegates**: https://github.com/Marchuck/ExpandableDelegates
+
+more easy way to add multiple delegates to your expandable recyclerView!
+
+---
+
+**CommonAdapter**: https://github.com/qyxxjd/CommonAdapter
+
+一个适用于ListView/GridView/RecyclerView的Adapter库,简化大量重复代码,支持多种布局,可自定义图片加载的实现
+
+<img src="https://raw.githubusercontent.com/qyxxjd/CommonAdapter/master/screenshots/main.png" width="270" /> <img src="https://raw.githubusercontent.com/qyxxjd/CommonAdapter/master/screenshots/simple.png" width="270" /> <img src="https://raw.githubusercontent.com/qyxxjd/CommonAdapter/master/screenshots/multiple.png" width="270" />
+
+---
+
+**FlexibleAdapter**: https://github.com/davideas/FlexibleAdapter
+
+Adapter for SelectionMode, ViewHolders, Filter, FastScroller, Animations, Undo, Headers, Expandable, Draggable, Swipeable
+
+<img src="https://raw.githubusercontent.com/davideas/FlexibleAdapter/master/screenshots/drag_grid_overall.png" width="270" /> <img src="https://raw.githubusercontent.com/davideas/FlexibleAdapter/master/screenshots/undo_single_selection.png" width="270" /> <img src="https://raw.githubusercontent.com/davideas/FlexibleAdapter/master/screenshots/swipe-to-dismiss2.png" width="270" />
+
+---
+
+**SnappingSwipingRecyclerView**: https://github.com/CarlLee/SnappingSwipingRecyclerView
+
+似微信读书首页的长按之后滑动删除的特效和动画
+
+<img src="https://raw.githubusercontent.com/CarlLee/SnappingSwipingRecyclerView/master/preview.gif" width="320" />
+
+---
+
+**EasyRecyclerView**: https://github.com/diegodobelo/AndroidExpandingViewLibrary
+
+展开收缩的View
+
+<img src="https://d13yacurqjgara.cloudfront.net/users/226618/screenshots/2340386/shoping_list.gif" width="600" />
+
+---
+
+**StaggeredTextGridView**: https://github.com/riontech-xten/StaggeredTextGridView
+
+自定义瀑布流文本 GridView
+
+<img src="https://raw.githubusercontent.com/riontech-xten/StaggeredTextGridView/master/Screenshot_2016-04-28-19-52-08.png" width="320" /> <img src="https://raw.githubusercontent.com/riontech-xten/StaggeredTextGridView/master/Screenshot_2016-05-23-14-54-26.png" width="320" />
+
+---
+
+**EasyRecyclerView**: https://github.com/Jude95/EasyRecyclerView
+
+常用的RecyclerView的各种需求封装进库
+
+<img src="https://github.com/Jude95/EasyRecyclerView/blob/master/recycler3.gif" width="320" />
+
+---
+
+**InfiniteListView**: https://github.com/ugurcany/InfiniteListView
+
+上拉加载更多，下拉刷新
+
+<img src="https://raw.githubusercontent.com/ugurcany/InfiniteListView/master/infinitelistview.gif" width="320" />
+
+---
+
+**StickyHeaders**: https://github.com/ShamylZakariya/StickyHeaders
+
+Adapter and LayoutManager for Android RecyclerView which enables sticky header positioning
+
+<img src="https://raw.githubusercontent.com/ShamylZakariya/StickyHeaders/master/readme-assets/video-addressbook.gif" width="320" /> <img src="https://raw.githubusercontent.com/ShamylZakariya/StickyHeaders/master/readme-assets/video-callbacks.gif" width="320" />
+
+---
+
+**CalendarListview**: https://github.com/traex/CalendarListview
+
+CalendarListview provides a easy way to select dates with a calendar for API 10+
+
+<img src="https://raw.githubusercontent.com/traex/CalendarListview/master/demo.gif" width="320" />
+
+---
+
+**BaseRecyclerViewAdapterHelper**: https://github.com/CymChad/BaseRecyclerViewAdapterHelper
+
+Powerful and flexible RecyclerAdapter,www.recyclerview.org
+
+<img src="https://github.com/CymChad/BaseRecyclerViewAdapterHelper/blob/master/demo_res/demo.gif" width="320" />
+
+---
+
+**RecyclerViewPresenter**: https://github.com/kibotu/RecyclerViewPresenter
+
+Convenience library to handle different view types with different presenters in a single RecyclerView
+
+<img src="https://raw.githubusercontent.com/kibotu/RecyclerViewPresenter/master/screenshot.png" width="300" />
+
+---
+
 **recyclerview-animators**: [https://github.com/wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
 
 An Android Animation library which easily add itemanimator to RecyclerView items.
@@ -18,6 +769,18 @@ An Android Animation library which easily add itemanimator to RecyclerView items
 
 ---
 
+**EasyAdapter**: https://github.com/mzule/EasyAdapter
+
+一种简单的 Adapter 解决方案，支持多种 ViewType，轻松创建 ViewHolder 模式 Adapter. 支持 ListView 和 RecyclerView
+
+---
+
+**recyclerviewhelper**: https://github.com/nisrulz/recyclerviewhelper
+
+RecyclerView 超强助手
+
+---
+
 **android-PullRefreshLayout**: [https://github.com/baoyongzhang/android-PullRefreshLayout](https://github.com/baoyongzhang/android-PullRefreshLayout)
 
 This component like SwipeRefreshLayout, it is more beautiful than SwipeRefreshLayout.
@@ -26,15 +789,39 @@ This component like SwipeRefreshLayout, it is more beautiful than SwipeRefreshLa
 
 ---
 
-**android-Ultra-Pull-To-Refresh**: [https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
+**android-Ultra-Pull-To-Refresh**: https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
 
 Ultra Pull to Refresh for Android. Support all the views. [http://android-ultra-ptr.liaohuqiu.net/](http://android-ultra-ptr.liaohuqiu.net/)
 
-<img src="https://camo.githubusercontent.com/588a2ef2cdcfb6c71e88437df486226dd15605b3/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f73746f72652d686f7573652d737472696e672d61727261792e676966" width="320" />
-<img src="https://camo.githubusercontent.com/d3fbe757c87fddc94e998ebdd08ac55956aed1cf/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f73746f72652d686f7573652d737472696e672e676966" width="320" />
-<img src="https://camo.githubusercontent.com/4dfccd5a50f7d59b512300fce341a1217950603a/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f6d6174657269616c2d7374796c652e676966" width="320" />
-<img src="https://camo.githubusercontent.com/9033435ad82be43ccddc8203450f361ee270c724/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f70756c6c2d746f2d726566726573682e676966" width="320" />
-<img src="https://camo.githubusercontent.com/88cdf877aa0a1fb19506ecf3404447eba59e68cc/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f6175746f2d726566726573682e676966" width="320" />
+<img src="https://camo.githubusercontent.com/588a2ef2cdcfb6c71e88437df486226dd15605b3/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f73746f72652d686f7573652d737472696e672d61727261792e676966" width="160" />
+<img src="https://camo.githubusercontent.com/d3fbe757c87fddc94e998ebdd08ac55956aed1cf/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f73746f72652d686f7573652d737472696e672e676966" width="160" />
+<img src="https://camo.githubusercontent.com/4dfccd5a50f7d59b512300fce341a1217950603a/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f6d6174657269616c2d7374796c652e676966" width="160" />
+<img src="https://camo.githubusercontent.com/9033435ad82be43ccddc8203450f361ee270c724/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f70756c6c2d746f2d726566726573682e676966" width="160" />
+<img src="https://camo.githubusercontent.com/88cdf877aa0a1fb19506ecf3404447eba59e68cc/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f6175746f2d726566726573682e676966" width="160" />
+
+---
+
+**Chris-Android-PullToRefresh**: https://github.com/bboyfeiyu/Chris-Android-PullToRefresh
+
+下拉刷新，上拉加载库
+
+<img src="https://raw.githubusercontent.com/chrisbanes/Android-PullToRefresh/master/header_graphic.png" width="480" />
+
+---
+
+**RecyclerView-FastScroll**: https://github.com/timusus/RecyclerView-FastScroll
+
+A simple FastScroller for Android's RecyclerView
+
+<img src="https://raw.githubusercontent.com/timusus/RecyclerView-FastScroll/master/screenshot.png" width="320" />
+
+---
+
+**Timeline-View**: https://github.com/vipulasri/Timeline-View
+
+Android Timeline View is used to display views like Tracking of shipment/order, steppers etc
+
+<img src="https://github.com/vipulasri/Timeline-View/blob/master/Screenshot1.png" width="320" />
 
 ---
 
@@ -54,6 +841,30 @@ Android View that displays different content based on its state
 The implementation of [https://dribbble.com/shots/2067564-Replace](https://dribbble.com/shots/2067564-Replace)
 
 <img src="https://github.com/race604/FlyRefresh/blob/master/images/flyrefresh.gif" width="320" />
+
+---
+
+**ToDoList**: https://github.com/Yalantis/ToDoList
+
+Yalantis 放出的一个新作品：ToDoList，拥有非常平滑漂亮的动画
+
+<img src="https://raw.githubusercontent.com/Yalantis/ToDoList/master/content_shot_to-do_dribbble.gif" width="600" />
+
+---
+
+**Multi-Selection**: https://github.com/Yalantis/Multi-Selection
+
+Yalantis 放出的又一大作：Multi-Selection （优雅多选框），把选中的先存起来
+
+<img src="https://raw.githubusercontent.com/Yalantis/Multi-Selection/develop/imgs/dribble.gif" width="600" />
+
+---
+
+**pull-to-make-soup**: https://github.com/Yalantis/pull-to-make-soup
+
+RecyclerView 下拉刷新
+
+<img src="https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif" width="600" />
 
 ---
 
@@ -120,6 +931,14 @@ Android library to display a ListView whose cells are not rigid but flabby and r
 
 ---
 
+**TimelineView**: https://github.com/alorma/TimelineView
+
+Cute timeline view for android
+
+<img src="https://github.com/alorma/TimelineView/blob/master/screenshot.png" width="320" />
+
+---
+
 **ParallaxListView**: [https://github.com/Gnod/ParallaxListView](https://github.com/Gnod/ParallaxListView)
 
 A Android ListView Demo with a parallax effect header like Path.
@@ -169,7 +988,7 @@ Android library to achieve in an easy way, the behaviour of the home page in the
 
 ---
 
-**Android-ObservableScrollView**: [Android-https://github.com/ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
+**Android-ObservableScrollView**: [https://github.com/ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
 
 Android library to observe scroll events on scrollable views.[http://ksoichiro.github.io/Android-ObservableScrollView/](http://ksoichiro.github.io/Android-ObservableScrollView/)
 
@@ -229,14 +1048,6 @@ An Android staggered grid view which supports multiple columns with rows of vary
 
 ---
 
-**android-swipelistview**: [https://github.com/47deg/android-swipelistview](https://github.com/47deg/android-swipelistview)
-
-An Android List View implementation with support for drawable cells and many other swipe related features
-
-<img src="https://www.youtube.com/watch?v=E0352OH488M" width="320" />
-
----
-
 **android-parallax-recyclerview**: [https://github.com/kanytu/android-parallax-recyclerview](https://github.com/kanytu/android-parallax-recyclerview)
 
 An adapter which could be used to achieve a parallax effect on RecyclerView.
@@ -251,17 +1062,6 @@ An adapter which could be used to achieve a parallax effect on RecyclerView.
 ListView with blur/parallax/sticky capabilities.
 
 <img src="https://github.com/wasabeef/awesome-android-ui/blob/master/art/BlurStickyHeaderListView.gif" width="320" />
-
----
-
-**recyclerview-animators**: [https://github.com/wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)
-
-An Android Animation library which easily add itemanimator to RecyclerView items.
-
-<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo.gif" width="320" />
-<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo2.gif" width="320" />
-<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo3.gif" width="320" />
-<img src="https://github.com/wasabeef/recyclerview-animators/blob/master/art/demo5.gif" width="320" />
 
 ---
 
@@ -353,8 +1153,8 @@ Easy to implement Google Photos style multi-selection for RecyclerViews.[http://
 
 Sticky Headers decorator for Android's RecyclerView
 
-<img src="https://www.youtube.com/watch?v=zluBwbf3aew" width="320" />
-<img src="https://www.youtube.com/watch?v=zluBwbf3aew" width="320" />
+<img src="https://camo.githubusercontent.com/2712b977a781964db02085035e43281773ab4ffa/687474703a2f2f692e696d6775722e636f6d2f49307a746f50772e676966" width="320" />
+<img src="https://camo.githubusercontent.com/9fe2a23efb0ab8222910a09e21234c0c313afc10/687474703a2f2f692e696d6775722e636f6d2f6235704a6a744c2e676966" width="480" />
 
 ---
 
@@ -382,20 +1182,13 @@ WaterDropListView，just like the iOS
 
 ---
 
-**BGARefreshLayout-Android**: [https://github.com/bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)
+**BGARefreshLayout-Android**: https://github.com/bingoogolapple/BGARefreshLayout-Android
 
 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位
 
-<img src="https://camo.githubusercontent.com/8d72e71e723eb63512d6c778e290303a4a2480bf/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f7669657770616765725f737469636b795f6e61762e676966" width="160" />
-<img src="https://camo.githubusercontent.com/20e9dab589fba815269ce197f48d7a1addc427cb/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f72656379636c6572766965775f737469636b795f6e61762e676966" width="160" />
-<img src="https://camo.githubusercontent.com/f609f7944250a6607e5fdec8b12b3156df569cd7/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573686c61796f7574312e676966" width="160" />
-<img src="https://camo.githubusercontent.com/70d4f162340a936208fe5a25edd5adbc5c7f5000/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573686c61796f7574362e676966" width="160" />
-<img src="https://camo.githubusercontent.com/9f2af896ad932c036ee123e054042560fa4a4cab/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573686c61796f7574322e676966" width="160" />
-<img src="https://camo.githubusercontent.com/cd0ecf855d14da768fed9f34c15724d52fa06162/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573686c61796f7574332e676966" width="160" />
-<img src="https://camo.githubusercontent.com/90195a54c77ff3c7df464a4e4de7c3aaff69dd45/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573686c61796f7574342e676966" width="160" />
-<img src="https://camo.githubusercontent.com/a56af43fe2add45f87fbc1c0912d5a0f4e8564b7/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573686c61796f7574352e676966" width="160" />
-<img src="https://camo.githubusercontent.com/1a6566286ba2a8a69b20fc3433f264720a1b4a5e/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573685f776562766965772e676966" width="160" />
-<img src="https://camo.githubusercontent.com/3bf0a5b5dfa2b78d6a1e1654d9d2aa599ca8449d/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f726566726573686c61796f7574372e676966" width="160" />
+<img src="https://camo.githubusercontent.com/912ee9a45b5ed7063bd6fe7634f8130953a7051d/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f6267615f726566726573686c61796f7574312e676966" width="270" />
+<img src="https://camo.githubusercontent.com/7539fed2c320aecc0d47320586e8c2ee22a2d762/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f6267615f726566726573686c61796f7574322e676966" width="270" />
+<img src="https://camo.githubusercontent.com/1f869f094c59adfef8a63f8f870c53092fae8d19/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f726566726573686c61796f75742f73637265656e73686f74732f6267615f726566726573686c61796f7574362e676966" width="270" />
 
 ---
 
@@ -403,13 +1196,15 @@ WaterDropListView，just like the iOS
 
 The bullet proof, fast and easy to use adapter library, which minimizes developing time when use RecyclerView... http://mikepenz.github.io/FastAdapter
 
+<img src="https://raw.githubusercontent.com/mikepenz/FastAdapter/develop/DEV/github/screenshots1.jpg" width="640"/>
+
 ---
 
 **NestedTimeLineRecyclerView**: https://github.com/ishratkhan/NestedTimeLineRecyclerView
 
 It is a custom implementation of nested timeline view using RecyclerView
 
-<img src="https://imgur.com/IsuDF6g" width="320" />
+<img src="https://camo.githubusercontent.com/8c9d67b4ad583b72f61f87ebc0ea9e34bce7544e/687474703a2f2f692e696d6775722e636f6d2f497375444636672e676966" width="320" />
 
 ---
 

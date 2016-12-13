@@ -14,13 +14,29 @@
 
 ---
 
-**material-design-icons**: [https://github.com/google/material-design-icons](https://github.com/google/material-design-icons)
+**live-emoji**: https://github.com/RomainPiel/live-emoji
+
+利用 AnimatedVectorDrawable 实现会动的 emoji
+
+<img src="https://raw.githubusercontent.com/RomainPiel/live-emoji/master/image.gif" width="320" />
+
+---
+
+**emojicon**: https://github.com/rockerhieu/emojicon
+
+A library to show emoji in TextView, EditText (like WhatsApp) for Android
+
+<img src="https://raw.githubusercontent.com/rockerhieu/emojicon/master/images/sample.jpg" width="320" />
+
+---
+
+**material-design-icons**: https://github.com/google/material-design-icons
 
 Material Design icons by Google.[http://google.github.io/material-design-icons/](http://google.github.io/material-design-icons/)
 
 ---
 
-**material-icon-lib**: [https://github.com/code-mc/material-icon-lib](https://github.com/code-mc/material-icon-lib)
+**material-icon-lib**: https://github.com/code-mc/material-icon-lib
 
 Library containing over 1000 material vector icons that can be easily used as Drawable or as a standalone View.
 

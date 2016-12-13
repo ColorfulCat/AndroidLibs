@@ -37,12 +37,6 @@ Please Pull Request~
 希望各位能帮忙添加一些优秀的内容，为开源做一份贡献~ ^ ^ 
 快来PR吧~
 
----
-
-Contributors:
-
-- **大花猫(Owner)** ： [http://www.colorfulcat.xyz/](http://www.colorfulcat.xyz?from=androidlibs)
-- **jp1017** : http://jp1017.github.io/
 
 ---
 

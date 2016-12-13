@@ -6,6 +6,303 @@
 
 ---
 
+**ENViews**: https://github.com/codeestX/ENViews
+
+ENViews, 一个华丽丽的动效控件库
+
+| Original design | Android demo | Class |
+| :--: | :--: | :--: |
+| ![](http://odck16ake.bkt.clouddn.com/Github/o_download.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/download.gif) |ENDownloadView|
+| ![](http://odck16ake.bkt.clouddn.com/Github/o_volume.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/volume.gif)|ENVolumeView|
+| ![](http://odck16ake.bkt.clouddn.com/Github/o_loading.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/loading.gif)  | ENLoadingView |
+| ![](http://odck16ake.bkt.clouddn.com/Github/o_play.gif)| ![](http://odck16ake.bkt.clouddn.com/Github/play.gif) | ENPlayView |
+| ![](http://odck16ake.bkt.clouddn.com/Github/o_search.gif)| ![](http://odck16ake.bkt.clouddn.com/Github/search.gif) |ENSearchView
+|![](http://odck16ake.bkt.clouddn.com/Github/o_scroll.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/scroll.gif)  |ENScrollView
+|![](http://odck16ake.bkt.clouddn.com/Github/o_refresh.gif)  | ![](http://odck16ake.bkt.clouddn.com/Github/refresh.gif)  |ENRefreshView|
+
+---
+
+**OverWatchLoading**: https://github.com/zhangyuChen1991/OverWatchLoading
+
+守望先锋的加载效果
+
+<img src="https://raw.githubusercontent.com/zhangyuChen1991/some_sources/master/ow_show_1.gif" width="320" />
+
+---
+
+**SquareLoading**: https://github.com/yuweiguocn/SquareLoading
+
+Android 方块加载器动画
+
+<img src="https://raw.githubusercontent.com/yuweiguocn/SquareLoading/master/art/square-loading-demo.gif" width="260" />
+
+---
+
+**FloatingView**: https://github.com/UFreedom/FloatingView
+
+一个能够让 View 执行漂亮的漂浮动画的库
+
+<img src="https://raw.githubusercontent.com/UFreedom/FloatingView/master/images/demo.gif" width="320" />
+
+---
+
+**android-TNRAnimationHelper**: https://github.com/thunderrise/android-TNRAnimationHelper
+
+Android 创造更精致的动画效果库
+
+<img src="https://raw.githubusercontent.com/thunderrise/android-TNRAnimationHelper/master/images/rotation.gif" width="640" />
+
+---
+
+**TransitionHelper**: https://github.com/ImmortalZ/TransitionHelper
+
+兼容5.0以下转场动画帮助类
+
+<img src="https://raw.githubusercontent.com/ImmortalZ/TransitionHelper/master/screenshots/image.gif" width="320" /> <img src="https://raw.githubusercontent.com/ImmortalZ/TransitionHelper/master/screenshots/button.gif" width="320" />
+
+---
+
+**BubbleAnimationLayout**: https://github.com/Cleveroad/BubbleAnimationLayout
+
+让你的 App 不再那么无聊和单调，气泡风格的过渡动画效果
+
+<img src="https://raw.githubusercontent.com/Cleveroad/BubbleAnimationLayout/master/images/demo_.gif" width="640" />
+
+---
+
+**AnimatorDurationTile**: https://github.com/nickbutcher/AnimatorDurationTile
+
+A quick settings tile to quickly set the animator duration scale
+
+<img src="https://raw.githubusercontent.com/nickbutcher/AnimatorDurationTile/master/screenshots/duration_scale_toggle_demo.gif" width="280" />
+
+---
+
+**NaturalAnim**: https://github.com/xuyisheng/NaturalAnim
+
+模拟自然动画的精髓——TimeInterpolator与TypeEvaluator
+
+<img src="https://raw.githubusercontent.com/xuyisheng/NaturalAnim/master/pic/7.gif" width="320" /> <img src="https://raw.githubusercontent.com/xuyisheng/NaturalAnim/master/pic/5.gif" width="320" />
+
+---
+
+**AnimateVectorDrawableDEMO**: https://github.com/ghuiii/AnimateVectorDrawableDEMO
+
+通过 AnimateVectoreDrawer 实现的一些动画效果
+
+<img src="https://camo.githubusercontent.com/ebf3dfcf38c0562fd19187eaa7d142460e0e41df/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966332e676966" width="160" /> <img src="https://camo.githubusercontent.com/b5973bb46cd2bc5d7d89133aa2878d6f49846c7c/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966322e676966" width="160" /> <img src="https://camo.githubusercontent.com/f1c501d454122b9e9238fa4f81b30dcb1610576a/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966342e676966" width="160" /> <img src="https://camo.githubusercontent.com/eb93e349cec4bd5c6ae118b041b19fc9b6156438/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f67696666352e676966" width="160" /> <img src="https://camo.githubusercontent.com/dda6ddeba8bc975510b6ef260d5abc1e257f74af/687474703a2f2f676875692e752e71696e6975646e2e636f6d2f676966372e676966" width="160" />
+ 
+---
+
+**ClockScroller**: https://github.com/andyb129/ClockScroller
+
+A cool animated RecyclerView clock face scroller handle inspired by the following MaterialUp submission
+
+<img src="https://raw.githubusercontent.com/andyb129/ClockScroller/master/screenshots/clock_scroller_anim.gif" width="320" />
+
+---
+
+**BubbleAnimationLayout**: https://github.com/Cleveroad/BubbleAnimationLayout
+
+气泡动画
+
+<img src="https://raw.githubusercontent.com/Cleveroad/BubbleAnimationLayout/master/images/demo_.gif" width="640" />
+
+---
+
+**ActSwitchAnimTool**: https://github.com/Yellow5A5/ActSwitchAnimTool
+
+兼容4.0以上版本的点击扩散动画库，几行代码实现Activity转场动画效果 及新增自定义界面转场动画
+
+<img src="https://raw.githubusercontent.com/Yellow5A5/ActSwitchAnimTool/master/image/demo_show1.gif" width="320" /> <img src="https://raw.githubusercontent.com/Yellow5A5/ActSwitchAnimTool/master/image/demo_show2.gif" width="320" />
+
+---
+
+**FlipAnimation**: https://github.com/4xes/FlipAnimation
+
+双面翻转 View 效果
+
+<img src="https://raw.githubusercontent.com/4xes/FlipAnimation/master/art/readme_demo.gif" width="240" />
+
+---
+
+**DoorSignView**: https://github.com/renaudcerrato/DoorSignView
+
+类似商店关门的动画
+
+<img src="https://raw.githubusercontent.com/renaudcerrato/DoorSignView/master/assets/sample.gif" width="240" />
+
+---
+
+**CannyViewAnimator**: https://github.com/LiveTyping/CannyViewAnimator
+
+好看的动画
+
+<img src="https://raw.githubusercontent.com/LiveTyping/CannyViewAnimator/master/readme_extra/top_1.gif" width="240" /> <img src="https://raw.githubusercontent.com/LiveTyping/CannyViewAnimator/master/readme_extra/top_2.gif" width="240" /> <img src="https://raw.githubusercontent.com/LiveTyping/CannyViewAnimator/master/readme_extra/top_3.gif" width="240" />
+
+---
+
+**ClockDrawableAnimation**: https://github.com/evelyne24/ClockDrawableAnimation
+
+Android animated clock Drawable
+
+<img src="https://raw.githubusercontent.com/evelyne24/ClockDrawableAnimation/master/Screenshot.png" width="320" />
+
+---
+
+**Particle**: https://github.com/JeasonWong/Particle
+
+可用于splash的动画
+
+<img src="https://raw.githubusercontent.com/jeasonwong/Particle/master/screenshots/particle.gif" width="320" />
+
+---
+
+**Material-Animations**: https://github.com/lgvalle/Material-Animations
+
+Android Transition animations explanation with examples
+
+<img src="https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_explode.gif" width="270" /> <img src="https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_slide.gif" width="270" /> <img src="https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_fade.gif" width="270" />
+
+---
+
+**Sending-Animation-Example**: https://github.com/Jaouan/Sending-Animation-Example
+
+Android 炫酷发送效果 Demo
+
+<img src="https://raw.githubusercontent.com/Jaouan/Sending-Animation-Example/master/art/demo.gif" width="320" />
+
+---
+
+**SignUpTransition**: https://github.com/JeasonWong/SignUpTransition
+
+炫酷的注册登录动画
+
+<img src="https://raw.githubusercontent.com/jeasonwong/signuptransition/master/screenshots/scene.gif" width="300" />
+
+---
+
+**SlackLoadingView**: https://github.com/JeasonWong/SlackLoadingView
+
+Slack的Loading动画
+
+<img src="https://camo.githubusercontent.com/f8e66102a3782e6b1bd6116bc2fee0179c375a5e/687474703a2f2f69322e7069696d672e636f6d2f313037302f306133626265623762373363366638372e676966" width="320" />
+
+---
+
+**nougat-boot-animation**: https://github.com/ybq/nougat-boot-animation
+
+安卓7.0启动动画
+
+<img src="https://raw.githubusercontent.com/ybq/nougat-boot-animation/master/art/effect.gif" width="320" />
+
+---
+
+**animate**: https://github.com/hitherejoe/animate
+
+多种动画效果
+
+<img src="https://raw.githubusercontent.com/hitherejoe/animate/master/images/object_animator.gif" width="270" /> <img src="https://raw.githubusercontent.com/hitherejoe/animate/master/images/circular_reveal.gif" width="270" /> <img src="https://raw.githubusercontent.com/hitherejoe/animate/master/images/explode_window_transition.gif" width="270" />
+
+---
+
+**crystal-preloaders**: https://github.com/syedowaisali/crystal-preloaders
+
+多种加载动画效果
+
+<img src="https://camo.githubusercontent.com/cc7f7f9c3869e07623e789df154b10878e0506fa/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3042396244454e7949414254365230347a4e446c54656c633051324d" width="180" />
+
+---
+
+**LikeAnimation**: https://github.com/frogermcs/LikeAnimation
+
+类 Twitter 点赞效果
+
+<img src="https://camo.githubusercontent.com/752e0e35b15b6b684cee90b6bf4309f387caa36f/687474703a2f2f66726f6765726d63732e6769746875622e696f2f696d616765732f32322f627574746f6e5f616e696d2e676966" width="180" />
+
+---
+
+**Android-animated-toolbar**: https://github.com/kassisdion/Android-animated-toolbar
+
+Library for toolbar animation
+
+<img src="https://camo.githubusercontent.com/48830e431dc90cd6e96da0cb07846ee80b08d3f9/687474703a2f2f696d6731312e686f7374696e67706963732e6e65742f706963732f383739353037616e696d61746564546f6f6c6261722e676966" width="320" />
+
+---
+
+**BezierDemo**:  https://github.com/chenupt/BezierDemo
+
+A demo to show bezier.
+
+<img src="https://raw.githubusercontent.com/chenupt/BezierDemo/master/pic/bezier.gif" width="320" />
+
+---
+
+**wava**: https://github.com/hujiaweibujidao/wava
+
+安卓动画
+
+<img src="https://raw.githubusercontent.com/hujiaweibujidao/wava/master/wava.gif" width="320" />
+
+---
+
+**RapidInterpolator**: https://github.com/MartinRGB/RapidInterpolator
+
+动画插值器的编辑器
+
+<img src="https://raw.githubusercontent.com/MartinRGB/RapidInterpolator/master/example.gif" width="300" />
+
+---
+
+**yava**: https://github.com/hujiaweibujidao/yava
+
+安卓动画插值器
+
+<img src="https://raw.githubusercontent.com/hujiaweibujidao/yava/master/yava.gif" width="320" />
+
+---
+
+**animated-circle-progress-view**: https://github.com/tuenti/animated-circle-progress-view
+
+Progress view that animates its state changes
+
+<img src="https://raw.githubusercontent.com/tuenti/animated-circle-progress-view/master/media/sample.gif" width="400" />
+
+---
+
+**FragmentAnimations**: https://github.com/kakajika/FragmentAnimations
+
+3D animations for support-v4 Fragment transition
+
+<img src="https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/cube.gif" width="320" /> <img src="https://raw.githubusercontent.com/wiki/kakajika/FragmentAnimations/images/pushmove.gif" width="320" />
+
+---
+
+**ExpandableSearchView**: https://github.com/v-b7/ExpandableSearchView
+
+伸缩动画 SearchView
+
+<img src="https://raw.githubusercontent.com/v-b7/ExpandableSearchView/master/demo.gif" width="320" />
+
+---
+
+**JJSearchViewAnim**: https://github.com/android-cjj/JJSearchViewAnim
+
+A cool search view animation library
+
+<img src="https://camo.githubusercontent.com/82e22c4fd86e8de5bcd0ccf4bdcc9dc1a0b7119f/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f37656630316663616777316632677a797973796772673230616e303568337a622e676966" width="160" /> <img src="https://camo.githubusercontent.com/c4208e7d4d68d8a7154f764ab1b431fcbd0df0ec/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f376566303166636167773166326b6678346e303662673230623530356c3074652e676966" width="160" /> 
+<img src="https://camo.githubusercontent.com/45884a4adb99009c95670e0dd12e40e40918c92d/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f37656630316663616777316632677a797a64703576673230616e303568676e672e676966" width="160" /> <img src="https://camo.githubusercontent.com/75864e0321a12be349e07c65f86ca5fa5b46bbc7/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f376566303166636167773166326b67386f3268747a673230623530356c6a726a2e676966" width="160" />
+
+---
+
+**AVLoadingIndicatorView**: [https://github.com/81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
+
+Nice loading animations for Android
+
+<img src="https://raw.githubusercontent.com/81813780/AVLoadingIndicatorView/master/screenshots/avi.gif" width="320" />
+
+---
+
 **Android-SpinKit**: https://github.com/ybq/Android-SpinKit
 
 Android loading animations
@@ -92,8 +389,6 @@ FragmentTransactionExtended is a library which provide us a set of custom animat
 **KenBurnsView**: [https://github.com/flavioarfaria/KenBurnsView](https://github.com/flavioarfaria/KenBurnsView)
 
 Android ImageViews animated by Ken Burns Effect
-
-<img src="https://camo.githubusercontent.com/64d61cde0875bcfb1636821b2a121af56cc0ecca/687474703a2f2f7777772e70696374757265736861636b2e75732f696d616765732f31353532365f4b656e4275726e73566965772e676966" width="320" />
 
 ---
  
