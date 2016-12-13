@@ -12,6 +12,14 @@ SwipeCardview for listing item or products
 
 ---
 
+**TwinklingRefreshLayout**: https://github.com/lcodecorex/TwinklingRefreshLayout
+
+TwinklingRefreshLayout 小而强大的刷新控件，自带顺滑的越界回弹
+
+<img src="https://github.com/lcodecorex/TwinklingRefreshLayout/raw/master/art/gif_recyclerview.gif" width="320" /> <img src="https://github.com/lcodecorex/TwinklingRefreshLayout/raw/master/art/gif_recyclerview2.gif" width="320" />
+
+---
+
 **Paginate**: https://github.com/MarkoMilos/Paginate
 
 下拉加载更多框架
