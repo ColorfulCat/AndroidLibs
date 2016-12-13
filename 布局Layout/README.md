@@ -5,6 +5,14 @@
 
 ---
 
+**AndroidShortcuts**: https://github.com/michelelacorte/AndroidShortcuts
+
+A custom view component that mimics the new Material Design Bottom Navigation pattern.
+
+<img src="https://s17.postimg.org/vimarchhb/Force_Touch_Launcher_framed.png" width="320" /> <img src="http://i.giphy.com/3oz8xM1ZWIeAjdXTHy.gif" width="320" />
+<img src="http://i.giphy.com/3o7TKTplU3uZMUkK4M.gif" width="320" />
+---
+
 **BottomBar**: https://github.com/roughike/BottomBar
 
 A custom view component that mimics the new Material Design Bottom Navigation pattern.
