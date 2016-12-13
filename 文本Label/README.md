@@ -6,6 +6,14 @@
 
 ---
 
+**TagEditText**: https://github.com/limedroid/TagEditText
+
+类似微博标签的文本控件
+
+<img ="https://raw.githubusercontent.com/limedroid/TagEditText/master/art/tagedittext.png" width="320"/>
+
+---
+
 **NumberAnimTextView**: https://github.com/Bakumon/NumberAnimTextView
 
 数字增加动画的 TextView
