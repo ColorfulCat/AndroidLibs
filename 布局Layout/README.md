@@ -5,6 +5,13 @@
 
 ---
 
+**AndroidShortcuts**: https://github.com/michelelacorte/AndroidShortcuts
+
+A custom view component that mimics the new Material Design Bottom Navigation pattern.
+
+<img src="https://s17.postimg.org/vimarchhb/Force_Touch_Launcher_framed.png" width="320" /> <img src="http://i.giphy.com/3oz8xM1ZWIeAjdXTHy.gif" width="320" />
+<img src="http://i.giphy.com/3o7TKTplU3uZMUkK4M.gif" width="320" />
+
 **SmartCoordinatorLayout**: https://github.com/lalosoft/SmartCoordinatorLayout
 
 An Android library for implement CoordinatorLayout easily
@@ -1156,6 +1163,7 @@ Android Search View based on Material design guidelines
 底部导航栏
 
 <img src="https://raw.githubusercontent.com/Ashok-Varma/BottomNavigation/master/all.gif" width="320" />
+
 
 ---
 
