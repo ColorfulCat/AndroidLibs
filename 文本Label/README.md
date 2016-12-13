@@ -6,6 +6,14 @@
 
 ---
 
+**AndroidDigitClassifier**: https://github.com/harjot-oberai/AndroidDigitClassifier
+
+Android 手写体数字识别
+
+<img ="https://raw.githubusercontent.com/harjot-oberai/AndroidDigitClassifier/master/screenshots/app_2.jpg" width="320"/> <img ="https://raw.githubusercontent.com/harjot-oberai/AndroidDigitClassifier/master/screenshots/app_3.jpg" width="320"/>
+
+---
+
 **Zaman**: https://github.com/Morxander/Zaman
 
 The library provides a custom TextView and Helper for Android to convert timestamp to time String
