@@ -6,6 +6,14 @@
 
 ---
 
+**ZuiMeiTAG**: https://github.com/huage2580/ZuiMeiTAG
+
+仿最美应用的底栏，使用recyclerView实现
+
+<img src = "https://raw.githubusercontent.com/huage2580/ZuiMeiTAG/master/hello.gif" width = "290"/>
+
+---
+
 **HideKeyboard**: https://github.com/yingLanNull/HideKeyboard
 
 仿ios输入法点击输入框以外区域 自动隐藏软键盘轻量级库
