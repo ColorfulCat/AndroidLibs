@@ -12,6 +12,14 @@ VectorSupportView is a library to support vector assets in compound drawables
 
 ---
 
+**collageview**: https://github.com/lopei/collageview
+
+Android 图片拼图效果
+
+<img src = "https://camo.githubusercontent.com/cedb07108cc866e9f9641e39f144e8135b861637/68747470733a2f2f70702e766b2e6d652f633632363832332f763632363832333337312f32393437632f5a4f354e307644696154342e6a7067" width = "320"/> <img src = "https://camo.githubusercontent.com/cedb07108cc866e9f9641e39f144e8135b861637/68747470733a2f2f70702e766b2e6d652f633632363832332f763632363832333337312f32393437632f5a4f354e307644696154342e6a7067" width = "320"/>
+
+---
+
 **gifencoder**: https://github.com/square/gifencoder
 
 A pure Java library implementing the GIF89a specification. Suitable for use on Android
