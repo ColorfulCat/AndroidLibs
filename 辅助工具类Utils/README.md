@@ -1346,6 +1346,14 @@ Kotlin 语言编写的安卓 cache 库
 
 ---
 
+**ShareUtil**: https://github.com/shaohui10086/ShareUtil
+
+简单的Android社会化分享登录库，一行代码搞定
+
+<img src="https://raw.githubusercontent.com/shaohui10086/ShareUtil/master/preview/shareutil_share.gif" width="320" /> <img src="https://raw.githubusercontent.com/shaohui10086/ShareUtil/master/preview/shareutil_login.gif" width="320" />
+
+---
+
 **IntentShare**: https://github.com/tvbarthel/IntentShare
 
 提升"分享"体验的库 
