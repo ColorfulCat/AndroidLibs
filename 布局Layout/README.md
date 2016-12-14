@@ -5,12 +5,21 @@
 
 ---
 
+**CollapsingToolbar-With-Webview**: https://github.com/RameshBhupathi/CollapsingToolbar-With-Webview
+
+Webview 伸缩 Toolbar 效果
+
+<img src="https://raw.githubusercontent.com/RameshBhupathi/CollapsingToolbar-With-Webview/master/device-2016-12-04-134933.png" width="320" /> <img src="https://raw.githubusercontent.com/RameshBhupathi/CollapsingToolbar-With-Webview/master/device-2016-12-04-134855.png" width="320" />
+
+---
+
 **AndroidShortcuts**: https://github.com/michelelacorte/AndroidShortcuts
 
 A custom view component that mimics the new Material Design Bottom Navigation pattern.
 
-<img src="https://s17.postimg.org/vimarchhb/Force_Touch_Launcher_framed.png" width="320" /> <img src="http://i.giphy.com/3oz8xM1ZWIeAjdXTHy.gif" width="320" />
-<img src="http://i.giphy.com/3o7TKTplU3uZMUkK4M.gif" width="320" />
+<img src="https://s17.postimg.org/vimarchhb/Force_Touch_Launcher_framed.png" width="270" /> <img src="http://i.giphy.com/3oz8xM1ZWIeAjdXTHy.gif" width="270" /> <img src="http://i.giphy.com/3o7TKTplU3uZMUkK4M.gif" width="270" />
+
+---
 
 **SmartCoordinatorLayout**: https://github.com/lalosoft/SmartCoordinatorLayout
 
