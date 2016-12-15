@@ -6,6 +6,14 @@
 
 ---
 
+**BufferTextInputLayout**: https://github.com/bufferapp/BufferTextInputLayout
+
+MD 风格的 EditText，精致
+
+<img src="https://raw.githubusercontent.com/bufferapp/BufferTextInputLayout/master/art/standard.gif" width="270"/> <img src="https://raw.githubusercontent.com/bufferapp/BufferTextInputLayout/master/art/descending.gif" width="270"/>
+
+---
+
 **AndroidDigitClassifier**: https://github.com/harjot-oberai/AndroidDigitClassifier
 
 Android 手写体数字识别
