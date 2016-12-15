@@ -212,6 +212,14 @@ Colors for TextViews
 
 ---
 
+**XRichText**: https://github.com/limedroid/XRichText
+
+显示富文本的TextView
+
+<img ="https://github.com/limedroid/XRichText/raw/master/art/xrichtext.gif" width="320"/>
+
+---
+
 **richeditor-android**: https://github.com/wasabeef/richeditor-android
 
 目前来看 Android 上最棒的一款富文本编辑器
