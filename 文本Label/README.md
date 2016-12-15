@@ -18,7 +18,7 @@ MD 风格的 EditText，精致
 
 Android 手写体数字识别
 
-<img ="https://raw.githubusercontent.com/harjot-oberai/AndroidDigitClassifier/master/screenshots/app_2.jpg" width="320"/> <img ="https://raw.githubusercontent.com/harjot-oberai/AndroidDigitClassifier/master/screenshots/app_3.jpg" width="320"/>
+<img src="https://raw.githubusercontent.com/harjot-oberai/AndroidDigitClassifier/master/screenshots/app_2.jpg" width="320"/> <img src="https://raw.githubusercontent.com/harjot-oberai/AndroidDigitClassifier/master/screenshots/app_3.jpg" width="320"/>
 
 ---
 
@@ -26,7 +26,7 @@ Android 手写体数字识别
 
 The library provides a custom TextView and Helper for Android to convert timestamp to time String
 
-<img ="https://raw.githubusercontent.com/Morxander/Zaman/master/screenshot.png" width="300"/>
+<img src="https://raw.githubusercontent.com/Morxander/Zaman/master/screenshot.png" width="300"/>
 
 ---
 
@@ -34,7 +34,7 @@ The library provides a custom TextView and Helper for Android to convert timesta
 
 类似微博标签的文本控件
 
-<img ="https://raw.githubusercontent.com/limedroid/TagEditText/master/art/tagedittext.png" width="320"/>
+<img src="https://raw.githubusercontent.com/limedroid/TagEditText/master/art/tagedittext.png" width="320"/>
 
 ---
 
@@ -42,7 +42,7 @@ The library provides a custom TextView and Helper for Android to convert timesta
 
 数字增加动画的 TextView
 
-<img ="https://raw.githubusercontent.com/Bakumon/NumberAnimTextView/master/gif/GIF.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/Bakumon/NumberAnimTextView/master/gif/GIF.gif" width="300"/>
 
 ---
 
@@ -50,7 +50,7 @@ The library provides a custom TextView and Helper for Android to convert timesta
 
 支持放大缩小的 TextView
 
-<img ="https://raw.githubusercontent.com/androidessence/PinchZoomTextView/master/sample.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/androidessence/PinchZoomTextView/master/sample.gif" width="320"/>
 
 ---
 
@@ -58,7 +58,7 @@ The library provides a custom TextView and Helper for Android to convert timesta
 
 支持展开的 TextView
 
-<img ="https://raw.githubusercontent.com/Chen-Sir/ExpandableTextView/master/art/sample.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/Chen-Sir/ExpandableTextView/master/art/sample.gif" width="320"/>
 
 ---
 
@@ -66,7 +66,7 @@ The library provides a custom TextView and Helper for Android to convert timesta
 
 String Resource Markup Language. Style your localized strings for Android
 
-<img ="https://raw.githubusercontent.com/jasonwyatt/SRML/develop/docs/srml.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/jasonwyatt/SRML/develop/docs/srml.gif" width="320"/>
 
 ---
 
@@ -74,7 +74,7 @@ String Resource Markup Language. Style your localized strings for Android
 
 A simple spannable string helper
 
-<img ="https://raw.githubusercontent.com/jaychang0917/SimpleText/master/SimpleText_320.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/jaychang0917/SimpleText/master/SimpleText_320.gif" width="320"/>
 
 ---
 
@@ -82,7 +82,7 @@ A simple spannable string helper
 
 一个支持选词的 TextView，类似与单词 app 中点击单词翻译的效果
 
-<img ="https://raw.githubusercontent.com/burgessjp/GetWordTextView/master/capture/capture.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/burgessjp/GetWordTextView/master/capture/capture.gif" width="320"/>
 
 ---
 
@@ -90,7 +90,7 @@ A simple spannable string helper
 
 Android 仿业问 打字机效果
 
-<img ="https://raw.githubusercontent.com/andyxialm/TyperEditText/master/art/screenshot.gif" width="265"/>
+<img src="https://raw.githubusercontent.com/andyxialm/TyperEditText/master/art/screenshot.gif" width="265"/>
 
 ---
 
@@ -98,7 +98,7 @@ Android 仿业问 打字机效果
 
 TextHighlighter is a simple android API for developers to show highlighted and styled text in android apps
 
-<img ="https://raw.githubusercontent.com/akshay-naik/TextHighlighter/master/screenshot.png" width="270"/>
+<img src="https://raw.githubusercontent.com/akshay-naik/TextHighlighter/master/screenshot.png" width="270"/>
 
 ---
 
@@ -106,7 +106,7 @@ TextHighlighter is a simple android API for developers to show highlighted and s
 
 一个功能强大的TextView，可以满足日常大部分布局方式
 
-<img ="https://raw.githubusercontent.com/lygttpod/SuperTextView/master/screenshot.png" width="320"/>
+<img src="https://raw.githubusercontent.com/lygttpod/SuperTextView/master/screenshot.png" width="320"/>
 
 ---
 
@@ -114,7 +114,7 @@ TextHighlighter is a simple android API for developers to show highlighted and s
 
 模仿 Smartisan OS 的 BigBang 功能
 
-<img ="https://raw.githubusercontent.com/baoyongzhang/BigBang/master/design/bigbang_demo.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/baoyongzhang/BigBang/master/design/bigbang_demo.gif" width="320"/>
 
 ---
 
@@ -122,7 +122,7 @@ TextHighlighter is a simple android API for developers to show highlighted and s
 
 自定义 自动补充 email 的 EditText
 
-<img ="https://raw.githubusercontent.com/wangshaolei/AutoFillEmailEditText/master/img/1.png" width="320"/>
+<img src="https://raw.githubusercontent.com/wangshaolei/AutoFillEmailEditText/master/img/1.png" width="320"/>
 
 ---
 
@@ -130,7 +130,7 @@ TextHighlighter is a simple android API for developers to show highlighted and s
 
 自定义EditText实现右下角计数控件
 
-<img ="https://camo.githubusercontent.com/07d924eb9645dc9a7485992707b08bf4e5f27fe5/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323037313736342d376265333762653437323531623764342e676966" width="320"/>
+<img src="https://camo.githubusercontent.com/07d924eb9645dc9a7485992707b08bf4e5f27fe5/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323037313736342d376265333762653437323531623764342e676966" width="320"/>
 
 ---
 
@@ -144,7 +144,7 @@ Clickable @mentions, #hashtags and links
 
 TextViews 中处理超链接
 
-<img ="https://raw.githubusercontent.com/Saketme/Better-Link-Movement-Method/master/EXAMPLE.gif" width="640"/>
+<img src="https://raw.githubusercontent.com/Saketme/Better-Link-Movement-Method/master/EXAMPLE.gif" width="640"/>
 
 ---
 
@@ -152,7 +152,7 @@ TextViews 中处理超链接
 
 支持 at 别人效果的 EditText
 
-<img ="https://raw.githubusercontent.com/luckyandyzhang/MentionEditText/master/art/demo.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/luckyandyzhang/MentionEditText/master/art/demo.gif" width="320"/>
 
 ---
 
@@ -160,7 +160,7 @@ TextViews 中处理超链接
 
 百分比显示
 
-<img ="https://cloud.githubusercontent.com/assets/3179872/18619207/44e432da-7dff-11e6-8988-91d1faf4eed0.gif" width="320"/>
+<img src="https://cloud.githubusercontent.com/assets/3179872/18619207/44e432da-7dff-11e6-8988-91d1faf4eed0.gif" width="320"/>
 
 ---
 
@@ -168,7 +168,7 @@ TextViews 中处理超链接
 
 Material Design 风格的投票效果
 
-<img ="https://raw.githubusercontent.com/hiteshsahu/Material-UpVote/master/Art/demo_upvote.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/hiteshsahu/Material-UpVote/master/Art/demo_upvote.gif" width="320"/>
 
 ---
 
@@ -176,7 +176,7 @@ Material Design 风格的投票效果
 
 Colors for TextViews
 
-<img ="https://raw.githubusercontent.com/apocalx/colortextview/master/screenshot.png" width="320"/>
+<img src="https://raw.githubusercontent.com/apocalx/colortextview/master/screenshot.png" width="320"/>
 
 ---
 
@@ -184,7 +184,7 @@ Colors for TextViews
 
 数字自动添加分割 EditText
 
-<img ="https://camo.githubusercontent.com/df9757767f491bed46b18bb6f2575ccf4f09f950/687474703a2f2f696d672e796f75747562652e636f6d2f76692f384566373955717748666b2f302e6a7067" width="480"/>
+<img src="https://camo.githubusercontent.com/df9757767f491bed46b18bb6f2575ccf4f09f950/687474703a2f2f696d672e796f75747562652e636f6d2f76692f384566373955717748666b2f302e6a7067" width="480"/>
 
 ---
 
@@ -192,7 +192,7 @@ Colors for TextViews
 
 带动画、加密、解密 EditText
 
-<img ="https://camo.githubusercontent.com/e075cf282998a371e6c988adc055b3b2a06a6a9a/687474703a2f2f7777772e64726167616e6b72737469632e636f6d2f6175746f7479706574657874766965772f616c6c616e696d6174696f6e2e676966" width="320"/>
+<img src="https://camo.githubusercontent.com/e075cf282998a371e6c988adc055b3b2a06a6a9a/687474703a2f2f7777772e64726167616e6b72737469632e636f6d2f6175746f7479706574657874766965772f616c6c616e696d6174696f6e2e676966" width="320"/>
 
 ---
 
@@ -200,7 +200,7 @@ Colors for TextViews
 
 可显示省略号的 EditText
 
-<img ="https://raw.githubusercontent.com/dinuscxj/EllipsizeTextView/master/Preview/EllipsizeTextView.gif?width=300" width="320"/>
+<img src="https://raw.githubusercontent.com/dinuscxj/EllipsizeTextView/master/Preview/EllipsizeTextView.gif?width=300" width="320"/>
 
 ---
 
@@ -208,7 +208,7 @@ Colors for TextViews
 
 提示可变化的 EditText
 
-<img ="https://raw.githubusercontent.com/cctanfujun/HintAnim-EditText/master/img/Hint-Anim.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/cctanfujun/HintAnim-EditText/master/img/Hint-Anim.gif" width="320"/>
 
 ---
 
@@ -216,7 +216,7 @@ Colors for TextViews
 
 识别短信中的验证码并复制
 
-<img ="https://raw.githubusercontent.com/RikkaW/SmsCodeHelper/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="180"/>
+<img src="https://raw.githubusercontent.com/RikkaW/SmsCodeHelper/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="180"/>
 
 ---
 
@@ -224,7 +224,7 @@ Colors for TextViews
 
 显示富文本的TextView
 
-<img ="https://github.com/limedroid/XRichText/raw/master/art/xrichtext.gif" width="320"/>
+<img src="https://github.com/limedroid/XRichText/raw/master/art/xrichtext.gif" width="320"/>
 
 ---
 
@@ -232,7 +232,7 @@ Colors for TextViews
 
 目前来看 Android 上最棒的一款富文本编辑器
 
-<img ="https://raw.githubusercontent.com/wasabeef/richeditor-android/master/art/demo2.gif" width="270"/>
+<img src="https://raw.githubusercontent.com/wasabeef/richeditor-android/master/art/demo2.gif" width="270"/>
 
 ---
 
@@ -240,7 +240,7 @@ Colors for TextViews
 
 仿 medium 富文本展示
 
-<img ="https://raw.githubusercontent.com/angebagui/medium-textview/master/screenshot/Screenshot_2016-08-14-19-59-48.png" width="200"/>
+<img src="https://raw.githubusercontent.com/angebagui/medium-textview/master/screenshot/Screenshot_2016-08-14-19-59-48.png" width="200"/>
 
 ---
 
