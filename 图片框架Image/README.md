@@ -554,6 +554,14 @@ Animated SVG Drawing for Android
 
 ---
 
+**android-drag-square**: https://github.com/SwiftyWang/android-drag-square
+
+一个仿探探上传相片的widget，基于xmuSistone的demo, 提供gradle import，添加上传照片功能以及各种回调，api，方便使用
+
+<img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture1.gif" width="270" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture2.gif" width="270" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-drag-square/master/capture3.gif" width="270" />
+
+---
+
 **android-drag-square**: https://github.com/xmuSistone/android-drag-square
 
 流畅，灵活的图片拖拽排序

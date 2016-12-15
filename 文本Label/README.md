@@ -74,7 +74,7 @@ String Resource Markup Language. Style your localized strings for Android
 
 A simple spannable string helper
 
-<img src="https://raw.githubusercontent.com/jaychang0917/SimpleText/master/SimpleText_320.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/jaychang0917/SimpleText/master/SimpleText_v1_2_0.gif" width="320"/>
 
 ---
 
