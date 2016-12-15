@@ -6,6 +6,14 @@
 
 ---
 
+**android-oss**: https://github.com/kickstarter/android-oss
+
+Kickstarter Android 源码开源
+
+<img src="https://raw.githubusercontent.com/kickstarter/android-oss/master/.github/app.png" width="800" />
+
+---
+
 **MyDiary**: https://github.com/erttyy8821/MyDiary
 
 In the Movie "-your name.-" (君の名は。, 你的名字) , "My Diary" of android version is
