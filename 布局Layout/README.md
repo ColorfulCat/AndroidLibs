@@ -638,6 +638,14 @@ Custom Android video player API library
 
 ---
 
+**DragVideo**: https://github.com/hejunlin2013/DragVideo
+
+DragVideo，一种在播放视频时，可以任意拖拽视频的方案
+
+<img src="https://raw.githubusercontent.com/hejunlin2013/DragVideo/master/image/web_dragvideo.png" width="640" />
+
+---
+
 **jjdxm_ijkplayer**: https://github.com/jjdxmashl/jjdxm_ijkplayer
 
 基于ijkplayer简单的UI界面 当前项目是基于ijkplayer项目进行的播放器界面UI封装
