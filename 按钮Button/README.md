@@ -6,6 +6,14 @@
 
 ---
 
+**MultiChoicesCircleButton**: https://github.com/gjiazhe/MultiChoicesCircleButton
+
+3D 视差效果的多选按钮
+
+<img src="https://raw.githubusercontent.com/gjiazhe/MultiChoicesCircleButton/master/screenshots/gif1.gif" width="320" />
+
+---
+
 **Cicerone**: https://github.com/terrakok/Cicerone
 
 轻量级 Android 导航系统（切换当前界面）
