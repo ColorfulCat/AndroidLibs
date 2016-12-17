@@ -22,6 +22,14 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**youtube-play-icon**: https://github.com/alxrm/youtube-play-icon
+
+Material style morphing play-pause drawable for Android
+
+<img src="https://raw.githubusercontent.com/alxrm/youtube-play-icon/master/art/play.gif" width="320" />
+
+---
+
 **OverWatchLoading**: https://github.com/zhangyuChen1991/OverWatchLoading
 
 守望先锋的加载效果
