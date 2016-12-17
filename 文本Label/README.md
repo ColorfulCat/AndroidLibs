@@ -6,6 +6,12 @@
 
 ---
 
+**autofittextview**: https://github.com/mniami/autofittextview
+
+Android Autofiting view content into the boundaries
+
+---
+
 **BufferTextInputLayout**: https://github.com/bufferapp/BufferTextInputLayout
 
 MD 风格的 EditText，精致
