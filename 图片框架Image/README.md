@@ -6,6 +6,14 @@
 
 ---
 
+**Gradient-Artist**: https://github.com/Hariofspades/Gradient-Artist
+
+Gradient-Artist library will allow you to use gradient overly on top of the image
+
+<img src = "https://raw.githubusercontent.com/Hariofspades/Gradient-Artist/master/assets/wallpaper.png" width = "640"/>
+
+---
+
 **VectorSupportView**: https://github.com/akashandroid90/VectorSupportView
 
 VectorSupportView is a library to support vector assets in compound drawables
