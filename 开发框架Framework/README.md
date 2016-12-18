@@ -52,6 +52,14 @@ MIUI 8 系统
 
 ---
 
+**dynamic-load-view**: https://github.com/kot32go/dynamic-load-view
+
+Dynamic-load-view 能够动态加载外部apk中的View以及资源，能够热修复线上View，以及模块化更新
+
+<img src="https://camo.githubusercontent.com/9f3f711562a2b14ca721163bebec282785b597b2/687474703a2f2f3766766a37302e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f64796e616d69632d6c6f61642d766965772e676966" width="640"/>
+
+---
+
 **tinker**: https://github.com/Tencent/tinker
 
 腾讯热修复方法 tinker
