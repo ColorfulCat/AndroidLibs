@@ -14,6 +14,12 @@ Gradient-Artist library will allow you to use gradient overly on top of the imag
 
 ---
 
+**AndroidRealTimeBlur**: https://github.com/wenhatai/AndroidRealTimeBlur
+
+Android real-time blur
+
+---
+
 **VectorSupportView**: https://github.com/akashandroid90/VectorSupportView
 
 VectorSupportView is a library to support vector assets in compound drawables
