@@ -6,6 +6,12 @@
 
 ---
 
+**MVPArms**：https://github.com/JessYanCoding/MVPArms
+
+一个整合了大量主流开源项目的Android Mvp快速搭建框架
+
+---
+
 **SampleApp**: https://github.com/saveendhiman/SampleApp
 
 安卓快速开发框架
@@ -235,12 +241,6 @@ Helper classes to build Android Apps through MVP pattern in a faster way https:/
 **AndroidMvc**：https://github.com/kejunxia/AndroidMvc
 
 Android MVC/MVP/MVVM framework http://kejunxia.github.io/AndroidMvc
-
----
-
-**MVPArms**：https://github.com/JessYanCoding/MVPArms
-
-a common Architecture for Android Applications developing based on MVP，integrates many Open Source Projects( like Dagger2,Rxjava,Retrofit... )
 
 ---
 
