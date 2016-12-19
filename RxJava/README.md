@@ -6,6 +6,26 @@
 
 ---
 
+**RxJava2-Android-Samples**: https://github.com/amitshekhariitbhu/RxJava2-Android-Samples
+
+RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
+
+---
+
+**RxJava-Android-Samples**: https://github.com/kaushikgopal/RxJava-Android-Samples
+
+Learning RxJava for Android by example
+
+---
+
+**rxjava-examples**: https://github.com/leeowenowen/rxjava-examples
+
+全面，完整，图文并茂的RxJavaAPI使用示例
+
+<img src="https://raw.githubusercontent.com/wiki/leeowenowen/rxjava-examples/res/rxjava-1.png" width="320" /> <img src="https://raw.githubusercontent.com/wiki/leeowenowen/rxjava-examples/res/rxjava-2.png" width="320" />
+
+---
+
 **RxWindowIfChanged**:https://github.com/JakeWharton/RxWindowIfChanged
 
 JakeWharton 开源的新的 Rx 操作符：WindowIfChanged，检测 Window 变化状态，发出通知
@@ -131,6 +151,80 @@ RxLoader
 **ixjava**: https://github.com/akarnokd/ixjava
 
 Interactive Extensions for Java, the dual of RxJava. Originally implemented in the Reactive4Java framework, now converted to work with RxJava.
+
+---
+
+**ReactiveWiFi**: https://github.com/pwittchen/ReactiveWiFi
+
+WiFi Access Points and related information with RxJava Observables
+
+---
+
+**rxHub**: https://github.com/apptik/rxHub
+
+Reactive Event Hub
+
+---
+
+**rxlist**: https://github.com/s0nerik/rxlist
+
+RxJava 方式对 List 的封装
+
+---
+
+**RxBus**: https://github.com/Dimezis/RxBus
+
+Simple Rx Event Bus implementation using Kotlin for Android and RxKotlin (RxJava)
+
+---
+
+**RxGroups**: https://github.com/airbnb/RxGroups
+
+Easily group RxJava Observables together and tie them to your Android Activity lifecycle
+
+---
+
+**RxValidator**: https://github.com/phajduk/RxValidator
+
+RxJava 和 RxBinding 结合的格式验证库
+
+---
+
+**RealmRxNotifications**: https://github.com/ZherebtsovAlexandr/RealmRxNotifications
+
+Reactive layer (similar to the pattern repository) for the Realm
+
+---
+
+**RxPermissions**: https://github.com/raviteja06/RxPermissions
+
+Android 6.0权限管理 ReactiveX/RxAndroid way
+
+<img src="https://raw.githubusercontent.com/holidaycheck/Permissify/master/art/sample_record.gif" width="290" />
+
+---
+
+**RxPermissionsResult**: https://github.com/VictorAlbertos/RxPermissionsResult
+
+RxJava + 6.0权限申请
+
+---
+
+**rx-android-permissions**: https://github.com/beworker/rx-android-permissions
+
+Simple RxJava library for requesting and observing Android runtime permissions
+
+---
+
+**RxBluetoothAuto**: https://github.com/tawaasalage/RxBluetoothAuto
+
+rxAndroid Bluetooth NFC
+
+---
+
+**RxBluetooth**: https://github.com/IvBaranov/RxBluetooth
+
+Android reactive bluetooth
 
 ---
 

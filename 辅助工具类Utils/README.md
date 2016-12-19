@@ -818,21 +818,9 @@ Blorm is a field validation lib for android
 
 ---
 
-**ReactiveWiFi**: https://github.com/pwittchen/ReactiveWiFi
-
-WiFi Access Points and related information with RxJava Observables
-
----
-
 **Hermes**: https://github.com/Xiaofei-it/Hermes
 
 简单易用的安卓进程间通信IPC框架
-
----
-
-**rxHub**: https://github.com/apptik/rxHub
-
-Reactive Event Hub
 
 ---
 
@@ -875,12 +863,6 @@ Android optimized event bus that simplifies communication between Activities, Fr
 **blankapp-validation**: https://github.com/lijy91/blankapp-validation
 
 Android 表单验证库，用方法链构建你的验证规则
-
----
-
-**rxlist**: https://github.com/s0nerik/rxlist
-
-RxJava 方式对 List 的封装
 
 ---
 
@@ -1012,18 +994,6 @@ Library to validate username, email and passwords
 
 ---
 
-**RxBus**: https://github.com/Dimezis/RxBus
-
-Simple Rx Event Bus implementation using Kotlin for Android and RxKotlin (RxJava)
-
----
-
-**RxGroups**: https://github.com/airbnb/RxGroups
-
-Easily group RxJava Observables together and tie them to your Android Activity lifecycle
-
----
-
 **agera-event-bus**: https://github.com/drakeet/agera-event-bus
 
 一个关于 Agera 的裤子 用法和 RxBus 基本一样的 Agera Event Bus
@@ -1088,12 +1058,6 @@ A safe JsBridge framework!
 
 ---
 
-**RxValidator**: https://github.com/phajduk/RxValidator
-
-RxJava 和 RxBinding 结合的格式验证库
-
----
-
 **android-proguards**: https://github.com/yongjhih/android-proguards
 
 AAR proguards
@@ -1103,12 +1067,6 @@ AAR proguards
 **AndroidProguardPlugin**: https://github.com/zhonghanwen/AndroidProguardPlugin
 
 生成混淆代码的 Android Studio 插件
-
----
-
-**RealmRxNotifications**: https://github.com/ZherebtsovAlexandr/RealmRxNotifications
-
-Reactive layer (similar to the pattern repository) for the Realm
 
 ---
 
@@ -1635,25 +1593,11 @@ Android 6.0权限管理 Kotlin way
 
 ---
 
-**RxPermissions**: https://github.com/raviteja06/RxPermissions
-
-Android 6.0权限管理 ReactiveX/RxAndroid way
-
-<img src="https://raw.githubusercontent.com/holidaycheck/Permissify/master/art/sample_record.gif" width="290" />
-
----
-
 **Permissify**: https://github.com/holidaycheck/Permissify
 
 Android 又一个6.0权限管理
 
 <img src="https://raw.githubusercontent.com/holidaycheck/Permissify/master/art/sample_record.gif" width="290" />
-
----
-
-**RxPermissionsResult**: https://github.com/VictorAlbertos/RxPermissionsResult
-
-RxJava + 6.0权限申请
 
 ---
 
@@ -1700,12 +1644,6 @@ An android runtime permissions utility simplifies the requesting and decoupling 
 **PermissionUtils**: https://github.com/rebus007/PermissionUtils
 
 Check marshmallow permission easily https://rebus007.github.io/PermissionUtils/
-
----
-
-**rx-android-permissions**: https://github.com/beworker/rx-android-permissions
-
-Simple RxJava library for requesting and observing Android runtime permissions
 
 ---
 
@@ -2061,21 +1999,9 @@ Bluetooth Helper Library.—-蓝牙操作库
 
 ---
 
-**RxBluetoothAuto**: https://github.com/tawaasalage/RxBluetoothAuto
-
-rxAndroid Bluetooth NFC
-
----
-
 **Bleep**: https://github.com/tamir7/Bleep
 
 Thin wrapper around the Android Bluetooth LE API
-
----
-
-**RxBluetooth**: https://github.com/IvBaranov/RxBluetooth
-
-Android reactive bluetooth
 
 ---
 
