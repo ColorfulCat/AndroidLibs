@@ -142,12 +142,6 @@ DNS proxy for Android 4.3+
 
 ---
 
-**NorthWest**: https://github.com/MarsVard/NorthWest
-
-Simple RxAndroid library to get degrees to north
-
----
-
 **RootHelper**: https://github.com/AndroidDeveloperLB/RootHelper
 
 An extension to use libsuperuser library more easily
@@ -216,12 +210,6 @@ A Simple Pcm / Wav audio recorder with nice api. https://kailash09dabhi.github.i
 
 ---
 
-**ReactiveAudioRecord**: https://github.com/ahmedrizwan/ReactiveAudioRecord
-
-Rx wrapper library for Android's AudioRecord API
-
----
-
 **AndroidAudioConverter**: https://github.com/adrielcafe/AndroidAudioConverter
 
 音频转换 支持：WAV, AAC, MP3, M4A, WMA and FLAC
@@ -237,38 +225,6 @@ Rx wrapper library for Android's AudioRecord API
 **android_silk_v3_decoder**: https://github.com/ketn4391/android_silk_v3_decoder
 
 转换微信QQ语音格式为MP3格式
-
----
-
-**RxErrorHandler**: https://github.com/JessYanCoding/RxErrorHandler
-
-error handle of Rxjava
-
----
-
-**RxDownloader**: https://github.com/esafirm/RxDownloader
-
-An Rx wrapper for Download Manager in Android
-
-<img src="https://raw.githubusercontent.com/esafirm/RxDownloader/master/art/sample.gif" width="320"/>
-
----
-
-**RxSchedulerRule**: https://github.com/Plastix/RxSchedulerRule
-
-Simple JUnit rule for overriding RxJava/RxAndroid schedulers during unit tests
-
----
-
-**RxLoader**: https://github.com/L4Digital/RxLoader
-
-An Android Loader that wraps an RxJava Observable
-
----
-
-**RxAwareness**: https://github.com/patloew/RxAwareness
-
-Reactive Awareness API Library for Android and RxJava
 
 ---
 
@@ -307,14 +263,6 @@ Stag improves Gson performance by automatically generating reflection-less TypeA
 **medium-android-sdk-unofficial**: https://github.com/KingsMentor/medium-android-sdk-unofficial
 
 Unoffical implementation of medium api for android
-
----
-
-**android-data-binding-rxjava**: https://github.com/TangoAgency/android-data-binding-rxjava
-
-Demo that shows how to use RxJava with Android Data Binding ObservableFields
-
-<img src="https://cloud.githubusercontent.com/assets/469111/18312397/db8996fc-7509-11e6-9bcd-0cee0bac0754.gif" width="320"/>
 
 ---
 
@@ -412,24 +360,6 @@ Analytics framework for Android
 
 ---
 
-**RxJava2-Android-Samples**: https://github.com/amitshekhariitbhu/RxJava2-Android-Samples
-
-RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
-
----
-
-**RxComprehensions**: https://github.com/pakoito/RxComprehensions
-
-Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and switchMaps
-
----
-
-**RxLifecycle**: https://github.com/trello/RxLifecycle
-
-Lifecycle handling APIs for Android apps using RxJava
-
----
-
 **SafelyAndroid**: https://github.com/Piasy/SafelyAndroid
 
 打造健壮的安卓APP，从此告别 Activity Not Found、Activity State Loss 和 fragment transaction 中的 NPE
@@ -445,12 +375,6 @@ Lifecycle handling APIs for Android apps using RxJava
 **AirCycle**: https://github.com/simonpercic/AirCycle
 
 Flexible binding of Android Activity lifecycle callbacks to fields
-
----
-
-**RxActivityResult**: https://github.com/NateWickstrom/RxActivityResult
-
-RxJava 处理 Activity Result
 
 ---
 
@@ -500,12 +424,6 @@ Android HashTag Lib
 
 ---
 
-**RxActivityResult**: https://github.com/NateWickstrom/RxActivityResult
-
-An Rx wrapper for receiving results from startActivityForResult() as an Observable
-
----
-
 **Save-to-Activity**: https://github.com/Metroxe/Save-to-Activity
 
 This library is an easy to use series of commands to interact with a hashmap across multiple fragments attached to any running activity
@@ -521,12 +439,6 @@ Android由于系统内存不足时，activity被杀死时的数据存取方案
 **Preservely**: https://github.com/samiuelson/Preservely
 
 安卓横竖屏变化处理库
-
----
-
-**RxJava2Interop**: https://github.com/akarnokd/RxJava2Interop
-
-RxJava 1.x and 2.x 转换
 
 ---
 
@@ -676,12 +588,6 @@ Dynamic in app URL router for Android
 
 ---
 
-**RxGpsService**: https://github.com/miguelbcr/RxGpsService
-
-An Android service to retrieve GPS locations and route stats using RxJava
-
----
-
 **keyboard-dismisser**: https://github.com/GabrielSamojlo/keyboard-dismisser
 
 Dismiss your keyboard by tapping anywhere outside it
@@ -751,12 +657,6 @@ Endoscope - RTSP live video streamer for android devices via Wi-Fi
 **findbugs-android**: https://github.com/ChaitanyaPramod/findbugs-android
 
 Gradle plugin that creates FindBugs reports for android projects
-
----
-
-**assert-rx**: https://github.com/peter-tackage/assert-rx
-
-Fluent assertions for RxJava's TestSubscriber
 
 ---
 
@@ -858,12 +758,6 @@ Library what helps getting photo or video from device gallery, from a cloud or f
 
 ---
 
-**RxLoader**: https://github.com/kmdupr33/RxLoader
-
-RxLoader
-
----
-
 **InputValidator**: https://github.com/jordanterry/InputValidator
 
 An Android library helps to validate input content
@@ -887,12 +781,6 @@ Library for easy call JS-functions from Java
 **AndroidStudioTemplates**: https://github.com/WanAndroid/AndroidStudioTemplates
 
 Templates for Android Studio
-
----
-
-**ixjava**: https://github.com/akarnokd/ixjava
-
-Interactive Extensions for Java, the dual of RxJava. Originally implemented in the Reactive4Java framework, now converted to work with RxJava.
 
 ---
 
