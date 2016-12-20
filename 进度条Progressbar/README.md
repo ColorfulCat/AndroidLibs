@@ -6,6 +6,14 @@
 
 ---
 
+**GADownloading**: https://github.com/Ajian-studio/GADownloading
+
+蛮有创意的一发 Android 下载效果
+ 
+<img src = "https://raw.githubusercontent.com/Ajian-studio/GADownloading/master/raw/my_loading_view_success.gif" width = "300"/> <img src = "https://raw.githubusercontent.com/Ajian-studio/GADownloading/master/raw/my_loading_view_failed.gif" width = "300"/> 
+
+---
+
 **WaveLoading**: https://github.com/race604/WaveLoading
 
 一个全能的水波加载动画
