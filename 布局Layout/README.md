@@ -1059,6 +1059,14 @@ Expand your view with no problem
 
 ---
 
+**WowSplash**: https://github.com/githubwing/WowSplash
+
+铁塔融云！一个让你的哇哇哇哇闪屏页
+
+<img src="https://raw.githubusercontent.com/githubwing/WowSplash/master/img/img.gif" width="270" />
+
+---
+
 **SlidingIntoView**: https://github.com/ihsanbal/SlidingIntoView
 
 引导页面
