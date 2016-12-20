@@ -1172,6 +1172,14 @@ Android Search View based on Material design guidelines
 
 ---
 
+**SpaceTabLayout**: https://github.com/thelong1EU/SpaceTabLayout
+
+很有新意的一款 Android Bottom Tab 效果
+
+<img src="https://raw.githubusercontent.com/thelong1EU/SpaceTabLayout/master/readmeSource/3.gif" width="270" /> <img src="https://raw.githubusercontent.com/thelong1EU/SpaceTabLayout/master/readmeSource/5.gif" width="270" />
+
+---
+
 **PagerBottomTabStrip**: https://github.com/tyzlmjj/PagerBottomTabStrip
 
 一个基本按谷歌Material Design规范完成的安卓底部导航栏控件
@@ -1186,7 +1194,6 @@ Android Search View based on Material design guidelines
 底部导航栏
 
 <img src="https://raw.githubusercontent.com/Ashok-Varma/BottomNavigation/master/all.gif" width="320" />
-
 
 ---
 
