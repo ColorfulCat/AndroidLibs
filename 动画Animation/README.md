@@ -22,6 +22,14 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**EmojiRain**: https://github.com/Luolc/EmojiRain
+
+仿微信掉落表情包效果
+
+<img src="https://raw.githubusercontent.com/Luolc/EmojiRain/master/ohters/dropping-demo.gif" width="320" />
+
+---
+
 **youtube-play-icon**: https://github.com/alxrm/youtube-play-icon
 
 Material style morphing play-pause drawable for Android
