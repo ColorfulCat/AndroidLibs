@@ -6,6 +6,12 @@
 
 ---
 
+**RxJava**: https://github.com/ReactiveX/RxJava
+
+RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM
+
+---
+
 **RxJava2-Android-Samples**: https://github.com/amitshekhariitbhu/RxJava2-Android-Samples
 
 RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
