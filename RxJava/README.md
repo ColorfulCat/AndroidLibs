@@ -12,6 +12,12 @@ RxJava – Reactive Extensions for the JVM – a library for composing asynchron
 
 ---
 
+**RxAndroid**: https://github.com/ReactiveX/RxAndroid
+
+RxJava bindings for Android
+
+---
+
 **RxJava2-Android-Samples**: https://github.com/amitshekhariitbhu/RxJava2-Android-Samples
 
 RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
