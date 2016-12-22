@@ -38,6 +38,14 @@ Learning RxJava for Android by example
 
 ---
 
+**frodo**: https://github.com/android10/frodo
+
+RxJava 调试助手，日志管理
+
+<img src="https://cloud.githubusercontent.com/assets/1360604/10925010/fa76523e-828a-11e5-8607-1611aef61add.png" width="640" />
+
+---
+
 **RxWindowIfChanged**:https://github.com/JakeWharton/RxWindowIfChanged
 
 JakeWharton 开源的新的 Rx 操作符：WindowIfChanged，检测 Window 变化状态，发出通知
