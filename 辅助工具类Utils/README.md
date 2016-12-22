@@ -848,6 +848,12 @@ A lightweight eventbus library for android, simplifies communication between Act
 
 ---
 
+**eventbus3-intellij-plugin**: https://github.com/likfe/eventbus3-intellij-plugin
+
+eventbus3 可用事件跳转 Android Studio 插件
+
+---
+
 **EventBus**: https://github.com/greenrobot/EventBus
 
 Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. http://greenrobot.org/eventbus/
