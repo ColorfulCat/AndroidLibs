@@ -1777,6 +1777,14 @@ Android logger, simple and pretty, powerful and flexible, all you need is here
 
 ---
 
+**LogcatTextView**：https://github.com/munix/LogcatTextView
+
+帮助你在 App 端，查看 Logcat 输出信息
+
+<img src="https://raw.githubusercontent.com/munix/LogcatTextView/master/screenshots/example.png" width="400" />
+
+---
+
 **Console**：https://github.com/jraska/Console
 
 可在手机上查看 `logcat`

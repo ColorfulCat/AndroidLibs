@@ -10,7 +10,7 @@
 
 时间选择器，选择特定间隔时间段
 
-<img src="https://raw.githubusercontent.com/skedgo/DateTimeRangePicker/master/images/Screenshot_1482250231.png" width="300" /> <img src="https://raw.githubusercontent.com/skedgo/DateTimeRangePicker/master/images/Screenshot_1482250231.png" width="300" />
+<img src="https://raw.githubusercontent.com/skedgo/DateTimeRangePicker/master/images/Screenshot_1482250231.png" width="300" /> <img src="https://raw.githubusercontent.com/skedgo/DateTimeRangePicker/master/images/Screenshot_1482250219.png" width="300" />
 
 ---
 
