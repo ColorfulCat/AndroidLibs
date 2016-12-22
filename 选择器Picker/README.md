@@ -6,6 +6,14 @@
 
 ---
 
+**DateTimeRangePicker**: https://github.com/skedgo/DateTimeRangePicker
+
+时间选择器，选择特定间隔时间段
+
+<img src="https://raw.githubusercontent.com/skedgo/DateTimeRangePicker/master/images/Screenshot_1482250231.png" width="300" /> <img src="https://raw.githubusercontent.com/skedgo/DateTimeRangePicker/master/images/Screenshot_1482250231.png" width="300" />
+
+---
+
 **RetainedDateTimePickers**: https://github.com/k0shk0sh/RetainedDateTimePickers
 
 屏幕切换保持状态的时间选择控件
