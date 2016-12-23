@@ -6,6 +6,14 @@
 
 ---
 
+**SlideUp-Android**: https://github.com/mancj/SlideUp-Android
+
+Android 卡片滑动出现和消失效果
+
+<img src="https://github.com/mancj/SlideUp-Android/raw/master/art/art1.gif" width="320" /> <img src="https://github.com/mancj/SlideUp-Android/raw/master/art/art2.gif" width="320" />
+
+---
+
 **FanLayoutManager**: https://github.com/Cleveroad/FanLayoutManager
 
 风车效果的 LayoutManager
