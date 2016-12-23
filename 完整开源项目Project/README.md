@@ -767,6 +767,14 @@ A third party app for androidweekly.net
 
 ---
 
+**FlipGank**: https://github.com/yiyuanliu/FlipGank
+
+FlipBoard 翻页风格的 Gank.io 客户端
+
+<img src="https://raw.githubusercontent.com/yiyuanliu/FlipGank/master/images/screenshot3.png" width="320" /><img src="https://raw.githubusercontent.com/yiyuanliu/FlipGank/master/images/screenshot4.png" width="320" />
+
+---
+
 **StudyProject**: https://github.com/HotBitmapGG/StudyProject
 
 A Material Design style Gank. Io unofficial client App
