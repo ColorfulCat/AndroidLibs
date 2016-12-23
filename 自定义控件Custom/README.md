@@ -439,7 +439,15 @@ B 站出品的 Android 开源弹幕引擎 —— 烈焰弹幕使
 
 ---
 
-**DanmakuFlameMaster**: [https://github.com/Bilibili/DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)
+**DanmukuLight**: https://github.com/hpdx/DanmukuLight
+
+Android上专为视屏直播打造的轻量级弹幕库（100多kb）
+
+<img src="https://raw.githubusercontent.com/hpdx/DanmukuLight/master/result_image.jpg" width="320" />
+
+---
+
+**DanmakuFlameMaster**: https://github.com/Bilibili/DanmakuFlameMaster
 
 大弹幕时代来临了,这里是Android上最好的开源弹幕引擎·烈焰弹幕使 ～ 被弹幕吞噬吧!
 
@@ -447,7 +455,7 @@ B 站出品的 Android 开源弹幕引擎 —— 烈焰弹幕使
 
 ---
 
-**StickerView**: [https://github.com/sangmingming/StickerView](https://github.com/sangmingming/StickerView)
+**StickerView**: https://github.com/sangmingming/StickerView
 
 a sticker view for android application
 
@@ -461,7 +469,7 @@ Phrase is an Android string resource templating library
 
 ---
 
-**TourGuide**: [https://github.com/worker8/TourGuide](https://github.com/worker8/TourGuide)
+**TourGuide**: https://github.com/worker8/TourGuide
 
 TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View
 
@@ -469,7 +477,7 @@ TourGuide is an Android library that aims to provide an easy way to add pointers
 
 ---
 
-**cheesesquare**: [https://github.com/chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare)
+**cheesesquare**: https://github.com/chrisbanes/cheesesquare
 
 Demos the new Android Design library.
 
@@ -477,7 +485,7 @@ Demos the new Android Design library.
 
 ---
 
-**ImageProcessing**: [https://github.com/pepoc/ImageProcessing](https://github.com/pepoc/ImageProcessing)
+**ImageProcessing**: https://github.com/pepoc/ImageProcessing
 
 这个贴纸Demo是基于 http://blog.isming.me/2015/05/10/sticker-view/ 现有基础的优化。
 
@@ -485,7 +493,7 @@ Demos the new Android Design library.
 
 ---
 
-**QuantityView**: [https://github.com/himanshu-soni/QuantityView](https://github.com/himanshu-soni/QuantityView)
+**QuantityView**: https://github.com/himanshu-soni/QuantityView
 
 Android quantity view with add and remove button.
 
@@ -495,7 +503,7 @@ Android quantity view with add and remove button.
 
 ---
 
-**BubbleView**: [https://github.com/lguipeng/BubbleView](https://github.com/lguipeng/BubbleView)
+**BubbleView**: https://github.com/lguipeng/BubbleView
 
 Bubble View 聊天气泡
 
