@@ -6,6 +6,14 @@
 
 ---
 
+**TakePhoto**: https://github.com/crazycodeboy/TakePhoto
+
+一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库
+
+<img src = "https://raw.githubusercontent.com/crazycodeboy/TakePhoto/master/Screenshots/takephoto_preview.png" width = "800"/>
+
+---
+
 **Gradient-Artist**: https://github.com/Hariofspades/Gradient-Artist
 
 Gradient-Artist library will allow you to use gradient overly on top of the image
