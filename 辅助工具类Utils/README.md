@@ -36,6 +36,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**AccessibilityUtil**: https://github.com/xuyisheng/AccessibilityUtil
+
+AccessibilityService Utils
+
+---
+
 **overlaypermission**: https://github.com/czy1121/overlaypermission
 
 悬浮窗权限兼容库
