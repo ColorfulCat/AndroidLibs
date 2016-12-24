@@ -96,6 +96,12 @@ An android wrapper library to mathjs.org javascript library
 
 ---
 
+**gradle-release-plugin**: https://github.com/netzwerg/gradle-release-plugin
+
+Gradle plugin providing very minimal release version numbering (Git-specific)
+
+---
+
 **gradle-retrolambda**: https://github.com/evant/gradle-retrolambda
 
 A gradle plugin for getting java lambda support in java 6, 7 and android
