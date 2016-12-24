@@ -96,6 +96,14 @@ An android wrapper library to mathjs.org javascript library
 
 ---
 
+**native-dependencies-plugin**: https://github.com/linsea/native-dependencies-plugin
+
+Android 原生库依赖解析Gradle插件
+
+由于官方的Android Gradle插件无法解析在dependencies中声明的.so库依赖,所以编译时不会把.so文件自动拷贝到jniLibs目录下,这个插件主要就是为了解决这个问题的,并且提供so文件重命名和abi过滤的实用功能
+
+---
+
 **gradle-release-plugin**: https://github.com/netzwerg/gradle-release-plugin
 
 Gradle plugin providing very minimal release version numbering (Git-specific)
