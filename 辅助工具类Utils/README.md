@@ -1659,6 +1659,12 @@ permissionHelper for Android M
 
 ---
 
+**EasyPermissions**: https://github.com/lalosoft/EasyPermissions
+
+A simple android library to request permissions in runtime
+
+---
+
 **easypermissions**: https://github.com/googlesamples/easypermissions
 
 Simplify Android M system permissions
