@@ -104,6 +104,12 @@ Android 原生库依赖解析Gradle插件
 
 ---
 
+**gradle-gitdroid**: https://github.com/lodlock/gradle-gitdroid
+
+A gradle plugin for Android projects that allows for dependencies from git repositories
+
+---
+
 **gradle-release-plugin**: https://github.com/netzwerg/gradle-release-plugin
 
 Gradle plugin providing very minimal release version numbering (Git-specific)
