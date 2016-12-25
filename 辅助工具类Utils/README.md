@@ -12,6 +12,12 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
+**okio**: https://github.com/square/okio
+
+A modern I/O API for Java http://square.github.io/okio/1.x/okio
+
+---
+
 **Multiples**: https://github.com/MFlisar/Multiples
 
 Based one Java Pair this library offers Triples, Quadriples and more (3 to 10 items)
