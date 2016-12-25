@@ -104,6 +104,12 @@ Android 原生库依赖解析Gradle插件
 
 ---
 
+**xtext-gradle-plugin**: https://github.com/xtext/xtext-gradle-plugin
+
+Gradle plugins for using Xtext and Xtend
+
+---
+
 **ament_gradle_plugin**: https://github.com/esteve/ament_gradle_plugin
 
 A Gradle plugin for building Java and Android-based ROS2 projects
