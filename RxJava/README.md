@@ -132,6 +132,12 @@ Lifecycle handling APIs for Android apps using RxJava
 
 ---
 
+**ReactiveCache**: https://github.com/VictorAlbertos/ReactiveCache
+
+A reactive cache for Android and Java which honors the Observable chain
+
+---
+
 **RxCache**: https://github.com/VictorAlbertos/RxCache
 
 Reactive caching library for Android and Java
