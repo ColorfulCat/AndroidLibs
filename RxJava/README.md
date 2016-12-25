@@ -132,6 +132,12 @@ Lifecycle handling APIs for Android apps using RxJava
 
 ---
 
+**Mockery**: https://github.com/VictorAlbertos/Mockery
+
+Android and Java library for mocking and testing networking layers with built-in support for Retrofit
+
+---
+
 **ReactiveCache**: https://github.com/VictorAlbertos/ReactiveCache
 
 A reactive cache for Android and Java which honors the Observable chain
