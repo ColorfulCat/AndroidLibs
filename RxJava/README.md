@@ -132,6 +132,12 @@ Lifecycle handling APIs for Android apps using RxJava
 
 ---
 
+**RxPaparazzo**: https://github.com/miguelbcr/RxPaparazzo
+
+RxJava实现的图片选择库
+
+---
+
 **RxSocialConnect-Android**: https://github.com/VictorAlbertos/RxSocialConnect-Android
 
 OAuth RxJava extension for Android
