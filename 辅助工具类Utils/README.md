@@ -104,6 +104,12 @@ Android 原生库依赖解析Gradle插件
 
 ---
 
+**ament_gradle_plugin**: https://github.com/esteve/ament_gradle_plugin
+
+A Gradle plugin for building Java and Android-based ROS2 projects
+
+---
+
 **gradle-gitdroid**: https://github.com/lodlock/gradle-gitdroid
 
 A gradle plugin for Android projects that allows for dependencies from git repositories
