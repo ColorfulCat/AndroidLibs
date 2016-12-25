@@ -116,6 +116,12 @@ A Gradle plugin for building Java and Android-based ROS2 projects
 
 ---
 
+**gradle-android-git-version**: https://github.com/gladed/gradle-android-git-version
+
+A gradle plugin to calculate Android-friendly version names and codes from git tags
+
+---
+
 **gradle-gitdroid**: https://github.com/lodlock/gradle-gitdroid
 
 A gradle plugin for Android projects that allows for dependencies from git repositories
