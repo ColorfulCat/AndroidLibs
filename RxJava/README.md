@@ -132,6 +132,12 @@ Lifecycle handling APIs for Android apps using RxJava
 
 ---
 
+**RxSocialConnect-Android**: https://github.com/VictorAlbertos/RxSocialConnect-Android
+
+OAuth RxJava extension for Android
+
+---
+
 **RxFcm**: https://github.com/VictorAlbertos/RxFcm
 
 RxJava extension for Android Firebase Cloud Messaging (aka fcm)
