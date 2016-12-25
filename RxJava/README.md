@@ -132,7 +132,13 @@ Lifecycle handling APIs for Android apps using RxJava
 
 ---
 
-**RxActivityResult**: https://github.com/NateWickstrom/RxActivityResult
+**RxCache**: https://github.com/VictorAlbertos/RxCache
+
+Reactive caching library for Android and Java
+
+---
+
+**RxActivityResult**: https://github.com/VictorAlbertos/RxActivityResult
 
 RxJava 处理 Activity Result
 
