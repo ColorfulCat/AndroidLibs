@@ -6,6 +6,13 @@
 
 ---
 
+**html-builder**: https://github.com/jrummyapps/html-builder
+
+Android HTML to TextView Builder 辅助工具库
+
+<img src="https://raw.githubusercontent.com/jrummyapps/html-builder/master/art/screenshot.png" width="320"/>
+---
+
 **TextLayoutBuilder**: https://github.com/facebookincubator/TextLayoutBuilder
 
 Facebook 开源文本布局库
