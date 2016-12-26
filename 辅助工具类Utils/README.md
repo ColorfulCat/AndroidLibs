@@ -42,6 +42,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**scytale**: https://github.com/yakivmospan/scytale
+
+Android Key 生成，存储，加密工具库
+
+---
+
 **AccessibilityUtil**: https://github.com/xuyisheng/AccessibilityUtil
 
 AccessibilityService Utils
