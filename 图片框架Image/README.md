@@ -6,6 +6,14 @@
 
 ---
 
+**MultiImageView**: https://github.com/stfalcon-studio/MultiImageView
+
+多种图片样式 UI 组合，很适合做头像相关的功能
+
+<img src = "https://camo.githubusercontent.com/d29a4e2a0dc99b1a114f43fb201e1080e6aaa462/687474703a2f2f692e696d6775722e636f6d2f5334516f4b56422e676966" width = "800"/>
+
+---
+
 **TakePhoto**: https://github.com/crazycodeboy/TakePhoto
 
 一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库
