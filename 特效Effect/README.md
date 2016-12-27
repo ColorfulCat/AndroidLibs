@@ -62,6 +62,14 @@ Android 搜索 过度效果
 
 ---
 
+**android-snowfall**: https://github.com/JetradarMobile/android-snowfall
+
+Android 实现的漂亮的下雪效果
+
+<img src="https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/snowfall-demo.gif" width="270" />
+
+---
+
 **Snowfall**: https://github.com/StylingAndroid/Snowfall
 
 下雪动画 https://blog.stylingandroid.com/snowfall
