@@ -6,11 +6,20 @@
 
 ---
 
+**LyricViewDemo**: https://github.com/zhengken/LyricViewDemo
+
+歌词显示控件，支持多行显示、拖曳播放、自动识别歌词文件的编码 
+
+<img src="https://raw.githubusercontent.com/zhengken/LyricViewDemo/master/screenshot/lyricview.png" width="640"/>
+
+---
+
 **html-builder**: https://github.com/jrummyapps/html-builder
 
 Android HTML to TextView Builder 辅助工具库
 
 <img src="https://raw.githubusercontent.com/jrummyapps/html-builder/master/art/screenshot.png" width="320"/>
+
 ---
 
 **TextLayoutBuilder**: https://github.com/facebookincubator/TextLayoutBuilder
