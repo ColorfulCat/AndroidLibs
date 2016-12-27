@@ -8,9 +8,17 @@
 
 **material-about-library**: https://github.com/daniel-stoneuk/material-about-library
 
-仿最美应用的底栏，使用recyclerView实现
+Material Design 风格的 About 页面设计
 
 <img src = "https://camo.githubusercontent.com/b55c8897390fa16e51750958d88cd0304d146a51/687474703a2f2f692e696d6775722e636f6d2f326436334e46532e706e67" width = "320"/> <img src = "https://camo.githubusercontent.com/899450b935187b66a26cbef93e31b73b39ab2131/687474703a2f2f692e696d6775722e636f6d2f316b3472634e372e706e67" width = "320"/>
+
+---
+
+**AboutLibraries**: https://github.com/mikepenz/AboutLibraries
+
+AboutLibraries is a library to offer some information of libraries
+
+<img src = "https://raw.githubusercontent.com/mikepenz/AboutLibraries/master/DEV/screenshots/screenshot1_small.png" width = "320"/> <img src = "https://raw.githubusercontent.com/mikepenz/AboutLibraries/master/DEV/screenshots/screenshot2_small.png" width = "320"/>
 
 ---
 
