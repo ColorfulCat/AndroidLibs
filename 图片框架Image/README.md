@@ -6,6 +6,14 @@
 
 ---
 
+**PanoramaImageView**: https://github.com/gjiazhe/PanoramaImageView
+
+通过监听手腕旋转进行交互，自动滚动图片
+
+<img src = "https://raw.githubusercontent.com/gjiazhe/PanoramaImageView/master/screenshots/recyclerview_sample.gif" width = "300"/> <img src = "https://raw.githubusercontent.com/gjiazhe/PanoramaImageView/master/screenshots/vertical_sample.gif" width = "300"/>
+
+---
+
 **MultiImageView**: https://github.com/stfalcon-studio/MultiImageView
 
 多种图片样式 UI 组合，很适合做头像相关的功能
