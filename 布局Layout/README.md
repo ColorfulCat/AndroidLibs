@@ -11,6 +11,12 @@ Material Design 风格的组件集合
 
 ---
 
+**BGASwipeBackLayout-Android**: https://github.com/bingoogolapple/BGASwipeBackLayout-Android
+
+通过修改 support-v4 包中 SlidingPaneLayout 的源码来实现滑动返回布局
+
+---
+
 **CollapsingToolbar-With-Webview**: https://github.com/RameshBhupathi/CollapsingToolbar-With-Webview
 
 Webview 伸缩 Toolbar 效果
