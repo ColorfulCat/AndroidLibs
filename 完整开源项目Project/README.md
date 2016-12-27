@@ -6,6 +6,14 @@
 
 ---
 
+**MovieHub**: https://github.com/lawloretienne/MovieHub
+
+非常漂亮的一款 Android Movie 工具
+
+<img src="https://raw.githubusercontent.com/lawloretienne/MovieHub/master/images/MovieHub_Screenshot_1.png" width="320" /> <img src="https://raw.githubusercontent.com/lawloretienne/MovieHub/master/images/MovieHub_Screenshot_10.png" width="320" />
+
+---
+
 **ZhiHu-TopAnswer**: https://github.com/jiang111/ZhiHu-TopAnswer
 
 知乎热门榜
