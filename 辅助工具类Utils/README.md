@@ -1505,6 +1505,12 @@ easily use android preferences(the easy way!)
 
 ---
 
+**preferator**: https://github.com/Sloy/preferator
+
+开发辅助工具，帮助你快速的在 Android 端修改 SharedPreference，以达到测试的目的
+
+---
+
 **UniversalPreferences**: https://github.com/Zookey/UniversalPreferences
 
 use Shared Preferences in an easy way
