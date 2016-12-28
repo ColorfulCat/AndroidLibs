@@ -15,6 +15,8 @@ Material Design 风格的组件集合
 
 通过修改 support-v4 包中 SlidingPaneLayout 的源码来实现滑动返回布局
 
+<img src="https://cloud.githubusercontent.com/assets/8949716/21512903/fac699f8-ccec-11e6-8437-1bfe8b9bd9d3.gif" width="320" />
+
 ---
 
 **CollapsingToolbar-With-Webview**: https://github.com/RameshBhupathi/CollapsingToolbar-With-Webview
