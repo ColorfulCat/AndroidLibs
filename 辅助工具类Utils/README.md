@@ -42,6 +42,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**HFunc**: https://github.com/TangXiaoLv/HFunc
+
+Java实现高阶函数，类似Python，支持串行并行计算，适用于Java和Android
+
+---
+
 **scytale**: https://github.com/yakivmospan/scytale
 
 Android Key 生成，存储，加密工具库
