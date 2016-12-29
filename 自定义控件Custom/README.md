@@ -22,6 +22,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**Android-ExpandIcon**: https://github.com/zagum/Android-ExpandIcon
+
+实现 Google 风格的上下箭头动态效果
+
+<img src = "https://raw.githubusercontent.com/zagum/Android-ExpandIcon/master/art/expand_icon_demo.gif" width = "320"/>
+
+---
+
 **ZuiMeiTAG**: https://github.com/huage2580/ZuiMeiTAG
 
 仿最美应用的底栏，使用recyclerView实现
