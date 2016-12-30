@@ -186,12 +186,6 @@ Android Support 25.0 中 Shortcut Demo
 
 ---
 
-**Gitskarios**: https://github.com/gitskarios/Gitskarios
-
-好用的 GitHub 客户端
-
----
-
 **debug-bottle**: https://github.com/kiruto/debug-bottle
 
 Android Java 程序员开发调试与测试工具
@@ -628,6 +622,20 @@ A Demo with Retrofit2 Okhttp3 Dagger RxJava RxAndroid ButterKnife...
 天气闹钟
 
 <img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/screenshots/2.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/screenshots/3.jpeg" width="270" /> <img src="https://raw.githubusercontent.com/kaku2015/WeatherAlarmClock/master/screenshots/5.jpeg" width="270" />
+
+---
+
+**GithubContributionsWidget**: https://github.com/donglua/GithubContributionsWidget
+
+Android桌面小部件：展示你的 Github 贡献图
+
+<img src="https://camo.githubusercontent.com/2f626ff1e8ee39034a24f43d6a86e8b1f233fb47/687474703a2f2f6f676b6236376f63382e626b742e636c6f7564646e2e636f6d2f453243344439433343313646312e6a7067" width="320" />
+
+---
+
+**Gitskarios**: https://github.com/gitskarios/Gitskarios
+
+好用的 GitHub 客户端
 
 ---
 
