@@ -42,6 +42,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**adt4j**: https://github.com/sviperll/adt4j
+
+adt4j - Algebraic Data Types for Java
+
+---
+
 **HFunc**: https://github.com/TangXiaoLv/HFunc
 
 Java实现高阶函数，类似Python，支持串行并行计算，适用于Java和Android
