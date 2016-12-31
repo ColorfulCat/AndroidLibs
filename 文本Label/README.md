@@ -6,6 +6,14 @@
 
 ---
 
+**text-decorator**: https://github.com/nntuyen/text-decorator
+
+简单易用的TextView装饰库
+
+<img src="https://raw.githubusercontent.com/nntuyen/text-decorator/master/screenshot/screenshot2.gif" width="640"/>
+
+---
+
 **LyricViewDemo**: https://github.com/zhengken/LyricViewDemo
 
 歌词显示控件，支持多行显示、拖曳播放、自动识别歌词文件的编码 
