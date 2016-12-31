@@ -6,6 +6,12 @@
 
 ---
 
+**EZPhotoPicker**: https://github.com/Siclo-Mobile/EZPhotoPicker
+
+EZPhotoPicker
+
+---
+
 **PanoramaImageView**: https://github.com/gjiazhe/PanoramaImageView
 
 通过监听手腕旋转进行交互，自动滚动图片
