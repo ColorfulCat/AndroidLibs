@@ -6,6 +6,14 @@
 
 ---
 
+**SquareFloatActionButton**: https://github.com/HemendraGangwar/SquareFloatActionButton
+
+Square float action button
+
+<img src="https://cloud.githubusercontent.com/assets/11073070/21562125/e3a777e6-ce9b-11e6-9dbc-cd1e5dfa5a96.gif" width="320" />
+
+---
+
 **MultiChoicesCircleButton**: https://github.com/gjiazhe/MultiChoicesCircleButton
 
 3D 视差效果的多选按钮
