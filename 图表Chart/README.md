@@ -6,6 +6,14 @@
 
 ---
 
+**BeautifulGraphSample**: https://github.com/deepakbaliga/BeautifulGraphSample
+
+BeautifulGraphSample
+
+<img src="https://raw.githubusercontent.com/deepakbaliga/BeautifulGraphSample/master/images/screenshot.png" width="320" />
+
+---
+
 **KalmanRx**: https://github.com/kibotu/KalmanRx
 
 kalman 滤波
