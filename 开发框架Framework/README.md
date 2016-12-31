@@ -184,6 +184,14 @@ Simple lightweight MVP library for Android
 
 ---
 
+**MVP-RX-Android-Sample**: https://github.com/ahmedeltaher/MVP-RX-Android-Sample
+
+A sample to showcase MVP pattern with RX-Android, Retrofit 2.0
+
+<img src="https://camo.githubusercontent.com/4ac0f97e5e63ff2dd802f3dd91a804511623c2c5/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d43374258414b314c685a6b2f57474653586e56365576492f41414141414141414869772f372d7239646d644e794149736a734f75655a4943563750536f4c746b504f454241434c63422f73302f4d56502e6a7067" width="640"/>
+
+---
+
 **ferro**: https://github.com/MaksTuev/ferro
 
 Simple and powerful MVP library for Android
