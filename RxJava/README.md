@@ -38,6 +38,12 @@ Learning RxJava for Android by example
 
 ---
 
+**RxAnimations**: https://github.com/0ximDigital/RxAnimations
+
+RxJava 封装的安卓动画库
+
+---
+
 **frodo**: https://github.com/android10/frodo
 
 RxJava 调试助手，日志管理
