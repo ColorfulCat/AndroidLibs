@@ -22,6 +22,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**PlayWidget**: https://github.com/Cleveroad/PlayWidget
+
+新颖独特的音乐播放布局
+
+<img src = "https://raw.githubusercontent.com/Cleveroad/PlayWidget/master/images/header.png" width = "640"/>
+
+---
+
 **Android-ExpandIcon**: https://github.com/zagum/Android-ExpandIcon
 
 实现 Google 风格的上下箭头动态效果
