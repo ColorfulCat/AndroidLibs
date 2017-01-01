@@ -6,6 +6,14 @@
 
 ---
 
+**TextFloatingActionButton**: https://github.com/EdSergeev/TextFloatingActionButton
+
+Android floating action button (fab) with text
+
+<img src="https://raw.githubusercontent.com/EdSergeev/TextFloatingActionButton/master/testapp/text-fab-sample.gif" width="160" />
+
+---
+
 **SquareFloatActionButton**: https://github.com/HemendraGangwar/SquareFloatActionButton
 
 Square float action button
