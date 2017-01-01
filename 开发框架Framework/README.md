@@ -166,6 +166,12 @@ Lightweight Dagger 2 scoped component management library
 
 ---
 
+**andiag-mvp**: https://github.com/iagocanalejas/andiag-mvp
+
+Library to help developers build full MVP apps
+
+---
+
 **avenging**: https://github.com/JoaquimLey/avenging
 
 MVP - Android no Dagger or RxJava example http://joaquimley.com
