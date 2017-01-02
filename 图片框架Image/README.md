@@ -64,6 +64,14 @@ Android 图片拼图效果
 
 ---
 
+**android-gif-example**: https://github.com/jaredsburrows/android-gif-example
+
+Gif RecyclerView MVP Grid Example using Dagger 2, Retrofit 2, RxJava 2 and Butterknife with Junit and Espresso tests
+
+<img src = "https://camo.githubusercontent.com/8866ca0e83b3cc357db6bdfc0ebd5ca304e16ec1/687474703a2f2f692e696d6775722e636f6d2f7a457243364a562e706e67" width = "320"/>
+
+---
+
 **gifencoder**: https://github.com/square/gifencoder
 
 A pure Java library implementing the GIF89a specification. Suitable for use on Android
