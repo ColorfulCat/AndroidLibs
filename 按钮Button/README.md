@@ -6,6 +6,12 @@
 
 ---
 
+**MultiLineRadioGroup**: https://github.com/Gavras/MultiLineRadioGroup
+
+A Radio Group layout to show radio buttons in more than one line
+
+---
+
 **TextFloatingActionButton**: https://github.com/EdSergeev/TextFloatingActionButton
 
 Android floating action button (fab) with text
