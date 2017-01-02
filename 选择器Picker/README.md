@@ -32,8 +32,6 @@ A Dialogo fragment with date pickers which can be used to select a time range
 
 android 省市区选择控件
 
-<img src="https://camo.githubusercontent.com/c9d939bde43639624c82a4bf4f4dd2b9ea3d8805/687474703a2f2f78646576656c6f7065722e636e2f636f6e74656e742f696d616765732f323031362f30392f696e697470696e74755f2d2d2e6a7067" width="640" />
-
 ---
 
 **country-picker-x**: https://github.com/ekimual/country-picker-x
@@ -150,7 +148,7 @@ GregorianLunarCalendar提供了农历+公历的日期选择模式，同时支持
 
 CalendarListview是一个高度定制的日期选择器，可以满足多选日期的需求
 
-<img src="https://raw.githubusercontent.com/henry-newbie/CalendarView/master/screenshot/calendar.gif" width="540" />
+<img src="https://raw.githubusercontent.com/henry-newbie/CalendarView/master/screenshot/calendar.gif" width="320" />
 
 ---
 
@@ -257,7 +255,7 @@ a better DropDownMenu solution, 完整的筛选器解决方案
 
 数字选择器
 
-<img src="https://github.com/ShawnLin013/NumberPicker/raw/master/screenshot/NumberPicker-Screenshot.png" width="320"/>
+<img src="https://raw.githubusercontent.com/ShawnLin013/NumberPicker/master/screenshot/number-picker-theme.png" width="640"/>
 
 ---
 
@@ -281,7 +279,7 @@ a better DropDownMenu solution, 完整的筛选器解决方案
 
 Photopicker and document picker for android
 
-img src="https://camo.githubusercontent.com/b51eec20abd3cf684fe86f30ddb360590bf69511/687474703a2f2f692e696d6775722e636f6d2f577857754a4b6e2e706e67" width="270"/> img src="https://camo.githubusercontent.com/8b8f68b876211518fc90beb9fa200e585943b35e/687474703a2f2f692e696d6775722e636f6d2f54444942784c592e706e67" width="270"/> img src="https://camo.githubusercontent.com/894c59ad1df8a27e39f3a4e197d4c2820bcb92e3/687474703a2f2f692e696d6775722e636f6d2f48726d554576532e706e67" width="270"/> 
+<img src="https://camo.githubusercontent.com/b51eec20abd3cf684fe86f30ddb360590bf69511/687474703a2f2f692e696d6775722e636f6d2f577857754a4b6e2e706e67" width="270"/> <img src="https://camo.githubusercontent.com/8b8f68b876211518fc90beb9fa200e585943b35e/687474703a2f2f692e696d6775722e636f6d2f54444942784c592e706e67" width="270"/> <img src="https://camo.githubusercontent.com/894c59ad1df8a27e39f3a4e197d4c2820bcb92e3/687474703a2f2f692e696d6775722e636f6d2f48726d554576532e706e67" width="270"/> 
 
 ---
 
@@ -289,7 +287,7 @@ img src="https://camo.githubusercontent.com/b51eec20abd3cf684fe86f30ddb360590bf6
 
 Selecting directories/files made a lot easier
 
-img src="https://raw.githubusercontent.com/Angads25/android-filepicker/master/screenshot1.png" width="270"/> img src="https://raw.githubusercontent.com/Angads25/android-filepicker/master/screenshot3.png" width="270"/> img src="https://raw.githubusercontent.com/Angads25/android-filepicker/master/screenshot4.png" width="270"/> 
+<img src="https://raw.githubusercontent.com/Angads25/android-filepicker/master/screenshot1.png" width="270"/> <img src="https://raw.githubusercontent.com/Angads25/android-filepicker/master/screenshot3.png" width="270"/> <img src="https://raw.githubusercontent.com/Angads25/android-filepicker/master/screenshot4.png" width="270"/> 
 
 ---
 
@@ -405,7 +403,7 @@ A material Date Range Picker based on wdullaers MaterialDateTimePicker.
 
 带颜色选择的 preference
 
-<img src="https://raw.githubusercontent.com/kizitonwose/colorpreference/master/art/screenshot3.png" width="270" /> <img src="https://raw.githubusercontent.com/kizitonwose/colorpreference/master/art/screenshot2.png" width="270" /> <img src="https://raw.githubusercontent.com/kizitonwose/colorpreference/master/art/screenshot1.png" width="270" />
+<img src="https://raw.githubusercontent.com/kizitonwose/colorpreference/master/art/screenshot_1.png" width="270" /> <img src="https://raw.githubusercontent.com/kizitonwose/colorpreference/master/art/screenshot_2.png" width="270" /> <img src="https://raw.githubusercontent.com/kizitonwose/colorpreference/master/art/screenshot_3.png" width="270" />
 
 ---
 
@@ -446,7 +444,7 @@ Android library to display a list of items for pick one.
 
 Simple & Wonderful wheel view in realistic effect for android.
 
-<img src="https://github.com/AigeStudio/WheelPicker/blob/master/Previews/StraightStyle.gif" width="320" /> <img src="https://github.com/AigeStudio/WheelPicker/blob/master/Previews/WheelDatePicker.gif" width="320" />
+<img src="https://raw.githubusercontent.com/AigeStudio/WheelPicker/master/Previews/main/Preview.gif" width="640" />
 
 ---
 
