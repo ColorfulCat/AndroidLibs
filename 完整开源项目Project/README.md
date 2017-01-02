@@ -6,6 +6,14 @@
 
 ---
 
+**HatkeMessenger**: https://github.com/webianks/HatkeMessenger
+
+HatkeMessenger
+
+<img src="https://raw.githubusercontent.com/webianks/HatkeMessenger/master/screens/screen1.png" width="320" /> <img src="https://raw.githubusercontent.com/webianks/HatkeMessenger/master/screens/screen2.png" width="320" />
+
+---
+
 **MovieHub**: https://github.com/lawloretienne/MovieHub
 
 非常漂亮的一款 Android Movie 工具
