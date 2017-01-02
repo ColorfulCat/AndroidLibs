@@ -1152,6 +1152,12 @@ AAR proguards
 
 ---
 
+**RealmRepository**: https://github.com/AleksanderMielczarek/RealmRepository
+
+Generate Realm repositories
+
+---
+
 **Kolumbus**: https://github.com/MGaetan89/Kolumbus
 
 浏览应用 Realm 数据库
