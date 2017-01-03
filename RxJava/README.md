@@ -44,6 +44,14 @@ RxJava 封装的安卓动画库
 
 ---
 
+**RxFingerPrinter**: https://github.com/Zweihui/RxFingerPrinter
+
+用rxjava简单封装了指纹识别，顺便撸了一个指纹控件
+
+<img src="https://raw.githubusercontent.com/Zweihui/RxFingerPrinter/master/gif/ScreenShot.gif" width="180" />
+
+---
+
 **frodo**: https://github.com/android10/frodo
 
 RxJava 调试助手，日志管理
