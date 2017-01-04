@@ -490,6 +490,14 @@ A simple audio player for Android applications
 
 ---
 
+**MusicStreamer**: https://github.com/harjot-oberai/MusicStreamer
+
+一个超漂亮的音乐播放器！尤其是音频的可视化功能，超炫酷
+
+<img src="https://raw.githubusercontent.com/harjot-oberai/MusicStreamer/master/screenshots/dna1.png" width="270" /> <img src="https://raw.githubusercontent.com/harjot-oberai/MusicStreamer/master/screenshots/equalizer.png" width="270" /> <img src="https://raw.githubusercontent.com/harjot-oberai/MusicStreamer/master/screenshots/fav_recents.png" width="270" />
+
+---
+
 **StylishMusicPlayer**: https://github.com/ryanhoo/StylishMusicPlayer
 
 A stylish music player for android device 16+
