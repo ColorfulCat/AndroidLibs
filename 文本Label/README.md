@@ -432,6 +432,14 @@ a BadeView base on android
 
 ---
 
+**AvatarLabelView**: https://github.com/yanbober/AvatarLabelView
+
+一个可配置的迷你版轻量级 Label 辅助类，支持多种配置效果
+
+<img src="https://raw.githubusercontent.com/yanbober/AvatarLabelView/master/.picture/demo.png" width="320" />
+
+---
+
 **cornerlabelview**: https://github.com/czy1121/cornerlabelview
 
 Android 角标组件效果
