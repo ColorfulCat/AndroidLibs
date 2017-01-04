@@ -494,7 +494,7 @@ A simple audio player for Android applications
 
 一个超漂亮的音乐播放器！尤其是音频的可视化功能，超炫酷
 
-<img src="https://raw.githubusercontent.com/harjot-oberai/MusicStreamer/master/screenshots/dna1.png" width="270" /> <img src="https://raw.githubusercontent.com/harjot-oberai/MusicStreamer/master/screenshots/equalizer.png" width="270" /> <img src="https://raw.githubusercontent.com/harjot-oberai/MusicStreamer/master/screenshots/fav_recents.png" width="270" />
+<img src="https://raw.githubusercontent.com/harjot-oberai/MusicStreamer/master/screenshots/fav_recents.png" width="600" />
 
 ---
 
@@ -831,11 +831,19 @@ A Material Design style Gank. Io unofficial client App
 
 ---
 
+**UGank**: https://github.com/Bakumon/UGank
+
+有干货」—— 体验别具一格的 Gank.io Android 客户端 http://bakumon.me/UGank/
+
+<img src="https://raw.githubusercontent.com/Bakumon/UGank/master/art/ugank2.png" width="600" />
+
+---
+
 **Gank**: https://github.com/JohnnyShieh/Gank
 
 An unofficial client of gank.io, based on Flux pattern and Rx series
 
-<img src="https://raw.githubusercontent.com/JohnnyShieh/Gank/master/screenshots/navigation.jpg" width="270" /><img src="https://raw.githubusercontent.com/JohnnyShieh/Gank/master/screenshots/android.jpg" width="320" />
+<img src="https://raw.githubusercontent.com/JohnnyShieh/Gank/master/screenshots/navigation.jpg" width="270" /> <img src="https://raw.githubusercontent.com/JohnnyShieh/Gank/master/screenshots/android.jpg" width="320" />
 
 ---
 
@@ -843,7 +851,7 @@ An unofficial client of gank.io, based on Flux pattern and Rx series
 
 RxJava+Retrofit+Glide构建的gank.io第三方客户端，包含妹子图和技术干货等
 
-<img src="https://github.com/gaolonglong/GankGirl/raw/master/Screenshot/666.gif" width="320" /><img src="https://raw.githubusercontent.com/gaolonglong/GankGirl/master/Screenshot/33.png" width="320" />
+<img src="https://github.com/gaolonglong/GankGirl/raw/master/Screenshot/666.gif" width="320" /> <img src="https://raw.githubusercontent.com/gaolonglong/GankGirl/master/Screenshot/33.png" width="320" />
 
 ---
 
@@ -879,7 +887,7 @@ gank.io unofficial client, RxJava & Retrofit
 
 一个看妹纸与开发资讯的Android APP，具有本地缓存、分享与添加收藏的功能，新手向大神学习的练手项目，来自代码家的API http://gank.io
 
-<img src="https://raw.githubusercontent.com/IvorHu/RealStuff/master/screenshoots/clearCache.png" width="320" /><img src="https://raw.githubusercontent.com/IvorHu/RealStuff/master/screenshoots/navigation.png" width="320" /><img src="https://raw.githubusercontent.com/IvorHu/RealStuff/master/screenshoots/about.png" width="320" />
+<img src="https://raw.githubusercontent.com/IvorHu/RealStuff/master/screenshoots/clearCache.png" width="320" /> <img src="https://raw.githubusercontent.com/IvorHu/RealStuff/master/screenshoots/navigation.png" width="320" /> <img src="https://raw.githubusercontent.com/IvorHu/RealStuff/master/screenshoots/about.png" width="320" />
 
 ---
 
