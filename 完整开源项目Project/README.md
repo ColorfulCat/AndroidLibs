@@ -490,6 +490,14 @@ A simple audio player for Android applications
 
 ---
 
+**remusic**: https://github.com/aa112901/remusic
+
+仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载
+
+<img src="https://raw.githubusercontent.com/aa112901/remusic/master/screenshot/1%20(2).png" width="270" /> <img src="https://raw.githubusercontent.com/aa112901/remusic/master/screenshot/device-2016-08-18-213321.png" /> <img src="https://raw.githubusercontent.com/aa112901/remusic/master/screenshot/device-2016-03-24-133544%20(%E5%A4%8D%E5%88%B6).png" width="270" />
+
+---
+
 **MusicStreamer**: https://github.com/harjot-oberai/MusicStreamer
 
 一个超漂亮的音乐播放器！尤其是音频的可视化功能，超炫酷
