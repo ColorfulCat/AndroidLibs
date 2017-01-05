@@ -807,6 +807,14 @@ A third party app for androidweekly.net
 
 ---
 
+**FakeWeather**: https://github.com/li-yu/FakeWeather
+
+『假装看天气』─── 天气预报 & 公交查询 & 资讯阅读 & 妹纸福利 的 Android 客户端
+
+<img src="https://raw.githubusercontent.com/li-yu/FakeWeather/master/screenshot.png" width="640" />
+
+---
+
 **FlipGank**: https://github.com/yiyuanliu/FlipGank
 
 FlipBoard 翻页风格的 Gank.io 客户端
