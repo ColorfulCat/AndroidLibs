@@ -14,6 +14,14 @@
 
 ---
 
+**PathAnimView**: https://github.com/mcxtzhang/PathAnimView
+
+用于做Path动画的自定义View
+
+<img src="https://raw.githubusercontent.com/mcxtzhang/PathAnimView/master/gif/tieta.gif" width="320" /> <img src="https://raw.githubusercontent.com/mcxtzhang/PathAnimView/master/gif/qianbihua.gif" width="320" />
+
+---
+
 **SlideUp-Android**: https://github.com/mancj/SlideUp-Android
 
 Android 卡片滑动出现和消失效果
