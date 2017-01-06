@@ -6,11 +6,9 @@
 
 ---
 
-**HatkeMessenger**: https://github.com/webianks/HatkeMessenger
+**Hijacker**: https://github.com/chrisk44/Hijacker
 
-HatkeMessenger
-
-<img src="https://raw.githubusercontent.com/webianks/HatkeMessenger/master/screens/screen1.png" width="320" /> <img src="https://raw.githubusercontent.com/webianks/HatkeMessenger/master/screens/screen2.png" width="320" />
+Aircrack-ng Android GUI程序，用于攻击无线网络
 
 ---
 
