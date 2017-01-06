@@ -22,6 +22,14 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**GABottleLoading**: https://github.com/Ajian-studio/GABottleLoading
+
+Bezier storm（贝塞尔风暴）
+
+<img src="https://raw.githubusercontent.com/Ajian-studio/GABottleLoading/master/raw/totalAnimation.gif" width="300" />
+
+---
+
 **EmojiRain**: https://github.com/Luolc/EmojiRain
 
 仿微信掉落表情包效果
