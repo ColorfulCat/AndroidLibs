@@ -6,6 +6,14 @@
 
 ---
 
+**android-animated-menu-items**: https://github.com/adonixis/android-animated-menu-items
+
+Android Toolbar 显示动态 Menu 菜单 Demo
+
+<img src="https://cloud.githubusercontent.com/assets/1766863/21596845/e0f10674-d162-11e6-9a6e-21614e66dff4.gif" width="320"/>
+
+---
+
 **TopRightMenu**: https://github.com/zaaach/TopRightMenu
 
 类似手机QQ界面右上角的弹出菜单，使用 recyclerview 和 popupwindow 封装了一下
