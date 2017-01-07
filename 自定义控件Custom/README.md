@@ -22,6 +22,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**InstagramLikeColorTransitionAndroid**: https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid
+
+Instagram风格颜色过渡
+
+<img src = "https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid/raw/master/images/screenshot.gif?raw=true" width = "270"/>
+
+---
+
 **PlayWidget**: https://github.com/Cleveroad/PlayWidget
 
 新颖独特的音乐播放布局
