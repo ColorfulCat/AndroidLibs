@@ -22,6 +22,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**ChatMessageView**: https://github.com/bassaer/ChatMessageView
+
+聊天布局
+
+<img src = "https://raw.githubusercontent.com/bassaer/ChatMessageView/master/screens.png" width = "640"/>
+
+---
+
 **InstagramLikeColorTransitionAndroid**: https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid
 
 Instagram风格颜色过渡
