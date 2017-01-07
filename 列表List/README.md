@@ -12,6 +12,14 @@ SwipeCardview for listing item or products
 
 ---
 
+**sectionedmergeadapter**: https://github.com/abacritt/sectionedmergeadapter
+
+Work with sub-sections in your Android ListView
+
+<img src="https://raw.githubusercontent.com/abacritt/sectionedmergeadapter/master/app/Screenshot_20160724-231927.png" width="320" />
+
+---
+
 **TwinklingRefreshLayout**: https://github.com/lcodecorex/TwinklingRefreshLayout
 
 TwinklingRefreshLayout 小而强大的刷新控件，自带顺滑的越界回弹
