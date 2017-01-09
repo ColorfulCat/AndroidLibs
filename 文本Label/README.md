@@ -376,6 +376,14 @@ Very long text support for Android
 
 ---
 
+**AnimShopButton**: https://github.com/mcxtzhang/AnimShopButton
+
+一个带伸缩位移旋转动画的购物车按钮
+
+<img src="https://raw.githubusercontent.com/mcxtzhang/AnimShopButton/master/gif/new.gif" width="320" /> <img src="https://raw.githubusercontent.com/mcxtzhang/AnimShopButton/master/gif/testAttr.gif" width="320" />
+
+---
+
 **ElegantNumberButton**: https://github.com/ashik94vc/ElegantNumberButton
 
 Brought to you by cepheuen http://www.cepheuen.com
