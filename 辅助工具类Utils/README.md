@@ -42,6 +42,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**redexer**: https://github.com/plum-umd/redexer
+
+The Redexer binary instrumentation framework for Dalvik bytecode
+
+---
+
 **adt4j**: https://github.com/sviperll/adt4j
 
 adt4j - Algebraic Data Types for Java
