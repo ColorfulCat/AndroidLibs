@@ -14,6 +14,14 @@
 
 ---
 
+**EasyFlipView**: https://github.com/wajahatkarim3/EasyFlipView
+
+Android 横向翻转效果，支持双面的 View 场景
+
+<img src="https://raw.githubusercontent.com/wajahatkarim3/EasyFlipView/master/Art/demo.gif" width="252" />
+
+---
+
 **PathAnimView**: https://github.com/mcxtzhang/PathAnimView
 
 用于做Path动画的自定义View
