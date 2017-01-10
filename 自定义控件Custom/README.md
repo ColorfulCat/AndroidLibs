@@ -22,6 +22,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**ViewSpreadTranslationController**: https://github.com/zhangke3016/ViewSpreadTranslationController
+
+两行代码搞定Android视图扩散切换效果
+
+<img src = "https://raw.githubusercontent.com/zhangke3016/ViewSpreadTranslationController/master/gif/screen1.gif" width = "320"/> <img src = "https://raw.githubusercontent.com/zhangke3016/ViewSpreadTranslationController/master/gif/screen2.gif" width = "320"/>
+
+---
+
 **ChatMessageView**: https://github.com/bassaer/ChatMessageView
 
 聊天布局
