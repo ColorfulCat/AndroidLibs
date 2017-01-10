@@ -12,6 +12,14 @@ A Radio Group layout to show radio buttons in more than one line
 
 ---
 
+**CounterFab**: https://github.com/andremion/CounterFab
+
+支持计数效果的 FloatingActionButton
+
+<img src="https://raw.githubusercontent.com/andremion/CounterFab/master/art/sample.gif" width="270" />
+
+---
+
 **TextFloatingActionButton**: https://github.com/EdSergeev/TextFloatingActionButton
 
 Android floating action button (fab) with text
