@@ -20,6 +20,13 @@ Aircrack-ng Android GUI程序，用于攻击无线网络
 
 ---
 
+**wifi-bruteforcer-fsecurify**: https://github.com/faizann24/wifi-bruteforcer-fsecurify
+
+Android 下实现的 Wifi 暴力破解工具
+
+<img src="https://raw.githubusercontent.com/faizann24/wifi-bruteforcer-fsecurify/master/1280.jpg" width="640" />
+---
+
 **ZhiHu-TopAnswer**: https://github.com/jiang111/ZhiHu-TopAnswer
 
 知乎热门榜
