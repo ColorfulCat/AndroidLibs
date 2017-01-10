@@ -590,14 +590,6 @@ EasyForm makes a form creation and field validation easy
 
 ---
 
-**QingtingBannerView**: https://github.com/JeasonWong/QingtingBannerView
-
-仿蜻蜓FM轮播banner
-
-<img src="https://camo.githubusercontent.com/4f8407f247989bf6d4a5f13d02f6e94f97bd23ba/687474703a2f2f69312e6275696d672e636f6d2f343963626264646632396364343838322e676966" width="320" />
-
----
-
 **k4l-video-trimmer**: https://github.com/knowledge4life/k4l-video-trimmer
 
 视频裁剪
@@ -727,6 +719,22 @@ YouTube 控制播放
 视差效果 ViewPager
 
 <img src="https://raw.githubusercontent.com/ybq/ParallaxViewPager/master/art/screen.gif" width="160" />
+
+---
+
+**Android-ConvenientBanner**: https://github.com/saiwu-bigkoo/Android-ConvenientBanner
+
+通用的广告栏控件，让你轻松实现广告头效果。支持无限轮播
+
+<img src="https://github.com/saiwu-bigkoo/Android-ConvenientBanner/raw/master/preview/convenientbannerdemo.gif" width="320" />
+
+---
+
+**QingtingBannerView**: https://github.com/JeasonWong/QingtingBannerView
+
+仿蜻蜓FM轮播banner
+
+<img src="https://camo.githubusercontent.com/4f8407f247989bf6d4a5f13d02f6e94f97bd23ba/687474703a2f2f69312e6275696d672e636f6d2f343963626264646632396364343838322e676966" width="320" />
 
 ---
 
