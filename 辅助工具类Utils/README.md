@@ -2002,6 +2002,14 @@ Debug and QA tool for android
 
 ---
 
+**ApkMultiChannelPlugin**: https://github.com/nukc/ApkMultiChannelPlugin
+
+Android 多渠道打包的 Android Studio / IDEA 插件
+
+<img src="https://raw.githubusercontent.com/nukc/ApkMultiChannelPlugin/master/art/setting.png" width="320" />
+
+---
+
 **ApkChannelBuilder**: https://github.com/baoyongzhang/ApkChannelBuilder
 
 一个 Mac App，用于 Apk 多渠道打包
