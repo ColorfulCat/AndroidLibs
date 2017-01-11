@@ -12,6 +12,14 @@ EZPhotoPicker
 
 ---
 
+**PictureSelector**: https://github.com/LuckSiege/PictureSelector
+
+android多图选择器 图片/视频 单选or多选，以及视频录制
+
+<img src = "https://raw.githubusercontent.com/LuckSiege/PictureSelector/master/image/A574F86A9A9F42A77D03B0ACC9E761C9.jpg" width = "320"/> <img src = "https://raw.githubusercontent.com/LuckSiege/PictureSelector/master/image/0F918EB15954836F59A95A3F7E0D2012.jpg" width = "320"/>
+
+---
+
 **PanoramaImageView**: https://github.com/gjiazhe/PanoramaImageView
 
 通过监听手腕旋转进行交互，自动滚动图片
