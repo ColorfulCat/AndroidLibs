@@ -707,6 +707,14 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**MarqueeViewLibrary**: https://github.com/gongwen/MarqueeViewLibrary
+
+一个帮您快速实现跑马灯效果的library
+
+<img src="https://raw.githubusercontent.com/gongwen/MarqueeViewLibrary/master/screenshot/screen_shot.gif" width="300" />
+
+---
+
 **MarqueeViewDemo**: https://github.com/gongwen/MarqueeViewDemo
 
 为跑马灯效果而写的View
