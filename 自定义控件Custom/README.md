@@ -30,6 +30,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**Android-SwitchIcon**: https://github.com/zagum/Android-SwitchIcon
+
+Android 状态切换按钮效果
+
+<img src = "https://raw.githubusercontent.com/zagum/Android-SwitchIcon/master/art/sample.gif" width = "300"/>
+
+---
+
 **ChatMessageView**: https://github.com/bassaer/ChatMessageView
 
 聊天布局
