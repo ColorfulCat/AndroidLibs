@@ -6,6 +6,12 @@
 
 ---
 
+**wechat_no_revoke**: https://github.com/rarnu/wechat_no_revoke
+
+最新可用防止微信撤回xposed插件
+
+---
+
 **Hijacker**: https://github.com/chrisk44/Hijacker
 
 Aircrack-ng Android GUI程序，用于攻击无线网络
