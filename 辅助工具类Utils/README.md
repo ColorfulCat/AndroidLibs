@@ -754,6 +754,14 @@ Gradle tips for all of us
 
 ---
 
+**Dream-Catcher**: https://github.com/misakuo/Dream-Catcher
+
+在Chrome DevTools内查看Android设备上所有HTTP(S)流量
+
+<img src="https://camo.githubusercontent.com/fca4d6ebedcef761b39f3f4fda56c5cbef1a45ac/68747470733a2f2f6f6f6f2e306f302e6f6f6f2f323031362f31322f31332f353834663761303434653166612e706e67" width="320"/> <img src="https://camo.githubusercontent.com/ffff627417220fc33fd868a092a7419db48d476c/68747470733a2f2f6f6f6f2e306f302e6f6f6f2f323031362f31322f31332f353834663761343233306162612e706e67" width="540"/>
+
+---
+
 **Stetho-Couchbase**: https://github.com/RobotPajamas/Stetho-Couchbase
 
 Stetho-Couchbase is a plugin for Stetho to enable visualizing and debugging Android Couchbase databases in Chrome
