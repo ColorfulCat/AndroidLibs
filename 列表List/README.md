@@ -12,6 +12,14 @@ SwipeCardview for listing item or products
 
 ---
 
+**ShimmerRecyclerView**: https://github.com/sharish/ShimmerRecyclerView
+
+类似 Facebook 加载时，条目的闪烁效果
+
+<img src="https://raw.githubusercontent.com/sharish/ShimmerRecyclerView/master/screenshots/list_demo.gif" width="320" /> <img src="https://raw.githubusercontent.com/sharish/ShimmerRecyclerView/master/screenshots/grid_demo.gif" width="320" />
+
+---
+
 **sectionedmergeadapter**: https://github.com/abacritt/sectionedmergeadapter
 
 Work with sub-sections in your Android ListView
