@@ -81,6 +81,14 @@ A sample Android app which showcases advanced usage of Dagger among other open s
 
 ---
 
+**LoveWallpaper**: https://github.com/LiuGuiLinAndroid/LoveWallpaper
+
+高仿爱壁纸App | Material Design
+
+<img src="https://github.com/LiuGuiLinAndroid/LoveWallpaper/raw/master/preview/preview1.0.png?raw=true" width="800" />
+
+---
+
 **wallsplash-android**: https://github.com/mikepenz/wallsplash-android
 
 android client for the awesome unsplash.com
