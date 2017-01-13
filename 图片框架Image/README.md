@@ -12,6 +12,14 @@ EZPhotoPicker
 
 ---
 
+**AnchorImageView**: https://github.com/jcodeing/AnchorImageView
+
+支持给图片加锚点的 Android 组件
+
+<img src = "https://raw.githubusercontent.com/jcodeing/AnchorImageView/master/lookme.gif" width = "320"/>
+
+---
+
 **PictureSelector**: https://github.com/LuckSiege/PictureSelector
 
 android多图选择器 图片/视频 单选or多选，以及视频录制
