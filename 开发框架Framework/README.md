@@ -439,6 +439,14 @@ a night model lib for easy change app's night theme
 
 ---
 
+**Colorful**：https://github.com/garretyoder/Colorful
+
+安卓动态换肤
+
+<img src="https://raw.githubusercontent.com/garretyoder/Colorful/master/screenshots/art1.png" width="320"/> <img src="https://raw.githubusercontent.com/garretyoder/Colorful/master/screenshots/art2.png" width="320"/>
+
+---
+
 **MultipleTheme**：https://github.com/dersoncheng/MultipleTheme
 
 Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity when you switch theme-mode.
