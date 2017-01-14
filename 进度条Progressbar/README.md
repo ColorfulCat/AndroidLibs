@@ -6,6 +6,14 @@
 
 ---
 
+**pageloader**: https://github.com/arieridwan8/pageloader
+
+自定义布局加载
+ 
+<img src = "https://raw.githubusercontent.com/arieridwan8/pageloader/master/screenshots/demo.gif" width = "270"/>
+
+---
+
 **GADownloading**: https://github.com/Ajian-studio/GADownloading
 
 蛮有创意的一发 Android 下载效果
