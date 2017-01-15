@@ -423,6 +423,15 @@ An Android Holo themed colorpicker designed by Marie Schweiz
 
 ---
 
+**colorpicker**:  https://github.com/jrummyapps/colorpicker
+
+A highly customizable color picker for Android
+
+<img src="https://raw.githubusercontent.com/jrummyapps/colorpicker/master/art/demo.gif" width="320" />
+<img src="https://raw.githubusercontent.com/jrummyapps/colorpicker/master/art/screenshot3.png" width="320" />
+
+---
+
 **colorpicker**:  https://github.com/QuadFlask/colorpicker
 
 color picker for android
