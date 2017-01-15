@@ -134,6 +134,12 @@ Android 原生库依赖解析Gradle插件
 
 ---
 
+**gradle-profiler**: https://github.com/gradle/gradle-profiler
+
+A tool for gathering profiling and benchmarking information for Gradle builds
+
+---
+
 **xtext-gradle-plugin**: https://github.com/xtext/xtext-gradle-plugin
 
 Gradle plugins for using Xtext and Xtend
