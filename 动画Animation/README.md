@@ -22,6 +22,14 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**DesertPlaceholder**: https://github.com/JetradarMobile/DesertPlaceholder
+
+Animated placeholder in desert style
+
+<img src="https://raw.githubusercontent.com/JetradarMobile/DesertPlaceholder/master/art/desertplaceholder.gif" width="270" />
+
+---
+
 **GABottleLoading**: https://github.com/Ajian-studio/GABottleLoading
 
 Bezier storm（贝塞尔风暴）
