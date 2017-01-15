@@ -22,6 +22,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**Carousel-Notification**: https://github.com/shaileshmamgain5/Carousel-Notification
+
+Carousel-Notification lets you make carousel type notification where user can navigate within the notification. Selected item can be obtained using a broadcast receiver
+
+<img src = "https://raw.githubusercontent.com/shaileshmamgain5/Carousal-Notification/master/app/screenshots/carousal.png" width = "300"/> <img src = "https://raw.githubusercontent.com/shaileshmamgain5/Carousal-Notification/master/app/screenshots/carousal-notification.gif" width = "300"/>
+
+---
+
 **ViewSpreadTranslationController**: https://github.com/zhangke3016/ViewSpreadTranslationController
 
 两行代码搞定Android视图扩散切换效果
