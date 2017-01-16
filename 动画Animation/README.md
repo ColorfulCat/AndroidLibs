@@ -22,6 +22,14 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**AnimatedRecordingView**: https://github.com/HeZaiJin/AnimatedRecordingView
+
+一个有趣的Android录音动画
+
+<img src="https://github.com/HeZaiJin/AnimatedRecordingView/raw/master/screen_shot/animated_recording.gif" width="320" />
+
+---
+
 **DesertPlaceholder**: https://github.com/JetradarMobile/DesertPlaceholder
 
 Animated placeholder in desert style
