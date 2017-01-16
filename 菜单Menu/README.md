@@ -14,6 +14,14 @@ Android Toolbar 显示动态 Menu 菜单 Demo
 
 ---
 
+**hover**: https://github.com/google/hover
+
+Google 放出的 Android 浮动菜单效果
+
+<img src="https://raw.githubusercontent.com/matthew-carroll/hover/gh-pages/images/screenrecords/hover-demo-screenrecord.gif" width="270"/> <img src="https://raw.githubusercontent.com/matthew-carroll/hover/gh-pages/images/screenshots/hover-demo-homescreen.png" width="270"/> <img src="https://raw.githubusercontent.com/matthew-carroll/hover/gh-pages/images/screenshots/hover-demo-menu-intro.png" width="270"/>
+
+---
+
 **TopRightMenu**: https://github.com/zaaach/TopRightMenu
 
 类似手机QQ界面右上角的弹出菜单，使用 recyclerview 和 popupwindow 封装了一下
