@@ -2016,6 +2016,12 @@ Debug and QA tool for android
 
 ---
 
+**walle**: https://github.com/Meituan-Dianping/walle
+
+Android Signature V2 Scheme签名下的新一代渠道包打包神器
+
+---
+
 **ApkMultiChannelPlugin**: https://github.com/nukc/ApkMultiChannelPlugin
 
 Android 多渠道打包的 Android Studio / IDEA 插件
