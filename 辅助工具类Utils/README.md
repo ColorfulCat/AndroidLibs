@@ -134,6 +134,12 @@ Android 原生库依赖解析Gradle插件
 
 ---
 
+**gradle_plugin_android_aspectjx**: https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx
+
+一个在Android中应用Aspectj的Gradle插件。支持切AAR, JAR， 支持现在Android上最火的Kotlin
+
+---
+
 **gradle-profiler**: https://github.com/gradle/gradle-profiler
 
 A tool for gathering profiling and benchmarking information for Gradle builds
