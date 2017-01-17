@@ -60,6 +60,12 @@ adt4j - Algebraic Data Types for Java
 
 ---
 
+**droidReverse**: https://github.com/Juude/droidReverse
+
+android 逆向工程工具集
+
+---
+
 **AndroidProcesses**: https://github.com/jaredrummler/AndroidProcesses
 
 Get running processes on Android
