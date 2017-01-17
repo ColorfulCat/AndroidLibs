@@ -24,6 +24,12 @@ Based one Java Pair this library offers Triples, Quadriples and more (3 to 10 it
 
 ---
 
+**jOOR**: https://github.com/jOOQ/jOOR
+
+简单易用的安卓反射库
+
+---
+
 **PDD**: https://github.com/jparkie/PDD
 
 Advanced Bloom Filter Based Algorithms for Efficient Approximate Data De-Duplication in Streams
