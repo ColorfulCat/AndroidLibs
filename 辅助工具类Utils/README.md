@@ -222,18 +222,6 @@ Simple implementation of ForceTouch on Android
 
 ---
 
-**dnsproxy2**: https://github.com/cernekee/dnsproxy2
-
-DNS proxy for Android 4.3+
-
----
-
-**HTTPDNSLib**: https://github.com/CNSRE/HTTPDNSLib
-
-全局精确流量调度新思路-HttpDNS服务详解
-
----
-
 **RootHelper**: https://github.com/AndroidDeveloperLB/RootHelper
 
 An extension to use libsuperuser library more easily
@@ -449,6 +437,12 @@ Fluent design by contract constructs for android
 **AnalyticsKit-Android**: https://github.com/busybusy/AnalyticsKit-Android
 
 Analytics framework for Android
+
+---
+
+**icepick**: https://github.com/frankiesardo/icepick
+
+好用的状态保存库
 
 ---
 

@@ -6,6 +6,18 @@
 
 ---
 
+**dnsproxy2**: https://github.com/cernekee/dnsproxy2
+
+DNS proxy for Android 4.3+
+
+---
+
+**HTTPDNSLib**: https://github.com/CNSRE/HTTPDNSLib
+
+全局精确流量调度新思路-HttpDNS服务详解
+
+---
+
 **retrocache**: https://github.com/iagocanalejas/retrocache
 
 This library provides an easy way for configure retrofit for use a 2 layer cache (RAM and Disk)
