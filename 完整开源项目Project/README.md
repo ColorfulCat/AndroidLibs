@@ -6,6 +6,12 @@
 
 ---
 
+**GDG**: https://github.com/peekler/GDG
+
+一些不常用的安卓api示例
+
+---
+
 **wechat_no_revoke**: https://github.com/rarnu/wechat_no_revoke
 
 最新可用防止微信撤回xposed插件
