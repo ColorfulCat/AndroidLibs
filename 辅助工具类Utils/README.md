@@ -60,6 +60,12 @@ adt4j - Algebraic Data Types for Java
 
 ---
 
+**AndroidProcesses**: https://github.com/jaredrummler/AndroidProcesses
+
+Get running processes on Android
+
+---
+
 **HFunc**: https://github.com/TangXiaoLv/HFunc
 
 Java实现高阶函数，类似Python，支持串行并行计算，适用于Java和Android
