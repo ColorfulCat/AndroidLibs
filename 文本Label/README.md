@@ -600,6 +600,14 @@ Simple formatting options for TextView and EditText in the same way Whatsapp pro
 
 ---
 
+**Codeview**: https://github.com/tiagohm/CodeView
+
+代码格式高亮
+
+<img src="https://raw.githubusercontent.com/tiagohm/CodeView/master/1.png" width="320" /> <img src="https://raw.githubusercontent.com/tiagohm/CodeView/master/3.png" width="320" />
+
+---
+
 **Codeview**: https://github.com/avraampiperidis/Codeview
 
 代码格式高亮 in webview
