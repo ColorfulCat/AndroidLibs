@@ -22,6 +22,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**AndroidAppShortcuts**: https://github.com/michelelacorte/AndroidAppShortcuts
+
+支持7.0的快捷方式
+
+<img src = "https://camo.githubusercontent.com/0dcaa4bf8273844bc99207a8b9f9c159b509a078/687474703a2f2f692e67697068792e636f6d2f32366759426b38705178756477775751772e676966" width = "320"/>
+
+---
+
 **Carousel-Notification**: https://github.com/shaileshmamgain5/Carousel-Notification
 
 Carousel-Notification lets you make carousel type notification where user can navigate within the notification. Selected item can be obtained using a broadcast receiver
