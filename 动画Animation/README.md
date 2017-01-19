@@ -22,6 +22,14 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**GoogleMapsAnimations**: https://github.com/aarsy/GoogleMapsAnimations
+
+显示雷达和谷歌地图上的圆形涟漪波纹效应
+
+<img src="https://raw.githubusercontent.com/aarsy/GoogleMapsAnimations/master/gifs/Sample1.gif" width="320" /> <img src="https://raw.githubusercontent.com/aarsy/GoogleMapsAnimations/master/gifs/Sample3.gif" width="320" />
+
+---
+
 **AnimatedRecordingView**: https://github.com/HeZaiJin/AnimatedRecordingView
 
 一个有趣的Android录音动画
