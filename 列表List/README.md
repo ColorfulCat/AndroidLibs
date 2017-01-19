@@ -12,6 +12,14 @@ SwipeCardview for listing item or products
 
 ---
 
+**excelPanel**: https://github.com/zhouchaoyuan/excelPanel
+
+Android 用 RecyclerView 实现的二维 Excel 效果组件
+
+<img src="https://raw.githubusercontent.com/zhouchaoyuan/excelPanel/master/app/src/main/assets/roomFormDemo.gif" width="320" />
+
+---
+
 **ShimmerRecyclerView**: https://github.com/sharish/ShimmerRecyclerView
 
 类似 Facebook 加载时，条目的闪烁效果
