@@ -118,6 +118,14 @@ A simple Floating Action Button that shows an anchored Navigation View
 
 ---
 
+**Toasty**: https://github.com/GrenderG/Toasty
+
+美化原生 Toast
+
+<img src="https://raw.githubusercontent.com/GrenderG/Toasty/master/art/scr1.png" width="320" /> <img src="https://raw.githubusercontent.com/GrenderG/Toasty/master/art/scr2.png" width="320" />
+
+---
+
 **AchievementToast**: https://github.com/mkodekar/AchievementToast
 
 Alternative to show Toast or an alert message just inside your activity
