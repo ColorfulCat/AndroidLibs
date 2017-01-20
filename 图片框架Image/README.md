@@ -20,6 +20,14 @@ EZPhotoPicker
 
 ---
 
+**PickPhotoSample**: https://github.com/Werb/PickPhotoSample
+
+Photo Picker Of Android Library
+
+<img src = "https://raw.githubusercontent.com/Werb/PickPhotoSample/master/screenshots/select.png" width = "320"/> <img src = "https://raw.githubusercontent.com/Werb/PickPhotoSample/master/screenshots/show.png" width = "320"/>
+
+---
+
 **PictureSelector**: https://github.com/LuckSiege/PictureSelector
 
 android多图选择器 图片/视频 单选or多选，以及视频录制
