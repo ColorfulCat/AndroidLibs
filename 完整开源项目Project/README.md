@@ -32,6 +32,14 @@ Aircrack-ng Android GUI程序，用于攻击无线网络
 
 ---
 
+**QQ**: https://github.com/HuTianQi/QQ
+
+一款高仿腾讯QQ的IM软件，主UI框架采用侧滑菜单+底部导航的方式，核心聊天功能基于bmob SDK，已经实现文本，表情，图片，位置，语音等信息的发送
+
+<img src="https://github.com/HuTianQi/QQ/raw/master/QQ.gif" width="320" />
+
+---
+
 **wifi-bruteforcer-fsecurify**: https://github.com/faizann24/wifi-bruteforcer-fsecurify
 
 Android 下实现的 Wifi 暴力破解工具
