@@ -770,6 +770,14 @@ FlexboxLayout is a library project which brings the similar capabilities of CSS 
 
 ---
 
+**MaterialStatusBarCompat**: https://github.com/fython/MaterialStatusBarCompat
+
+完美地使 Kitkat 与 Lollipop 上的状态栏同时透明/变色
+
+<img src="https://raw.githubusercontent.com/fython/MaterialStatusBarCompat/master/art/Screenshot0.png" width="320" /> <img src="https://raw.githubusercontent.com/fython/MaterialStatusBarCompat/master/art/Screenshot2.png" width="320" />
+
+---
+
 **FlycoSystemBar**: https://github.com/H07000223/FlycoSystemBar
 
 A Tool for SystemBar include StatusBar and NavigationBar. http://app.bilibili.com/
@@ -780,7 +788,7 @@ A Tool for SystemBar include StatusBar and NavigationBar. http://app.bilibili.co
 
 **StatusBarUtil**: https://github.com/laobie/StatusBarUtil
 
-A util for setting status bar style on Android App. http://laobie.github.io/android/2016/03/27/statusbar-util.html
+状态栏工具, 沉浸式
 
 <img src="https://github.com/laobie/StatusBarUtil/blob/master/img/set_color_for_drawer_layout.png" width="480" />
 
