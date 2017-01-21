@@ -6,6 +6,12 @@
 
 ---
 
+**BypassPicassoImageGetter**: https://github.com/Commit451/BypassPicassoImageGetter
+
+Loads images for Bypass using Picasso
+
+---
+
 **EZPhotoPicker**: https://github.com/Siclo-Mobile/EZPhotoPicker
 
 EZPhotoPicker
