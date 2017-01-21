@@ -1895,6 +1895,12 @@ App-local sql logging with viewer activity
 
 ---
 
+**FLogger**：https://github.com/cyfonly/FLogger
+
+基于双缓冲队列、多刷盘机制的超轻量级 java 日志
+
+---
+
 **LogFilter**：https://github.com/smart-fun/LogFilter
 
 Simple Android library which filters Logs, for example by keeping only ERROR LOGS in RELEASE MODE
