@@ -22,6 +22,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**Swipper**: https://github.com/pkarira/Swipper
+
+手势控制库
+
+<img src = "https://raw.githubusercontent.com/pkarira/Swipper/19ec63a1f3833d8d12b21941bdf8bcd7fe8b62c0/library/src/main/res/drawable/finalfinal2.gif" width = "320"/> <img src = "https://raw.githubusercontent.com/pkarira/Swipper/19ec63a1f3833d8d12b21941bdf8bcd7fe8b62c0/library/src/main/res/drawable/finalfinal1.gif" width = "320"/>
+
+---
+
 **AndroidAppShortcuts**: https://github.com/michelelacorte/AndroidAppShortcuts
 
 支持7.0的快捷方式
