@@ -6,6 +6,12 @@
 
 ---
 
+**PixelAdjuster**: https://github.com/Commit451/PixelAdjuster
+
+Changes the color of individual pixels in a Bitmap
+
+---
+
 **BypassPicassoImageGetter**: https://github.com/Commit451/BypassPicassoImageGetter
 
 Loads images for Bypass using Picasso
