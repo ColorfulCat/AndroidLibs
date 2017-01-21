@@ -38,6 +38,12 @@ Learning RxJava for Android by example
 
 ---
 
+**Reptar**: https://github.com/Commit451/Reptar
+
+Roaring RxJava. A collection of useful RxJava 2.X classes
+
+---
+
 **RxAnimations**: https://github.com/0ximDigital/RxAnimations
 
 RxJava 封装的安卓动画库
