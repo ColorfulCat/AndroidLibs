@@ -702,6 +702,12 @@ Dismiss your keyboard by tapping anywhere outside it
 
 ---
 
+**Teleprinter**: https://github.com/Commit451/Teleprinter
+
+Android keyboard helper
+
+---
+
 **AnySoftKeyboard**: https://github.com/AnySoftKeyboard/AnySoftKeyboard
 
 Android (f/w 1.5+) on screen keyboard for multiple languages http://anysoftkeyboard.github.io/
