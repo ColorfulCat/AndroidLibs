@@ -12,6 +12,14 @@ SwipeCardview for listing item or products
 
 ---
 
+**LayoutSwitch**: https://github.com/gjiazhe/LayoutSwitch
+
+实现 RecyclerView 布局切换动画的示例
+
+<img src="https://raw.githubusercontent.com/gjiazhe/LayoutSwitch/master/screenshot/screenshot.gif" width="320" />
+
+---
+
 **excelPanel**: https://github.com/zhouchaoyuan/excelPanel
 
 Android 用 RecyclerView 实现的二维 Excel 效果组件
