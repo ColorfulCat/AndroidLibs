@@ -104,6 +104,14 @@ Android library for Date and Time Picker in same dialog
 
 ---
 
+**MaterialCalendar**: https://github.com/jMavarez/MaterialCalendar
+
+又一个漂亮的 Android MD 风格日历效果
+
+<img src="https://raw.githubusercontent.com/jMavarez/MaterialCalendar/master/images/example.png" width="300" />
+
+---
+
 **Cadar**: https://github.com/memfis19/Cadar
 
 类似 Google 日历的实现，做的不错
