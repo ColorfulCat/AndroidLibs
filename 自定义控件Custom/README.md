@@ -22,6 +22,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**proteus**: https://github.com/flipkart-incubator/proteus
+
+Android 通过 JSON 实现原生 UI 布局，太棒了这个
+
+<img src = "https://raw.githubusercontent.com/flipkart-incubator/proteus/master/assets/example-full.png" width = "320"/>
+
+---
+
 **Swipper**: https://github.com/pkarira/Swipper
 
 手势控制库
