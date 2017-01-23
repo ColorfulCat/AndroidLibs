@@ -146,6 +146,12 @@ Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and swi
 
 ---
 
+**rxlifecycle**: https://github.com/nekocode/rxlifecycle
+
+非侵入式的 RxLifecycle
+
+---
+
 **RxLifecycle**: https://github.com/trello/RxLifecycle
 
 Lifecycle handling APIs for Android apps using RxJava
