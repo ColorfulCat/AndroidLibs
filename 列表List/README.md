@@ -12,6 +12,14 @@ SwipeCardview for listing item or products
 
 ---
 
+**RecyclerStickyHeaderView**: https://github.com/TellH/RecyclerStickyHeaderView
+
+在RecyclerView上实现吸顶布局
+
+<img src="https://raw.githubusercontent.com/TellH/RecyclerStickyHeaderView/master/raw/effect.gif" width="320" />
+
+---
+
 **LayoutSwitch**: https://github.com/gjiazhe/LayoutSwitch
 
 实现 RecyclerView 布局切换动画的示例
