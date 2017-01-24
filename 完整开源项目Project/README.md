@@ -6,6 +6,14 @@
 
 ---
 
+**CameraFragment**: https://github.com/florent37/CameraFragment
+
+Fragment拍照摄像
+
+<img src = "https://raw.githubusercontent.com/florent37/CameraFragment/master/media/take_photo.gif" width = "320"/> <img src = "https://raw.githubusercontent.com/florent37/CameraFragment/master/media/switch_action.gif" width = "320"/>
+
+---
+
 **GDG**: https://github.com/peekler/GDG
 
 一些不常用的安卓api示例
