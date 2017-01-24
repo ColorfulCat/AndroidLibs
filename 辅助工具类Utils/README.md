@@ -48,6 +48,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**BuildPropEditor**: https://github.com/jrummyapps/BuildPropEditor
+
+Easily edit your build.prop file on Android
+
+---
+
 **redexer**: https://github.com/plum-umd/redexer
 
 The Redexer binary instrumentation framework for Dalvik bytecode
