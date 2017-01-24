@@ -22,6 +22,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**EdgeTranslucent**: https://github.com/qinci/EdgeTranslucent
+
+Android 任意View边沿渐变透明
+
+<img src="https://raw.githubusercontent.com/qinci/EdgeTranslucent/master/image/image.gif" width="260"/>
+
+---
+
 **proteus**: https://github.com/flipkart-incubator/proteus
 
 Android 通过 JSON 实现原生 UI 布局，太棒了这个
