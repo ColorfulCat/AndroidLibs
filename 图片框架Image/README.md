@@ -634,7 +634,7 @@ Tool for create complex morphing animations using VectorDrawables (allows morphi
 
 ---
 
-**AnimatedSvgView**: https://github.com/jaredrummler/AnimatedSvgView
+**AnimatedSvgView**: https://github.com/jrummyapps/AnimatedSvgView
 
 Animated SVG Drawing for Android
 
