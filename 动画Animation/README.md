@@ -22,6 +22,13 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**AndroidAnimations**: https://github.com/jrummyapps/AndroidAnimations
+
+A bunch of fun animations for Android
+
+<img src="https://raw.githubusercontent.com/jrummyapps/AndroidAnimations/master/art/technique.gif" width="320" />
+---
+
 **GoogleMapsAnimations**: https://github.com/aarsy/GoogleMapsAnimations
 
 显示雷达和谷歌地图上的圆形涟漪波纹效应
