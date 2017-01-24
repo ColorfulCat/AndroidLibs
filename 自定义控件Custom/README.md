@@ -22,6 +22,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**TimerView**: https://github.com/fashare2015/TimerView
+
+一个解耦良好的计时控件，可自由扩展
+
+<img src="https://raw.githubusercontent.com/fashare2015/TimerView/master/screen-record/dtv_fire.gif" width="240"/> <img src="https://raw.githubusercontent.com/fashare2015/TimerView/master/screen-record/mtv.gif" width="240"/>
+
+---
+
 **EdgeTranslucent**: https://github.com/qinci/EdgeTranslucent
 
 Android 任意View边沿渐变透明
