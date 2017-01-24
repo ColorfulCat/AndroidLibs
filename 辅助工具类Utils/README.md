@@ -48,6 +48,14 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**android-shell**: https://github.com/jrummyapps/android-shell
+
+Execute shell commands on Android
+
+<img src="https://raw.githubusercontent.com/jrummyapps/android-shell/master/demo/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="180"/>
+
+---
+
 **BuildPropEditor**: https://github.com/jrummyapps/BuildPropEditor
 
 Easily edit your build.prop file on Android
