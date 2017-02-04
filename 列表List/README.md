@@ -12,6 +12,14 @@ SwipeCardview for listing item or products
 
 ---
 
+**SimpleRecyclerView**: https://github.com/jaychang0917/SimpleRecyclerView
+
+A RecyclerView extension for building list more easily
+
+<img src="https://github.com/jaychang0917/SimpleRecyclerView/raw/master/art/basic_usage.gif" width="320" />
+
+---
+
 **RecyclerStickyHeaderView**: https://github.com/TellH/RecyclerStickyHeaderView
 
 在RecyclerView上实现吸顶布局
