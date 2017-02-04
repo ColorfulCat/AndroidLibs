@@ -24,6 +24,14 @@ EZPhotoPicker
 
 ---
 
+**Louvre**: https://github.com/andremion/Louvre
+
+又一个漂亮的 Android 图片选择工具库
+
+<img src = "https://raw.githubusercontent.com/andremion/Louvre/master/art/sample.gif" width = "320"/>
+
+---
+
 **AnchorImageView**: https://github.com/jcodeing/AnchorImageView
 
 支持给图片加锚点的 Android 组件
