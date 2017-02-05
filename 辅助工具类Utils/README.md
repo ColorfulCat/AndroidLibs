@@ -24,6 +24,12 @@ Based one Java Pair this library offers Triples, Quadriples and more (3 to 10 it
 
 ---
 
+**SQLite2XL**: https://github.com/androidmads/SQLite2XL
+
+Library to Convert SQLite to Excel
+
+---
+
 **jOOR**: https://github.com/jOOQ/jOOR
 
 简单易用的安卓反射库
