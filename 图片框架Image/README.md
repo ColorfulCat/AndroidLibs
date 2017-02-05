@@ -6,6 +6,14 @@
 
 ---
 
+**android-close-pixelate**: https://github.com/bmaslakov/android-close-pixelate
+
+安卓图片模糊，像素化
+
+<img src = "https://raw.githubusercontent.com/bmaslakov/android-close-pixelate/master/screenshots/giraffe.jpg" width = "320"/> <img src = "https://raw.githubusercontent.com/bmaslakov/android-close-pixelate/master/screenshots/giraffe.png" width = "320"/>
+
+---
+
 **PixelAdjuster**: https://github.com/Commit451/PixelAdjuster
 
 Changes the color of individual pixels in a Bitmap
