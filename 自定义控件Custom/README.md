@@ -30,6 +30,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**SharePanel**: https://github.com/architjn/SharePanel
+
+A small Behavior Example
+
+<img src="https://github.com/architjn/SharePanel/raw/master/demo.gif" width="260"/>
+
+---
+
 **EdgeTranslucent**: https://github.com/qinci/EdgeTranslucent
 
 Android 任意View边沿渐变透明
