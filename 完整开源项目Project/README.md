@@ -872,6 +872,14 @@ A third party app for androidweekly.net
 
 ---
 
+**RxGank**: https://github.com/sfsheng0322/RxGank
+
+干货集中营Android客户端
+
+<img src="https://raw.githubusercontent.com/sfsheng0322/RxGank/master/res/RxGank.gif" width="320" />
+
+---
+
 **FlipGank**: https://github.com/yiyuanliu/FlipGank
 
 FlipBoard 翻页风格的 Gank.io 客户端
