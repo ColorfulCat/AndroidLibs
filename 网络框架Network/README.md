@@ -6,6 +6,12 @@
 
 ---
 
+**jurl**: https://github.com/anthonynsimon/jurl
+
+Fast and simple URL parsing for Java, with UTF-8 and path resolving support
+
+---
+
 **dnsproxy2**: https://github.com/cernekee/dnsproxy2
 
 DNS proxy for Android 4.3+
