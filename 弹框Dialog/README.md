@@ -118,6 +118,14 @@ A simple Floating Action Button that shows an anchored Navigation View
 
 ---
 
+**StyleableToast**: https://github.com/Muddz/StyleableToast
+
+StyleableToast
+
+<img src="https://raw.githubusercontent.com/Muddz/StyleableToast/master/showcase.png" width="600" />
+
+---
+
 **Toasty**: https://github.com/GrenderG/Toasty
 
 美化原生 Toast
