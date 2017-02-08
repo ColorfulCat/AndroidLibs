@@ -6,6 +6,14 @@
 
 ---
 
+**PreviewSeekBar**: https://github.com/rubensousa/PreviewSeekBar
+
+支持视频 Preview 效果的 Seekbar
+ 
+<img src = "https://raw.githubusercontent.com/rubensousa/PreviewSeekBar/master/screenshots/sample.gif" width = "600"/>
+
+---
+
 **pageloader**: https://github.com/arieridwan8/pageloader
 
 自定义布局加载
