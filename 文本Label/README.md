@@ -448,6 +448,14 @@ Badge 风格的 TextView，支持 Shadow 和 Elevation
 
 ---
 
+**BadgeView**: https://github.com/qstumn/BadgeView
+
+一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView
+
+<img src="https://raw.githubusercontent.com/qstumn/BadgeView/master/demo_gif.gif" width="320" />
+
+---
+
 **BadgeView**: https://github.com/AlexLiuSheng/BadgeView
 
 a BadeView base on android
