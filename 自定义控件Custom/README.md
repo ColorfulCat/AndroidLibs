@@ -737,14 +737,6 @@ Bootstrap style widgets for Android, with Glyph Icons
 
 ---
 
-**CreditCardEntry**: [https://github.com/dbachelder/CreditCardEntry](https://github.com/dbachelder/CreditCardEntry)
-
-Smooth UI for Credit Card Entry on Android device, regex check for supported credit card types and luhn check. Inspired by Square credit card entry interface
-
-<img src="https://camo.githubusercontent.com/6d7229538227b001c51bf534e0ec05f598d2fa5d/68747470733a2f2f7261772e6769746875622e636f6d2f6462616368656c6465722f43726564697443617264456e7472792f6d61737465722f64656d6f2e676966" width="320" />
-
----
-
 **dspec**: [https://github.com/lucasr/dspec](https://github.com/lucasr/dspec)
 
 Define and render UI specs on top of your Android UI

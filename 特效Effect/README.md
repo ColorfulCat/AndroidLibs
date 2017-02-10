@@ -512,6 +512,22 @@ An Android library allowing images to exhibit a parallax effect that reacts to t
 
 ---
 
+**android-sumbit-credit-card-flow**: https://github.com/adonixis/android-sumbit-credit-card-flow
+
+Android 信用卡提交效果
+
+<img src="https://cloud.githubusercontent.com/assets/1766863/22521376/afb55130-e8d9-11e6-92e2-e6bcbf2ba6aa.gif" width="320" />
+
+---
+
+**CreditCardEntry**: https://github.com/dbachelder/CreditCardEntry
+
+Smooth UI for Credit Card Entry on Android device, regex check for supported credit card types and luhn check. Inspired by Square credit card entry interface
+
+<img src="https://camo.githubusercontent.com/6d7229538227b001c51bf534e0ec05f598d2fa5d/68747470733a2f2f7261772e6769746875622e636f6d2f6462616368656c6465722f43726564697443617264456e7472792f6d61737465722f64656d6f2e676966" width="320" />
+
+---
+
 **MaterialColdStart**: https://github.com/DreaminginCodeZH/MaterialColdStart
 
 Utilize the window background during cold start time to make your app look faster.
