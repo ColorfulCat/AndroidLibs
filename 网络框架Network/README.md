@@ -14,6 +14,14 @@ Android App 内网络调试工具，超实用
 
 ---
 
+**StatusView**: https://github.com/iammert/StatusView
+
+简洁优雅的网络状态提示
+
+<img src="https://raw.githubusercontent.com/iammert/StatusView/master/art/art.gif" width="270" />
+
+---
+
 **nonet**: https://github.com/keiferstone/nonet
 
 安卓网络连接监测
