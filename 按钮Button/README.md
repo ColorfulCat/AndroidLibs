@@ -12,6 +12,14 @@ A Radio Group layout to show radio buttons in more than one line
 
 ---
 
+**slideview**: https://github.com/MAXDeliveryNG/slideview
+
+很有新意的一个滑动效果库
+
+<img src="https://raw.githubusercontent.com/MAXDeliveryNG/slideview/master/art/screenshot_1.png" width="270" />
+
+---
+
 **CounterFab**: https://github.com/andremion/CounterFab
 
 支持计数效果的 FloatingActionButton
