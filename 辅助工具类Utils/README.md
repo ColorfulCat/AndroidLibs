@@ -68,6 +68,12 @@ java 字符串加解密
 
 ---
 
+**java-aes-crypto**: https://github.com/tozny/java-aes-crypto
+
+java 字符串加解密
+
+---
+
 **Store**: https://github.com/NYTimes/Store
 
 Store是一个异步数据加载和缓存数据的库
