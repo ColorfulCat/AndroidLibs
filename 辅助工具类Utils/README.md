@@ -62,6 +62,12 @@ Execute shell commands on Android
 
 ---
 
+**Encryption**: https://github.com/simbiose/Encryption
+
+java 字符串加解密
+
+---
+
 **Store**: https://github.com/NYTimes/Store
 
 Store是一个异步数据加载和缓存数据的库
