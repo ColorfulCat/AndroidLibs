@@ -62,6 +62,12 @@ Execute shell commands on Android
 
 ---
 
+**Store**: https://github.com/NYTimes/Store
+
+Store是一个异步数据加载和缓存数据的库
+
+---
+
 **BuildPropEditor**: https://github.com/jrummyapps/BuildPropEditor
 
 Easily edit your build.prop file on Android
