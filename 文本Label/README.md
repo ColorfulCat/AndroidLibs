@@ -6,6 +6,14 @@
 
 ---
 
+**dante**: https://github.com/fourlastor/dante
+
+Android 富文本（HTML）解析库，渲染的非常漂亮
+
+<img src="https://raw.githubusercontent.com/fourlastor/dante/master/images/screencast.gif" width="320"/>
+
+---
+
 **stencil**: https://github.com/thoughtbot/stencil
 
 Android library, written exclusively in kotlin, for animating the path created from text
