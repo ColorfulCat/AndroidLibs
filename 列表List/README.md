@@ -12,6 +12,14 @@ SwipeCardview for listing item or products
 
 ---
 
+**ShimmerRecyclerView**: https://github.com/sharish/ShimmerRecyclerView
+
+ShimmerRecyclerView
+
+<img src="https://raw.githubusercontent.com/sharish/ShimmerRecyclerView/master/screenshots/list_demo.gif" width="320" /> <img src="https://raw.githubusercontent.com/sharish/ShimmerRecyclerView/master/screenshots/grid_demo.gif" width="320" />
+
+---
+
 **SimpleRecyclerView**: https://github.com/jaychang0917/SimpleRecyclerView
 
 A RecyclerView extension for building list more easily
