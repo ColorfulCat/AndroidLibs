@@ -104,6 +104,14 @@ Android library for Date and Time Picker in same dialog
 
 ---
 
+**WeekCalendar**: https://github.com/loonggg/WeekCalendar
+
+周日历
+
+<img src="https://raw.githubusercontent.com/loonggg/WeekCalendar/master/image/ss.gif" width="300" />
+
+---
+
 **MaterialCalendar**: https://github.com/jMavarez/MaterialCalendar
 
 又一个漂亮的 Android MD 风格日历效果
