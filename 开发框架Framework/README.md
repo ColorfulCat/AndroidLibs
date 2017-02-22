@@ -439,6 +439,14 @@ a night model lib for easy change app's night theme
 
 ---
 
+**Android-skin-support**: https://github.com/ximsfei/Android-skin-support
+
+一款用心去做的Android 换肤框架, 极低的学习成本, 极好的用户体验. 只需要两行代码, 就可以实现换肤
+
+<img src="https://raw.githubusercontent.com/ximsfei/Res/master/skin-demo/red_3.png" width="120"/> <img src="https://raw.githubusercontent.com/ximsfei/Res/master/skin-demo/white_3.png" width="120"/> <img src="https://raw.githubusercontent.com/ximsfei/Res/master/skin-demo/night_3.png" width="120"/>
+
+---
+
 **Colorful**：https://github.com/garretyoder/Colorful
 
 安卓动态换肤
