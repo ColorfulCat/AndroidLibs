@@ -4,6 +4,17 @@
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
+
+---
+
+**ExpectAnim**: https://github.com/florent37/ExpectAnim
+
+通过描述来实现动画方案
+
+<img src="https://raw.githubusercontent.com/florent37/ExpectAnim/master/media/sample.gif" width="320" /> 
+<img src="https://raw.githubusercontent.com/florent37/ExpectAnim/master/media/scroll.gif" width="320" />
+
+
 ---
 
 **SwipeCardview**: https://github.com/iravul/SwipeCardview
@@ -16,7 +27,8 @@ SwipeCardview for listing item or products
 
 ShimmerRecyclerView
 
-<img src="https://raw.githubusercontent.com/sharish/ShimmerRecyclerView/master/screenshots/list_demo.gif" width="320" /> <img src="https://raw.githubusercontent.com/sharish/ShimmerRecyclerView/master/screenshots/grid_demo.gif" width="320" />
+<img src="https://raw.githubusercontent.com/sharish/ShimmerRecyclerView/master/screenshots/list_demo.gif" width="320" /> 
+<img src="https://raw.githubusercontent.com/sharish/ShimmerRecyclerView/master/screenshots/grid_demo.gif" width="320" />
 
 ---
 
