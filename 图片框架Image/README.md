@@ -6,6 +6,12 @@
 
 ---
 
+**skia**: https://github.com/google/skia
+
+Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. https://skia.org
+
+---
+
 **android-close-pixelate**: https://github.com/bmaslakov/android-close-pixelate
 
 安卓图片模糊，像素化
