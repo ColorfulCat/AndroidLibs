@@ -30,14 +30,6 @@ A bunch of fun animations for Android
 
 ---
 
-**ExpectAnim**: https://github.com/florent37/ExpectAnim
-
-通过描述来实现动画方案，好玩儿，实用
-
-<img src="https://raw.githubusercontent.com/florent37/ExpectAnim/master/media/sample.gif" width="320" />
-
----
-
 **GoogleMapsAnimations**: https://github.com/aarsy/GoogleMapsAnimations
 
 显示雷达和谷歌地图上的圆形涟漪波纹效应

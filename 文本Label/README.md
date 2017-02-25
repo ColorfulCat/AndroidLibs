@@ -6,6 +6,14 @@
 
 ---
 
+**tailor**: https://github.com/lovoo/tailor
+
+EditText 一键清空
+
+<img src="https://raw.githubusercontent.com/lovoo/tailor/master/tailor-demo.gif" width="320"/>
+
+---
+
 **dante**: https://github.com/fourlastor/dante
 
 Android 富文本（HTML）解析库，渲染的非常漂亮
