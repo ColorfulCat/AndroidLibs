@@ -60,6 +60,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**AnalysisApp**: https://github.com/fengzhizi715/AnalysisApp
+
+快速分析某个app使用哪些sdk的java小工具
+
+---
+
 **SmsVerifyCatcher**: https://github.com/stfalcon-studio/SmsVerifyCatcher
 
 获取短信验证码
