@@ -6,6 +6,12 @@
 
 ---
 
+**MVPArt**：https://github.com/JessYanCoding/MVPArt
+
+A New Android MVP Architecture http://www.jianshu.com/p/ac51c9b88af3
+
+---
+
 **MVPArms**：https://github.com/JessYanCoding/MVPArms
 
 一个整合了大量主流开源项目的Android Mvp快速搭建框架
