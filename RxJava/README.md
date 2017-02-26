@@ -44,6 +44,14 @@ Roaring RxJava. A collection of useful RxJava 2.X classes
 
 ---
 
+**RxAndroidDownload**: https://github.com/ZLOVE320483/RxAndroidDownload
+
+RxAndroid + MultiThread + Service + Download
+
+<img src="https://raw.githubusercontent.com/ZLOVE320483/RxAndroidDownload/master/RxAndroidDownload/img/rxdownload_1.png" width="320" />
+
+---
+
 **RxAnimations**: https://github.com/0ximDigital/RxAnimations
 
 RxJava 封装的安卓动画库
