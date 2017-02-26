@@ -346,38 +346,6 @@ Set of handy classes
 
 ---
 
-**AndroidAudioRecorder**: https://github.com/adrielcafe/AndroidAudioRecorder
-
-安卓音频录制库
-
-<img src="https://raw.githubusercontent.com/adrielcafe/AndroidAudioRecorder/master/screenshots.png" width="800"/>
-
----
-
-**OmRecorder**: https://github.com/kailash09dabhi/OmRecorder
-
-A Simple Pcm / Wav audio recorder with nice api. https://kailash09dabhi.github.io/OmRecorder/
-
----
-
-**AndroidAudioConverter**: https://github.com/adrielcafe/AndroidAudioConverter
-
-音频转换 支持：WAV, AAC, MP3, M4A, WMA and FLAC
-
----
-
-**CallRecorder**: https://github.com/aykuttasil/CallRecorder
-
-通话录音
-
----
-
-**android_silk_v3_decoder**: https://github.com/ketn4391/android_silk_v3_decoder
-
-转换微信QQ语音格式为MP3格式
-
----
-
 **intentbuilder**: https://github.com/Trikke/intentbuilder
 
 IntentBuilder is a type safe way of creating intents and populating them with extras. Use them with your Activities and Services
@@ -469,12 +437,6 @@ Android 收集用户基本信息利器，比如 App 崩溃后的地理位置，G
 Android 收集用户基本信息利器，比如 App 崩溃后的地理位置，GPS网络状态，当前页面截屏等
 
 <img src="https://raw.githubusercontent.com/rm3l/maoni/master/doc/screenshots/raw/maoni_2.3.1.gif" width="320"/>
-
----
-
-**PlayVideo-OpenGL**: https://github.com/ChouRay/PlayVideo-OpenGL
-
-通过Opengl ES去绘制视频的demo(可实现视频画中画)
 
 ---
 
@@ -1070,18 +1032,6 @@ android5.0之后，从oat文件中dump出来dex的工具
 
 ---
 
-**ExoPlayer**: https://github.com/google/ExoPlayer
-
-An extensible media player for Android
-
----
-
-**exoplayer-textureview**: https://github.com/satorufujiwara/exoplayer-textureview
-
-ExoPlayer's wrapper for using with TextureView
-
----
-
 **NavigationViewFragmentAdapters**: https://github.com/patloew/NavigationViewFragmentAdapters
 
 Fragment 管理
@@ -1091,14 +1041,6 @@ Fragment 管理
 **PullSwitcher**: https://github.com/loopeer/PullSwitcher
 
 方便 Fragment 切换的工具
-
----
-
-**YUVDroidTools**: https://github.com/Jhuster/YUVDroidTools
-
-安卓预览 YUV 原始数据
-
-<img src="https://raw.githubusercontent.com/Jhuster/YUVDroidTools/master/screenshots/home.png" width="320"/>
 
 ---
 
@@ -1157,12 +1099,6 @@ Simple random data generator for Android
 **GroupOfX**: https://github.com/blipinsk/GroupOfX
 
 When Android's Pair class is just not enough
-
----
-
-**MediaFacade**: https://github.com/Drivemode/MediaFacade
-
-多媒体处理
 
 ---
 
@@ -1426,8 +1362,6 @@ AsyncTask 替代者
 
 ---
 
-
-
 **multibackstack**: https://github.com/JetradarMobile/multibackstack
 
 安卓 回退栈管理
@@ -1538,62 +1472,6 @@ facebook 出品的 apk 包优化工具 —— [Optimizing Android bytecode with 
 **drawable-optimizer**: https://github.com/fabiomsr/drawable-optimizer
 
 Gradle plugin to optimize png files and reduce resultant apk size within an Android project
-
----
-
-**WxRecoderVideo**: https://github.com/maimingliang/WxRecoderVideo
-
-基于VCamera，仿微信录制短视频
-
-<img src="https://github.com/maimingliang/WxRecoderVideo/raw/master/recoder.gif" width="320" />
-
----
-
-**Camera2-Video**: https://github.com/WesleyElliott/Camera2-Video
-
-A simple Android wrapper for interfacing with the new Camera2 API for video capture
-
----
-
-**VidEffects**: https://github.com/krazykira/VidEffects
-
-实时视频滤镜
-
-<img src="https://cloud.githubusercontent.com/assets/2201511/9244232/ded8b760-41b2-11e5-9e4b-54d7c0b9cfca.png" width="400" /> <img src="https://cloud.githubusercontent.com/assets/2201511/9244236/ea09d344-41b2-11e5-9e71-f04601fd61e9.png" width="400" />
-
----
-
-**VCL-Android**: https://github.com/hanhailong/VCL-Android
-
-编译好的VCL-Android版本，打了四种架构的so包，armeabi-v7a、armeabi、x86、mips
-
-<img src="https://raw.githubusercontent.com/hanhailong/AndroidStudyResources/master/screenshot/vlc_2.png" width="320" /> <img src="https://raw.githubusercontent.com/hanhailong/AndroidStudyResources/master/screenshot/vlc_3.png" width="320" />
-
----
-
-**simplest_ffmpeg_mobile**: https://github.com/leixiaohua1020/simplest_ffmpeg_mobile
-
-ffmpeg examples in Android / IOS / WinPhone http://leixiaohua1020.github.com/
-
----
-
-*MediaPlayer-Extended**: https://github.com/protyposis/MediaPlayer-Extended
-
-Android MediaPlayer API-compatible media player library with exact seek and DASH support
-
----
-
-**360-video-player-for-android**: https://github.com/fbsamples/360-video-player-for-android
-
-Sample code for creating a 360 video player on Android
-
----
-
-**easy-video-player**: https://github.com/afollestad/easy-video-player
-
-Video playback on Android, made easy, wrapping around the stock MediaPlayer API. https://aidanfollestad.com
-
-<img src="https://raw.githubusercontent.com/afollestad/easy-video-player/master/art/showcase1.png" width="320" />
 
 ---
 
