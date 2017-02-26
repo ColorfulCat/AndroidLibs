@@ -331,14 +331,6 @@ Sqlite 数据库查看
 
 ---
 
-**Telecine**: https://github.com/JakeWharton/Telecine
-
-屏幕录制
-
-<img src="https://raw.githubusercontent.com/JakeWharton/Telecine/master/art/feature.png" width="640" />
-
----
-
 **NetGuard**: https://github.com/M66B/NetGuard
 
 非root禁止应用联网
