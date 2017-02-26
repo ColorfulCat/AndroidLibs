@@ -770,6 +770,14 @@ FlexboxLayout is a library project which brings the similar capabilities of CSS 
 
 ---
 
+**StatusBarAdapt**: https://github.com/CoolThink/StatusBarAdapt
+
+Android使用fitsSystemWindows属性实现--状态栏【status_bar】各版本适配
+
+<img src="https://camo.githubusercontent.com/39f75893f94c284c984aed71f5347e4f1b8d9362/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531313233313735303337323135" width="320" /> <img src="https://camo.githubusercontent.com/7fb2b98eb1e55a1f8bf4fabe8a517a21c7ec3796/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531313233313734353538393637" width="320" />
+
+---
+
 **MaterialStatusBarCompat**: https://github.com/fython/MaterialStatusBarCompat
 
 完美地使 Kitkat 与 Lollipop 上的状态栏同时透明/变色
