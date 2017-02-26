@@ -6,9 +6,15 @@
 
 ---
 
-**AudioVideo**:https://github.com/doggycoder/AudioVideo
+**AudioVideo**: https://github.com/doggycoder/AudioVideo
 
 Android音视频相关的Demo
+
+---
+
+**android-aac-enc**: https://github.com/timsu/android-aac-enc
+
+Android轻量级的AAC编码库
 
 ---
 
