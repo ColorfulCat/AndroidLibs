@@ -18,6 +18,12 @@ RxJava bindings for Android
 
 ---
 
+**Awesome-RxJava**: https://github.com/lzyzsd/Awesome-RxJava
+
+RxJava 资源集
+
+---
+
 **RxJava2-Android-Samples**: https://github.com/amitshekhariitbhu/RxJava2-Android-Samples
 
 RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
