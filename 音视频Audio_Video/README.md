@@ -138,6 +138,14 @@ A simple audio player for Android applications
 
 ---
 
+**ListenerMusicPlayer**: https://github.com/hefuyicoder/ListenerMusicPlayer
+
+A Grace Material Design Music Player
+
+<img src="https://raw.githubusercontent.com/hefuyicoder/ListenerMusicPlayer/master/materials/screenshot.png" width="640" />
+
+---
+
 **StylishMusicPlayer**: https://github.com/ryanhoo/StylishMusicPlayer
 
 A stylish music player for android device 16+
