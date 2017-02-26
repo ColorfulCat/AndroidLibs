@@ -135,6 +135,12 @@ A sample Android app which showcases advanced usage of Dagger among other open s
 
 ---
 
+**wally**: https://github.com/Musenkishi/wally
+
+简洁易用的壁纸应用
+
+---
+
 **LoveWallpaper**: https://github.com/LiuGuiLinAndroid/LoveWallpaper
 
 高仿爱壁纸App | Material Design
