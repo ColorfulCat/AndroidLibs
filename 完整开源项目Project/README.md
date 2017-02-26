@@ -6,6 +6,14 @@
 
 ---
 
+**rebase-android**: https://github.com/drakeet/rebase-android
+
+日常 是一款由 drakeet 负责推荐和分享各种好玩新鲜的栏目应用，基于 Rebase 服务， 学习型非常强
+
+<img src = "https://camo.githubusercontent.com/e94868f1f6f224e3478a7a1a26eafac258e3330f/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f38366532666638356779316663726a3332366e67796a32313869307830313032" width = "640"/>
+
+---
+
 **MinimalistWeather**: https://github.com/BaronZ88/MinimalistWeather
 
 Android平台开源天气App，采用MVP+RxJava+Retrofit2+OKHttp3+Dagger2+RetroLambda等开源库来实现
