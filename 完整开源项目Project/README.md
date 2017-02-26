@@ -345,6 +345,14 @@ Sqlite 数据库查看
 
 ---
 
+**turbo-editor**: https://github.com/vmihalachi/turbo-editor
+
+Simple and powerful File Editor for Android
+
+<img src="https://camo.githubusercontent.com/26e85b1e6f305d9259e916f032554ff8e1b6fa43/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d304748756b7747515057342f5643557045684b6e5a43492f41414141414141414148342f63636c4937304b37395f512f773334372d683532302d6e6f2f50686f6e65437573746f6d5f372e706e67" width="300" />
+
+---
+
 **FolioReader-Android**: https://github.com/FolioReader/FolioReader-Android
 
 完成度很高的一款 ePub Android 阅读器
