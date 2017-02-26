@@ -38,6 +38,14 @@ EZPhotoPicker
 
 ---
 
+**android-ocr**: https://github.com/rmtheis/android-ocr
+
+Experimental app for optical character recognition on Android
+
+<img src = "https://camo.githubusercontent.com/757e20ff49213fb230eef31c4a982ed886cf0a7f/687474703a2f2f696d672e796f75747562652e636f6d2f76692f464f536769506a477778342f302e6a7067" width = "400"/> <img src = "https://camo.githubusercontent.com/1d6169f57a17128f9fa70e1a75e2b3fba50fe88d/687474703a2f2f696d672e796f75747562652e636f6d2f76692f37764e6570546d425447382f302e6a7067" width = "400"/>
+
+---
+
 **Zoomy**: https://github.com/imablanco/Zoomy
 
 双指控制图片展开，以及放大缩小，做的超棒
