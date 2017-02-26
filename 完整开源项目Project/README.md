@@ -1147,24 +1147,6 @@ This is an Android application with camera,picture cropping,collage sticking and
 
 掌上V2EX
 
----
-
-**OhMyBiliBili**: https://github.com/HotBitmapGG/OhMyBiliBili
-
-高仿系列の哔哩哔哩 - ( ゜- ゜)つロ 乾杯~
-
-<img src="https://raw.githubusercontent.com/HotBitmapGG/bilibili/master-x/art/01.png" width="270" /> 
-<img src="https://raw.githubusercontent.com/HotBitmapGG/bilibili/master-x/art/001.png" width="540" />
-
----         
-
-**BiliClient**: https://github.com/android-cjj/BiliClient
-
-这是仿bilibili客户端，是我一个刚学android的朋友写的，原作地址：https://github.com/winkstu/ABPlayer
-
-<img src="https://camo.githubusercontent.com/33d99a3ca4afc9b1691eb124a97979aebaa25177/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f616c62756d2f3230313530352f32362f313634303330656e396e623472736d736f396e7170632e706e67" width="320" /> 
-<img src="https://camo.githubusercontent.com/9224340e3f03ad8daebf08041b989ccbbdfe2000/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530352f32362f31383136353472677a7776767a356774396d78677a6d2e676966" width="320" />
-
 ---            
 
 **AisenWeiBo**: https://github.com/wangdan/AisenWeiBo
@@ -1272,7 +1254,7 @@ Material Design Notes App
 
 **ZhuanLan**:  https://github.com/bxbxbai/ZhuanLan
 
- 一个知乎专栏App
+一个知乎专栏App
 
 <img src="https://raw.githubusercontent.com/bxbxbai/ZhuanLan/master/images/home.png" width="320" />
 <img src="https://raw.githubusercontent.com/bxbxbai/ZhuanLan/master/images/list.png" width="320" />
@@ -1281,21 +1263,27 @@ Material Design Notes App
 
 **Qiitanium**:  https://github.com/ogaclejapan/Qiitanium
 
- Qiitanium is an unofficial Android application of Qiita
+Qiitanium is an unofficial Android application of Qiita
 
 <img src="https://raw.githubusercontent.com/ogaclejapan/Qiitanium/master/art/qiitanium.gif" width="320" />
 
 ---
 
+**KISS**:  https://github.com/Neamar/KISS
+
+轻量的安卓桌面
+
+---
+
 **Launcher3**:  https://github.com/fookwood/Launcher3
 
- 更改官方的Launcher3使得可以在Android Studio编译 http://www.fookwood.com/android
+更改官方的Launcher3使得可以在Android Studio编译 http://www.fookwood.com/android
 
 ---
 
 **Remindly**:  https://github.com/blanyal/Remindly
 
- Remindly is a simple and user friendly application to create reminders. https://play.google.com/store/apps/details?id=com.blanyal.remindly
+Remindly is a simple and user friendly application to create reminders. https://play.google.com/store/apps/details?id=com.blanyal.remindly
 
 <img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot1.png" width="270" />
 <img src="https://github.com/blanyal/Remindly/blob/master/screenshots/screenshot2.png" width="270" />
