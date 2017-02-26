@@ -230,6 +230,14 @@ An extension of RelativeLayout that helps show loading, empty and error layout
 
 ---
 
+**presenter-layout**: https://github.com/CROSP/presenter-layout
+
+安卓覆盖的 View， 可显示成功，错误，加载，文本等
+
+<img src="https://raw.githubusercontent.com/CROSP/presenter-layout/master/screenshots/screen1.png" width="200" /> <img src="https://raw.githubusercontent.com/CROSP/presenter-layout/master/screenshots/screen3.png" width="200" /> <img src="https://raw.githubusercontent.com/CROSP/presenter-layout/master/screenshots/screen5.png" width="200" /> <img src="https://raw.githubusercontent.com/CROSP/presenter-layout/master/screenshots/screen6.png" width="200" />
+
+---
+
 **loadinglayout**: https://github.com/czy1121/loadinglayout
 
 简单实用的页面多状态布局(content,loading,empty,error)
@@ -462,14 +470,6 @@ An extended ViewPager which provides callbacks for the visibility state of its F
 
 ---
 
-**A-MusicView**: https://github.com/north2014/A-MusicView
-
-原创自定义控件之-Canvas实时绘制音乐波形图
-
-<img src="https://raw.githubusercontent.com/north2014/A-MusicView/master/a.gif" width="600" />
-
----
-
 **Revealator**: https://github.com/Jaouan/Revealator
 
 圆形显示或取消显示 View
@@ -590,14 +590,6 @@ EasyForm makes a form creation and field validation easy
 
 ---
 
-**k4l-video-trimmer**: https://github.com/knowledge4life/k4l-video-trimmer
-
-视频裁剪
-
-<img src="https://raw.githubusercontent.com/knowledge4life/k4l-video-trimmer/master/screenshot/screenshot.png" width="320" />
-
----
-
 **PasscodeView**: https://github.com/iamMehedi/PasscodeView
 
 支付密码的密码 View
@@ -636,46 +628,6 @@ Quick image ViewPagers
 
 ---
 
-**Exposure-Video-Player**: https://github.com/UrbanChrisy/Exposure-Video-Player
-
-Custom Android video player API library
-
-<img src="https://raw.githubusercontent.com/UrbanChrisy/Exposure-Video-Player/master/screenshots/screenshot_1.png" width="320" /> <img src="https://raw.githubusercontent.com/UrbanChrisy/Exposure-Video-Player/master/screenshots/screenshot_2.png" width="320" />
-
----
-
-**DragVideo**: https://github.com/hejunlin2013/DragVideo
-
-DragVideo，一种在播放视频时，可以任意拖拽视频的方案
-
-<img src="https://raw.githubusercontent.com/hejunlin2013/DragVideo/master/image/web_dragvideo.png" width="640" />
-
----
-
-**jjdxm_ijkplayer**: https://github.com/jjdxmashl/jjdxm_ijkplayer
-
-基于ijkplayer简单的UI界面 当前项目是基于ijkplayer项目进行的播放器界面UI封装
-
-<img src="https://raw.githubusercontent.com/jjdxmashl/jjdxm_ijkplayer/master/screenshots/icon01.gif" width="320" />
-
----
-
-**GSYVideoPlayer**: https://github.com/CarGuo/GSYVideoPlayer
-
-视频播放器（IJKplayer），支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，其他一些小动画效果
-
-<img src="https://raw.githubusercontent.com/CarGuo/GSYVideoPlayer/master/04.gif" width="320" />
-
----
-
-**JieCaoVideoPlayer**: https://github.com/lipangit/JieCaoVideoPlayer
-
-android videoplayer mediaplayer videoview mediaview and fullscreen
-
-<img src="https://raw.githubusercontent.com/lipangit/JieCaoVideoPlayer/develop/screenshots/j6.jpg" width="800" />
-
----
-
 **DrawerBehavior**: https://github.com/JakeWharton/DrawerBehavior
 
 jakewharton 出品 ，DrawerBehavior
@@ -703,14 +655,6 @@ segmented control style to TabLayout
 TabLayout CollapsingToolbarLayout CoordinatorLayout 使用示例
 
 <img src="https://raw.githubusercontent.com/vitovalov/TabbedCoordinatorLayout/master/art/demo.gif" width="270" />
-
----
-
-**youtube-android-player-helper**: https://github.com/JackDinealKIM/youtube-android-player-helper
-
-YouTube 控制播放
-
-<img src="https://raw.githubusercontent.com/JackDinealKIM/youtube-android-player-helper/master/capture1.png" width="320" /> <img src="https://raw.githubusercontent.com/JackDinealKIM/youtube-android-player-helper/master/capture2.png" width="320" />
 
 ---
 
@@ -754,14 +698,6 @@ FlexboxLayout is a library project which brings the similar capabilities of CSS 
 
 ---
 
-**fenster**: https://github.com/malmstein/fenster
-
-利用TextureView 播放视频，并可控制播放，暂停等。
-
-<img src="https://raw.githubusercontent.com/malmstein/Fenster/master/art/video_example.gif" width="640" />
-
----
-
 **FloatView**: https://github.com/AlexLiuSheng/FloatView
 
 类似来电秀的可自由浮动的 View
@@ -802,19 +738,21 @@ A Tool for SystemBar include StatusBar and NavigationBar. http://app.bilibili.co
 
 ---
 
+**ColorfulStatusBar**: [https://github.com/hongyangAndroid/ColorfulStatusBar](https://github.com/hongyangAndroid/ColorfulStatusBar)
+
+Android app状态栏变色。
+
+<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_03.gif" width="270" />
+<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_10.gif" width="270" />
+<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_11.gif" width="270" />
+
+---
+
 **swipe-action-layout**: https://github.com/prolificinteractive/swipe-action-layout
 
 A nice swipe layout that provides new actions with a material design look and feel
 
 <img src="https://github.com/prolificinteractive/swipe-action-layout/blob/master/images/demo1.gif" width="320" /> <img src="https://raw.githubusercontent.com/prolificinteractive/swipe-action-layout/master/images/demo2.gif" width="320" />
-
----
-
-**presenter-layout**: https://github.com/CROSP/presenter-layout
-
-安卓覆盖的 View， 可显示成功，错误，加载，文本等
-
-<img src="https://raw.githubusercontent.com/CROSP/presenter-layout/master/screenshots/screen1.png" width="200" /> <img src="https://raw.githubusercontent.com/CROSP/presenter-layout/master/screenshots/screen3.png" width="200" /> <img src="https://raw.githubusercontent.com/CROSP/presenter-layout/master/screenshots/screen5.png" width="200" /> <img src="https://raw.githubusercontent.com/CROSP/presenter-layout/master/screenshots/screen6.png" width="200" />
 
 ---
 
@@ -1284,16 +1222,6 @@ ProductTour is android sample project implementing a parallax effect welcome pag
 
 <img src="https://github.com/matrixxun/ProductTour/blob/master/art/run.gif" width="320" />
 <img src="https://github.com/matrixxun/ProductTour/blob/master/art/run3.gif" width="320" />
-
----
-
-**ColorfulStatusBar**: [https://github.com/hongyangAndroid/ColorfulStatusBar](https://github.com/hongyangAndroid/ColorfulStatusBar)
-
-Android app状态栏变色。
-
-<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_03.gif" width="270" />
-<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_10.gif" width="270" />
-<img src="https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/status_bar_11.gif" width="270" />
 
 ---
 

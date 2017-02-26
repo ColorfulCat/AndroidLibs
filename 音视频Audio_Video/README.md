@@ -24,6 +24,84 @@
 
 ---
 
+**k4l-video-trimmer**: https://github.com/knowledge4life/k4l-video-trimmer
+
+视频裁剪
+
+<img src="https://raw.githubusercontent.com/knowledge4life/k4l-video-trimmer/master/screenshot/screenshot.png" width="320" />
+
+---
+
+**DragVideo**: https://github.com/hejunlin2013/DragVideo
+
+DragVideo，一种在播放视频时，可以任意拖拽视频的方案
+
+<img src="https://raw.githubusercontent.com/hejunlin2013/DragVideo/master/image/web_dragvideo.png" width="640" />
+
+---
+
+**jjdxm_ijkplayer**: https://github.com/jjdxmashl/jjdxm_ijkplayer
+
+基于ijkplayer简单的UI界面 当前项目是基于ijkplayer项目进行的播放器界面UI封装
+
+<img src="https://raw.githubusercontent.com/jjdxmashl/jjdxm_ijkplayer/master/screenshots/icon01.gif" width="320" />
+
+---
+
+**GSYVideoPlayer**: https://github.com/CarGuo/GSYVideoPlayer
+
+视频播放器（IJKplayer），支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，其他一些小动画效果
+
+<img src="https://raw.githubusercontent.com/CarGuo/GSYVideoPlayer/master/04.gif" width="320" />
+
+---
+
+**JieCaoVideoPlayer**: https://github.com/lipangit/JieCaoVideoPlayer
+
+android videoplayer mediaplayer videoview mediaview and fullscreen
+
+<img src="https://raw.githubusercontent.com/lipangit/JieCaoVideoPlayer/develop/screenshots/j6.jpg" width="800" />
+
+---
+
+**Exposure-Video-Player**: https://github.com/UrbanChrisy/Exposure-Video-Player
+
+Custom Android video player API library
+
+<img src="https://raw.githubusercontent.com/UrbanChrisy/Exposure-Video-Player/master/screenshots/screenshot_1.png" width="320" /> <img src="https://raw.githubusercontent.com/UrbanChrisy/Exposure-Video-Player/master/screenshots/screenshot_2.png" width="320" />
+
+---
+
+**youtube-android-player-helper**: https://github.com/JackDinealKIM/youtube-android-player-helper
+
+YouTube 控制播放
+
+<img src="https://raw.githubusercontent.com/JackDinealKIM/youtube-android-player-helper/master/capture1.png" width="320" /> <img src="https://raw.githubusercontent.com/JackDinealKIM/youtube-android-player-helper/master/capture2.png" width="320" />
+
+---
+
+**fenster**: https://github.com/malmstein/fenster
+
+利用TextureView 播放视频，并可控制播放，暂停等。
+
+<img src="https://raw.githubusercontent.com/malmstein/Fenster/master/art/video_example.gif" width="640" />
+
+---
+
+**A-MusicView**: https://github.com/north2014/A-MusicView
+
+原创自定义控件之-Canvas实时绘制音乐波形图
+
+<img src="https://raw.githubusercontent.com/north2014/A-MusicView/master/a.gif" width="600" />
+
+---
+
+**AudioDemo**: https://github.com/Jhuster/AudioDemo
+
+演示如何在 Android 平台上开发音频相关应用，开发音频入门必备
+
+---
+
 **AudioVideo**: https://github.com/doggycoder/AudioVideo
 
 Android音视频相关的Demo
