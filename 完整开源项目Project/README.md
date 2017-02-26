@@ -6,6 +6,14 @@
 
 ---
 
+**MinimalistWeather**: https://github.com/BaronZ88/MinimalistWeather
+
+Android平台开源天气App，采用MVP+RxJava+Retrofit2+OKHttp3+Dagger2+RetroLambda等开源库来实现
+
+<img src = "https://raw.githubusercontent.com/BaronZ88/MinimalistWeather/master/framework_minimalist_weather.png" width = "320"/>
+
+---
+
 **LQRWeChat**: https://github.com/GitLqr/LQRWeChat
 
 高仿微信6.3.31，使用网易云信SDK 3.2.0版本完成主要的聊天功能（单聊、群聊）、好友关系管理、群组管理等功能
