@@ -30,19 +30,19 @@ Android平台开源天气App，采用MVP+RxJava+Retrofit2+OKHttp3+Dagger2+RetroL
 
 ---
 
+**Minimal-Todo**: https://github.com/avjinder/Minimal-Todo
+
+Minimal-Todo
+
+<img src = "https://raw.githubusercontent.com/avjinder/Minimal-Todo/master/screenshots/main_full_light.png" width = "320"/> <img src = "https://raw.githubusercontent.com/avjinder/Minimal-Todo/master/screenshots/todo_time_dark.png" width = "320"/> <img src = "https://raw.githubusercontent.com/avjinder/Minimal-Todo/master/screenshots/main_empty_light.png" width = "320"/>
+
+---
+
 **BusyBox**: https://github.com/jrummyapps/BusyBox
 
 Install BusyBox on an Android device
 
 <img src = "https://raw.githubusercontent.com/jrummyapps/BusyBox/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width = "140"/>
-
----
-
-**CameraFragment**: https://github.com/florent37/CameraFragment
-
-Fragment拍照摄像
-
-<img src = "https://raw.githubusercontent.com/florent37/CameraFragment/master/media/take_photo.gif" width = "320"/> <img src = "https://raw.githubusercontent.com/florent37/CameraFragment/master/media/switch_action.gif" width = "320"/>
 
 ---
 

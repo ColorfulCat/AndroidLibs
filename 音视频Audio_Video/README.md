@@ -234,6 +234,14 @@ A Simple Pcm / Wav audio recorder with nice api. https://kailash09dabhi.github.i
 
 ---
 
+**CameraFragment**: https://github.com/florent37/CameraFragment
+
+Fragment拍照摄像
+
+<img src = "https://raw.githubusercontent.com/florent37/CameraFragment/master/media/take_photo.gif" width = "320"/> <img src = "https://raw.githubusercontent.com/florent37/CameraFragment/master/media/switch_action.gif" width = "320"/>
+
+---
+
 **JcPlayer**: https://github.com/jeancsanchez/JcPlayer
 
 A simple audio player for Android applications
