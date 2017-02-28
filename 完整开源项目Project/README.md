@@ -916,11 +916,11 @@ gank.io unofficial client, RxJava & Retrofit
 
 ---
 
-**MLManager**: https://github.com/javiersantos/MLManager
+**AnExplorer**: https://github.com/1hakr/AnExplorer
 
-简单易用MD风格文件管理器
+Another Android Explorer ( File Manager ) is an All-in-One Open source file manager
 
-<img src="https://raw.githubusercontent.com/javiersantos/MLManager/master/Screenshots/header-basic.png" width="640" />
+<img src="https://raw.githubusercontent.com/1hakr/AnExplorer/master/header.jpg" width="640" />
 
 ---
 
@@ -1047,6 +1047,14 @@ A todo list app base Material Design
 <img src="https://github.com/hanks-zyh/Conquer/blob/master/Screenshot/demo2.gif" width="180" />
 <img src="https://github.com/hanks-zyh/Conquer/blob/master/Screenshot/s0.png" width="180" />
 <img src="https://github.com/hanks-zyh/Conquer/blob/master/Screenshot/s2.png" width="180" />
+
+---
+
+**MLManager**: https://github.com/javiersantos/MLManager
+
+MD风格的用于传送、提取APK文件(包含系统apk)的开源工具软件
+
+<img src="https://raw.githubusercontent.com/javiersantos/MLManager/master/Screenshots/header-basic.png" width="640" />
 
 ---
 
