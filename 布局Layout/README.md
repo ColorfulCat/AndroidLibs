@@ -1029,6 +1029,14 @@ Expand your view with no problem
 
 ---
 
+**StepDialog**: https://github.com/guangzq/StepDialog
+
+一行代码实现ofo app首次注册时的步骤控件
+
+<img src="https://raw.githubusercontent.com/guangzq/StepDialog/master/gif/stepdialog.gif" width="300" />
+
+---
+
 **WowSplash**: https://github.com/githubwing/WowSplash
 
 铁塔融云！一个让你的哇哇哇哇闪屏页
