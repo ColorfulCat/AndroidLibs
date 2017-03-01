@@ -104,6 +104,14 @@ DragVideo，一种在播放视频时，可以任意拖拽视频的方案
 
 ---
 
+**MVideo**: https://github.com/miaoyongjun/MVideo
+
+仿微信朋友圈视频播放特效
+
+<img src="https://github.com/miaoyongjun/MVideo/raw/master/1.gif?raw=true" width="320" />
+
+---
+
 **GSYVideoPlayer**: https://github.com/CarGuo/GSYVideoPlayer
 
 视频播放器（IJKplayer），支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，其他一些小动画效果
