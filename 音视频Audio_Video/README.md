@@ -152,6 +152,14 @@ YouTube 控制播放
 
 ---
 
+**ParsingPlayer**: https://github.com/TedaLIEz/ParsingPlayer
+
+网络视频流播放
+
+<img src="https://raw.githubusercontent.com/TedaLIEz/ParsingPlayer/master/screenshots/1.png" width="320" /> <img src="https://raw.githubusercontent.com/TedaLIEz/ParsingPlayer/master/screenshots/2.png" width="480" />
+
+---
+
 **ipcam-view**: https://github.com/niqdev/ipcam-view
 
 MJPEG 视频流播放
