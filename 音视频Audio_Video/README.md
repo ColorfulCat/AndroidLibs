@@ -144,6 +144,14 @@ YouTube 控制播放
 
 ---
 
+**ipcam-view**: https://github.com/niqdev/ipcam-view
+
+MJPEG 视频流播放
+
+<img src="https://raw.githubusercontent.com/niqdev/ipcam-view/master/images/screenshot-default.png" width="320" /> <img src="https://raw.githubusercontent.com/niqdev/ipcam-view/master/images/screenshot-settings.png" width="320" />
+
+---
+
 **A-MusicView**: https://github.com/north2014/A-MusicView
 
 原创自定义控件之-Canvas实时绘制音乐波形图
