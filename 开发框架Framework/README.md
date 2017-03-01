@@ -36,6 +36,14 @@ Showcase project of Functional Reactive Programming on Android, using RxJava. ht
 
 ---
 
+**Pluto-Android**: https://github.com/minggo620/Pluto-Android
+
+Android应用开发通用框架
+
+<img src="https://camo.githubusercontent.com/67394e25cf3beda3caa901c54e44a074d7d7c27e/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313235323633382d353934633237356236366135336539622e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="480"/>
+
+---
+
 **AndroidMVPAuthenticationBoilerPlate**: https://github.com/TakeoffAndroid/AndroidMVPAuthenticationBoilerPlate
 
 Login/Signup app which handles boiler plate Validation logics using MVP design patterns with SQLite Database
