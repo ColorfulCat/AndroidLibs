@@ -160,6 +160,12 @@ Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and swi
 
 ---
 
+**RxGroups**: https://github.com/airbnb/RxGroups
+
+Easily group RxJava Observables together and tie them to your Android Activity lifecycle
+
+---
+
 **rxlifecycle**: https://github.com/nekocode/rxlifecycle
 
 非侵入式的 RxLifecycle
