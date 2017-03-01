@@ -6,6 +6,14 @@
 
 ---
 
+**CircleMenu**: https://github.com/ImangazalievM/CircleMenu
+
+漂亮的 Android 圆形菜单
+
+<img src="https://raw.githubusercontent.com/ImangazalievM/CircleMenu/master/art/preview.gif" width="320"/>
+
+---
+
 **android-animated-menu-items**: https://github.com/adonixis/android-animated-menu-items
 
 Android Toolbar 显示动态 Menu 菜单 Demo
