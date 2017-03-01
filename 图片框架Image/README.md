@@ -6,6 +6,14 @@
 
 ---
 
+**photo-affix**: https://github.com/afollestad/photo-affix
+
+图片拼接
+
+<img src = "https://raw.githubusercontent.com/afollestad/photo-affix/master/art/pashowcase1.png" width = "640"/>
+
+---
+
 **skia**: https://github.com/google/skia
 
 Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. https://skia.org
