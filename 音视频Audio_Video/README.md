@@ -220,6 +220,18 @@ Android音视频相关的Demo
 
 ---
 
+**AndroidMp3Recorder**: https://github.com/GavinCT/AndroidMP3Recorder
+
+为Android提供MP3录音功能
+
+---
+
+**AndroidMp3Recorder**: https://github.com/telescreen/AndroidMp3Recorder
+
+Android mp3 音频录制
+
+---
+
 **AndroidMp3Recorder**: https://github.com/telescreen/AndroidMp3Recorder
 
 Android mp3 音频录制
