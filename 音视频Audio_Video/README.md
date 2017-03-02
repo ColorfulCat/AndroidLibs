@@ -238,6 +238,12 @@ Android mp3 音频录制
 
 ---
 
+**AACEncoder_Android**: https://github.com/turkeyzhu/AACEncoder_Android
+
+Android AAC编码库
+
+---
+
 **android-aac-enc**: https://github.com/timsu/android-aac-enc
 
 Android轻量级的AAC编码库
