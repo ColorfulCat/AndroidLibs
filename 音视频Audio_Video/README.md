@@ -220,6 +220,12 @@ Android音视频相关的Demo
 
 ---
 
+**AndroidMp3Recorder**: https://github.com/telescreen/AndroidMp3Recorder
+
+Android mp3 音频录制
+
+---
+
 **android-aac-enc**: https://github.com/timsu/android-aac-enc
 
 Android轻量级的AAC编码库
