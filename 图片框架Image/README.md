@@ -134,6 +134,14 @@ Gradient-Artist library will allow you to use gradient overly on top of the imag
 
 ---
 
+**BlurKit-Android**: https://github.com/flurgle/BlurKit-Android
+
+性能强大的安卓模糊库
+
+<img src = "https://github.com/flurgle/BlurKit-Android/raw/master/.repo/demo.gif" width = "320"/>
+
+---
+
 **AndroidRealTimeBlur**: https://github.com/wenhatai/AndroidRealTimeBlur
 
 Android real-time blur
