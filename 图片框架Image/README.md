@@ -6,6 +6,14 @@
 
 ---
 
+**CameraKit-Android**: https://github.com/flurgle/CameraKit-Android
+
+一个相机的库
+
+<img src = "https://raw.githubusercontent.com/flurgle/CameraKit-Android/master/.repo/permissions.gif" width = "640"/>
+
+---
+
 **photo-affix**: https://github.com/afollestad/photo-affix
 
 图片拼接
@@ -545,12 +553,6 @@ A barcode scanner based on zxing for android
 **QRGenerator**: https://github.com/androidmads/QRGenerator
 
 二维码扫描库
-
----
-
-**RxPhoto**: https://github.com/oliveiradev/RxPhoto
-
-This lib using reactive approach for get and take pictures
 
 ---
 

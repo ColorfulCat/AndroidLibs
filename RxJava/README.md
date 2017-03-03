@@ -58,6 +58,12 @@ RxAndroid + MultiThread + Service + Download
 
 ---
 
+**RxPhoto**: https://github.com/oliveiradev/RxPhoto
+
+RX 图片选择
+
+---
+
 **RxRetroJsoup**: https://github.com/florent37/RxRetroJsoup
 
 注解方式来解析 html 节点
