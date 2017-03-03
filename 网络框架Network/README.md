@@ -6,6 +6,12 @@
 
 ---
 
+**LoggingInterceptor**: https://github.com/ihsanbal/LoggingInterceptor
+
+OkHttp 请求和响应日志拦截器
+
+---
+
 **OkCacheControl**: https://github.com/ncornette/OkCacheControl
 
 OkHttp 和 Retrofit 缓存工具
