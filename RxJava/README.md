@@ -58,6 +58,12 @@ RxAndroid + MultiThread + Service + Download
 
 ---
 
+**RxRetroJsoup**: https://github.com/florent37/RxRetroJsoup
+
+注解方式来解析 html 节点
+
+---
+
 **RxAnimations**: https://github.com/0ximDigital/RxAnimations
 
 RxJava 封装的安卓动画库
