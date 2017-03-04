@@ -134,6 +134,14 @@ Gradient-Artist library will allow you to use gradient overly on top of the imag
 
 ---
 
+**BlurView**: https://github.com/Dimezis/BlurView
+
+IOS 风格的安卓动态模糊库
+
+<img src = "https://raw.githubusercontent.com/Dimezis/BlurView/master/BlurScreenshot.png" width = "320"/>
+
+---
+
 **BlurKit-Android**: https://github.com/flurgle/BlurKit-Android
 
 性能强大的安卓模糊库
