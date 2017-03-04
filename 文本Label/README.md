@@ -6,6 +6,12 @@
 
 ---
 
+**TextCounter**: https://github.com/BullyBoo/TextCounter
+
+TextCounter 动画
+
+---
+
 **tailor**: https://github.com/lovoo/tailor
 
 EditText 一键清空
