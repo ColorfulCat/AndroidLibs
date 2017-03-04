@@ -307,6 +307,14 @@ Selecting directories/files made a lot easier
 
 ---
 
+**Android-FilePickerFilterLibrary**: https://github.com/aerdy/Android-FilePickerFilterLibrary
+
+文件选择过滤
+
+<img src="https://camo.githubusercontent.com/6f999eee35f74975a3957078ee7cd44ccbc012fa/68747470733a2f2f6165726f7969642e66696c65732e776f726470726573732e636f6d2f323031372f30332f70686f746f5f323031372d30332d30315f31392d35352d33382e6a7067" width="270"/> <img src="https://camo.githubusercontent.com/f49da1b2ed3d11701d752af50a21dbe271818f47/68747470733a2f2f6165726f7969642e66696c65732e776f726470726573732e636f6d2f323031372f30332f70686f746f5f323031372d30332d30315f31392d35352d35352e6a7067" width="270"/> <img src="https://camo.githubusercontent.com/1cdb06d1c9e83dfb5d3eb395851e923838add7e4/68747470733a2f2f6165726f7969642e66696c65732e776f726470726573732e636f6d2f323031372f30332f70686f746f5f323031372d30332d30315f31392d35352d34362e6a7067" width="270"/> 
+
+---
+
 **MaterialFilePicker**: https://github.com/nbsp-team/MaterialFilePicker
 
 MD 风格文件选择器
