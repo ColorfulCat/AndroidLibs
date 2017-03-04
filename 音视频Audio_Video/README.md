@@ -176,6 +176,12 @@ MJPEG 视频流播放
 
 ---
 
+**lastfm-lib**: https://github.com/ArthurGhazaryan/lastfm-lib
+
+ last.fm 安卓api
+
+---
+
 **MediaFacade**: https://github.com/Drivemode/MediaFacade
 
 多媒体处理
