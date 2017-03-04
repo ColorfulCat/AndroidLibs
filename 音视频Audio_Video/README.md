@@ -80,6 +80,14 @@ Sample code for creating a 360 video player on Android
 
 ---
 
+**AutoplayVideos**: https://github.com/Krupen/AutoplayVideos
+
+recyclerview 下自动播放视频
+
+<img src="https://raw.githubusercontent.com/Krupen/AutoplayVideos/master/AutoPlayVideos%20Demo.gif" width="320" />
+
+---
+
 **easy-video-player**: https://github.com/afollestad/easy-video-player
 
 Video playback on Android, made easy, wrapping around the stock MediaPlayer API. https://aidanfollestad.com
