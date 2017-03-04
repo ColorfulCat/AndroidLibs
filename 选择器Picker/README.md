@@ -423,6 +423,14 @@ A material Date Range Picker based on wdullaers MaterialDateTimePicker.
 
 ---
 
+**MaterialDesignColors**: https://github.com/bassaer/MaterialDesignColors
+
+MaterialDesignColors
+
+<img src="https://raw.githubusercontent.com/bassaer/MaterialDesignColors/develop/images/mdc_screen.png" width="480" />
+
+---
+
 **colorpreference**: https://github.com/kizitonwose/colorpreference
 
 带颜色选择的 preference
