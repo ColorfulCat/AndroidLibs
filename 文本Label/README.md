@@ -552,6 +552,14 @@ Sometimes, we need to show a label above an ImageView or any other views. Well, 
 
 ---
 
+**MarkdownView**: https://github.com/tiagohm/MarkdownView
+
+Makrdown 显示 
+
+<img src="https://raw.githubusercontent.com/tiagohm/MarkdownView/master/3.png" width="270" /> <img src="https://raw.githubusercontent.com/tiagohm/MarkdownView/master/4.png" width="270" /> <img src="https://raw.githubusercontent.com/tiagohm/MarkdownView/master/5.png" width="270" />
+
+---
+
 **MarkdownIME**: https://github.com/laobubu/MarkdownIME
 
 实时预览的线上 Makrdown 编辑器
