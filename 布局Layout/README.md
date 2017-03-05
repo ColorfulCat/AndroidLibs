@@ -11,6 +11,14 @@ Material Design 风格的组件集合
 
 ---
 
+**echantedviewpager**: https://github.com/TMSantos/echantedviewpager
+
+ViewPager that provides some custom and usefull functionalities, such as, scalling scroll, alpha scroll and swipe to dismiss option
+
+<img src="https://camo.githubusercontent.com/329c2c138d91235eac70c52798a76d280e3eba2a/687474703a2f2f692e67697068792e636f6d2f7854694e3071447845524865473531546c362e676966" width="200" />
+
+---
+
 **BGASwipeBackLayout-Android**: https://github.com/bingoogolapple/BGASwipeBackLayout-Android
 
 通过修改 support-v4 包中 SlidingPaneLayout 的源码来实现滑动返回布局
