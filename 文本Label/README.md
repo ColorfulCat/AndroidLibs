@@ -12,6 +12,14 @@ TextCounter 动画
 
 ---
 
+**HorizontalPicker**: https://github.com/GoodieBag/HorizontalPicker
+
+A HorizontalPicker view for android, which supports both text and icon
+
+<img src="https://raw.githubusercontent.com/GoodieBag/HorizontalPicker/master/gif/HPtap.gif" width="270"/> <img src="https://raw.githubusercontent.com/GoodieBag/HorizontalPicker/master/gif/HPslide.gif" width="320"/>
+
+---
+
 **tailor**: https://github.com/lovoo/tailor
 
 EditText 一键清空
