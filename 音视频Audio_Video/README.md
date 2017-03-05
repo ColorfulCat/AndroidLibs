@@ -296,6 +296,12 @@ A Simple Pcm / Wav audio recorder with nice api. https://kailash09dabhi.github.i
 
 ---
 
+**Shuttle**: https://github.com/timusus/Shuttle
+
+Shuttle Music Player
+
+---
+
 **CameraFragment**: https://github.com/florent37/CameraFragment
 
 Fragment拍照摄像
