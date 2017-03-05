@@ -6,6 +6,14 @@
 
 ---
 
+**geometric-progress-view**: https://github.com/vbohush/geometric-progress-view
+
+Customizable progress indicator in the form of 2D geometric shapes
+ 
+<img src = "https://raw.githubusercontent.com/vbohush/geometric-progress-view/master/screenshot/screenshot.gif" width = "600"/>
+
+---
+
 **PreviewSeekBar**: https://github.com/rubensousa/PreviewSeekBar
 
 支持视频 Preview 效果的 Seekbar
