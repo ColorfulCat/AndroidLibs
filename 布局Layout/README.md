@@ -923,6 +923,14 @@ Yalantis 出品：搜索过滤器交互效果
 
 ---
 
+**materialChipView**: https://github.com/robertlevonyan/materialChipView
+
+Material Design 风格的 Tag （Chip） 标签组件，漂亮，实用
+
+<img src="https://raw.githubusercontent.com/robertlevonyan/materialChipView/master/Images/closable.png" width="270" /> <img src="https://raw.githubusercontent.com/robertlevonyan/materialChipView/master/Images/hasIcon.png" width="270" /> <img src="https://raw.githubusercontent.com/robertlevonyan/materialChipView/master/Images/hasIconClosable.png" width="270" />
+
+---
+
 **FlowTag**: https://github.com/hanhailong/FlowTag
 
 Android流式布局，支持点击、单选、多选等，适合用于产品标签等
