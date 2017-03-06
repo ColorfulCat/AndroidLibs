@@ -244,6 +244,15 @@ IOS 风格选择控制
 
 ---
 
+**Pinview**: https://github.com/GoodieBag/Pinview
+
+Pin 码效果的 UI 裤子
+
+<img src="https://camo.githubusercontent.com/4ca257787bd8b888b0dc811f490adb30f3217b0a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5535425035676b397a516171732f67697068792e676966" width="270" />
+<img src="https://camo.githubusercontent.com/ad933014f6134c4b490fa2ca0836d3ad5e56885a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f436e43764c68394e543648696f2f67697068792e676966" width="270" />
+
+---
+
 **LolliPin**: https://github.com/OrangeGangsters/LolliPin
 
 A Material design Android pincode library. Supports Fingerprint
