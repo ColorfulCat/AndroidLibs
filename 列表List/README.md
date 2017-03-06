@@ -7,13 +7,20 @@
 
 ---
 
+**vlayout**: https://github.com/alibaba/vlayout
+
+VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题
+
+<img src="https://camo.githubusercontent.com/2b947a15f5502af5a4639a5927d68052ccfb54a3/687474703a2f2f696d67332e746263646e2e636e2f4c312f3436312f312f31623962666234323030393034376637356365653038616537343135303564653263373461633061" width="200" />
+
+---
+
 **ExpectAnim**: https://github.com/florent37/ExpectAnim
 
 通过描述来实现动画方案
 
 <img src="https://raw.githubusercontent.com/florent37/ExpectAnim/master/media/sample.gif" width="320" /> 
 <img src="https://raw.githubusercontent.com/florent37/ExpectAnim/master/media/scroll.gif" width="320" />
-
 
 ---
 
