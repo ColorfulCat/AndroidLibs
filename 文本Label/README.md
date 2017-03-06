@@ -12,6 +12,12 @@ TextCounter 动画
 
 ---
 
+**HtmlCompat**: https://github.com/Pixplicity/HtmlCompat
+
+让 Android HTML 类支持显示更多 Tag，极大的丰富了 TextView 可以展示的 Tag 类型
+
+---
+
 **HorizontalPicker**: https://github.com/GoodieBag/HorizontalPicker
 
 A HorizontalPicker view for android, which supports both text and icon
