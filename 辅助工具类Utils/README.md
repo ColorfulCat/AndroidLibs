@@ -1000,6 +1000,12 @@ Android optimized event bus that simplifies communication between Activities, Fr
 
 ---
 
+**Android-Pay**: https://github.com/mayubao/Android-Pay
+
+支持微信和支付宝两种主流支付的集成库， 两行代码实现微信支付， 三行代码实现支付宝支付
+
+---
+
 **AndroidPay**: https://github.com/hanbaokun/AndroidPay
 
 微信支付和支付宝支付快速接入，可以直接拷贝代码到项目中使用
