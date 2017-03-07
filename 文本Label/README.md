@@ -18,6 +18,14 @@ TextCounter 动画
 
 ---
 
+**QueryHighlighter**: https://github.com/cyrilmottier/QueryHighlighter
+
+Android 查询高亮辅助组件
+
+<img src="https://raw.githubusercontent.com/cyrilmottier/QueryHighlighter/master/art/query-highlighter.png" width="320"/>
+
+---
+
 **HorizontalPicker**: https://github.com/GoodieBag/HorizontalPicker
 
 A HorizontalPicker view for android, which supports both text and icon
