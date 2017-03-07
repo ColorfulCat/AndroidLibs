@@ -1045,6 +1045,14 @@ Expand your view with no problem
 
 ---
 
+**Material-Onboarding**: https://github.com/Vexigon/Material-Onboarding
+
+MD 风格引导页
+
+<img src="https://raw.githubusercontent.com/Vexigon/Material-Onboarding/master/art/onboarding_sample.png" width="640" />
+
+---
+
 **StepDialog**: https://github.com/guangzq/StepDialog
 
 一行代码实现ofo app首次注册时的步骤控件
