@@ -844,6 +844,12 @@ ProbeTools displays the data from the Database and SharedPreferences in the brow
 
 ---
 
+**LitePal**: https://github.com/LitePalFramework/LitePal
+
+Android Sqlite ORM，让数据库操作更便捷 
+
+---
+
 **droitatedDB**: https://github.com/arconsis/droitatedDB
 
 droitatedDB is a lightweight framework, which frees you from the burden of dealing with the Android SQLite database directly 
