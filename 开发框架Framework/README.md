@@ -6,6 +6,12 @@
 
 ---
 
+**AndroidStandardDevelop**：https://github.com/Blankj/AndroidStandardDevelop
+
+安卓开发规范
+
+---
+
 **MVPArt**：https://github.com/JessYanCoding/MVPArt
 
 A New Android MVP Architecture http://www.jianshu.com/p/ac51c9b88af3
