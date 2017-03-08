@@ -12,6 +12,12 @@
 
 ---
 
+**material-design-data**：https://github.com/Luosunce/material-design-data
+
+关于 Material Design 的一切资料都在这里
+
+---
+
 **MVPArt**：https://github.com/JessYanCoding/MVPArt
 
 A New Android MVP Architecture http://www.jianshu.com/p/ac51c9b88af3
