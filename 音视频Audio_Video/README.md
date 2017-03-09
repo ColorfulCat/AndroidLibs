@@ -296,6 +296,12 @@ A Simple Pcm / Wav audio recorder with nice api. https://kailash09dabhi.github.i
 
 ---
 
+**Phonograph**: https://github.com/kabouzeid/Phonograph
+
+Phonograph Music Player 开源啦，这可是一个拥有 百万级下载量的 Google Play 播放器
+
+---
+
 **Shuttle**: https://github.com/timusus/Shuttle
 
 Shuttle Music Player
