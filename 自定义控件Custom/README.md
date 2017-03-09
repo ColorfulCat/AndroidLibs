@@ -390,6 +390,14 @@ MIUI8 悬浮球
 
 ---
 
+**SmileyRating**: https://github.com/sujithkanna/SmileyRating
+
+卡通萌萌系 Rating 组件，快用这个让你的用户去商店给你的 App 评分吧
+
+<img src="https://raw.githubusercontent.com/sujithkanna/SmileyRating/master/app/src/main/assets/demo.gif" width="400" />
+
+---
+
 **MaterialRatingBar**: https://github.com/DreaminginCodeZH/MaterialRatingBar
 
 一款漂亮的打分效果
