@@ -118,6 +118,14 @@ A simple Floating Action Button that shows an anchored Navigation View
 
 ---
 
+**CookieBar**: https://github.com/liuguangqiang/CookieBar
+
+轻量级的消息提示库，请脑补SnackBar和Toast，但自定义更方便
+
+<img src="https://raw.githubusercontent.com/liuguangqiang/CookieBar/master/arts/default.gif" width="320" /> <img src="https://raw.githubusercontent.com/liuguangqiang/CookieBar/master/arts/custom.gif" width="320" />
+
+---
+
 **StyleableToast**: https://github.com/Muddz/StyleableToast
 
 StyleableToast
