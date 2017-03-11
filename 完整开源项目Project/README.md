@@ -1165,6 +1165,12 @@ This is an Android application with camera,picture cropping,collage sticking and
 
 ---
 
+**v2ex-android**: https://github.com/CzBiX/v2ex-android
+
+V2EX client for Android
+
+---
+
 **v2ex-android**: https://github.com/greatyao/v2ex-android/
 
 掌上V2EX
