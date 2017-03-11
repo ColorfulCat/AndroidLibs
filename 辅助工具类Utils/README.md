@@ -66,14 +66,6 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
-**SmsVerifyCatcher**: https://github.com/stfalcon-studio/SmsVerifyCatcher
-
-获取短信验证码
-
-<img src="https://camo.githubusercontent.com/64fdbaf413bcb5dc688e6112fee2353535008870/687474703a2f2f692e696d6775722e636f6d2f374b7a7a6b357a2e676966" width="320"/>
-
----
-
 **android-shell**: https://github.com/jrummyapps/android-shell
 
 Execute shell commands on Android
