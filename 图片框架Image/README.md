@@ -254,7 +254,7 @@ Android 图片放大过渡效果
 
 对角线风格
 
-<img src = "https://raw.githubusercontent.com/IntruderShanky/Squint/master/screenshot.png" width = "320"/>
+<img src = "https://raw.githubusercontent.com/IntruderShanky/Squint/master/Screenshot/barney_squint.png" width = "320"/> <img src = "https://raw.githubusercontent.com/IntruderShanky/Squint/master/Screenshot/list_squint.png" width = "320"/>
 
 ---
 
@@ -426,7 +426,7 @@ Useful to be used as album cover in Music apps
 
 Android拼图支持库，轻松实现Instagram Layout效果
 
-<img src = "https://github.com/wuapnjie/PuzzleView/raw/master/screenshots/gif-demo1.gif" width = "320"/>
+<img src = "https://raw.githubusercontent.com/wuapnjie/PuzzleView/master/screenshots/screenshot1.png" width = "320"/> <img src = "https://raw.githubusercontent.com/wuapnjie/PuzzleView/master/screenshots/screenshot2.png" width = "320"/>
 
 ---
 
@@ -480,7 +480,7 @@ A small tool to convert your app's png&jpg image files into WebP when possible
 
 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数
 
-<img src = "https://camo.githubusercontent.com/d54562e2f344afa4a916d09a577098ef08a55bdb/687474703a2f2f3778737335332e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f696d6167657069636b65722f64656d6f312e706e67" width = "270"/>
+<img src = "https://raw.githubusercontent.com/jeasonlzy/Screenshots/master/ImagePicker/demo1.png" width = "270"/> <img src = "https://raw.githubusercontent.com/jeasonlzy/Screenshots/master/ImagePicker/demo3.png" width = "270"/>
 
 ---
 
@@ -880,11 +880,11 @@ A circular ImageView for Android
 
 ---
 
-**KenBurnsView**: [https://github.com/flavioarfaria/KenBurnsView](https://github.com/flavioarfaria/KenBurnsView)
+**KenBurnsView**: https://github.com/flavioarfaria/KenBurnsView
 
 Android ImageViews animated by Ken Burns Effect
 
-<img src="https://camo.githubusercontent.com/64d61cde0875bcfb1636821b2a121af56cc0ecca/687474703a2f2f7777772e70696374757265736861636b2e75732f696d616765732f31353532365f4b656e4275726e73566965772e676966" width="320" />
+<img src="https://github.com/flavioarfaria/KenBurnsView/raw/master/anim.gif" width="320" />
 
 ---
 
