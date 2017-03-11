@@ -10,7 +10,7 @@
 
 一个相机的库
 
-<img src = "https://raw.githubusercontent.com/flurgle/CameraKit-Android/master/.repo/permissions.gif" width = "640"/>
+<img src = "https://raw.githubusercontent.com/flurgle/CameraKit-Android/master/.repo/permissions.gif" width = "320"/>
 
 ---
 
@@ -114,7 +114,7 @@ android多图选择器 图片/视频 单选or多选，以及视频录制
 
 多种图片样式 UI 组合，很适合做头像相关的功能
 
-<img src = "https://camo.githubusercontent.com/d29a4e2a0dc99b1a114f43fb201e1080e6aaa462/687474703a2f2f692e696d6775722e636f6d2f5334516f4b56422e676966" width = "800"/>
+<img src = "https://camo.githubusercontent.com/d29a4e2a0dc99b1a114f43fb201e1080e6aaa462/687474703a2f2f692e696d6775722e636f6d2f5334516f4b56422e676966" width = "320"/>
 
 ---
 
