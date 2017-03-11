@@ -6,6 +6,14 @@
 
 ---
 
+**Bubble-Picker**: https://github.com/igalata/Bubble-Picker
+
+Bubble-Picker
+
+<img src="https://github.com/igalata/Bubble-Picker/raw/develop/shot.gif" width="640" />
+
+---
+
 **DateTimeRangePicker**: https://github.com/skedgo/DateTimeRangePicker
 
 时间选择器，选择特定间隔时间段
