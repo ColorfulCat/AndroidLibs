@@ -60,6 +60,14 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**AppDataReader**: https://github.com/Ansh1234/AppDataReader
+
+应用中读取 sp 和数据库
+
+<img src="https://raw.githubusercontent.com/Ansh1234/AppDataReader/master/appstoragereader.gif" width="320"/>
+
+---
+
 **AnalysisApp**: https://github.com/fengzhizi715/AnalysisApp
 
 快速分析某个app使用哪些sdk的java小工具
