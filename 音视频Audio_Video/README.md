@@ -24,6 +24,14 @@
 
 ---
 
+**ExoPlayerManager**: https://github.com/AAkira/ExoPlayerManager
+
+Kotin 写的视频广告库
+
+<img src="https://raw.githubusercontent.com/AAkira/ExoPlayerManager/master/art/ima_sample.gif" width="360" />
+
+---
+
 **k4l-video-trimmer**: https://github.com/knowledge4life/k4l-video-trimmer
 
 视频裁剪
