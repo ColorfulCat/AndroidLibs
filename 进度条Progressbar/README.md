@@ -6,6 +6,14 @@
 
 ---
 
+**ProtractorView**: https://github.com/GoodieBag/ProtractorView
+
+半圆 seekbar
+ 
+<img src = "https://raw.githubusercontent.com/GoodieBag/ProtractorView/5b691ab3e4294a2a896620ad27104b03618105e1/gif/PVcolors.gif" width = "270"/>
+
+---
+
 **geometric-progress-view**: https://github.com/vbohush/geometric-progress-view
 
 Customizable progress indicator in the form of 2D geometric shapes
