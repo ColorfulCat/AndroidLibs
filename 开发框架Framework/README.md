@@ -30,6 +30,12 @@ A New Android MVP Architecture http://www.jianshu.com/p/ac51c9b88af3
 
 ---
 
+**atlas**：https://github.com/alibaba/atlas
+
+Atlas - 带你重返App开发的田园时代
+
+---
+
 **ak-universal-android-helper**：https://github.com/kumar-aakash86/ak-universal-android-helper
 
 安卓开发助手
