@@ -7,6 +7,14 @@
 
 ---
 
+**DiscreteScrollView**: https://github.com/yarolegovich/DiscreteScrollView
+
+基于 RecyclerView 实现的横向滑动组件，超级漂亮和实用
+
+<img src="https://raw.githubusercontent.com/yarolegovich/DiscreteScrollView/master/images/cards_shop.gif" width="320" /> <img src="https://raw.githubusercontent.com/yarolegovich/DiscreteScrollView/master/images/cards_weather.gif" width="320" />
+
+---
+
 **vlayout**: https://github.com/alibaba/vlayout
 
 VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题
