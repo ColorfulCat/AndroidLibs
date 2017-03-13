@@ -22,6 +22,14 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**ILayoutAnimationController**: https://github.com/HuanHaiLiuXin/ILayoutAnimationController
+
+自定义LayoutAnimationController，一行代码搞定布局动画
+
+<img src="https://github.com/HuanHaiLiuXin/ILayoutAnimationController/raw/master/Screenshots/ILayoutAnimationController%E5%BD%95%E5%B1%8F.gif" width="320" />
+
+---
+
 **TransitionExample**: https://github.com/WakeHao/TransitionExample
 
 Android Transition Framework详解---超炫的动画框架
