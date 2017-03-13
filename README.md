@@ -26,7 +26,7 @@
 - [进度条Progressbar](https://github.com/XXApple/AndroidLibs/tree/master/%E8%BF%9B%E5%BA%A6%E6%9D%A1Progressbar)
 - [RxJava](https://github.com/XXApple/AndroidLibs/tree/master/RxJava)
 - [音视频Audio_Video](https://github.com/XXApple/AndroidLibs/tree/master/%E9%9F%B3%E8%A7%86%E9%A2%91Audio_Video)
-- [深度学习Deep Learning](https://github.com/XXApple/AndroidLibs/tree/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0Deep%20Learning)
+- [AI/VI](https://github.com/XXApple/AndroidLibs/tree/master/AIVI)
 
 
 
