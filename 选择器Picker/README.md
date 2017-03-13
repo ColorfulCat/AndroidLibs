@@ -112,6 +112,14 @@ Android library for Date and Time Picker in same dialog
 
 ---
 
+**material-calendarview**: https://github.com/prolificinteractive/material-calendarview
+
+一款精致漂亮的日历组件
+
+<img src="https://raw.githubusercontent.com/prolificinteractive/material-calendarview/master/images/screencast.gif" width="300" />
+
+---
+
 **WeekCalendar**: https://github.com/loonggg/WeekCalendar
 
 周日历
