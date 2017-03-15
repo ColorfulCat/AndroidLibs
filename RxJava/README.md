@@ -44,6 +44,12 @@ Learning RxJava for Android by example
 
 ---
 
+**RxProperty**: https://github.com/skedgo/RxProperty
+
+RxJava binding APIs for observable fields and observable collections from the Data Binding Library
+
+---
+
 **Reptar**: https://github.com/Commit451/Reptar
 
 Roaring RxJava. A collection of useful RxJava 2.X classes
