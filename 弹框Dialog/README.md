@@ -6,6 +6,14 @@
 
 ---
 
+**fancyDialog**: https://github.com/geniusforapp/fancyDialog
+
+一个好看的 Dialog
+
+<img src="https://raw.githubusercontent.com/ahmadnajar10/fancyDialog/master/device-2017-03-08-171007.png" width="320" />
+
+---
+
 **heins-input-dialogs**: https://github.com/maiconhellmann/heins-input-dialogs
 
 It is a library with several commonly used Input Dialogs implementations
