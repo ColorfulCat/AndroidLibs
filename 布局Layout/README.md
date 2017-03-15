@@ -915,6 +915,14 @@ Yalantis 出品：搜索过滤器交互效果
 
 ---
 
+**FlowLayout**: https://github.com/nex3z/FlowLayout
+
+Android 流式标签布局
+
+<img src="https://raw.githubusercontent.com/nex3z/FlowLayout/master/images/sample.png" width="320" />
+
+---
+
 **LaybelLayout**: https://github.com/paulyung541/LaybelLayout
 
 一个标签布局

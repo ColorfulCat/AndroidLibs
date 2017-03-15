@@ -254,12 +254,6 @@ Android mp3 音频录制
 
 ---
 
-**AndroidMp3Recorder**: https://github.com/telescreen/AndroidMp3Recorder
-
-Android mp3 音频录制
-
----
-
 **AACEncoder_Android**: https://github.com/turkeyzhu/AACEncoder_Android
 
 Android AAC编码库
