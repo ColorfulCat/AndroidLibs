@@ -12,6 +12,14 @@ A Radio Group layout to show radio buttons in more than one line
 
 ---
 
+**HoldingButton**: https://github.com/dewarder/HoldingButton
+
+Android Holding Button 效果
+
+<img src="https://raw.githubusercontent.com/dewarder/HoldingButton/master/_arts/example.gif" width="300" />
+
+---
+
 **slideview**: https://github.com/MAXDeliveryNG/slideview
 
 很有新意的一个滑动效果库
