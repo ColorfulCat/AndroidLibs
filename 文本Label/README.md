@@ -6,11 +6,11 @@
 
 ---
 
-**SimpleNumberPicker**: https://github.com/StephaneBg/SimpleNumberPicker
+**Text-Length-Bar**: https://github.com/minube/Text-Length-Bar
 
-A customisable decimal and hexadecimal material picker view for Android
+统计 TextView 输入字数
 
-<img src="https://raw.githubusercontent.com/StephaneBg/SimpleNumberPicker/master/artwork/decimal_picker.png" width="225"/> <img src="https://raw.githubusercontent.com/StephaneBg/SimpleNumberPicker/master/artwork/hexa_picker.png" width="225"/>
+<img src="https://raw.githubusercontent.com/minube/Text-Length-Bar/master/art/text_length_bar.gif" width="320"/>
 
 ---
 
