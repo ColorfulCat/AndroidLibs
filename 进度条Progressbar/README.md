@@ -6,6 +6,14 @@
 
 ---
 
+**SimpleRatingBar**: https://github.com/borjabravo10/SimpleRatingBar
+
+一个评分库
+ 
+<img src = "https://raw.githubusercontent.com/borjabravo10/SimpleRatingBar/master/SimpleRatingBar.png" width = "270"/>
+
+---
+
 **ProtractorView**: https://github.com/GoodieBag/ProtractorView
 
 半圆 seekbar
