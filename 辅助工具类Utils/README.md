@@ -1134,6 +1134,14 @@ Library to validate username, email and passwords
 
 ---
 
+**AppUpdate**: https://github.com/fccaikai/AppUpdate
+
+app更新
+
+<img src="https://camo.githubusercontent.com/7a478c9eb83af712d69eec9cea62f7e0f74222f6/68747470733a2f2f7777332e73696e61696d672e636e2f6c617267652f303036744e62527767793166646875673136646e686a33306b6d306234676c752e6a7067" width="600"/>
+
+---
+
 **LessCode-Update**: https://github.com/openproject/LessCode-Update
 
 兼容 Android7.0+ app更新
