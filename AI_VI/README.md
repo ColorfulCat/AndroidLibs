@@ -6,6 +6,14 @@
 
 ---
 
+**AndroidTensorFlowMNISTExample**: https://github.com/MindorksOpenSource/AndroidTensorFlowMNISTExample
+
+Android TensorFlow Sample，把 TensorFlow 搬到 Android 上
+
+<img src="https://raw.githubusercontent.com/MindorksOpenSource/AndroidTensorFlowMNISTExample/master/assets/1.png" width="270"/> <img src="https://raw.githubusercontent.com/MindorksOpenSource/AndroidTensorFlowMNISTExample/master/assets/2.png" width="270"/> <img src="https://raw.githubusercontent.com/MindorksOpenSource/AndroidTensorFlowMNISTExample/master/assets/3.png" width="270"/>
+
+---
+
 **TensorFlow Android Camera Demo**: https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
 
 TensorFlow Android Camera Demo
