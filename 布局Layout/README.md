@@ -1384,6 +1384,14 @@ The TileView widget is a subclass of android.view.ViewGroup that asynchronously 
 
 ---
 
+**FancyShowCaseView**: https://github.com/faruktoptas/FancyShowCaseView
+
+好看的高亮提示库
+
+<img src="https://cloud.githubusercontent.com/assets/8283200/23941893/8fb92934-097b-11e7-9626-2c4b2d15b8ca.gif" width="320" />
+
+---
+
 **TapTargetView**: https://github.com/KeepSafe/TapTargetView
 
 超级漂亮的一个高亮功能提醒效果
