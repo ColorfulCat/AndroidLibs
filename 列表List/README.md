@@ -7,6 +7,14 @@
 
 ---
 
+**RendererRecyclerViewAdapter**: https://github.com/vivchar/RendererRecyclerViewAdapter
+
+A single adapter for the whole project 
+
+<img src="https://raw.githubusercontent.com/vivchar/RendererRecyclerViewAdapter/master/example_new.gif" width="320" />
+
+---
+
 **DiscreteScrollView**: https://github.com/yarolegovich/DiscreteScrollView
 
 基于 RecyclerView 实现的横向滑动组件，超级漂亮和实用
