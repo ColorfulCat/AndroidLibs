@@ -6,6 +6,14 @@
 
 ---
 
+**ScrollChoice**: https://github.com/webianks/ScrollChoice
+
+ Scrollable view which can be used to give different choices to user with nice ui
+
+<img src="https://raw.githubusercontent.com/webianks/ScrollChoice/master/screens/screen_one.png" width="320" /> <img src="https://raw.githubusercontent.com/webianks/ScrollChoice/master/screens/screen_two.png" width="320" />
+
+---
+
 **Bubble-Picker**: https://github.com/igalata/Bubble-Picker
 
 Bubble-Picker
