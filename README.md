@@ -27,6 +27,7 @@
 - [RxJava](https://github.com/XXApple/AndroidLibs/tree/master/RxJava)
 - [音视频Audio_Video](https://github.com/XXApple/AndroidLibs/tree/master/%E9%9F%B3%E8%A7%86%E9%A2%91Audio_Video)
 - [AI/VI](https://github.com/XXApple/AndroidLibs/tree/master/AI_VI)
+- [gradle](https://github.com/XXApple/AndroidLibs/tree/master/gradle)
 
 
 
