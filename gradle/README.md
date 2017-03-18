@@ -6,6 +6,14 @@
 
 ---
 
+**gradle-license-plugin**: https://github.com/jaredsburrows/gradle-license-plugin
+
+生成证书的 gradle 插件
+
+<img src="https://camo.githubusercontent.com/49f834adb25b0ff4e0bf8669c45b70976027fb5c/68747470733a2f2f7777772e6269676e65726472616e63682e636f6d2f6173736574732f696d672f626c6f672f323031352f30372f73637265656e73686f742d676d61696c2e706e67" width="320"/>
+
+---
+
 **native-dependencies-plugin**: https://github.com/linsea/native-dependencies-plugin
 
 Android 原生库依赖解析Gradle插件
