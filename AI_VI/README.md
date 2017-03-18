@@ -6,6 +6,12 @@
 
 ---
 
+**awesome-tensorflow**: https://github.com/jtoy/awesome-tensorflow
+
+awesome-tensorflow
+
+---
+
 **AndroidTensorFlowMNISTExample**: https://github.com/MindorksOpenSource/AndroidTensorFlowMNISTExample
 
 Android TensorFlow Sample，把 TensorFlow 搬到 Android 上
