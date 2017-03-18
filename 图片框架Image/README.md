@@ -70,6 +70,14 @@ Experimental app for optical character recognition on Android
 
 ---
 
+**AwesomeImagePicker**: https://github.com/myinnos/AwesomeImagePicker
+
+图片选择工具库
+
+<img src = "https://camo.githubusercontent.com/202d0879dc29573ed81d786871408b841b021734/68747470733a2f2f7331392e706f7374696d672e6f72672f3462786d6f7577626e2f496d6167655f5069636b65725f6578616d706c655f312e706e67" width = "180"/> <img src = "https://camo.githubusercontent.com/99945f01c1c482005c7d4dd8a5e6ffce25fd5d48/68747470733a2f2f7331392e706f7374696d672e6f72672f6a6c786877317274762f496d6167655f5069636b65725f6578616d706c655f322e706e67" width = "180"/> <img src = "https://camo.githubusercontent.com/45ab9aa0ae283294e359f96f210e96b07c13be7d/68747470733a2f2f7331392e706f7374696d672e6f72672f34656869626f7a7a372f496d6167655f5069636b65725f6578616d706c655f332e706e67" width = "180"/>
+
+---
+
 **Louvre**: https://github.com/andremion/Louvre
 
 又一个漂亮的 Android 图片选择工具库
