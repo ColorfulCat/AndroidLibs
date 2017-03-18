@@ -278,12 +278,6 @@ Material Design 中那些标准的设计常量
 
 ---
 
-**IpGetter**: https://github.com/brunodles/IpGetter
-
-The IpGetter is a plugin which will help us to get the Ip of the current machine to use on a build.gradle
-
----
-
 **StanKoUtils**: https://github.com/stan-ko/StanKoUtils
 
 Set of handy classes
@@ -735,24 +729,6 @@ Endoscope - RTSP live video streamer for android devices via Wi-Fi
 安卓布局格式化
 
 <img src="https://camo.githubusercontent.com/72bcb530f4ba53173de534350e61d8b410bfaa12/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f3836653266663835677731663274326434307765346a32316765306d35677a312e6a7067" width="800"/>
-
----
-
-**findbugs-android**: https://github.com/ChaitanyaPramod/findbugs-android
-
-Gradle plugin that creates FindBugs reports for android projects
-
----
-
-**gradle-download-task**: https://github.com/michel-kraemer/gradle-download-task
-
-Adds a download task to Gradle that displays progress information
-
----
-
-**gradle-tips**: https://github.com/shekhargulati/gradle-tips
-
-Gradle tips for all of us
 
 ---
 
@@ -1364,12 +1340,6 @@ Simple test to see if all models in project correctly implement Parcelable
 
 ---
 
-**license-tools-plugin**: https://github.com/cookpad/license-tools-plugin
-
-Gradle plugin to check library licenses and generate license pages
-
----
-
 **SimpleNFC**: https://github.com/tawaasalage/SimpleNFC
 
 This is a sample project that include NFC value reading using insanely easy way
@@ -1427,23 +1397,6 @@ Android键盘面板冲突 布局闪动处理方案
 **redex**: https://github.com/facebook/redex
 
 facebook 出品的 apk 包优化工具 —— [Optimizing Android bytecode with ReDex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
-
----
-
-**img-optimizer-gradle-plugin**: https://github.com/chenenyu/img-optimizer-gradle-plugin
-
-一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩
-
-|原图|极限压缩(lossy)|无损压缩(lossless)|
-|:---:|:---:|:---:|
-|526K|195K(减少63%)|473K(减少10%)|
-|![原图](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna.png)|![极限压缩](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna_lossy.png)|![无损压缩](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna_lossless.png)|
-
----
-
-**drawable-optimizer**: https://github.com/fabiomsr/drawable-optimizer
-
-Gradle plugin to optimize png files and reduce resultant apk size within an Android project
 
 ---
 
@@ -1604,12 +1557,6 @@ ACR is an android library to simplify crash detection while your app is under de
 Simple and effective bug & crash reporting tool for Android apps http://bugtags.com/
 
 <img src="https://github.com/bugtags/Bugtags-Android/blob/master/screenshot/usage.gif" width="320" />
-
----
-
-**gradle-android-javadocs**: https://github.com/Commit451/gradle-android-javadocs
-
-Helper to generate Javadocs within a Gradle Android library
 
 ---
 
@@ -2003,25 +1950,6 @@ Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single-proces
 **freeline**: https://github.com/alibaba/freeline
 
 阿里开源的Android平台上的秒级编译方案
-
----
-
-**android-appversion-gradle-plugin**: https://github.com/hamsterksu/android-appversion-gradle-plugin
-
-下一代Android渠道打包工具Gradle插件，支持极速打包，1000个渠道包只需要5秒钟
-
----
-
-**packer-ng-plugin**: https://github.com/mcxiaoke/packer-ng-plugin
-
-Add extra information to output file name. Add build number to the application version
-批量命名应用输出文件名
-
----
-
-**dexcount-gradle-plugin**: https://github.com/KeepSafe/dexcount-gradle-plugin
-
-A Gradle plugin to report the number of method references in your APK on every build.
 
 ---
 

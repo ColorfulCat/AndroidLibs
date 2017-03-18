@@ -14,6 +14,78 @@
 
 ---
 
+**license-tools-plugin**: https://github.com/cookpad/license-tools-plugin
+
+Gradle plugin to check library licenses and generate license pages
+
+---
+
+**img-optimizer-gradle-plugin**: https://github.com/chenenyu/img-optimizer-gradle-plugin
+
+一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩
+
+|原图|极限压缩(lossy)|无损压缩(lossless)|
+|:---:|:---:|:---:|
+|526K|195K(减少63%)|473K(减少10%)|
+|![原图](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna.png)|![极限压缩](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna_lossy.png)|![无损压缩](https://github.com/chenenyu/img-optimizer-gradle-plugin/blob/master/arts/lenna_lossless.png)|
+
+---
+
+**drawable-optimizer**: https://github.com/fabiomsr/drawable-optimizer
+
+Gradle plugin to optimize png files and reduce resultant apk size within an Android project
+
+---
+
+**gradle-android-javadocs**: https://github.com/Commit451/gradle-android-javadocs
+
+Helper to generate Javadocs within a Gradle Android library
+
+---
+
+**android-appversion-gradle-plugin**: https://github.com/hamsterksu/android-appversion-gradle-plugin
+
+下一代Android渠道打包工具Gradle插件，支持极速打包，1000个渠道包只需要5秒钟
+
+---
+
+**packer-ng-plugin**: https://github.com/mcxiaoke/packer-ng-plugin
+
+Add extra information to output file name. Add build number to the application version
+批量命名应用输出文件名
+
+---
+
+**dexcount-gradle-plugin**: https://github.com/KeepSafe/dexcount-gradle-plugin
+
+A Gradle plugin to report the number of method references in your APK on every build.
+
+---
+
+**IpGetter**: https://github.com/brunodles/IpGetter
+
+The IpGetter is a plugin which will help us to get the Ip of the current machine to use on a build.gradle
+
+---
+
+**findbugs-android**: https://github.com/ChaitanyaPramod/findbugs-android
+
+Gradle plugin that creates FindBugs reports for android projects
+
+---
+
+**gradle-download-task**: https://github.com/michel-kraemer/gradle-download-task
+
+Adds a download task to Gradle that displays progress information
+
+---
+
+**gradle-tips**: https://github.com/shekhargulati/gradle-tips
+
+Gradle tips for all of us
+
+---
+
 **native-dependencies-plugin**: https://github.com/linsea/native-dependencies-plugin
 
 Android 原生库依赖解析Gradle插件
