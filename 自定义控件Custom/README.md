@@ -22,6 +22,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**FooterNavigationView**: https://github.com/borjabravo10/FooterNavigationView
+
+FooterNavigationView helps to show a footer inside the NavigationView
+
+<img src="https://raw.githubusercontent.com/borjabravo10/FooterNavigationView/master/FooterNavigationView.png" width="320"/>
+
+---
+
 **TimerView**: https://github.com/fashare2015/TimerView
 
 一个解耦良好的计时控件，可自由扩展
