@@ -438,6 +438,14 @@ A simple RatingBar for Android
 
 ---
 
+**AndroidGooView**: https://github.com/smartbetter/AndroidGooView
+
+一个自定义粘性控件，拖动GooView，在一定的范围内具有粘性效果，当超出范围时，GooView消失
+
+<img src="https://raw.githubusercontent.com/smartbetter/AndroidGooView/master/website/static/screenshot.gif" width="150" />
+
+---
+
 **BezierMaker**: https://github.com/venshine/BezierMaker
 
 通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画
