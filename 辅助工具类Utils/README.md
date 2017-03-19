@@ -1424,6 +1424,12 @@ apk 反编译工具
 
 ---
 
+**secure-preferences**: https://github.com/HussainDerry/secure-preferences
+
+Android shared preferences AES 加解密
+
+---
+
 **easyPrefs**: https://github.com/Xstar97/easyPrefs
 
 easily use android preferences(the easy way!)
