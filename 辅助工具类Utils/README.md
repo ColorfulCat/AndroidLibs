@@ -660,6 +660,12 @@ Dynamic in app URL router for Android
 
 ---
 
+**KeyHide**: https://github.com/Hamadakram/KeyHide
+
+KeyHide
+
+---
+
 **keyboard-dismisser**: https://github.com/GabrielSamojlo/keyboard-dismisser
 
 Dismiss your keyboard by tapping anywhere outside it
