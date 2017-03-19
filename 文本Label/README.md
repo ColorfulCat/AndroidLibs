@@ -508,6 +508,14 @@ A simple Android TextView to display amounts of money in different formats
 
 ---
 
+**etiyabadgetab**: https://github.com/egemenmede/etiyabadgetab
+
+Badge 徽章
+
+<img src="https://camo.githubusercontent.com/75d8641010dca7f47d0726a288f5381c57844406/687474703a2f2f7777772e64656c6970656e6775656e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30332f62616467655f73616d706c652e706e67" width="480" />
+
+---
+
 **MaterialBadgeTextView**: https://github.com/matrixxun/MaterialBadgeTextView
 
 Badge 风格的 TextView，支持 Shadow 和 Elevation
