@@ -30,6 +30,14 @@ FooterNavigationView helps to show a footer inside the NavigationView
 
 ---
 
+**LazyLoadingViews**: https://github.com/jineshfrancs/LazyLoadingViews
+
+Loading effect for the child views in Adapter View before binding data from service
+
+<img src="https://raw.githubusercontent.com/jineshfrancs/LazyLoadingViews/master/screens/loading.gif" width="270"/>
+
+---
+
 **TimerView**: https://github.com/fashare2015/TimerView
 
 一个解耦良好的计时控件，可自由扩展
