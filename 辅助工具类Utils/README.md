@@ -1566,6 +1566,12 @@ Simple and effective bug & crash reporting tool for Android apps http://bugtags.
 
 ---
 
+**PermissionHelper**: https://github.com/nirav-tukadiya/PermissionHelper
+
+6.0 运行时权限助手
+
+---
+
 **Simplify-Permissions**: https://github.com/anshulagarwal06/Simplify-Permissions
 
 Framework to simplify android marshmallow permission support
