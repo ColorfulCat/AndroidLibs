@@ -14,6 +14,14 @@
 
 ---
 
+**Android-DragDismissActivity**: https://github.com/klinker24/Android-DragDismissActivity
+
+Android Activity 下拉上拉滑动消失效果，类似 Chrome 的 Tab 效果
+
+<img src="https://raw.githubusercontent.com/klinker24/Android-DragDismissActivity/master/artwork/animation.gif" width="320" />
+
+---
+
 **EasyFlipView**: https://github.com/wajahatkarim3/EasyFlipView
 
 Android 横向翻转效果，支持双面的 View 场景
