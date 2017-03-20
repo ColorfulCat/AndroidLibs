@@ -1979,9 +1979,17 @@ A memory leak detection library for Android and Java.
 
 ---
 
-**blockcanary**: https://github.com/moduth/blockcanary
+**BlockCanaryEx**: https://github.com/lqcandqq13/BlockCanaryEx
 
-A ui-block detection library for Android. http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/
+blockcanary 升级版
+
+<img src="https://raw.githubusercontent.com/lqcandqq13/BlockCanaryEx/master/sample.png" width="320" />
+
+---
+
+**AndroidPerformanceMonitor**: https://github.com/markzhai/AndroidPerformanceMonitor
+
+(blockcanary)安卓卡顿检测. http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/
 
 <img src="https://github.com/moduth/blockcanary/blob/master/art/shot1.png" width="320" />
 
