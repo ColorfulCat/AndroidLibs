@@ -460,6 +460,14 @@ Very long text support for Android
 
 ---
 
+**Stepper-Touch**: https://github.com/DanielMartinus/Stepper-Touch
+
+一款萌萌的计数器组件
+
+<img src="https://raw.githubusercontent.com/DanielMartinus/Stepper-Touch/master/media/demo.gif" width="320" />
+
+---
+
 **AnimShopButton**: https://github.com/mcxtzhang/AnimShopButton
 
 一个带伸缩位移旋转动画的购物车按钮
