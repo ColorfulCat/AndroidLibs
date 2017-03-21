@@ -60,6 +60,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**CommonPrintProvider**: https://github.com/GrassQing/CommonPrintProvider
+
+通用型热敏打印机接口（wifi，蓝牙）
+
+---
+
 **AppDataReader**: https://github.com/Ansh1234/AppDataReader
 
 应用中读取 sp 和数据库
