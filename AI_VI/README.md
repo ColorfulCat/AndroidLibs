@@ -12,6 +12,14 @@ awesome-tensorflow
 
 ---
 
+**AndroidTensorFlowMachineLearningExample**: https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample
+
+Android TensorFlow MachineLearning Example
+
+<img src="https://raw.githubusercontent.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample/master/assets/keyboard_example.png" width="270"/> <img src="https://raw.githubusercontent.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample/master/assets/pen_example.png" width="270"/> <img src="https://raw.githubusercontent.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample/master/assets/wallet_example.png" width="270"/>
+
+---
+
 **AndroidTensorFlowMNISTExample**: https://github.com/MindorksOpenSource/AndroidTensorFlowMNISTExample
 
 Android TensorFlow Sample，把 TensorFlow 搬到 Android 上
