@@ -6,6 +6,14 @@
 
 ---
 
+**Camera**: https://github.com/lizhangqu/Camera
+
+二代身份证信息识别
+
+<img src = "https://camo.githubusercontent.com/84165b0a30c3bfa248518a1f3715433b9d0bb942/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313530393037313635313233343033" width = "320"/>
+
+---
+
 **CameraKit-Android**: https://github.com/flurgle/CameraKit-Android
 
 一个相机的库
