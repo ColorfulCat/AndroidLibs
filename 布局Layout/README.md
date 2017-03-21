@@ -246,6 +246,14 @@ An extension of RelativeLayout that helps show loading, empty and error layout
 
 ---
 
+**stateLayout**: https://github.com/fingdo/stateLayout
+
+优雅的切换布局的方法
+
+<img src="https://raw.githubusercontent.com/fingdo/stateLayout/master/gif/stateLayout.gif" width="320" />
+
+---
+
 **loadinglayout**: https://github.com/czy1121/loadinglayout
 
 简单实用的页面多状态布局(content,loading,empty,error)
