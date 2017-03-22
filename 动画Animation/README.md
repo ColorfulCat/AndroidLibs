@@ -22,6 +22,14 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**SpringAnimation**: https://github.com/brucevanfdm/SpringAnimation
+
+SpringAnimation,安卓模拟弹簧动画
+
+<img src="http://upload-images.jianshu.io/upload_images/308526-da9f44278bc972c1.gif?imageMogr2/auto-orient/strip" width="320" />
+
+---
+
 **ILayoutAnimationController**: https://github.com/HuanHaiLiuXin/ILayoutAnimationController
 
 自定义LayoutAnimationController，一行代码搞定布局动画
