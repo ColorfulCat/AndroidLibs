@@ -6,6 +6,15 @@
 
 ---
 
+**android-PictureInPicture**: https://github.com/googlesamples/android-PictureInPicture
+
+android-PictureInPicture 画中画功能
+
+<img src="https://raw.githubusercontent.com/googlesamples/android-PictureInPicture/master/screenshots/1-main.png" width="270" /> 
+<img src="https://raw.githubusercontent.com/googlesamples/android-PictureInPicture/master/screenshots/2-pip.png" width="540" />
+
+---
+
 **OhMyBiliBili**: https://github.com/HotBitmapGG/OhMyBiliBili
 
 高仿系列の哔哩哔哩 - ( ゜- ゜)つロ 乾杯~
