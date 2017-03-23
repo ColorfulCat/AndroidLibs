@@ -1578,6 +1578,14 @@ Simple and effective bug & crash reporting tool for Android apps http://bugtags.
 
 ---
 
+**PermissionGrantor**: https://github.com/dfqin/PermissionGrantor
+
+一行代码搞定Android6.0动态权限授权
+
+<img src="https://raw.githubusercontent.com/dfqin/PermissionGrantor/master/grant1.gif" width="270" /> <img src="https://raw.githubusercontent.com/dfqin/PermissionGrantor/master/grant2.gif" width="270" /> <img src="https://raw.githubusercontent.com/dfqin/PermissionGrantor/master/grant3.gif" width="270" />
+
+---
+
 **PermissionHelper**: https://github.com/nirav-tukadiya/PermissionHelper
 
 6.0 运行时权限助手
