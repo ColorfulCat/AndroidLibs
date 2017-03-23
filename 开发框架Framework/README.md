@@ -6,6 +6,12 @@
 
 ---
 
+**android-tips-tricks**：https://github.com/nisrulz/android-tips-tricks
+
+Android 开发的一些 Tips 集合
+
+---
+
 **AndroidStandardDevelop**：https://github.com/Blankj/AndroidStandardDevelop
 
 安卓开发规范
