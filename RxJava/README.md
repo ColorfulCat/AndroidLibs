@@ -44,6 +44,12 @@ Learning RxJava for Android by example
 
 ---
 
+**RxRetroJsoup**: https://github.com/florent37/RxRetroJsoup
+
+A simple API-like from html website (scrapper) for Android
+
+---
+
 **RxDbflow**: https://github.com/roadhouse-dev/RxDbflow
 
 RxJava wrapper for dbflow

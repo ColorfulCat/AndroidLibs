@@ -216,6 +216,12 @@ Lightweight Dagger 2 scoped component management library
 
 ---
 
+**Froggy**: https://github.com/BullyBoo/Froggy
+
+Simple Mvp Implementation
+
+---
+
 **andiag-mvp**: https://github.com/iagocanalejas/andiag-mvp
 
 Library to help developers build full MVP apps
