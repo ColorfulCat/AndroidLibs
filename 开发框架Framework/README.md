@@ -12,6 +12,12 @@ Android 开发的一些 Tips 集合
 
 ---
 
+**Android-Code-Style**：https://github.com/LoranWong/Android-Code-Style
+
+初心网络安卓组代码规范说明
+
+---
+
 **AndroidStandardDevelop**：https://github.com/Blankj/AndroidStandardDevelop
 
 安卓开发规范
