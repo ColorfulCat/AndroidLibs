@@ -12,6 +12,14 @@ A Radio Group layout to show radio buttons in more than one line
 
 ---
 
+**CircularImageClick**: https://github.com/ahmed-basyouni/CircularImageClick
+
+A custom ImageButton that invoke onClickListener only when touch is inside the circle not outside (rectangle area of button)
+
+<img src="https://raw.githubusercontent.com/AndroidArk/CircularImageClick/master/demo.gif" width="300" />
+
+---
+
 **HoldingButton**: https://github.com/dewarder/HoldingButton
 
 Android Holding Button 效果
