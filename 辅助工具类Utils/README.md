@@ -1586,6 +1586,18 @@ Simple and effective bug & crash reporting tool for Android apps http://bugtags.
 
 ---
 
+**PermissionManager**: https://github.com/TheBrownArrow/PermissionManager
+
+Permission Manager is easily manage Android Marshmallow and nougat runtime permissions
+
+---
+
+**PermissionManager**: https://github.com/AdamMc331/PermissionsManager
+
+PermissionsManager library that has base activity and fragment that extend from AppCompatActivity to ease with the handling of runtime permissions
+
+---
+
 **PermissionHelper**: https://github.com/nirav-tukadiya/PermissionHelper
 
 6.0 运行时权限助手
