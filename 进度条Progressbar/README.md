@@ -6,6 +6,14 @@
 
 ---
 
+**CoolProgressViews**: https://github.com/amanjeetsingh150/CoolProgressViews
+
+Android library with collection of cool progress views
+ 
+<img src = "https://cloud.githubusercontent.com/assets/12881364/23580783/04e3ba40-012e-11e7-9580-f65891f222aa.gif" width = "320"/>
+
+---
+
 **SimpleRatingBar**: https://github.com/borjabravo10/SimpleRatingBar
 
 一个评分库
