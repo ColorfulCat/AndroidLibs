@@ -44,6 +44,12 @@ Learning RxJava for Android by example
 
 ---
 
+**RxDbflow**: https://github.com/roadhouse-dev/RxDbflow
+
+RxJava wrapper for dbflow
+
+---
+
 **RxProperty**: https://github.com/skedgo/RxProperty
 
 RxJava binding APIs for observable fields and observable collections from the Data Binding Library
