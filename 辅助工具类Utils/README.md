@@ -74,6 +74,14 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**AppMethodOrder**: https://github.com/zjw-swun/AppMethodOrder
+
+一个能让你了解所有函数调用顺序的Android库（无需侵入式代码）
+
+<img src="https://camo.githubusercontent.com/7f9fe86c1371f5435aafb998df2d6952fa2ea000/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313835373838372d656236313962313831356436346261332e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="320"/>
+
+---
+
 **AnalysisApp**: https://github.com/fengzhizi715/AnalysisApp
 
 快速分析某个app使用哪些sdk的java小工具
