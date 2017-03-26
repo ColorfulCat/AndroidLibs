@@ -1052,6 +1052,14 @@ EasyImage allow you to eaisly take picture from gallery or camera without creati
 
 ---
 
+**GiphyImageResultsPreview**: https://github.com/myinnos/GiphyImageResultsPreview
+
+Library for GIF results, preview, play, share everything at one place
+
+<img src="https://github.com/myinnos/GiphyImageResultsPreview/raw/master/gif/GiphyImageResultsPreview.gif" width="320" />
+
+---
+
 **GifLoader**: https://github.com/adhishlal/GifLoader
 
 An Android Library to load your GIF files
