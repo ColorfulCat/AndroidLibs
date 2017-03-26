@@ -22,6 +22,14 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**shapeflyer**: https://github.com/cipherthinkers/shapeflyer
+
+shapeflyer
+
+<img src="https://raw.githubusercontent.com/cipherthinkers/shapeflyer/master/screenshots/shapeflyer-chaos.gif" width="320" /> <img src="https://raw.githubusercontent.com/cipherthinkers/shapeflyer/master/screenshots/shapeflyer-select.gif" width="320" />
+
+---
+
 **SpringAnimation**: https://github.com/brucevanfdm/SpringAnimation
 
 SpringAnimation,安卓模拟弹簧动画
