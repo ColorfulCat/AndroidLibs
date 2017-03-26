@@ -422,6 +422,14 @@ Analytics framework for Android
 
 ---
 
+**SyncIt**: https://github.com/jineshfrancs/SyncIt
+
+SyncIt will call a method implemented in your activity to notify data connection changes
+
+<img src="https://raw.githubusercontent.com/jineshfrancs/SyncIt/master/screens/screen1.gif" width="270"/>
+
+---
+
 **SafelyAndroid**: https://github.com/Piasy/SafelyAndroid
 
 打造健壮的安卓APP，从此告别 Activity Not Found、Activity State Loss 和 fragment transaction 中的 NPE
