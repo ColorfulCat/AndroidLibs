@@ -36,6 +36,14 @@ TensorFlow Android Camera Demo
 
 ---
 
+**librec**: https://github.com/guoguibing/librec
+
+基于 Java 实现的轻量级推荐系统
+
+<img src="https://camo.githubusercontent.com/4cb8d6593d7a024381b7ce17590a6cabdc2c4999/687474703a2f2f6c69627265632e6e65742f696d616765732f6d6f64756c65732e6a7067" width="400"/> <img src="https://camo.githubusercontent.com/fd06f80ea182ed49a73d54dffecb19b548463a52/687474703a2f2f6c69627265632e6e65742f696d616765732f70726f6365647572652e6a7067" width="400"/>
+
+---
+
 **EasyPR_Android**: https://github.com/linuxxx/EasyPR_Android
 
 中文车牌识别系统
@@ -43,3 +51,4 @@ TensorFlow Android Camera Demo
 <img src="https://raw.githubusercontent.com/liuruoze/EasyPR/master/resources/doc/res/window.png" width="600"/>
 
 ---
+
