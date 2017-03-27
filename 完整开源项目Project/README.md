@@ -649,6 +649,14 @@ Android桌面小部件：展示你的 Github 贡献图
 
 ---
 
+**FastHub**: https://github.com/k0shk0sh/FastHub
+
+终极版 GitHub 客户端
+
+<img src="https://raw.githubusercontent.com/k0shk0sh/FastHub/master/.github/assets/mobile_light.png" width="320" /> <img src="https://raw.githubusercontent.com/k0shk0sh/FastHub/master/.github/assets/mobile_night.png" width="320" />
+
+---
+
 **Gitskarios**: https://github.com/gitskarios/Gitskarios
 
 好用的 GitHub 客户端
