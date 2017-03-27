@@ -1198,11 +1198,21 @@ Android Search View based on Material design guidelines
 
 ---
 
+**SlidingTabWithColorIcons**: https://github.com/myinnos/SlidingTabWithColorIcons
+
+Library for Sliding Tab With Color Icons!
+
+<img src="https://raw.githubusercontent.com/myinnos/SlidingTabWithColorIcons/master/gif/CustomTabLayout_01.gif" width="200" /> <img src="https://raw.githubusercontent.com/myinnos/SlidingTabWithColorIcons/master/gif/CustomTabLayout_02.gif" width="200" />
+
+
+---
+
 **un-material-tab**: https://github.com/creageek/un-material-tab
 
 自定义 material TabLayout
 
 <img src="https://raw.githubusercontent.com/creageek/un-material-tab/master/resources/sample.png" width="320" />
+
 ---
 
 **SpaceTabLayout**: https://github.com/thelong1EU/SpaceTabLayout
