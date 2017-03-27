@@ -76,6 +76,12 @@ RxAndroid + MultiThread + Service + Download
 
 ---
 
+**rxstate**: https://github.com/konmik/rxstate
+
+This project is implementation of ideas from "Managing state reactive way" article
+
+---
+
 **RxPhoto**: https://github.com/oliveiradev/RxPhoto
 
 RX 图片选择
