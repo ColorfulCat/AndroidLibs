@@ -1452,6 +1452,12 @@ apk 反编译工具
 
 ---
 
+**CipherSharedPrefs**: https://github.com/Ufkoku/CipherSharedPrefs
+
+Android shared preferences 加解密
+
+---
+
 **secure-preferences**: https://github.com/HussainDerry/secure-preferences
 
 Android shared preferences AES 加解密
