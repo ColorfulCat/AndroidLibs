@@ -178,12 +178,6 @@ Demo that shows how to use RxJava with Android Data Binding ObservableFields
 
 ---
 
-**RxJava2-Android-Samples**: https://github.com/amitshekhariitbhu/RxJava2-Android-Samples
-
-RxJava 2 Android Examples - Migration From RxJava 1 to RxJava 2 - How to use RxJava 2 in Android
-
----
-
 **RxComprehensions**: https://github.com/pakoito/RxComprehensions
 
 Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and switchMaps
@@ -303,6 +297,12 @@ Reactive Event Hub
 **rxlist**: https://github.com/s0nerik/rxlist
 
 RxJava 方式对 List 的封装
+
+---
+
+**RxBus2**: https://github.com/MFlisar/RxBus2
+
+RxJava2 based bus with queuing (e.g. lifecycle based) support
 
 ---
 
