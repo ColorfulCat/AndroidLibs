@@ -1208,6 +1208,12 @@ Android低功耗蓝牙便捷操作框架，基于回调，完成蓝牙设备交�
 
 ---
 
+**android-utility**: https://github.com/aaabidunique/android-utility
+
+A handy set of utility for android
+
+---
+
 **android-utils**: https://github.com/nisrulz/android-utils
 
 Repository consisting of utility scripts/classes/packages
