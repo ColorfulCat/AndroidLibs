@@ -6,6 +6,14 @@
 
 ---
 
+**CharCountTextView**: https://github.com/xbroak/CharCountTextView
+
+Twitter 风格 TextView 输入字数统计
+
+<img src="https://camo.githubusercontent.com/b390d94864e09e4c888becbbd99c1ea43529873e/687474703a2f2f692e696d6775722e636f6d2f566770467766792e706e67" width="400"/> <img src="https://camo.githubusercontent.com/c34a91e575c0b34425bcaeb39f8bb94e7ee4af4f/687474703a2f2f692e696d6775722e636f6d2f41334e4b3477432e706e67" width="400"/>
+
+---
+
 **Text-Length-Bar**: https://github.com/minube/Text-Length-Bar
 
 统计 TextView 输入字数
