@@ -6,6 +6,14 @@
 
 ---
 
+**FlipsideCamera**: https://github.com/andyb129/FlipsideCamera
+
+从两个摄像头同时拍下某一个瞬间的 app
+
+<img src = "https://raw.githubusercontent.com/andyb129/FlipsideCamera/master/screenshots/flipside_camera_screen_1.png" width = "320"/> <img src = "https://raw.githubusercontent.com/andyb129/FlipsideCamera/master/screenshots/flipside_camera_screen_3.png" width = "320"/>
+
+---
+
 **rebase-android**: https://github.com/drakeet/rebase-android
 
 日常 是一款由 drakeet 负责推荐和分享各种好玩新鲜的栏目应用，基于 Rebase 服务， 学习型非常强
