@@ -1198,12 +1198,19 @@ Android Search View based on Material design guidelines
 
 ---
 
+**SlidingRootNav**: https://github.com/yarolegovich/SlidingRootNav
+
+DrawerLayout-like ViewGroup, where a "drawer" is hidden under the content view, which can be shifted to make the drawer visible
+
+<img src="https://raw.githubusercontent.com/yarolegovich/SlidingRootNav/master/art/sample.gif" width="600" />
+
+---
+
 **SlidingTabWithColorIcons**: https://github.com/myinnos/SlidingTabWithColorIcons
 
 Library for Sliding Tab With Color Icons!
 
 <img src="https://raw.githubusercontent.com/myinnos/SlidingTabWithColorIcons/master/gif/CustomTabLayout_01.gif" width="200" /> <img src="https://raw.githubusercontent.com/myinnos/SlidingTabWithColorIcons/master/gif/CustomTabLayout_02.gif" width="200" />
-
 
 ---
 
