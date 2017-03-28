@@ -1198,6 +1198,14 @@ Android Search View based on Material design guidelines
 
 ---
 
+**ChangeTabLayout**: https://github.com/simplezhli/ChangeTabLayout
+
+一款炫酷的TabLayout
+
+<img src="https://raw.githubusercontent.com/simplezhli/ChangeTabLayout/master/preview/preview.gif" width="600" />
+
+---
+
 **SlidingRootNav**: https://github.com/yarolegovich/SlidingRootNav
 
 DrawerLayout-like ViewGroup, where a "drawer" is hidden under the content view, which can be shifted to make the drawer visible
