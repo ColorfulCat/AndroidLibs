@@ -30,6 +30,12 @@ Android 开发的一些 Tips 集合
 
 ---
 
+**python-for-android**：https://github.com/kivy/python-for-android
+
+用 Python 开发 Android 应用程序
+
+---
+
 **MVPArt**：https://github.com/JessYanCoding/MVPArt
 
 A New Android MVP Architecture http://www.jianshu.com/p/ac51c9b88af3
