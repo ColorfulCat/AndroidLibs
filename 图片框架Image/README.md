@@ -22,6 +22,14 @@
 
 ---
 
+**ShadowImageView**: https://github.com/yingLanNull/ShadowImageView
+
+可以根据图片变颜色，更加细腻的阴影效果
+
+<img src = "https://github.com/yingLanNull/ShadowImageView/blob/master/show/shadow.gif" width = "320"/>
+
+---
+
 **photo-affix**: https://github.com/afollestad/photo-affix
 
 图片拼接
