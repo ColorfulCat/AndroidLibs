@@ -6,6 +6,14 @@
 
 ---
 
+**AdaptiveTableLayout**: https://github.com/Cleveroad/AdaptiveTableLayout
+
+利用 TabLayout 实现的 CSV 文件加载和预览
+
+<img src="https://raw.githubusercontent.com/Cleveroad/AdaptiveTableLayout/master/images/demo.gif" width="600"/>
+
+---
+
 **CharCountTextView**: https://github.com/xbroak/CharCountTextView
 
 Twitter 风格 TextView 输入字数统计
