@@ -7,6 +7,14 @@
 
 ---
 
+**SwipeMenuRecyclerView**: https://github.com/AItsuki/SwipeMenuRecyclerView
+
+RecyclerView侧滑菜单
+
+<img src="https://camo.githubusercontent.com/e175bae183bd9bd00b2331276279c0a3e9f1c285/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323230323037392d363866396139373833386130356335332e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="320" />
+
+---
+
 **ListItemView**: https://github.com/lurbas/ListItemView
 
 基于 MD 实现的一些 List Item 的模板布局，可以帮助大家在开发的时候省时间
