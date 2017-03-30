@@ -30,6 +30,14 @@ Android library with collection of cool progress views
 
 ---
 
+**plain-pie**: https://github.com/zurche/plain-pie
+
+简单可自定义饼状图
+
+<img src="https://raw.githubusercontent.com/zurche/plain-pie/master/img/pie_1.png" width="240" /> <img src="https://raw.githubusercontent.com/zurche/plain-pie/master/img/pie_2.png" width="240" /> <img src="https://raw.githubusercontent.com/zurche/plain-pie/master/img/pie_3.png" width="240" /> 
+
+---
+
 **geometric-progress-view**: https://github.com/vbohush/geometric-progress-view
 
 Customizable progress indicator in the form of 2D geometric shapes
