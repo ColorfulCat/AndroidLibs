@@ -381,6 +381,14 @@ Android button which moves in eight direction.
 
 ---
 
+**ButtonProgressBar**: https://github.com/ishaan1995/ButtonProgressBar
+
+Android 按钮进度条效果
+
+<img src="https://raw.githubusercontent.com/ishaan1995/ButtonProgressBar/master/output_F2Ryon.gif" width="300" />
+
+---
+
 **ToggleButton**: [https://github.com/zcweng/ToggleButton](https://github.com/zcweng/ToggleButton)
 
 ToggleButton Widget For Android Dev
