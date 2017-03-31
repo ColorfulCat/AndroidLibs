@@ -22,6 +22,14 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**spruce-android**: https://github.com/willowtreeapps/spruce-android
+
+Android 动画管理库，辅助你管理动画效果
+
+<img src="https://raw.githubusercontent.com/willowtreeapps/spruce-android/master/imgs/recycler-example.gif" width="320" />
+
+---
+
 **shapeflyer**: https://github.com/cipherthinkers/shapeflyer
 
 shapeflyer
