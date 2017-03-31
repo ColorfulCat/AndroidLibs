@@ -6,6 +6,14 @@
 
 ---
 
+**Android-Simple-Chart**: https://github.com/Kutear/Android-Simple-Chart
+
+简单的Android图表实现
+
+<img src="https://raw.githubusercontent.com/Kutear/Android-Simple-Chart/master/img/p1.png" width="400" /> <img src="https://raw.githubusercontent.com/Kutear/Android-Simple-Chart/master/img/p2.png" width="400" />
+
+---
+
 **BeautifulGraphSample**: https://github.com/deepakbaliga/BeautifulGraphSample
 
 BeautifulGraphSample
