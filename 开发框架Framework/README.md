@@ -6,6 +6,12 @@
 
 ---
 
+**awesome-android-complete-reference**：https://github.com/amitshekhariitbhu/awesome-android-complete-reference
+
+安卓开发集锦
+
+---
+
 **android-tips-tricks**：https://github.com/nisrulz/android-tips-tricks
 
 Android 开发的一些 Tips 集合
