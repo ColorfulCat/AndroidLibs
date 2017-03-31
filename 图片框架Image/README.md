@@ -526,6 +526,12 @@ Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法
 
 ---
 
+**zxing-android-embedded**: https://github.com/journeyapps/zxing-android-embedded
+
+Port of the ZXing Android application as an Android library project, for embedding in an Android application
+
+---
+
 **ZXingDemo**: https://github.com/vivian8725118/ZXingDemo
 
 六种二维码生成的样式
