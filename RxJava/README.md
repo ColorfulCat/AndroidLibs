@@ -44,6 +44,12 @@ Learning RxJava for Android by example
 
 ---
 
+**RxActivityResult**: https://github.com/nekocode/RxActivityResult
+
+Receive results from startActivityForResult() as an Observable
+
+---
+
 **RxRetroJsoup**: https://github.com/florent37/RxRetroJsoup
 
 A simple API-like from html website (scrapper) for Android
