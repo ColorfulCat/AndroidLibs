@@ -22,6 +22,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**UCMainViewForBehavior**: https://github.com/huyongli/UCMainViewForBehavior
+
+使用Behavior高仿实现UC浏览器首页上下滑动效果
+
+<img src="https://raw.githubusercontent.com/huyongli/UCMainViewForBehavior/master/gif/uc-main-view-behavior.gif" width="320"/>
+
+---
+
 **FooterNavigationView**: https://github.com/borjabravo10/FooterNavigationView
 
 FooterNavigationView helps to show a footer inside the NavigationView
