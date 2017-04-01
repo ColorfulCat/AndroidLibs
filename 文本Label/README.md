@@ -6,6 +6,14 @@
 
 ---
 
+**android-round-textview**: https://github.com/apg-mobile/android-round-textview
+
+android-round-textview
+
+<img src="https://raw.githubusercontent.com/apg-mobile/android-round-textview/master/preview.png" width="320"/>
+
+---
+
 **AdaptiveTableLayout**: https://github.com/Cleveroad/AdaptiveTableLayout
 
 利用 TabLayout 实现的 CSV 文件加载和预览
