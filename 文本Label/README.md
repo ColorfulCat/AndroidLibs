@@ -905,6 +905,14 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**Fonty**: https://github.com/MarcinOrlowski/Fonty
+
+Android library allowing you to easily change the typeface of your UI elements
+
+<img src="https://raw.githubusercontent.com/MarcinOrlowski/Fonty/master/img/shot.png" width="360" />
+
+---
+
 **CustomTypeface**: https://github.com/TheBrownArrow/CustomTypeface
 
 Custom-Typeface is a library to add custom fonts in android
