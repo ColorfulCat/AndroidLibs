@@ -1061,6 +1061,14 @@ Expand your view with no problem
 
 ---
 
+**Primer**: https://github.com/mohak1712/Primer
+
+Google Primer 引导页
+
+<img src="https://cloud.githubusercontent.com/assets/12782512/24333659/922c6ff8-1279-11e7-8742-10456a4c4da6.gif" width="320" />
+
+---
+
 **Material-Onboarding**: https://github.com/Vexigon/Material-Onboarding
 
 MD 风格引导页
