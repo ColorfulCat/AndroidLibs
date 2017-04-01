@@ -30,6 +30,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**UCIndexAnimation**: https://github.com/huyongli/UCIndexAnimation
+
+自定义View高仿实现UC浏览器首页上下滑动效果
+
+<img src="https://camo.githubusercontent.com/7ef3b032eebe518306c652b3b2c39fd81f6deabc/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630353236323332323233323337" width="320"/>
+
+---
+
 **FooterNavigationView**: https://github.com/borjabravo10/FooterNavigationView
 
 FooterNavigationView helps to show a footer inside the NavigationView
