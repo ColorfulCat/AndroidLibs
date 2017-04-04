@@ -344,6 +344,14 @@ Simple gallery to retrieve one or more images. It allow to take new photos or vi
 
 ---
 
+**cropiwa**: https://github.com/steelkiwi/cropiwa
+
+图片自定义裁剪
+
+<img src = "https://raw.githubusercontent.com/steelkiwi/cropiwa/master/assets/3J8gYWC.gif" width = "320"/>
+
+---
+
 **croperino**: https://github.com/ekimual/croperino
 
 图片裁剪
