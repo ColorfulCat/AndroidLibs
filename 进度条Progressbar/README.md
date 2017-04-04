@@ -6,6 +6,14 @@
 
 ---
 
+**tinglingsquares**: https://github.com/ishan1604/tinglingsquares
+
+A delightful progress animation
+ 
+<img src = "https://raw.githubusercontent.com/ishan1604/tinglingsquares/master/media/demo.gif" width = "320"/>
+
+---
+
 **CoolProgressViews**: https://github.com/amanjeetsingh150/CoolProgressViews
 
 Android library with collection of cool progress views
