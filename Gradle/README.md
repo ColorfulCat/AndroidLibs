@@ -20,6 +20,12 @@ Gradle plugin to check library licenses and generate license pages
 
 ---
 
+**McImage**: https://github.com/Mobcase/McImage
+
+McImage是一个插件帮助你检查你res中的大图和全量压缩你的res, 支持 jar, aar
+
+---
+
 **img-optimizer-gradle-plugin**: https://github.com/chenenyu/img-optimizer-gradle-plugin
 
 一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩
