@@ -6,6 +6,14 @@
 
 ---
 
+**IconSwitch**: https://github.com/polyak01/IconSwitch
+
+Custom Android Switch widget
+
+<img src="https://raw.githubusercontent.com/polyak01/IconSwitch/master/data/3J8gYHy.gif" width="480" />
+
+---
+
 **Vorolay**: https://github.com/Quatja/Vorolay
 
 在 Android 上，实现沃漂亮的罗诺伊图
