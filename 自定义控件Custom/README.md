@@ -22,6 +22,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**AndroidGpsStatus**: https://github.com/hzw1199/AndroidGpsStatus
+
+显示GPS定位状态和信号强度的控件，实时刷新，使用方便，可定制，适合运动类及出行类APP
+
+<img src="https://raw.githubusercontent.com/hzw1199/AndroidGpsStatus/master/media/anglerM4B30Xwuzongheng04042017015425.gif" width="320"/>
+
+---
+
 **UCMainViewForBehavior**: https://github.com/huyongli/UCMainViewForBehavior
 
 使用Behavior高仿实现UC浏览器首页上下滑动效果
