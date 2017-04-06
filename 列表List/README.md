@@ -7,6 +7,14 @@
 
 ---
 
+**FireworkyPullToRefresh**: https://github.com/Cleveroad/FireworkyPullToRefresh
+
+烟花效果的下拉刷新
+
+<img src="https://raw.githubusercontent.com/Cleveroad/FireworkyPullToRefresh/master/images/demo_.gif" width="640" />
+
+---
+
 **SwipeMenuRecyclerView**: https://github.com/AItsuki/SwipeMenuRecyclerView
 
 RecyclerView侧滑菜单
