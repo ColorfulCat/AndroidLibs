@@ -14,6 +14,14 @@ Android 透视三维体效果实现
 
 ---
 
+**CardView**: https://github.com/vivian8725118/CardView
+
+Android小票效果
+
+<img src="https://raw.githubusercontent.com/vivian8725118/CardView/master/art/S61201-155859.jpg" width="320" /> <img src="https://raw.githubusercontent.com/vivian8725118/CardView/master/art/S61201-163058.jpg" width="320" />
+
+---
+
 **IconSwitch**: https://github.com/polyak01/IconSwitch
 
 Custom Android Switch widget

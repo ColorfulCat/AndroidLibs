@@ -278,7 +278,7 @@ IOS 风格选择控制
 
 **PatternLockView**: https://github.com/aritraroy/PatternLockView
 
-手势解锁通用库 android
+可能是目前最漂亮的 Android 手势解锁
 
 <img src="https://raw.githubusercontent.com/aritraroy/PatternLockView/master/screenshots/pattern_lock_view_small.gif" width="320" /> <img src="https://raw.githubusercontent.com/aritraroy/PatternLockView/master/screenshots/pattern_lock_view_2_small.gif" width="320" />
 
