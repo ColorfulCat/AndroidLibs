@@ -158,6 +158,14 @@ Put some bubble in your tabs and give your apps a supa fresh style
 
 ---
 
+**JellyToolbar**: https://github.com/Yalantis/JellyToolbar
+
+果冻肉效果的Toolbar
+
+<img src="https://raw.githubusercontent.com/Yalantis/JellyToolbar/develop/gif.gif" width="400" />
+
+---
+
 **SlideshowToolbar**: https://github.com/JuL1205/SlideshowToolbar
 
 Toolbar 组件展示 Banner 图片效果
