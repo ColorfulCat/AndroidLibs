@@ -6,6 +6,14 @@
 
 ---
 
+**HorizontalScrollMenu**: https://github.com/MorochoRochaDarwin/HorizontalScrollMenu
+
+基于 RecyclerView 的横向滑动菜单
+
+<img src="https://cloud.githubusercontent.com/assets/15864336/23817168/0750bcb6-05bf-11e7-9095-d380da6b408d.png" width="320"/> <img src="https://cloud.githubusercontent.com/assets/15864336/23817166/074cf022-05bf-11e7-8c73-c3417957b1c9.png" width="320"/>
+
+---
+
 **CircleMenu**: https://github.com/ImangazalievM/CircleMenu
 
 漂亮的 Android 圆形菜单
