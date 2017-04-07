@@ -476,6 +476,14 @@ Fragment 参数传递
 
 ---
 
+**FingerprintManager**: https://github.com/JesusM/FingerprintManager
+
+简洁的指纹管理工具
+
+<img src="https://raw.githubusercontent.com/JesusM/FingerprintManager/master/resources/images/sample_light_theme.png" width="320"/> <img src="https://raw.githubusercontent.com/JesusM/FingerprintManager/master/resources/images/sample_dark_theme.png" width="320"/>
+
+---
+
 **FingerprintAuthHelper**: https://github.com/pro100svitlo/FingerprintAuthHelper
 
 指纹认证
