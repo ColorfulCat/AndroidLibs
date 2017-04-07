@@ -516,6 +516,14 @@ A small tool to convert your app's png&jpg image files into WebP when possible
 
 ---
 
+**CompressHelper**: https://github.com/nanchen2251/CompressHelper
+
+压缩文件，压缩图片，压缩Bitmap，Compress,CompressImage,CompressFile,CompressBitmap
+
+<img src="https://raw.githubusercontent.com/nanchen2251/CompressHelper/master/111.png" width = "320"/>
+
+---
+
 **AdvancedLuban**: https://github.com/shaohui10086/AdvancedLuban
 
 高效、简洁的图片压缩工具库 / An Advanced Compress Image Library for Android http://shaohui.me
