@@ -724,6 +724,12 @@ Simple formatting options for TextView and EditText in the same way Whatsapp pro
 
 ---
 
+**MarkupAndroid**: https://github.com/shree-vastava/MarkupAndroid
+
+文本高亮
+
+---
+
 **codeview-android**: https://github.com/Softwee/codeview-android
 
 代码格式高亮 in native way
