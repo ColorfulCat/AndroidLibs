@@ -11,6 +11,14 @@ Material Design 风格的组件集合
 
 ---
 
+**UltraViewPager**: https://github.com/alibaba/UltraViewPager
+
+一个封装多种特性的ViewPager
+
+<img src="https://raw.githubusercontent.com/alibaba/UltraViewPager/master/pics/pics1.gif" width="320" /> <img src="https://raw.githubusercontent.com/alibaba/UltraViewPager/master/pics/pics3.gif" width="320" />
+
+---
+
 **echantedviewpager**: https://github.com/TMSantos/echantedviewpager
 
 ViewPager that provides some custom and usefull functionalities, such as, scalling scroll, alpha scroll and swipe to dismiss option
