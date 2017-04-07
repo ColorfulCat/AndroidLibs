@@ -962,6 +962,12 @@ Android optimized event bus that simplifies communication between Activities, Fr
 
 ---
 
+**sdk3rd**: https://github.com/czy1121/sdk3rd
+
+第三方SDK集成库，授权/分享/支付
+
+---
+
 **Android-Pay**: https://github.com/mayubao/Android-Pay
 
 支持微信和支付宝两种主流支付的集成库， 两行代码实现微信支付， 三行代码实现支付宝支付
