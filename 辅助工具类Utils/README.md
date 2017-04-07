@@ -476,6 +476,14 @@ Fragment 参数传递
 
 ---
 
+**FingerprintAuthHelper**: https://github.com/pro100svitlo/FingerprintAuthHelper
+
+指纹认证
+
+<img src="https://raw.githubusercontent.com/pro100svitlo/FingerprintAuthHelper/master/screenshots/sc_0.png" width="320"/> <img src="https://raw.githubusercontent.com/pro100svitlo/FingerprintAuthHelper/master/screenshots/sc_1.png" width="320"/>
+
+---
+
 **FingerprintAuthDemo**: https://github.com/pro100svitlo/FingerprintAuthDemo
 
 指纹认证
