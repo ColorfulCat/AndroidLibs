@@ -476,6 +476,14 @@ Fragment 参数传递
 
 ---
 
+**android-fingerprint-authentication**: https://github.com/multidots/android-fingerprint-authentication
+
+指纹集成，管理工具
+
+<img src="https://raw.githubusercontent.com/multidots/android-fingerprint-authentication/master/screens/screen-capture.gif" width="320"/>
+
+---
+
 **FingerprintManager**: https://github.com/JesusM/FingerprintManager
 
 简洁的指纹管理工具
