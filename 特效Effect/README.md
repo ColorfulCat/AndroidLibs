@@ -14,6 +14,14 @@ Android 透视三维体效果实现
 
 ---
 
+**DiscrollView2**: https://github.com/egek92/DiscrollView2
+
+Android Library for fancy layouts
+
+<img src="https://camo.githubusercontent.com/56d7806855aa6593a7093b2414e452bdba29a151/68747470733a2f2f6769616e742e6766796361742e636f6d2f46656d696e696e655761726c696b654571756573747269616e2e676966" width="320" />
+
+---
+
 **OneDrawable**: https://github.com/maoruibin/OneDrawable
 
 仅使用一张资源图片为 View 设置具有按下效果的背景-OneDrawable
