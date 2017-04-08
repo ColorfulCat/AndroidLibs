@@ -1656,6 +1656,12 @@ PermissionsManager library that has base activity and fragment that extend from 
 
 ---
 
+**PermissionHelper**: https://github.com/pankaj89/PermissionHelper
+
+PermissionHelper for Android M
+
+---
+
 **PermissionHelper**: https://github.com/nirav-tukadiya/PermissionHelper
 
 6.0 运行时权限助手
