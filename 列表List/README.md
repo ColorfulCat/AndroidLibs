@@ -7,6 +7,12 @@
 
 ---
 
+**SlimAdapter**: https://github.com/MEiDIK/SlimAdapter
+
+A slim & clean & typeable Adapter without VIEWHOLDER
+
+---
+
 **FireworkyPullToRefresh**: https://github.com/Cleveroad/FireworkyPullToRefresh
 
 烟花效果的下拉刷新
