@@ -44,6 +44,12 @@ Learning RxJava for Android by example
 
 ---
 
+**RxDiffUtil**: https://github.com/volders/RxDiffUtil
+
+RxDiffUtil is an Rx wrapper around the Android DiffUtil library for the RecyclerView
+
+---
+
 **RxActivityResult**: https://github.com/nekocode/RxActivityResult
 
 Receive results from startActivityForResult() as an Observable
