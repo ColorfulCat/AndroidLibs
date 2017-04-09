@@ -11,6 +11,14 @@ Material Design 风格的组件集合
 
 ---
 
+**CarouselEffect**: https://github.com/bhaveshjabuvani-credencys/CarouselEffect
+
+Carousel Effect with ViewPager
+
+<img src="https://raw.githubusercontent.com/bhaveshjabuvani-credencys/CarouselEffect/master/CarouselEffectDemo.gif" width="270" />
+
+---
+
 **UltraViewPager**: https://github.com/alibaba/UltraViewPager
 
 一个封装多种特性的ViewPager
