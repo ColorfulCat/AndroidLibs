@@ -6,6 +6,15 @@
 
 ---
 
+**circularView**: https://github.com/rjsvieira/circularView
+
+A 'Google Fit'-like implementation of the circular view
+ 
+<img src = "https://raw.githubusercontent.com/rjsvieira/circularView/master/circularview.gif" width = "320"/>
+
+---
+
+
 **tinglingsquares**: https://github.com/ishan1604/tinglingsquares
 
 A delightful progress animation
