@@ -6,6 +6,12 @@
 
 ---
 
+**fonts**: https://github.com/florent37/fonts
+
+Define the fonts of your Android project directly from the build.gradle
+
+---
+
 **gradle-license-plugin**: https://github.com/jaredsburrows/gradle-license-plugin
 
 生成证书的 gradle 插件
