@@ -68,6 +68,12 @@ DNS proxy for Android 4.3+
 
 ---
 
+**RetrofitRssConverterFactory**: https://github.com/faruktoptas/RetrofitRssConverterFactory
+
+A Retrofit 2 converter which parses Rss feeds
+
+---
+
 **retrocache**: https://github.com/iagocanalejas/retrocache
 
 This library provides an easy way for configure retrofit for use a 2 layer cache (RAM and Disk)
