@@ -38,6 +38,14 @@ Android 动画管理库，辅助你管理动画效果
 
 ---
 
+**Apple-Music-Animation**: https://github.com/rahulrj/Apple-Music-Animation
+
+苹果手机音乐动画效果
+
+<img src="https://github.com/rahulrj/Apple-Music-Animation/raw/master/animation_demo.gif" width="320" />
+
+---
+
 **shapeflyer**: https://github.com/cipherthinkers/shapeflyer
 
 shapeflyer
