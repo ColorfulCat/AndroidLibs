@@ -44,6 +44,14 @@ Learning RxJava for Android by example
 
 ---
 
+**ObservableScheduler**: https://github.com/jiang111/ObservableScheduler
+
+仿RxJava 的管理线程间跳转的库
+
+<img src="https://raw.githubusercontent.com/jiang111/ObservableScheduler/master/art/art.gif" width="320" />
+
+---
+
 **RxDiffUtil**: https://github.com/volders/RxDiffUtil
 
 RxDiffUtil is an Rx wrapper around the Android DiffUtil library for the RecyclerView

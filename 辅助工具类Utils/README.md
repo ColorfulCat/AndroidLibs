@@ -1318,12 +1318,6 @@ Kotlin 语言编写的安卓 cache 库
 
 ---
 
-**ObservableScheduler**: https://github.com/jiang111/ObservableScheduler
-
-更好的管理线程间跳转的库
-
----
-
 **ShareUtil**: https://github.com/shaohui10086/ShareUtil
 
 简单的Android社会化分享登录库，一行代码搞定
