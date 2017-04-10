@@ -30,6 +30,14 @@ Android 粒子动画效果
 
 ---
 
+**ShootRefreshView**: https://github.com/dinuscxj/ShootRefreshView
+
+快手Android客户端的一个刷新动画
+
+<img src="https://raw.githubusercontent.com/dinuscxj/ShootRefreshView/master/Preview/ShootRefreshView.gif?width=300" width="270" />
+
+---
+
 **spruce-android**: https://github.com/willowtreeapps/spruce-android
 
 Android 动画管理库，辅助你管理动画效果
