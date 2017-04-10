@@ -120,6 +120,14 @@ RxJava 封装的安卓动画库
 
 ---
 
+**Traceur**: https://github.com/T-Spoon/Traceur
+
+RxJava2 辅助 Debug 工具，更好的展示堆栈调用
+
+<img src="https://raw.githubusercontent.com/T-Spoon/Traceur/master/assets/stacktrace-with-traceur.png" width="640" />
+
+---
+
 **frodo**: https://github.com/android10/frodo
 
 RxJava 调试助手，日志管理
