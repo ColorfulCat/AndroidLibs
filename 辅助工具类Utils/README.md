@@ -1858,6 +1858,14 @@ App-local sql logging with viewer activity
 
 ---
 
+**ALog**：https://github.com/Blankj/ALog
+
+一个精简、全面、方便的AndroidLog库--ALog
+
+<img src="https://raw.githubusercontent.com/Blankj/ALog/master/img/detail.png" width="640" />
+
+---
+
 **EzyLogger**：https://github.com/afiqiqmal/EzyLogger
 
 Simple Logger for Android
