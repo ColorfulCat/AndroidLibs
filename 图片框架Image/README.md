@@ -6,6 +6,14 @@
 
 ---
 
+**sand**: https://github.com/Jomes/sand
+
+使用JNI实现Sobel算子图像边缘检测
+
+<img src = "https://raw.githubusercontent.com/Jomes/sand/master/gif/sand.gif" width = "200"/>
+
+---
+
 **Camera**: https://github.com/lizhangqu/Camera
 
 二代身份证信息识别
