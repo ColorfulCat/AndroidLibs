@@ -548,6 +548,14 @@ Port of the ZXing Android application as an Android library project, for embeddi
 
 ---
 
+**PressScanCode**: https://github.com/BolexLiu/PressScanCode
+
+一个长按扫描webView上的二维码的工具库
+
+<img src="https://raw.githubusercontent.com/BolexLiu/PressScanCode/master/tips.gif" width="240" />
+
+---
+
 **ZXingDemo**: https://github.com/vivian8725118/ZXingDemo
 
 六种二维码生成的样式
