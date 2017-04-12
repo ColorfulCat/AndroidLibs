@@ -1892,6 +1892,14 @@ Android logger, simple and pretty, powerful and flexible, all you need is here
 
 ---
 
+**DebugOverlay-Android**：https://github.com/Manabu-GT/DebugOverlay-Android
+
+App 端，查看 Logcat 信息
+
+<img src="https://raw.githubusercontent.com/Manabu-GT/DebugOverlay-Android/master/art/overlay_with_configurations.png" width="320" />
+
+---
+
 **LogcatTextView**：https://github.com/munix/LogcatTextView
 
 帮助你在 App 端，查看 Logcat 输出信息
