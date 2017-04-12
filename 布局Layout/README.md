@@ -1534,7 +1534,15 @@ Android layout that simulates physics using JBox2D
 
 ---
 
-**bottomsheet**: [https://github.com/Flipboard/bottomsheet](https://github.com/Flipboard/bottomsheet)
+**react-native-bottom-sheet-behavior**: https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior
+
+react-native-bottom-sheet-behavior
+
+<img src="https://cloud.githubusercontent.com/assets/5366959/24594266/c59667bc-1801-11e7-840c-97588658a8ae.gif" width="320" />
+
+---
+
+**bottomsheet**: https://github.com/Flipboard/bottomsheet
 
 Android component which presents a dismissible view from the bottom of the screen
 
