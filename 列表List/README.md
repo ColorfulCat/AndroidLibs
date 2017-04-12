@@ -698,6 +698,14 @@ An index side bar with wave effect
 
 ---
 
+**ShimmerContactsView**: https://github.com/TakeoffAndroid/ShimmerContactsView
+
+Loading contacts made simple with ShimmerContactsView
+
+<img src="https://camo.githubusercontent.com/cd00caacd89b4671a6c79b59f4d838c74d0d15e1/687474703a2f2f692e696d6775722e636f6d2f6859306e3751472e676966" width="320" /> <img src="https://camo.githubusercontent.com/4d33a3e0cda2a395361340c8357ca6fc14bc0fc0/687474703a2f2f692e696d6775722e636f6d2f6e764d64554a492e676966" width="320" />
+
+---
+
 **SideBar**: https://github.com/kongnanlive/SideBar
 
 全新的快速索引导航栏，联系人字母排序侧边栏
