@@ -66,6 +66,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**SQLiteToExcel**: https://github.com/li-yu/SQLiteToExcel
+
+SQLiteToExcel 库整合了 Apache POI 和一些基本的数据库查询操作，使得 SQLite 和 Excel 之间相互转换更加便捷
+
+---
+
 **AppDataReader**: https://github.com/Ansh1234/AppDataReader
 
 应用中读取 sp 和数据库
