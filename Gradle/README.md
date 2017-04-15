@@ -6,6 +6,12 @@
 
 ---
 
+**gradle-build-timer-plugin**: https://github.com/eleventigers/gradle-build-timer-plugin
+
+gradle-build-timer-plugin
+
+---
+
 **fonts**: https://github.com/florent37/fonts
 
 Define the fonts of your Android project directly from the build.gradle
