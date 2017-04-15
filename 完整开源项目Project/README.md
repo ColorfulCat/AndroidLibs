@@ -6,6 +6,12 @@
 
 ---
 
+**NoticeDog**: https://github.com/bunnyblue/NoticeDog
+
+一个基于NotificationListenerService 的Android通知管理app，可以防止微信消息撤回
+
+---
+
 **bilibili-android-client**: https://github.com/HotBitmapGG/bilibili-android-client
 
 非官方 B 站客户端
