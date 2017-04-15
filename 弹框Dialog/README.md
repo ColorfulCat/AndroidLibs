@@ -6,6 +6,14 @@
 
 ---
 
+**dev-alert-android**: https://github.com/garena/dev-alert-android
+
+轻量级的消息提示框
+
+<img src="https://camo.githubusercontent.com/5885d257147e129bf372bb78bf7976c7c433c10c/687474703a2f2f692e696d6775722e636f6d2f6c50544c366f702e676966" width="320" />
+
+---
+
 **fancyDialog**: https://github.com/geniusforapp/fancyDialog
 
 一个好看的 Dialog
