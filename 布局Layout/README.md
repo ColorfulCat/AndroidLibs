@@ -1230,6 +1230,14 @@ Android Search View based on Material design guidelines
 
 ---
 
+**BottomNavBar**: https://github.com/adib2149/BottomNavBar
+
+底部导航栏
+
+<img src="https://raw.githubusercontent.com/adib2149/BottomNavBar/master/screenshot/screenshot.gif" width="320" />
+
+---
+
 **ChangeTabLayout**: https://github.com/simplezhli/ChangeTabLayout
 
 一款炫酷的TabLayout
