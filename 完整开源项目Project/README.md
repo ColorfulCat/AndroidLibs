@@ -1328,7 +1328,7 @@ Material Design Notes App
 
 ---
 
-**ZhuanLan**:  https://github.com/bxbxbai/ZhuanLan
+**ZhuanLan**: https://github.com/bxbxbai/ZhuanLan
 
 一个知乎专栏App
 
@@ -1337,7 +1337,7 @@ Material Design Notes App
 
 ---
 
-**Qiitanium**:  https://github.com/ogaclejapan/Qiitanium
+**Qiitanium**: https://github.com/ogaclejapan/Qiitanium
 
 Qiitanium is an unofficial Android application of Qiita
 
@@ -1345,19 +1345,27 @@ Qiitanium is an unofficial Android application of Qiita
 
 ---
 
-**KISS**:  https://github.com/Neamar/KISS
+**KISS**: https://github.com/Neamar/KISS
 
 轻量的安卓桌面
 
 ---
 
-**Launcher3**:  https://github.com/fookwood/Launcher3
+**Launcher3_mx**: https://github.com/yuchuangu85/Launcher3_mx
+
+谷歌Launcher3，基于最新launcher3-7.1.1-r38的分支
+
+<img src="https://raw.githubusercontent.com/yuchuangu85/Launcher3_mx/master/art/launcher2.jpg" width="320" /> <img src="https://raw.githubusercontent.com/yuchuangu85/Launcher3_mx/master/art/launcher1.jpg" width="320" />
+
+---
+
+**Launcher3**: https://github.com/fookwood/Launcher3
 
 更改官方的Launcher3使得可以在Android Studio编译 http://www.fookwood.com/android
 
 ---
 
-**Remindly**:  https://github.com/blanyal/Remindly
+**Remindly**: https://github.com/blanyal/Remindly
 
 Remindly is a simple and user friendly application to create reminders. https://play.google.com/store/apps/details?id=com.blanyal.remindly
 
@@ -1367,7 +1375,7 @@ Remindly is a simple and user friendly application to create reminders. https://
 
 ---
 
-**Leisure**:  https://github.com/MummyDing/Leisure
+**Leisure**: https://github.com/MummyDing/Leisure
 
  Leisure is an Android App,it contains Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban
 
