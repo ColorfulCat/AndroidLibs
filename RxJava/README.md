@@ -178,6 +178,12 @@ error handle of Rxjava
 
 ---
 
+**RxDownloadManager**: https://github.com/volders/RxDownloadManager
+
+Download manager implemented using RxJava
+
+---
+
 **RxDownloader**: https://github.com/esafirm/RxDownloader
 
 An Rx wrapper for Download Manager in Android
