@@ -12,14 +12,6 @@
 
 ---
 
-**bilibili-android-client**: https://github.com/HotBitmapGG/bilibili-android-client
-
-非官方 B 站客户端
-
-<img src = "https://raw.githubusercontent.com/HotBitmapGG/bilibili-android-client/master-x/art/01.png" width = "320"/> <img src = "https://raw.githubusercontent.com/HotBitmapGG/bilibili-android-client/master-x/art/06.png" width = "320"/> <img src = "https://raw.githubusercontent.com/HotBitmapGG/bilibili-android-client/master-x/art/002.png" width = "640"/>
-
----
-
 **MessageRelayer**: https://github.com/HaoFeiWang/MessageRelayer
 
 短信转发工具
