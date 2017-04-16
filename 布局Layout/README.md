@@ -907,22 +907,6 @@ Login view with material design
 
 ---
 
-**WaveView**: https://github.com/developer-shivam/WaveView
-
-正弦曲线绘制动画
-
-<img src="https://raw.githubusercontent.com/developer-shivam/WaveView/master/screenshots/wave_gif.gif" width="320" />
-
----
-
-**SineView**: https://github.com/guiguegon/SineView
-
-正弦曲线绘制动画
-
-<img src="https://raw.githubusercontent.com/guiguegon/SineView/master/screenshots/screenshot.png" width="320" /> <img src="https://raw.githubusercontent.com/guiguegon/SineView/master/screenshots/animating.gif" width="320" />
-
----
-
 **android-drag-FlowLayout**: https://github.com/LightSun/android-drag-FlowLayout
 
 this is a draggable flow layout lib

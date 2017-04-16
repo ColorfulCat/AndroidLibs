@@ -6,6 +6,30 @@
 
 ---
 
+**Katex**: https://github.com/lingarajsankaravelu/Katex
+
+常用数学公式布局
+
+<img src="https://cloud.githubusercontent.com/assets/8025146/24969740/628856d2-1fcf-11e7-9daf-01e7fd5452db.gif" width="200" />
+
+---
+
+**WaveView**: https://github.com/developer-shivam/WaveView
+
+正弦曲线绘制动画
+
+<img src="https://raw.githubusercontent.com/developer-shivam/WaveView/master/screenshots/wave_gif.gif" width="320" />
+
+---
+
+**SineView**: https://github.com/guiguegon/SineView
+
+正弦曲线绘制动画
+
+<img src="https://raw.githubusercontent.com/guiguegon/SineView/master/screenshots/screenshot.png" width="320" /> <img src="https://raw.githubusercontent.com/guiguegon/SineView/master/screenshots/animating.gif" width="320" />
+
+---
+
 **material-about-library**: https://github.com/daniel-stoneuk/material-about-library
 
 Material Design 风格的 About 页面设计
