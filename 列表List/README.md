@@ -13,6 +13,14 @@ A slim & clean & typeable Adapter without VIEWHOLDER
 
 ---
 
+**Swiperoo**: https://github.com/BelkaLab/Swiperoo
+
+滑动删除
+
+<img src="https://raw.githubusercontent.com/BelkaLab/Swiperoo/master/swiperoo-library-live-demo.gif" width="600" />
+
+---
+
 **FireworkyPullToRefresh**: https://github.com/Cleveroad/FireworkyPullToRefresh
 
 烟花效果的下拉刷新
