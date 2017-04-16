@@ -6,6 +6,14 @@
 
 ---
 
+**MaterialChipsInput**: https://github.com/pchmn/MaterialChipsInput
+
+Implementation of Material Design Chips component for Android
+
+<img src="https://raw.githubusercontent.com/pchmn/MaterialChipsInput/master/docs/demo2.gif" width="320"/>
+
+---
+
 **android-round-textview**: https://github.com/apg-mobile/android-round-textview
 
 android-round-textview
