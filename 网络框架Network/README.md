@@ -6,6 +6,14 @@
 
 ---
 
+**AndroidSnooper**: https://github.com/jainsahab/AndroidSnooper
+
+记录网络请求拦截器
+
+<img src="https://raw.githubusercontent.com/jainsahab/AndroidSnooper/master/assets/snooper_demo.gif" width="270" />
+
+---
+
 **AndServer**: https://github.com/yanzhenjie/AndServer
 
 AndServer—原生 Android 做Web开发
