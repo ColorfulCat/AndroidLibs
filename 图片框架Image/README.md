@@ -6,6 +6,14 @@
 
 ---
 
+**BifacialView**: https://github.com/pavel163/BifacialView
+
+图像处理后左右对比
+
+<img src = "https://raw.githubusercontent.com/pavel163/BifacialView/master/media/bifacialview1.gif" width = "240"/>
+
+---
+
 **sand**: https://github.com/Jomes/sand
 
 使用JNI实现Sobel算子图像边缘检测
@@ -69,6 +77,15 @@ Changes the color of individual pixels in a Bitmap
 **BypassPicassoImageGetter**: https://github.com/Commit451/BypassPicassoImageGetter
 
 Loads images for Bypass using Picasso
+
+---
+
+**EasyImagePicker**: https://github.com/oswaldo89/EasyImagePicker
+
+EasyImagePicker
+
+<img src = "https://camo.githubusercontent.com/f0c8a42c9f22d401e8dcbc222390450264ffca27/68747470733a2f2f6578747261696d6167652e6e65742f696d616765732f323031372f30342f31342f61613962373934353138313937623130383137306563333163653631653839372e6a7067" width = "240"/> <img src = "https://camo.githubusercontent.com/0c38b10d6c424b0e45563dc2348c7b69e102e283/68747470733a2f2f6578747261696d6167652e6e65742f696d616765732f323031372f30342f31342f36633666336461323763653662646233343539326261653035316262393239322e6a7067" width = "240"/>
+
 
 ---
 
