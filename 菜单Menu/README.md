@@ -6,6 +6,14 @@
 
 ---
 
+**ExpandableMenu**: https://github.com/anshulagarwal06/ExpandableMenu
+
+ExpandableMenu
+
+<img src="https://raw.githubusercontent.com/anshulagarwal06/ExpandableMenu/master/ExpendableMenu.gif" width="320"/>
+
+---
+
 **HorizontalScrollMenu**: https://github.com/MorochoRochaDarwin/HorizontalScrollMenu
 
 基于 RecyclerView 的横向滑动菜单
