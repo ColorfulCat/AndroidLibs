@@ -300,6 +300,14 @@ IOS 风格选择控制
 
 ---
 
+**PasscodeView**: https://github.com/kevalpatel2106/PasscodeView
+
+pin和指纹识别解锁
+
+<img src="https://raw.githubusercontent.com/kevalpatel2106/PasscodeView/master/resource/fingerprint_success.gif" width="320" /> <img src="https://raw.githubusercontent.com/kevalpatel2106/PasscodeView/master/resource/fingerprint_failed.gif" width="320" />
+
+---
+
 **PatternLockView**: https://github.com/aritraroy/PatternLockView
 
 可能是目前最漂亮的 Android 手势解锁
