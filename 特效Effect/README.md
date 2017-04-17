@@ -14,6 +14,14 @@ Android 透视三维体效果实现
 
 ---
 
+**expanding-collection-android**: https://github.com/Ramotion/expanding-collection-android
+
+Ramotion 出品：Android 页面展开效果
+
+<img src="https://github.com/Ramotion/expanding-collection-android/raw/master/preview.gif" width="400" />
+
+---
+
 **DiscrollView2**: https://github.com/egek92/DiscrollView2
 
 Android Library for fancy layouts
