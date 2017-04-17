@@ -6,6 +6,12 @@
 
 ---
 
+**F32-for-Android**: https://github.com/igormatyushkin014/F32-for-Android
+
+Android library for OpenWeatherMap API
+
+---
+
 **AndroidSnooper**: https://github.com/jainsahab/AndroidSnooper
 
 记录网络请求拦截器
