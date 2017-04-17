@@ -190,6 +190,14 @@ Gradient-Artist library will allow you to use gradient overly on top of the imag
 
 ---
 
+**500px-android-blur**: https://github.com/500px/500px-android-blur
+
+500px-android-blur
+
+<img src = "https://github.com/500px/500px-android-blur/raw/master/blurdemo.gif" width = "400"/>
+
+---
+
 **BlurView**: https://github.com/Dimezis/BlurView
 
 IOS 风格的安卓动态模糊库
