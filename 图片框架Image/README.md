@@ -80,12 +80,19 @@ Loads images for Bypass using Picasso
 
 ---
 
+**ImageShowPicker**: https://github.com/yaozs/ImageShowPicker
+
+仿微信朋友圈图片选择
+
+<img src = "https://raw.githubusercontent.com/yaozs/ImageShowPicker/master/pic/weixin_pic.jpg" width = "320"/>
+
+---
+
 **EasyImagePicker**: https://github.com/oswaldo89/EasyImagePicker
 
 EasyImagePicker
 
 <img src = "https://camo.githubusercontent.com/f0c8a42c9f22d401e8dcbc222390450264ffca27/68747470733a2f2f6578747261696d6167652e6e65742f696d616765732f323031372f30342f31342f61613962373934353138313937623130383137306563333163653631653839372e6a7067" width = "240"/> <img src = "https://camo.githubusercontent.com/0c38b10d6c424b0e45563dc2348c7b69e102e283/68747470733a2f2f6578747261696d6167652e6e65742f696d616765732f323031372f30342f31342f36633666336461323763653662646233343539326261653035316262393239322e6a7067" width = "240"/>
-
 
 ---
 
