@@ -18,6 +18,12 @@ Apache Commons Lang, a package of Java utility classes for the classes that are 
 
 ---
 
+**Lightweight-Stream-API**: https://github.com/aNNiMON/Lightweight-Stream-API
+
+java 7 及以下使用Stream api
+
+---
+
 **okio**: https://github.com/square/okio
 
 A modern I/O API for Java http://square.github.io/okio/1.x/okio
