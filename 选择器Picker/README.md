@@ -471,6 +471,14 @@ A material Date Range Picker based on wdullaers MaterialDateTimePicker.
 
 ---
 
+**ColorPickerDialog**: https://github.com/savvisingh/ColorPickerDialog
+
+Android 上的单个或多个颜色选择
+
+<img src="https://raw.githubusercontent.com/savvisingh/ColorPickerDialog/master/17886731_1334483346597970_189921600_o.jpg" width="320" /> <img src="https://raw.githubusercontent.com/savvisingh/ColorPickerDialog/master/17902110_1334483369931301_1363796931_o.jpg" width="320" />
+
+---
+
 **ColorPickerView**: https://github.com/skydoves/ColorPickerView
 
 Android 上的取色工具
