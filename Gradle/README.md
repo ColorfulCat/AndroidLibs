@@ -12,6 +12,12 @@ gradle-build-timer-plugin
 
 ---
 
+**AppMethodTracking**: https://github.com/CoXier/AppMethodTracking
+
+追踪方法调用的gradle插件
+
+---
+
 **fonts**: https://github.com/florent37/fonts
 
 Define the fonts of your Android project directly from the build.gradle
