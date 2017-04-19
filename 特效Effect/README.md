@@ -594,6 +594,14 @@ Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Pre
 
 ---
 
+**Android-InfiniteCards**: https://github.com/BakerJQ/Android-InfiniteCards
+
+可自定义动画的卡片切换视图
+
+<img src="https://raw.githubusercontent.com/BakerJQ/Android-InfiniteCards/master/screenshot/sample.gif" width="144" />
+
+---
+
 **android-swipecards-view**: https://github.com/Arjun-sna/android-swipecards-view
 
 Android library for implement cards stack view with swipe to remove feature
