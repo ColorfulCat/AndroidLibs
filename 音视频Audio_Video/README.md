@@ -217,7 +217,7 @@ MJPEG 视频流播放
 
 **lastfm-lib**: https://github.com/ArthurGhazaryan/lastfm-lib
 
- last.fm 安卓api
+last.fm 安卓api
 
 ---
 
@@ -250,6 +250,12 @@ ExoPlayer's wrapper for using with TextureView
 安卓预览 YUV 原始数据
 
 <img src="https://raw.githubusercontent.com/Jhuster/YUVDroidTools/master/screenshots/home.png" width="320"/>
+
+---
+
+**LingoRecorder**: https://github.com/lingochamp/LingoRecorder
+
+LingoRecorder is a better recorder for Android, you can easily process pcm from it
 
 ---
 
