@@ -52,6 +52,30 @@ Learning RxJava for Android by example
 
 ---
 
+**rx-battery**: https://github.com/yongjhih/rx-battery
+
+rx-battery
+
+---
+
+**rx-telephony**: https://github.com/yongjhih/rx-telephony
+
+rx-telephony
+
+---
+
+**rx-net**: https://github.com/yongjhih/rx-net
+
+rx-net
+
+---
+
+**rx-receiver**: https://github.com/yongjhih/rx-receiver
+
+RxJava1/2 for Android BroadcastReceiver
+
+---
+
 **RxDiffUtil**: https://github.com/volders/RxDiffUtil
 
 RxDiffUtil is an Rx wrapper around the Android DiffUtil library for the RecyclerView
