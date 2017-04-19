@@ -1434,6 +1434,14 @@ The Android Support Library for NFC
 
 ---
 
+**HideKeyboard**: https://github.com/yingLanNull/HideKeyboard
+
+仿iOS输入法点击输入框以外区域 自动隐藏软键盘轻量级库
+
+<img src="https://raw.githubusercontent.com/yingLanNull/HideKeyboard/master/show/show.gif" width="320" />
+
+---
+
 **KeyBoardDemo**: https://github.com/wobiancao/KeyBoardDemo
 
 Android 软键盘和emoji表情切换方案，和微信几乎一样的体验
