@@ -488,6 +488,14 @@ Fragment 参数传递
 
 ---
 
+**FingerprintIdentify**: https://github.com/uccmawei/FingerprintIdentify
+
+安卓指纹识别库（安卓官方+三星SDK+魅族SDK）
+
+<img src="https://raw.githubusercontent.com/uccmawei/FingerprintIdentify/master/demo.png" width="320"/>
+
+---
+
 **android-fingerprint-authentication**: https://github.com/multidots/android-fingerprint-authentication
 
 指纹集成，管理工具
