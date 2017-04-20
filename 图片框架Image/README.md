@@ -6,6 +6,14 @@
 
 ---
 
+**IdentityImageView**: https://github.com/385841539/IdentityImageView
+
+一个能带进度条的图片框架，同时有身份标识动能，简单易用
+
+<img src = "https://raw.githubusercontent.com/385841539/IdentityImageView/master/app/src/main/res/drawable/biaoshi.gif" width = "240"/>
+
+---
+
 **BifacialView**: https://github.com/pavel163/BifacialView
 
 图像处理后左右对比
