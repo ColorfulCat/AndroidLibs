@@ -6,6 +6,16 @@
 
 ---
 
+**Matisse**: https://github.com/zhihu/Matisse
+
+一个能带进度条的图片框架，同时有身份标识动能，简单易用
+
+| Zhihu Style                    | Dracula Style                     | Preview                          |
+|:------------------------------:|:---------------------------------:|:--------------------------------:|
+|![](https://github.com/zhihu/Matisse/blob/master/image/screenshot_zhihu.png) | ![](https://github.com/zhihu/Matisse/blob/master/image/screenshot_dracula.png) | ![](https://github.com/zhihu/Matisse/blob/master/image/screenshot_preview.png)|
+
+---
+
 **IdentityImageView**: https://github.com/385841539/IdentityImageView
 
 一个能带进度条的图片框架，同时有身份标识动能，简单易用
