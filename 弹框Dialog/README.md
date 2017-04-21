@@ -6,6 +6,14 @@
 
 ---
 
+**SearchableSpinner**: https://github.com/miteshpithadiya/SearchableSpinner
+
+支持搜索的spinner
+
+<img src="https://raw.githubusercontent.com/miteshpithadiya/SearchableSpinner/master/searchablespinnerlibrary/src/main/res/nobleltevzwLMY47XMeditab02192016201518.gif" width="320" />
+
+---
+
 **dev-alert-android**: https://github.com/garena/dev-alert-android
 
 轻量级的消息提示框
