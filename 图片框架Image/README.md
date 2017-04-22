@@ -16,6 +16,14 @@
 
 ---
 
+**LongImageCamera**: https://github.com/wajahatkarim3/LongImageCamera
+
+长图拍摄
+
+<img src = "https://github.com/wajahatkarim3/LongImageCamera/raw/master/Art/demo.gif" width = "240"/>
+
+---
+
 **IdentityImageView**: https://github.com/385841539/IdentityImageView
 
 一个能带进度条的图片框架，同时有身份标识动能，简单易用
