@@ -6,6 +6,14 @@
 
 ---
 
+**AnimatedLoadingIndicator**: https://github.com/yash786agg/AnimatedLoadingIndicator
+
+An animated Progress Dialog
+ 
+<img src = "https://github.com/yash786agg/AnimatedLoadingIndicator/raw/master/screenshots/AnimatedLoadingIndicator.gif" width = "320"/>
+
+---
+
 **circularView**: https://github.com/rjsvieira/circularView
 
 A 'Google Fit'-like implementation of the circular view
@@ -13,7 +21,6 @@ A 'Google Fit'-like implementation of the circular view
 <img src = "https://raw.githubusercontent.com/rjsvieira/circularView/master/circularview.gif" width = "320"/>
 
 ---
-
 
 **tinglingsquares**: https://github.com/ishan1604/tinglingsquares
 
