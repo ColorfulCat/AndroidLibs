@@ -252,6 +252,14 @@ Materially inspired widgets and views that expose RxJava bindings
 
 ---
 
+**Android-Water-Gauge**: https://github.com/mhmtk/Android-Water-Gauge
+
+An water gauge-like view to display the devices orientation
+
+<img src="https://github.com/mhmtk/Android-Water-Gauge/raw/master/demo/water_gauge.gif" width="320" />
+
+---
+
 **Thermometer**: https://github.com/kofigyan/Thermometer
 
 android温度计
