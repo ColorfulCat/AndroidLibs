@@ -339,9 +339,17 @@ a better DropDownMenu solution, 完整的筛选器解决方案
 
 ---
 
+**Android-FileBrowser-FilePicker**: https://github.com/adityak368/Android-FileBrowser-FilePicker
+
+文件浏览，选择
+
+<img src="https://cloud.githubusercontent.com/assets/19688735/25305189/670232ec-2794-11e7-819f-b92f487b3075.png" width="270"/> <img src="https://cloud.githubusercontent.com/assets/19688735/25305188/6701de1e-2794-11e7-981f-7d6d0124b2b2.png" width="270"/> <img src="https://cloud.githubusercontent.com/assets/19688735/25305191/67038f8e-2794-11e7-8777-4bb0db870c31.png" width="270"/> 
+
+---
+
 **Android-FilePicker**: https://github.com/DroidNinja/Android-FilePicker
 
-Photopicker and document picker for android
+Photopicker and 文件 picker for android
 
 <img src="https://camo.githubusercontent.com/b51eec20abd3cf684fe86f30ddb360590bf69511/687474703a2f2f692e696d6775722e636f6d2f577857754a4b6e2e706e67" width="270"/> <img src="https://camo.githubusercontent.com/8b8f68b876211518fc90beb9fa200e585943b35e/687474703a2f2f692e696d6775722e636f6d2f54444942784c592e706e67" width="270"/> <img src="https://camo.githubusercontent.com/894c59ad1df8a27e39f3a4e197d4c2820bcb92e3/687474703a2f2f692e696d6775722e636f6d2f48726d554576532e706e67" width="270"/> 
 
