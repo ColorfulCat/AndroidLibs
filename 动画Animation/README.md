@@ -22,6 +22,14 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**DynamicAnimationExample**: https://github.com/graviton57/DynamicAnimationExample
+
+A simple spring animation
+
+<img src="https://raw.githubusercontent.com/graviton57/DynamicAnimationExample/master/media/example.gif" width="320" />
+
+---
+
 **PolygonDrawingUtil**: https://github.com/stkent/PolygonDrawingUtil
 
 Android 多边形绘制组件，做的很漂亮哦~ 用来做动态图表会很有帮助
