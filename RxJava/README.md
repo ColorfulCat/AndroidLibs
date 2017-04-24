@@ -52,6 +52,12 @@ Learning RxJava for Android by example
 
 ---
 
+**RxPicker**: https://github.com/imuhao/RxPicker
+
+基于 RxJava 图片选择器
+
+---
+
 **rx-battery**: https://github.com/yongjhih/rx-battery
 
 rx-battery
