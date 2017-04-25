@@ -355,11 +355,19 @@ A simple audio player for Android applications
 
 ---
 
+**PonyMusic**: https://github.com/wangchenyan/PonyMusic
+
+波尼音乐 OkHttp+Gson+Material Design Online Music Player
+
+<img src="https://raw.githubusercontent.com/wangchenyan/PonyMusic/master/art/screenshot_01.jpg" width="270" /> <img src="https://raw.githubusercontent.com/wangchenyan/PonyMusic/master/art/screenshot_03.jpg" width="270" /> <img src="https://raw.githubusercontent.com/wangchenyan/PonyMusic/master/art/screenshot_04.jpg" width="270" />
+
+---
+
 **remusic**: https://github.com/aa112901/remusic
 
 仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载
 
-<img src="https://raw.githubusercontent.com/aa112901/remusic/master/screenshot/1%20(2).png" width="270" /> <img src="https://raw.githubusercontent.com/aa112901/remusic/master/screenshot/device-2016-08-18-213321.png" /> <img src="https://raw.githubusercontent.com/aa112901/remusic/master/screenshot/device-2016-03-24-133544%20(%E5%A4%8D%E5%88%B6).png" width="270" />
+<img src="https://raw.githubusercontent.com/aa112901/remusic/master/screenshot/1%20(2).png" width="270" /> <img src="https://raw.githubusercontent.com/aa112901/remusic/master/screenshot/device-2016-08-18-213321.png" width="270" /> <img src="https://raw.githubusercontent.com/aa112901/remusic/master/screenshot/device-2016-03-24-133544%20(%E5%A4%8D%E5%88%B6).png" width="270" />
 
 ---
 
