@@ -22,6 +22,14 @@
 
 ---
 
+**PaletteImageView**: https://github.com/DingMouRen/PaletteImageView
+
+为图片添加阴影，阴影颜色来源于图片的主色
+
+<img src = "https://github.com/DingMouRen/PaletteImageView/raw/master/imgs/img.gif" width = "240"/>
+
+---
+
 **LongImageCamera**: https://github.com/wajahatkarim3/LongImageCamera
 
 长图拍摄
