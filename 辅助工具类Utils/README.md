@@ -1926,6 +1926,14 @@ Android logger, simple and pretty, powerful and flexible, all you need is here
 
 ---
 
+**debugkit**：https://github.com/hulab/debugkit
+
+Android 浮动 Debug 工具箱，直接在浮动窗口执行 Android 测试功能
+
+<img src="https://github.com/hulab/debugkit/raw/master/resources/screenshot.png" width="320" />
+
+---
+
 **DebugOverlay-Android**：https://github.com/Manabu-GT/DebugOverlay-Android
 
 App 端，查看 Logcat 信息

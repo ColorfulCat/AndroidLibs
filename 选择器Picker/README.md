@@ -128,6 +128,14 @@ Android library for Date and Time Picker in same dialog
 
 ---
 
+**CalendarView**: https://github.com/mahendramahi/CalendarView
+
+一款精致日历
+
+<img src="https://github.com/mahendramahi/CalendarView/raw/master/app/src/main/Screen1.png" width="320" />
+
+---
+
 **OneCalendarView**: https://github.com/MorochoRochaDarwin/OneCalendarView
 
 一款精致日历

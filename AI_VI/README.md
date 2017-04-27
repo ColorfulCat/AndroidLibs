@@ -12,6 +12,14 @@ awesome-tensorflow
 
 ---
 
+**mnist-android-tensorflow**: https://github.com/mari-linhares/mnist-android-tensorflow
+
+Android TensorFlow MNIST 数据库数字识别
+
+<img src="https://raw.githubusercontent.com/mari-linhares/mnist-android-tensorflow/master/images/demo.png" width="640"/>
+
+---
+
 **AndroidTensorFlowMachineLearningExample**: https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample
 
 Android TensorFlow MachineLearning Example
