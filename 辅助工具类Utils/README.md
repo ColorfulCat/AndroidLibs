@@ -94,6 +94,12 @@ SQLiteToExcel 库整合了 Apache POI 和一些基本的数据库查询操作，
 
 ---
 
+**IsInstalled**: https://github.com/Morxander/IsInstalled
+
+判断一个安卓应用是否安装
+
+---
+
 **AnalysisApp**: https://github.com/fengzhizi715/AnalysisApp
 
 快速分析某个app使用哪些sdk的java小工具
