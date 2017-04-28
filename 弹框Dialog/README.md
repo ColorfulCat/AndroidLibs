@@ -22,6 +22,14 @@
 
 ---
 
+**DroidDialog**: https://github.com/droidbyme/DroidDialog
+
+Android Library for showing Material Dialog with little customization
+
+<img src="https://raw.githubusercontent.com/droidbyme/DroidDialog/master/app/src/main/assets/device-2017-04-12-193622.png" width="270" /> <img src="https://raw.githubusercontent.com/droidbyme/DroidDialog/master/app/src/main/assets/device-2017-04-12-193442.png" width="270" /> <img src="https://raw.githubusercontent.com/droidbyme/DroidDialog/master/app/src/main/assets/device-2017-04-12-195446.png" width="270" />
+
+---
+
 **fancyDialog**: https://github.com/geniusforapp/fancyDialog
 
 一个好看的 Dialog
