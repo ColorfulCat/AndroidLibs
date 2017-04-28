@@ -100,6 +100,12 @@ SQLiteToExcel 库整合了 Apache POI 和一些基本的数据库查询操作，
 
 ---
 
+**IsInstalled**: https://github.com/Morxander/IsInstalled
+
+判断一个安卓应用是否安装
+
+---
+
 **AnalysisApp**: https://github.com/fengzhizi715/AnalysisApp
 
 快速分析某个app使用哪些sdk的java小工具
@@ -378,9 +384,21 @@ Light version of the concept of ButterKnife
 
 ---
 
+**location-tracker-background**: https://github.com/safetysystemtechnology/location-tracker-background
+
+后台实时获取追踪
+
+---
+
 **SamLocationAndGeocoding**: https://github.com/kingsammalik/SamLocationAndGeocoding
 
 跟踪用户位置地址
+
+---
+
+**LocationManager**: https://github.com/yayaa/LocationManager
+
+Simplify getting user's location for Android
 
 ---
 
@@ -2160,12 +2178,6 @@ GT（随身调）是APP的`随身调试`平台，它是直接运行在手机上�
 **moshi**: https://github.com/square/moshi
 
 A modern JSON library for Android and Java.
-
----
-
-**LocationManager**: https://github.com/yayaa/LocationManager
-
-Simplify getting user's location for Android
 
 ---
 
