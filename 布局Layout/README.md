@@ -5,6 +5,12 @@
 
 ---
 
+**litho**:https://github.com/facebook/litho
+
+facebook 出品的高效UI加载库
+
+---
+
 **material-components-android**: https://github.com/material-components/material-components-android
 
 Material Design 风格的组件集合
