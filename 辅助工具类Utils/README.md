@@ -1666,6 +1666,14 @@ Router activities
 
 ---
 
+**Sherlock**: https://github.com/ajitsing/Sherlock
+
+异常捕获
+
+<img src="https://github.com/ajitsing/ScreenShots/blob/master/sherlock/sherlock_demo.gif" width="320" />
+
+---
+
 **AutoCrashReporter**: https://github.com/devsideal/AutoCrashReporter
 
 ACR is an android library to simplify crash detection while your app is under development, crash will be automatically detect by the library then app tester/user can easily send the crash report on one click to developer that will help him to fix the issue
