@@ -16,6 +16,12 @@
 
 ---
 
+**litho-glide: https://github.com/pavlospt/litho-glide
+
+litho-glide
+
+---
+
 **LoTiny: https://github.com/Sunzxyong/Tiny
 
 图片压缩 http://zhengxiaoyong.me/2017/04/23/Android%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E6%A1%86%E6%9E%B6-Tiny/
