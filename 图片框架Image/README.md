@@ -902,6 +902,12 @@ An image picker library for Android
 
 ---
 
+**hiddenshot**: https://github.com/karanvs/hiddenshot
+
+安卓截图
+
+---
+
 **InstaCapture**: https://github.com/tarek360/InstaCapture
 
 截图
