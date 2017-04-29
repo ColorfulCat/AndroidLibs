@@ -120,6 +120,12 @@ Loads images for Bypass using Picasso
 
 ---
 
+**multiselect**: https://github.com/karanvs/multiselect
+
+多个图片/视频选择
+
+---
+
 **ImageShowPicker**: https://github.com/yaozs/ImageShowPicker
 
 仿微信朋友圈图片选择
