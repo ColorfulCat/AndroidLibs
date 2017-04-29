@@ -94,9 +94,9 @@ SQLiteToExcel 库整合了 Apache POI 和一些基本的数据库查询操作，
 
 ---
 
-**IsInstalled**: https://github.com/Morxander/IsInstalled
+**StrictModeCompat**: https://github.com/kirich1409/StrictModeCompat
 
-判断一个安卓应用是否安装
+低版本使用StrictMode
 
 ---
 
