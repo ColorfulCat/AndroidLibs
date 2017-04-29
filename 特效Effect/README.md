@@ -594,6 +594,14 @@ Blank cold start (Glitch on status bar and appbar) v.s. Material cold start (Pre
 
 ---
 
+**ChromeLikeTabSwitcher**: https://github.com/michael-rapp/ChromeLikeTabSwitcher
+
+ChromeLikeTabSwitcher
+
+<img src="https://github.com/michael-rapp/ChromeLikeTabSwitcher/raw/master/doc/images/reveal_animation.gif" width="320" />
+
+---
+
 **Android-InfiniteCards**: https://github.com/BakerJQ/Android-InfiniteCards
 
 可自定义动画的卡片切换视图
