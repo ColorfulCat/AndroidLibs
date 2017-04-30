@@ -52,6 +52,14 @@ TensorFlow Android Camera Demo
 
 ---
 
+**Cognitive-Face-Android**: https://github.com/Microsoft/Cognitive-Face-Android
+
+微软出品的人脸识别库
+
+<img src="https://github.com/Microsoft/Cognitive-Face-Android/blob/master/SampleScreenshots/SampleRunning3.png" width="300"/>
+
+---
+
 **EasyPR_Android**: https://github.com/linuxxx/EasyPR_Android
 
 中文车牌识别系统
