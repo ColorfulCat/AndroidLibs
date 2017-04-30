@@ -13,6 +13,14 @@ A slim & clean & typeable Adapter without VIEWHOLDER
 
 ---
 
+**recyclerview-adapters**: https://github.com/chuross/recyclerview-adapters
+
+Multiple item adapters for RecyclerView
+
+<img src="https://cloud.githubusercontent.com/assets/1422031/24061304/42627b7e-0b9a-11e7-97d1-14a6cabcfd59.gif" width="320" />
+
+---
+
 **Swiperoo**: https://github.com/BelkaLab/Swiperoo
 
 滑动删除
