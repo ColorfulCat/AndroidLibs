@@ -6,6 +6,14 @@
 
 ---
 
+**CompoundButtonGroup**: https://github.com/llollox/CompoundButtonGroup
+
+An Android library to easily implement compound buttons
+
+<img src="https://github.com/llollox/CompoundButtonGroup/blob/master/docs/screen/check_box.gif" width="270" /> <img src="https://github.com/llollox/CompoundButtonGroup/blob/master/docs/screen/radio.gif" width="270" /> <img src="https://github.com/llollox/CompoundButtonGroup/blob/master/docs/screen/radio_3cols.gif" width="270" />
+
+---
+
 **MultiLineRadioGroup**: https://github.com/Gavras/MultiLineRadioGroup
 
 A Radio Group layout to show radio buttons in more than one line
