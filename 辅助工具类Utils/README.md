@@ -268,6 +268,14 @@ Simple implementation of ForceTouch on Android
 
 ---
 
+**FingerprintIdentify**: https://github.com/uccmawei/FingerprintIdentify
+
+APP一秒接入指纹识别SDK，0奔溃，0闪退，炒鸡稳定！额外支持三星和魅族6.0以下系统
+
+<img src="https://github.com/uccmawei/FingerprintIdentify/raw/master/other/QRCode_en.png" width="320"/>
+
+---
+
 **Fingerprint2Sleep**: https://github.com/ztc1997/Fingerprint2Sleep
 
 自定义 Android 指纹识别快捷方式
