@@ -134,6 +134,14 @@ Android 搜索 过度效果
 
 ---
 
+**FallingView**: https://github.com/DingMouRen/FallingView
+
+FallingView可以实现碎片飘落效果的控件
+
+<img src="https://github.com/DingMouRen/FallingView/raw/master/imgs/img.gif" width="320" /> <img src="https://github.com/DingMouRen/FallingView/raw/master/imgs/img2.gif" width="320" />
+
+---
+
 **SnowingView**: https://github.com/HelloVass/SnowingView
 
 一个看起来还不错的下雪动画
