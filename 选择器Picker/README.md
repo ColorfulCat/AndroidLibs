@@ -128,6 +128,14 @@ Android library for Date and Time Picker in same dialog
 
 ---
 
+**EasyCalendar**: https://github.com/shichaohui/EasyCalendar
+
+可进行 UI 定制的日历组件，轻松完成签到日历功能
+
+<img src="https://github.com/shichaohui/EasyCalendar/raw/master/screeshot/screenshot_main_gif.gif" width="320" />
+
+---
+
 **CalendarView**: https://github.com/mahendramahi/CalendarView
 
 一款精致日历
