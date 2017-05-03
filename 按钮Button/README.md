@@ -221,6 +221,14 @@ An animated toggling Plus/Check button for Android
 
 ---
 
+**SubmitButton**: https://github.com/Someonewow/SubmitButton
+
+带有进度动画的Android自定义提交按钮
+
+<img src="https://raw.githubusercontent.com/Someonewow/SubmitButton/master/screens/submitbutton_failed.gif" width="320" />
+
+---
+
 **SubmitButton**: https://github.com/SparkYuan/SubmitButton
 
 优雅的 Button
