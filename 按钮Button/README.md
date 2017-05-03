@@ -221,6 +221,14 @@ An animated toggling Plus/Check button for Android
 
 ---
 
+**LoadingButtonAndroid**: https://github.com/leandroBorgesFerreira/LoadingButtonAndroid
+
+loading button
+
+<img src="https://camo.githubusercontent.com/73ab06601fb650fd51fa01781053fde8ff52f9bd/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f38534852312e676966" width="320" />
+
+---
+
 **SubmitButton**: https://github.com/Someonewow/SubmitButton
 
 带有进度动画的Android自定义提交按钮
