@@ -640,6 +640,14 @@ Port of the ZXing Android application as an Android library project, for embeddi
 
 ---
 
+**AwesomeQRCode**: https://github.com/SumiMakito/AwesomeQRCode
+
+一个优雅的二维码生成器
+
+<img src="https://github.com/SumiMakito/AwesomeQRCode/raw/master/art/awesome-qr-4.png" width="320" />
+
+---
+
 **PressScanCode**: https://github.com/BolexLiu/PressScanCode
 
 一个长按扫描webView上的二维码的工具库
