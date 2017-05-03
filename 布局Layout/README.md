@@ -172,6 +172,14 @@ Simple WebView for Detect click on an image
 <img src="https://raw.githubusercontent.com/ToDou/appbarlayout-spring-behavior/master/screenshot/appbar_spring.gif" width="256" /> <img src="https://raw.githubusercontent.com/ToDou/appbarlayout-spring-behavior/master/screenshot/appbar_spring_blur_tab.gif" width="256" /> <img src="https://raw.githubusercontent.com/ToDou/appbarlayout-spring-behavior/master/screenshot/appbar_scrollview_fling_fix.gif" width="256" />
 ---
 
+**JPagerSlidingTabStrip**: https://github.com/ZuYun/JPagerSlidingTabStrip
+
+增强版的 PagerSlidingTabStrip. 使用方式和PagerSlidingTabStrip一样简单，但功能和样式更丰富
+
+<img src="https://github.com/ZuYun/JPagerSlidingTabStrip/blob/master/gifs/new.gif" width="320" />
+
+---
+
 **BubbleTab**: https://github.com/florent37/BubbleTab
 
 Put some bubble in your tabs and give your apps a supa fresh style 
