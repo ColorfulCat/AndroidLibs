@@ -332,14 +332,6 @@ PageStateLayout could let you show [Loading][Empty][Error][Succeed][Requesting] 
 
 ---
 
-**react-native-material-design**: https://github.com/react-native-material-design/react-native-material-design
-
-react-native-material-design
-
-<img src="https://raw.githubusercontent.com/react-native-material-design/demo-app/master/resources/examples-1.jpg" width="800" />
-
----
-
 **PageIndicatorView**: https://github.com/romandanylyk/PageIndicatorView
 
 Google 风格的 Page Indicator 效果
