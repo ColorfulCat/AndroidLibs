@@ -117,6 +117,14 @@ A RecyclerView extension for building list more easily
 
 ---
 
+**Sticky-Header-Grid**: https://github.com/Codewaves/Sticky-Header-Grid
+
+Sticky-Header-Grid
+
+<img src="https://github.com/Codewaves/Sticky-Header-Grid/blob/master/images/sample.gif" width="240" />
+
+---
+
 **LayoutSwitch**: https://github.com/gjiazhe/LayoutSwitch
 
 实现 RecyclerView 布局切换动画的示例
