@@ -66,6 +66,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**android-shake-detector**: https://github.com/safetysystemtechnology/android-shake-detector
+
+Android 晃动检测小工具
+
+---
+
 **CommonPrintProvider**: https://github.com/GrassQing/CommonPrintProvider
 
 通用型热敏打印机接口（wifi，蓝牙）
