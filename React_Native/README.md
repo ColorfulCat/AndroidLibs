@@ -12,6 +12,12 @@ react-native
 
 ---
 
+**awesome-react-native**: https://github.com/jondot/awesome-react-native
+
+awesome-react-native 开发大全
+
+---
+
 **react-native-material-design**: https://github.com/react-native-material-design/react-native-material-design
 
 react-native-material-design
