@@ -6,6 +6,14 @@
 
 ---
 
+**InDoorSurfaceView**: https://github.com/karonl/InDoorSurfaceView
+
+Android 室内场景构建组件，帮你快速的完成室内场景 View 的展示
+
+<img src="https://camo.githubusercontent.com/3b1efaac234a75ca6c833ea05384cc7b2570e5d9/68747470733a2f2f6c65616e636c75622e636e2f3734313639302d303163363131613236623235313636312e706e67" width="320" />
+
+---
+
 **Katex**: https://github.com/lingarajsankaravelu/Katex
 
 常用数学公式布局
