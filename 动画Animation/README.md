@@ -38,6 +38,14 @@ Android 多边形绘制组件，做的很漂亮哦~ 用来做动态图表会很�
 
 ---
 
+**AndroidCustomView**: https://github.com/lygttpod/AndroidCustomView
+
+圆圈泡泡上升动画
+
+<img src="https://camo.githubusercontent.com/38ec9160cb247a45f798b3476f3c8ede232ba6ea/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323035373530312d643731306263613165313636666263342e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="400" />
+
+---
+
 **Grav**: https://github.com/glomadrian/Grav
 
 Android 粒子动画效果
