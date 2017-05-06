@@ -6,6 +6,14 @@
 
 ---
 
+**floatingMenu**: https://github.com/rjsvieira/floatingMenu
+
+floatingMenu
+
+<img src="https://github.com/rjsvieira/FloatingMenu/raw/master/images/expand_open_close.gif" width="320"/>
+
+---
+
 **ExpandableMenu**: https://github.com/anshulagarwal06/ExpandableMenu
 
 ExpandableMenu
