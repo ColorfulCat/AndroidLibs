@@ -47,6 +47,14 @@ android-PictureInPicture 画中画功能
 
 ---
 
+**ZoomableTextureView**: https://github.com/Manuiq/ZoomableTextureView
+
+视频双指缩放
+
+<img src="https://github.com/Manuiq/ZoomableTextureView/raw/master/example.gif" width="360" />
+
+---
+
 **ExoPlayerManager**: https://github.com/AAkira/ExoPlayerManager
 
 Kotin 写的视频广告库
