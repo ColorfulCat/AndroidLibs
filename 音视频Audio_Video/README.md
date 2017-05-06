@@ -339,6 +339,14 @@ Shuttle Music Player
 
 ---
 
+**MusicWave**: https://github.com/akshay2211/MusicWave
+
+音乐播放频谱波形
+
+<img src = "https://github.com/akshay2211/MusicWave/raw/master/media/musicwave_gif.gif" width = "300"/>
+
+---
+
 **CameraFragment**: https://github.com/florent37/CameraFragment
 
 Fragment拍照摄像
