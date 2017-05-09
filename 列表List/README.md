@@ -730,6 +730,14 @@ Loading contacts made simple with ShimmerContactsView
 
 ---
 
+**bubble-scroll**: https://github.com/cdflynn/bubble-scroll
+
+泡泡效果的索引滚动控件
+
+<img src="https://github.com/cdflynn/bubble-scroll/raw/master/sample/img/scroll_sample_gif.gif?raw=true" width="320" />
+
+---
+
 **SideBar**: https://github.com/kongnanlive/SideBar
 
 全新的快速索引导航栏，联系人字母排序侧边栏
