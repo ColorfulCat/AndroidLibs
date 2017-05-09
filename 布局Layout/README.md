@@ -1220,6 +1220,14 @@ Android Search View based on Material design guidelines
 
 ---
 
+**AdaptableBottomNavigation**: https://github.com/bufferapp/AdaptableBottomNavigation
+
+底部导航栏
+
+<img src="https://github.com/bufferapp/AdaptableBottomNavigation/blob/master/art/demo.gif" width="320" />
+
+---
+
 **BottomNavBar**: https://github.com/adib2149/BottomNavBar
 
 底部导航栏
