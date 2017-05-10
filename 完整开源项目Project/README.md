@@ -845,6 +845,14 @@ A third party app for androidweekly.net
 
 ---
 
+**GankGirl**: https://github.com/dalingge/GankGirl
+
+使用Jsoup抓取干货集中营闲读数据, 闲读和gank干货app： http://dalingge.com/2017/05/09/%E4%BD%BF%E7%94%A8Jsoup%E6%8A%93%E5%8F%96%E5%B9%B2%E8%B4%A7%E9%9B%86%E4%B8%AD%E8%90%A5%E9%97%B2%E8%AF%BB%E6%95%B0%E6%8D%AE/
+
+<img src="https://github.com/dalingge/GankGirl/raw/master/screenshots/play.gif" width="320" />
+
+---
+
 **FakeWeather**: https://github.com/li-yu/FakeWeather
 
 『假装看天气』─── 天气预报 & 公交查询 & 资讯阅读 & 妹纸福利 的 Android 客户端
