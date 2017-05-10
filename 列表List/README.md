@@ -1226,12 +1226,29 @@ ListView with blur/parallax/sticky capabilities.
 
 ---
 
-**RecyclerView-FlexibleDivider**: [https://github.com/yqritc/RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider)
+**RecyclerViewDivider**: https://github.com/Fondesa/RecyclerViewDivider
+
+RecyclerView 分割线
+
+<img src="https://raw.githubusercontent.com/Fondesa/RecyclerViewDivider/master/art/screenshot_div_draw.png" width="320" />
+<img src="https://raw.githubusercontent.com/Fondesa/RecyclerViewDivider/master/art/screenshot_grid.png" width="320"/>
+
+---
+
+**RecyclerView-FlexibleDivider**: https://github.com/yqritc/RecyclerView-FlexibleDivider
 
 Android library providing simple way to control divider items of RecyclerView.
 
 <img src="https://github.com/yqritc/RecyclerView-FlexibleDivider/blob/master/sample/sample1.gif" width="320" />
 <img src="https://github.com/yqritc/RecyclerView-FlexibleDivider/blob/master/sample/sample2.gif" width="320" />
+
+---
+
+**Dividers**: [https://github.com/Karumi/Dividers](https://github.com/Karumi/Dividers)
+
+Dividers is a simple Android library to create easy separators for your RecyclerViews
+
+<img src="https://github.com/Karumi/Dividers/blob/master/art/example.gif" width="320" />
 
 ---
 
@@ -1291,14 +1308,6 @@ ItemDecoration for RecyclerView using LinearLayoutManager for Android
 Lollipop's Recents container
 
 <img src="https://github.com/ZieIony/MaterialRecents/blob/master/images/recents.gif" width="320" />
-
----
-
-**Dividers**: [https://github.com/Karumi/Dividers](https://github.com/Karumi/Dividers)
-
-Dividers is a simple Android library to create easy separators for your RecyclerViews
-
-<img src="https://github.com/Karumi/Dividers/blob/master/art/example.gif" width="320" />
 
 ---
 
