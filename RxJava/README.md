@@ -376,6 +376,12 @@ RxJava2 based bus with queuing (e.g. lifecycle based) support
 
 ---
 
+**RxBus**: https://github.com/florent37/RxBus
+
+Android reactive event bus that simplifies communication between Presenters, Activities, Fragments, Threads, Services, etc.
+
+---
+
 **RxBus**: https://github.com/Dimezis/RxBus
 
 Simple Rx Event Bus implementation using Kotlin for Android and RxKotlin (RxJava)
