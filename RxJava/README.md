@@ -52,6 +52,12 @@ Learning RxJava for Android by example
 
 ---
 
+**RxAndroidOrm**: https://github.com/florent37/RxAndroidOrm
+
+RxAndroidOrm
+
+---
+
 **RxPicker**: https://github.com/imuhao/RxPicker
 
 基于 RxJava 图片选择器
@@ -228,12 +234,6 @@ Simple JUnit rule for overriding RxJava/RxAndroid schedulers during unit tests
 
 ---
 
-**RxLoader**: https://github.com/L4Digital/RxLoader
-
-An Android Loader that wraps an RxJava Observable
-
----
-
 **RxAwareness**: https://github.com/patloew/RxAwareness
 
 Reactive Awareness API Library for Android and RxJava
@@ -343,6 +343,12 @@ Fluent assertions for RxJava's TestSubscriber
 **RxLoader**: https://github.com/kmdupr33/RxLoader
 
 RxLoader
+
+---
+
+**RxLoader**: https://github.com/L4Digital/RxLoader
+
+An Android Loader that wraps an RxJava Observable
 
 ---
 
