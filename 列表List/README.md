@@ -1226,6 +1226,15 @@ ListView with blur/parallax/sticky capabilities.
 
 ---
 
+**MultiLineDivider**: https://github.com/sakebook/MultiLineDivider
+
+Multi divider in RecyclerView on Android
+
+<img src="https://raw.githubusercontent.com/sakebook/MultiLineDivider/master/art/vertical.png" width="320" />
+<img src="https://raw.githubusercontent.com/sakebook/MultiLineDivider/master/art/horizontal.png" width="320"/>
+
+---
+
 **RecyclerViewDivider**: https://github.com/Fondesa/RecyclerViewDivider
 
 RecyclerView 分割线
