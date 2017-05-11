@@ -54,6 +54,14 @@ AboutLibraries is a library to offer some information of libraries
 
 ---
 
+**calibrator-sensor**: https://github.com/xenione/calibrator-sensor
+
+方向传感器矫正
+
+<img src="https://cloud.githubusercontent.com/assets/4138527/25778832/1844ba4a-330a-11e7-9d0e-63f85ca63cdf.gif" width="240"/>
+
+---
+
 **AndroidGpsStatus**: https://github.com/hzw1199/AndroidGpsStatus
 
 显示GPS定位状态和信号强度的控件，实时刷新，使用方便，可定制，适合运动类及出行类APP
