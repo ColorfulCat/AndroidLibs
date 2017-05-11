@@ -6,6 +6,14 @@
 
 ---
 
+**Swipe-To-Dismiss-Dialog**: https://github.com/andreilisun/Swipe-To-Dismiss-Dialog
+
+Swipe-To-Dismiss-Dialog
+
+<img src="https://github.com/andreilisun/Swipe-To-Dismiss-Dialog/raw/master/art/success_dialog.gif" width="320" />
+
+---
+
 **SearchableSpinner**: https://github.com/miteshpithadiya/SearchableSpinner
 
 支持搜索的spinner
