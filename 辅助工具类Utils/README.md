@@ -42,6 +42,12 @@ Library to Convert SQLite to Excel
 
 ---
 
+**jsoup-annotations**: https://github.com/fcannizzaro/jsoup-annotations
+
+Java JSOUP 标注方案，不用自己费劲解析了
+
+---
+
 **jOOR**: https://github.com/jOOQ/jOOR
 
 简单易用的安卓反射库
