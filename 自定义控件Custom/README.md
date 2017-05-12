@@ -502,6 +502,14 @@ MIUI8 悬浮球
 
 ---
 
+**SimpleRatingBar**: https://github.com/ome450901/SimpleRatingBar
+
+A simple RatingBar with scale animation
+
+<img src="https://github.com/ome450901/SimpleRatingBar/raw/master/images/demo.gif" width="320" />
+
+---
+
 **SmileyRating**: https://github.com/sujithkanna/SmileyRating
 
 卡通萌萌系 Rating 组件，快用这个让你的用户去商店给你的 App 评分吧
