@@ -845,6 +845,14 @@ A third party app for androidweekly.net
 
 ---
 
+**MyGank**: https://github.com/mask-hao/MyGank
+
+一个具有用户登录注册，干货收藏功能的干货集中营第三方客户端。个人学习项目，前端使用Android展示，后端使用javaee中转，数据来源干货集中营
+
+<img src="https://github.com/mask-hao/MyGank/raw/master/screenshot/screenshot1.png" width="320" /> <img src="https://github.com/mask-hao/MyGank/raw/master/screenshot/screenshot4.png" width="320" />
+
+---
+
 **GankGirl**: https://github.com/dalingge/GankGirl
 
 使用Jsoup抓取干货集中营闲读数据, 闲读和gank干货app： http://dalingge.com/2017/05/09/%E4%BD%BF%E7%94%A8Jsoup%E6%8A%93%E5%8F%96%E5%B9%B2%E8%B4%A7%E9%9B%86%E4%B8%AD%E8%90%A5%E9%97%B2%E8%AF%BB%E6%95%B0%E6%8D%AE/
