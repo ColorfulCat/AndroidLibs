@@ -78,6 +78,14 @@ Android 晃动检测小工具
 
 ---
 
+**shortcut-helper**: https://github.com/marcoscgdev/shortcut-helper
+
+An android library to create the new Android 7.1 shortcuts easily
+
+<img src="https://raw.githubusercontent.com/marcoscgdev/shortcut-helper/master/screenshots/IMG_20170502_122417.jpg" width="320"/>
+
+---
+
 **CommonPrintProvider**: https://github.com/GrassQing/CommonPrintProvider
 
 通用型热敏打印机接口（wifi，蓝牙）
