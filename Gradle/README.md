@@ -6,6 +6,12 @@
 
 ---
 
+**DataBindingCompat**: https://github.com/MichaelRocks/DataBindingCompat
+
+A Gradle plugin that makes databinding work well with appcompat
+
+---
+
 **gradle-build-timer-plugin**: https://github.com/eleventigers/gradle-build-timer-plugin
 
 gradle-build-timer-plugin
