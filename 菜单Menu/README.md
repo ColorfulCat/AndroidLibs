@@ -6,6 +6,14 @@
 
 ---
 
+**quickaction**: https://github.com/piruin/quickaction
+
+Quick Action is a small android library for easy create Tooltips with some action or just as decoration
+
+<img src="https://github.com/piruin/quickaction/raw/master/asset/demo.gif" width="320"/>
+
+---
+
 **floatingMenu**: https://github.com/rjsvieira/floatingMenu
 
 floatingMenu
