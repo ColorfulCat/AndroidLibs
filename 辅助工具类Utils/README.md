@@ -72,6 +72,12 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
+**libaums**: https://github.com/magnusja/libaums
+
+在非root设备上访问usb大容量存储设备
+
+---
+
 **android-shake-detector**: https://github.com/safetysystemtechnology/android-shake-detector
 
 Android 晃动检测小工具
