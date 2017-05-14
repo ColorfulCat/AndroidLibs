@@ -1220,6 +1220,14 @@ Android Search View based on Material design guidelines
 
 ---
 
+**InstaLikeFragmentTransaction**: https://github.com/TakeoffAndroid/InstaLikeFragmentTransaction
+
+Easy Bottom Tab Navigation with back stack history
+
+<img src="https://camo.githubusercontent.com/d8857feceb453231103979ccbd592d8fbd972b07/687474703a2f2f692e696d6775722e636f6d2f506172543073522e676966" width="320" />
+
+---
+
 **AdaptableBottomNavigation**: https://github.com/bufferapp/AdaptableBottomNavigation
 
 底部导航栏
