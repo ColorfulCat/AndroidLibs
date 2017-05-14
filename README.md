@@ -29,6 +29,7 @@
 - [AI/VI](https://github.com/XXApple/AndroidLibs/tree/master/AI_VI)
 - [Gradle](https://github.com/XXApple/AndroidLibs/tree/master/Gradle)
 - [ReactNative](https://github.com/XXApple/AndroidLibs/tree/master/React_Native)
+- [Kotlin](https://github.com/XXApple/AndroidLibs/tree/master/Kotlin)
 
 
 
