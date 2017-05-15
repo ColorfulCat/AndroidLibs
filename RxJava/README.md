@@ -44,6 +44,14 @@ Learning RxJava for Android by example
 
 ---
 
+**aesthetic**: https://github.com/afollestad/aesthetic
+
+RxJava 实现的主题切换引擎
+
+<img src="https://raw.githubusercontent.com/afollestad/aesthetic/master/images/showcase1.png" width="640" />
+
+---
+
 **ObservableScheduler**: https://github.com/jiang111/ObservableScheduler
 
 仿RxJava 的管理线程间跳转的库
