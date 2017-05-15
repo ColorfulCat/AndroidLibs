@@ -6,6 +6,14 @@
 
 ---
 
+**ParticleTextView**: https://github.com/Yasic/ParticleTextView
+
+一个用粒子动画显示文字的 Android 自定义 View
+
+<img src="https://github.com/Yasic/ParticleTextView/raw/master/Screenshot/Total.gif?raw=true" width="320"/>
+
+---
+
 **MaterialChipsInput**: https://github.com/pchmn/MaterialChipsInput
 
 Implementation of Material Design Chips component for Android
