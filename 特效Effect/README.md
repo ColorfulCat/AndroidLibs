@@ -14,6 +14,14 @@ Android 透视三维体效果实现
 
 ---
 
+**android-pile-layout**: https://github.com/xmuSistone/android-pile-layout
+
+横向堆叠效果的自定义Layout
+
+<img src="https://raw.githubusercontent.com/xmuSistone/android-pile-layout/master/capture/capture1.gif" width="320" /> <img src="https://raw.githubusercontent.com/xmuSistone/android-pile-layout/master/capture/capture2.gif" width="320" />
+
+---
+
 **expanding-collection-android**: https://github.com/Ramotion/expanding-collection-android
 
 Ramotion 出品：Android 页面展开效果
