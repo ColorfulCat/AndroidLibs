@@ -26,6 +26,14 @@ React Native 仿 ofo 共享单车 App
 
 ---
 
+**react-native-eyepetizer**: https://github.com/MarnoDev/react-native-eyepetizer
+
+React Native 仿开眼3.1.2版本
+
+<img src="https://github.com/MarnoDev/react-native-eyepetizer/raw/master/screenshot/screenshot0.gif" width="320" /> <img src="https://github.com/MarnoDev/react-native-eyepetizer/raw/master/screenshot/screenshot1.gif" width="320" />
+
+---
+
 **react-native-material-design**: https://github.com/react-native-material-design/react-native-material-design
 
 react-native-material-design
