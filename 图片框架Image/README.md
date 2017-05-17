@@ -28,6 +28,14 @@ litho-glide
 
 ---
 
+**DismissibleImageView**: https://github.com/dmallcott/DismissibleImageView
+
+Clickable ImageView that expands to full screen and is dismissible by swiping the image off-screen
+
+<img src = "https://github.com/dmallcott/DismissibleImageView/raw/master/assets/sample.gif" width = "320"/>
+
+---
+
 **PaletteImageView**: https://github.com/DingMouRen/PaletteImageView
 
 为图片添加阴影，阴影颜色来源于图片的主色
