@@ -38,6 +38,14 @@ Android Library for fancy layouts
 
 ---
 
+**ShimmerLayout**: https://github.com/team-supercharge/ShimmerLayout
+
+ShimmerLayout
+
+<img src="https://github.com/team-supercharge/ShimmerLayout/raw/master/shimmerlayout.gif" width="320" />
+
+---
+
 **OneDrawable**: https://github.com/maoruibin/OneDrawable
 
 仅使用一张资源图片为 View 设置具有按下效果的背景-OneDrawable
