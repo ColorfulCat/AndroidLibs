@@ -60,6 +60,12 @@ RxJava 实现的主题切换引擎
 
 ---
 
+**RxAnnotations**: https://github.com/CityVibes/RxAnnotations
+
+Annotations for RxJava
+
+---
+
 **RxAndroidOrm**: https://github.com/florent37/RxAndroidOrm
 
 RxAndroidOrm
