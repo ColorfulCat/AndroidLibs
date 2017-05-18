@@ -29,6 +29,14 @@ Multiple item adapters for RecyclerView
 
 ---
 
+**Typewriter**: https://github.com/Ilya-Gh/Typewriter
+
+打字机效果的下拉刷新
+
+<img src="https://github.com/Ilya-Gh/Typewriter/raw/master/animation.gif" width="320" />
+
+---
+
 **FireworkyPullToRefresh**: https://github.com/Cleveroad/FireworkyPullToRefresh
 
 烟花效果的下拉刷新
