@@ -6,6 +6,12 @@
 
 ---
 
+**PhoneMask**: https://github.com/vacxe/PhoneMask
+
+根据掩码友好的显示手机号码
+
+---
+
 **ParticleTextView**: https://github.com/Yasic/ParticleTextView
 
 一个用粒子动画显示文字的 Android 自定义 View
