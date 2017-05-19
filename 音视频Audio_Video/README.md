@@ -6,6 +6,12 @@
 
 ---
 
+**CompileFFmpegWithOpenSSL**: https://github.com/davinctor/CompileFFmpegWithOpenSSL
+
+A bunch of scripts you can use to compile FFmpeg with OpenSSL
+
+---
+
 **EasyPusher_Android**: https://github.com/EasyDarwin/EasyPusher_Android
 
 精炼、稳定、高效的安卓前/后摄像头/手机桌面屏幕采集、编码、RTSP直播推送
