@@ -60,6 +60,12 @@ A New Android MVP Architecture http://www.jianshu.com/p/ac51c9b88af3
 
 ---
 
+**android-fuze**：https://github.com/NodensN/android-fuze
+
+Fuze is an amazing functional reactive mvvm sample  based on Kickstarter oss app
+
+---
+
 **DroidWizard**：https://github.com/praslnx8/DroidWizard
 
 Kickstart MVP framework for android development
