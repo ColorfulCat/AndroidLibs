@@ -13,6 +13,14 @@ A slim & clean & typeable Adapter without VIEWHOLDER
 
 ---
 
+**AutoRecyclerAdapter**: https://github.com/teambition/AutoRecyclerAdapter
+
+Automated configuration RecyclerView.Adapter for Android
+
+<img src="https://github.com/ruzhan123/AutoRecyclerAdapter/raw/master/gif/autos.gif" width="320" />
+
+---
+
 **recyclerview-adapters**: https://github.com/chuross/recyclerview-adapters
 
 Multiple item adapters for RecyclerView
