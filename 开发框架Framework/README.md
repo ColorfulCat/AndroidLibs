@@ -60,6 +60,12 @@ A New Android MVP Architecture http://www.jianshu.com/p/ac51c9b88af3
 
 ---
 
+**DroidWizard**：https://github.com/praslnx8/DroidWizard
+
+Kickstart MVP framework for android development
+
+---
+
 **atlas**：https://github.com/alibaba/atlas
 
 Atlas - 带你重返App开发的田园时代
