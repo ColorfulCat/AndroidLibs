@@ -86,6 +86,14 @@ BottomDialog 是一个通过 DialogFragment 实现的底部弹窗布局，并且
 
 ---
 
+**search-dialog**: https://github.com/mirrajabi/search-dialog
+
+自定义搜索框
+
+<img src="https://cloud.githubusercontent.com/assets/8886687/26155004/fc0ee574-3b26-11e7-9bb8-973eaa5d26f6.jpg" width="640" />
+
+---
+
 **PlaceSearchDialog**: https://github.com/codemybrainsout/PlaceSearchDialog
 
 位置搜索智能提示框
