@@ -626,6 +626,14 @@ ChromeLikeTabSwitcher
 
 ---
 
+**RossDeckView**: https://github.com/diogobernardino/RossDeckView
+
+Lite Android swipeable deck view
+
+<img src="https://github.com/diogobernardino/RossDeckView/raw/master/art/derdiedas.gif" width="270" />
+
+---
+
 **Android-InfiniteCards**: https://github.com/BakerJQ/Android-InfiniteCards
 
 可自定义动画的卡片切换视图
