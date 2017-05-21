@@ -504,10 +504,18 @@ DatePicker and TimePicker from Google for Android 4.0+ https://android.googlesou
 
 **MaterialDateRangePicker**: https://github.com/borax12/MaterialDateRangePicker
 
-A material Date Range Picker based on wdullaers MaterialDateTimePicker.
+A material Date Range Picker based on wdullaers MaterialDateTimePicker
 
 <img src="https://github.com/borax12/MaterialDateRangePicker/blob/master/screenshots/2.png?raw=true" width="320" />
 <img src="https://github.com/borax12/MaterialDateRangePicker/blob/master/screenshots/3.png?raw=true" width="320" />
+
+---
+
+**AndroidClearChroma**: https://github.com/Kunzisoft/AndroidClearChroma
+
+A material color picker for Android
+
+<img src="https://raw.githubusercontent.com/Kunzisoft/AndroidClearChroma/master/art/screen1.png" width="320" />
 
 ---
 
