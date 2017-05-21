@@ -22,6 +22,14 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**Fun**: https://github.com/PHELAT/Fun
+
+一个有趣的展开关闭动画
+
+<img src="https://github.com/PHELAT/Fun/raw/master/screenshot/screenshot.gif" width="320" />
+
+---
+
 **DynamicAnimationExample**: https://github.com/graviton57/DynamicAnimationExample
 
 A simple spring animation
