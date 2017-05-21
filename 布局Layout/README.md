@@ -1758,7 +1758,15 @@ A simple ViewPager extends that provide scroll based animation like Jazz Hands f
 
 ---
 
-**AndroidResideMenu**: [https://github.com/SpecialCyCi/AndroidResideMenu](https://github.com/SpecialCyCi/AndroidResideMenu)
+**duo-navigation-drawer**: https://github.com/PSD-Company/duo-navigation-drawer
+
+A flexible, easy to use, unique drawer library for your Android project
+
+<img src="https://camo.githubusercontent.com/930d8161fb9d1c90beb93731fba70a14eee414c3/68747470733a2f2f6a2e676966732e636f6d2f7667797272562e676966" width="320" />
+
+---
+
+**AndroidResideMenu**: https://github.com/SpecialCyCi/AndroidResideMenu
 
 The idea of ResideMenu is from Dribbble 1 and 2. It has come true and run in iOS devices. iOS ResideMenu This project is the RefsideMenu Android version. The visual effect is partly referred to iOS version of ResideMenu. And thanks to the authors for the above idea and contribution.
 
