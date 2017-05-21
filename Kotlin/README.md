@@ -14,6 +14,14 @@
 
 ---
 
+**AndroidArchitecture**: https://github.com/binaryroot/AndroidArchitecture
+
+Android Architecture Kotlin + Dagger2 + Room + LiveData + Retrofit
+
+<img src="https://camo.githubusercontent.com/e1459518188f17c1fa6a30570ca5d21530975f9e/68747470733a2f2f646576656c6f7065722e616e64726f69642e636f6d2f746f7069632f6c69627261726965732f6172636869746563747572652f696d616765732f66696e616c2d6172636869746563747572652e706e67" width="640"/>
+
+---
+
 **kotlinpoet**: https://github.com/square/kotlinpoet
 
 生成.kt文件的 kotlin api
