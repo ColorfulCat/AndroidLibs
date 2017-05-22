@@ -452,6 +452,14 @@ represent any prices in Russian rouble currency
 
 ---
 
+**android-EmojiCompat**: https://github.com/googlesamples/android-EmojiCompat
+
+Android Emoji 兼容包，彻底解决 Android Emoji 不一致问题
+
+<img src="https://github.com/googlesamples/android-EmojiCompat/raw/master/screenshots/1-main.png" width="270" />
+
+---
+
 **emojiconize**: https://github.com/rockerhieu/emojiconize
 
 一行代码渲染 emoji
