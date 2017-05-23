@@ -899,6 +899,14 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**RotatingText**: https://github.com/sdsmdg/RotatingText
+
+记分牌效果的单词轮换
+
+<img src="https://github.com/sdsmdg/RotatingText/raw/master/screens/gif_example_3.gif" width="400" />
+
+---
+
 **MarqueeViewLibrary**: https://github.com/gongwen/MarqueeViewLibrary
 
 一个帮您快速实现跑马灯效果的library
