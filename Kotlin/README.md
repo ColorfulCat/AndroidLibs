@@ -14,6 +14,14 @@
 
 ---
 
+**Kotlin-Android-Template**: https://github.com/nekocode/Kotlin-Android-Template
+
+It provides a generator to fast create a Kotlin Android template project
+
+<img src="https://github.com/nekocode/Kotlin-Android-Template/raw/master/art/layer.png" width="640"/>
+
+---
+
 **AndroidArchitecture**: https://github.com/binaryroot/AndroidArchitecture
 
 Android Architecture Kotlin + Dagger2 + Room + LiveData + Retrofit
