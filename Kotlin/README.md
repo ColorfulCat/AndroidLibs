@@ -6,6 +6,12 @@
 
 ---
 
+**kotlin-for-android-developers-zh**: https://github.com/wangjiegulu/kotlin-for-android-developers-zh
+
+kotlin-for-android-developers-zh
+
+---
+
 **PoiShuhui-Kotlin**: https://github.com/wuapnjie/PoiShuhui-Kotlin
 
 一个用Kotlin写的简单漫画APP
