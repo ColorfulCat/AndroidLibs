@@ -6,6 +6,14 @@
 
 ---
 
+**DividerDrawable**: https://github.com/nekocode/DividerDrawable
+
+不要再新建 View 来画分隔符了，用 Drawable 吧
+
+<img src="https://github.com/nekocode/DividerDrawable/raw/master/art/screenshot.png" width="320" />
+
+---
+
 **InDoorSurfaceView**: https://github.com/karonl/InDoorSurfaceView
 
 Android 室内场景构建组件，帮你快速的完成室内场景 View 的展示
