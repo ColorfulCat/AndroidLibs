@@ -259,6 +259,12 @@ ExoPlayer's wrapper for using with TextureView
 
 ---
 
+**UVCCamera**: https://github.com/saki4510t/UVCCamera
+
+usb摄像头，library and sample to access to UVC web camera on non-rooted Android device
+
+---
+
 **YUVDroidTools**: https://github.com/Jhuster/YUVDroidTools
 
 安卓预览 YUV 原始数据
