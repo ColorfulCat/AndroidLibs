@@ -20,6 +20,14 @@ https://cnodejs.org/ 非官方客户端
 
 ---
 
+**Anti-recall**: https://github.com/JasonQS/Anti-recall
+
+QQ，微信防撤回神器
+
+<img src = "https://github.com/JasonQS/Anti-recall/raw/master/demo/demo01.gif" width = "320"/> <img src = "https://github.com/JasonQS/Anti-recall/raw/master/demo/demo02.gif" width = "320"/>
+
+---
+
 **MessageRelayer**: https://github.com/HaoFeiWang/MessageRelayer
 
 短信转发工具
