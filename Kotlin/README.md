@@ -6,6 +6,12 @@
 
 ---
 
+**KotlinMvpTemplateGenerator**: https://github.com/burakeregar/KotlinMvpTemplateGenerator
+
+Android Studio template for Kotlin with MVP + Dagger2 + Retrofit2
+
+---
+
 **kotlin-for-android-developers-zh**: https://github.com/wangjiegulu/kotlin-for-android-developers-zh
 
 kotlin-for-android-developers-zh
