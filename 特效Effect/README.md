@@ -6,6 +6,14 @@
 
 ---
 
+**android-magic-surface-view**: https://github.com/gplibs/android-magic-surface-view
+
+一个使用openGL渲染的炫丽Android动画库
+
+<img src="https://github.com/gplibs/resources/raw/master/android/magic-surface-view/readme/launch.gif" width="320" /> <img src="https://github.com/gplibs/resources/raw/master/android/magic-surface-view/readme/mac_window_anim.gif" width="320" />
+
+---
+
 **Isometric**: https://github.com/FabianTerhorst/Isometric
 
 Android 透视三维体效果实现
