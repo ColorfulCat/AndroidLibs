@@ -12,6 +12,14 @@
 
 ---
 
+**HorizontalScrollSelectedView**: https://github.com/385841539/HorizontalScrollSelectedView
+
+横向滚动的，可以支持大量文本选择的 自定义View ，一行代码 ， 简单易用 ， 无OOM情况
+
+<img src="https://github.com/385841539/HorizontalScrollSelectedView/raw/master/horizontalselectedviewlibrary/src/main/res/drawable/xiaoguo2.gif" width="320"/>
+
+---
+
 **ParticleTextView**: https://github.com/Yasic/ParticleTextView
 
 一个用粒子动画显示文字的 Android 自定义 View
