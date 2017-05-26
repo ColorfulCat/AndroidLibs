@@ -18,6 +18,14 @@ A bunch of scripts you can use to compile FFmpeg with OpenSSL
 
 ---
 
+**NiceVieoPlayer**: https://github.com/xiaoyanger0825/NiceVieoPlayer
+
+MediaPlayer+TextureView，完美切换全屏、小窗口的Android视频播放器
+
+<img src="https://github.com/xiaoyanger0825/NiceVieoPlayer/raw/master/images/dd.jpg" width="400" />
+
+---
+
 **android-PictureInPicture**: https://github.com/googlesamples/android-PictureInPicture
 
 android-PictureInPicture 画中画功能
