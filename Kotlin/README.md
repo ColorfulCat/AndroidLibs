@@ -26,6 +26,14 @@ kotlin-for-android-developers-zh
 
 ---
 
+**kotlin-architecture-components-notes-demo**: https://github.com/general-mobile/kotlin-architecture-components-notes-demo
+
+Example of Android Architecture Components which implements MVVM Pattern and written in Kotlin
+
+<img src="https://github.com/general-mobile/kotlin-architecture-components-notes-demo/raw/master/art/screenshot.png" width="320"/>
+
+---
+
 **KotlinMvpArchitecture**: https://github.com/burakeregar/KotlinMvpArchitecture
 
 Clean MVP Architecture with Dagger2 + Retrofit2 + Fresco + GenericRecyclerAdapter for Kotlin
