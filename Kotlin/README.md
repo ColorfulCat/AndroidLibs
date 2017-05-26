@@ -26,6 +26,14 @@ kotlin-for-android-developers-zh
 
 ---
 
+**KotlinMvpArchitecture**: https://github.com/burakeregar/KotlinMvpArchitecture
+
+Clean MVP Architecture with Dagger2 + Retrofit2 + Fresco + GenericRecyclerAdapter for Kotlin
+
+<img src="https://github.com/burakeregar/KotlinMvpTemplateGenerator/raw/master/art/mvp_template.gif" width="640"/>
+
+---
+
 **Kotlin-Android-Template**: https://github.com/nekocode/Kotlin-Android-Template
 
 It provides a generator to fast create a Kotlin Android template project
