@@ -332,6 +332,14 @@ PageStateLayout could let you show [Loading][Empty][Error][Succeed][Requesting] 
 
 ---
 
+**widgetlab**: https://github.com/uDevel/widgetlab
+
+Configurable typing indicator for Android
+
+<img src="https://camo.githubusercontent.com/75356ec36ea6b06266cb3691f7f0833cff892ca3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f435349797149417856467a684b2f67697068792e676966" width="320" />
+
+---
+
 **PageIndicatorView**: https://github.com/romandanylyk/PageIndicatorView
 
 Google 风格的 Page Indicator 效果
