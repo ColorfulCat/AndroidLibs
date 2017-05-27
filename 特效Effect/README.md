@@ -6,6 +6,14 @@
 
 ---
 
+**trianglify**: https://github.com/sdsmdg/trianglify
+
+自定义三角形特效组件
+
+<img src="https://github.com/sdsmdg/trianglify/raw/develop/resources/gifs/cell_size.gif" width="320" />
+
+---
+
 **android-magic-surface-view**: https://github.com/gplibs/android-magic-surface-view
 
 一个使用openGL渲染的炫丽Android动画库
