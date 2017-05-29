@@ -6,6 +6,14 @@
 
 ---
 
+**ProgressView**: https://github.com/WhiteDG/ProgressView
+
+自定义进步条
+ 
+<img src = "https://github.com/WhiteDG/ProgressView/raw/master/screenshot/demo.gif" width = "320"/>
+
+---
+
 **OverwatchProgress**: https://github.com/zjywill/OverwatchProgress
 
 OverwatchProgress
