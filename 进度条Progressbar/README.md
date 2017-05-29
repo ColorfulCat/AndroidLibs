@@ -6,9 +6,17 @@
 
 ---
 
+**HueSeekBar**: https://github.com/iammert/HueSeekBar
+
+Yet another android seekbar inspired from Philips Hue app
+ 
+<img src = "https://raw.githubusercontent.com/iammert/HueSeekBar/master/art/art.gif" width = "320"/>
+
+---
+
 **ProgressView**: https://github.com/WhiteDG/ProgressView
 
-自定义进步条
+自定义进度条
  
 <img src = "https://github.com/WhiteDG/ProgressView/raw/master/screenshot/demo.gif" width = "320"/>
 
