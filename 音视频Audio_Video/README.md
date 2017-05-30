@@ -367,6 +367,14 @@ Shuttle Music Player
 
 ---
 
+**IdealMedia**: https://github.com/dmllr/IdealMedia
+
+Awesome app to listen music and audiobooks on the device and online at vk.com. Search, download, set as ringtone, sort by albums, authors, folder. Powerful equalizer
+
+<img src = "https://github.com/dmllr/IdealMedia/raw/master/images/01.png" width = "270"/> <img src = "https://github.com/dmllr/IdealMedia/raw/master/images/02.png" width = "270"/> <img src = "https://github.com/dmllr/IdealMedia/raw/master/images/03.png" width = "270"/>
+
+---
+
 **MusicWave**: https://github.com/akshay2211/MusicWave
 
 音乐播放频谱波形
