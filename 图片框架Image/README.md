@@ -826,6 +826,14 @@ GifLoadingViewhttps://amitshekhariitbhu.github.io/GlideBitmapPool/
 
 ---
 
+**GlideSlider**: https://github.com/firdausmaulan/GlideSlider
+
+Glide Image Slider
+
+<img src="https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966" width="320"/>
+
+---
+
 **glide-bindingadapter**: https://github.com/s0nerik/glide-bindingadapter
 
 Configurable @BindingAdapter for Glide
