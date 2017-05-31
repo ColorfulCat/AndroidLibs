@@ -14,6 +14,14 @@ Swipe-To-Dismiss-Dialog
 
 ---
 
+**Sneaker**: https://github.com/Hamadakram/Sneaker
+
+自定义弹窗
+
+<img src="https://github.com/Hamadakram/Sneaker/blob/master/app/Sneaker.png?raw=true" width="320" />
+
+---
+
 **SearchableSpinner**: https://github.com/miteshpithadiya/SearchableSpinner
 
 支持搜索的spinner
