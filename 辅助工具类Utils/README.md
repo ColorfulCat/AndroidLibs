@@ -2229,6 +2229,12 @@ A modern JSON library for Android and Java.
 
 ---
 
+**AndroidBluetoothLibrary**: https://github.com/douglasjunior/AndroidBluetoothLibrary
+
+AndroidBluetoothLibrary
+
+---
+
 **BluetoothHelper**: https://github.com/a-voyager/BluetoothHelper
 
 Bluetooth Helper Library.—-蓝牙操作库
