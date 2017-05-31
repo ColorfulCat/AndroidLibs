@@ -6,6 +6,14 @@
 
 ---
 
+**MaterialShadows**: https://github.com/harjot-oberai/MaterialShadows
+
+MaterialShadows
+
+<img src="https://github.com/harjot-oberai/MaterialShadows/raw/master/screens/example_3.png" width="320" />
+
+---
+
 **trianglify**: https://github.com/sdsmdg/trianglify
 
 自定义三角形特效组件
