@@ -18,6 +18,14 @@ A bunch of scripts you can use to compile FFmpeg with OpenSSL
 
 ---
 
+**MusicPickerActivity**: https://github.com/ykAR6Bqy5DeG/MusicPickerActivity
+
+系统音频文件选择
+
+<img src="https://github.com/ykAR6Bqy5DeG/MusicPickerActivity/raw/master/art/preview.gif" width="320" />
+
+---
+
 **NiceVieoPlayer**: https://github.com/xiaoyanger0825/NiceVieoPlayer
 
 MediaPlayer+TextureView，完美切换全屏、小窗口的Android视频播放器
