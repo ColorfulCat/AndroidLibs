@@ -17,6 +17,14 @@ Material Design 风格的组件集合
 
 ---
 
+**expandable-layout**: https://github.com/chuross/expandable-layout
+
+可展开折叠的布局
+
+<img src="https://cloud.githubusercontent.com/assets/1422031/26396914/9381d0be-40af-11e7-9434-7a7aaff1adee.gif" width="320" />
+
+---
+
 **CarouselEffect**: https://github.com/bhaveshjabuvani-credencys/CarouselEffect
 
 Carousel Effect with ViewPager
