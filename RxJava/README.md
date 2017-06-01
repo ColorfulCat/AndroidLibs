@@ -44,6 +44,12 @@ Learning RxJava for Android by example
 
 ---
 
+**LifecycleAwareRx**: https://github.com/WaylonBrown/LifecycleAwareRx
+
+Make your RxJava2 streams life-cycle aware with Android Architecture Components
+
+---
+
 **aesthetic**: https://github.com/afollestad/aesthetic
 
 RxJava 实现的主题切换引擎
