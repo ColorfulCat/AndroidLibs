@@ -28,6 +28,14 @@ litho-glide
 
 ---
 
+**progress-image-view-android: https://github.com/safetysystemtechnology/progress-image-view-android
+
+progress-image-view-android
+
+<img src="https://github.com/safetysystemtechnology/progress-image-view-android/raw/master/etc/demo.gif" width="320"/>
+
+---
+
 **DismissibleImageView**: https://github.com/dmallcott/DismissibleImageView
 
 Clickable ImageView that expands to full screen and is dismissible by swiping the image off-screen
