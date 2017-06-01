@@ -72,12 +72,6 @@ A Java 8 string manipulation library. It is inspired by https://github.com/dleit
 
 ---
 
-**libaums**: https://github.com/magnusja/libaums
-
-在非root设备上访问usb大容量存储设备
-
----
-
 **android-shake-detector**: https://github.com/safetysystemtechnology/android-shake-detector
 
 Android 晃动检测小工具
@@ -741,6 +735,24 @@ The easiest way to automate building and releasing your iOS and Android apps htt
 Android 上使用 NDK 编写 OpenGL ES 3.0
 
 <img src="https://raw.githubusercontent.com/redknotmiaoyuqiao/MyOpenGL/master/img/one.gif" width="320"/> <img src="https://raw.githubusercontent.com/redknotmiaoyuqiao/MyOpenGL/master/img/ten.gif" width="320"/>
+
+---
+
+**USB-Device-Info---Android**: https://github.com/alt236/USB-Device-Info---Android
+
+从linux层和android层获取usb设备信息的应用
+
+---
+
+**AndroidUsbCamera**: https://github.com/quanhua92/AndroidUsbCamera
+
+Use USB Webcam on non-rooted Android devices with UVCCamera library from saki4510t(above)
+
+---
+
+**libaums**: https://github.com/magnusja/libaums
+
+在非root设备上访问usb大容量存储设备
 
 ---
 
@@ -1467,12 +1479,6 @@ AsyncTask 替代者
 **phrase**: https://github.com/square/phrase
 
 安卓 格式化字符串的库
-
----
-
-**AndroidUsbCamera**: https://github.com/quanhua92/AndroidUsbCamera
-
-Use USB Webcam on non-rooted Android devices with UVCCamera library from saki4510t(above)
 
 ---
 
