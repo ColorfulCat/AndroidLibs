@@ -53,6 +53,14 @@ Multiple item adapters for RecyclerView
 
 ---
 
+**SwipeableRV**: https://github.com/huan-nguyen/SwipeableRV
+
+SwipeableRV
+
+<img src="https://github.com/huan-nguyen/SwipeableRV/raw/master/screenshot/demo.gif" width="320" />
+
+---
+
 **SwipeMenuRecyclerView**: https://github.com/AItsuki/SwipeMenuRecyclerView
 
 RecyclerView侧滑菜单
