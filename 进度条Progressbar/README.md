@@ -62,6 +62,14 @@ Android library with collection of cool progress views
 
 ---
 
+**SegmentedStepperSeekbar**: https://github.com/harshalbenake/SegmentedStepperSeekbar
+
+SegmentedStepperSeekbar
+ 
+<img src = "https://github.com/harshalbenake/SegmentedStepperSeekbar/raw/master/app/src/main/res/drawable/segmented_stepper_seekbar.png" width = "320"/>
+
+---
+
 **ProtractorView**: https://github.com/GoodieBag/ProtractorView
 
 半圆 seekbar
@@ -83,14 +91,6 @@ Android library with collection of cool progress views
 Customizable progress indicator in the form of 2D geometric shapes
  
 <img src = "https://raw.githubusercontent.com/vbohush/geometric-progress-view/master/screenshot/screenshot.gif" width = "600"/>
-
----
-
-**PreviewSeekBar**: https://github.com/rubensousa/PreviewSeekBar
-
-支持视频 Preview 效果的 Seekbar
- 
-<img src = "https://raw.githubusercontent.com/rubensousa/PreviewSeekBar/master/screenshots/sample.gif" width = "600"/>
 
 ---
 

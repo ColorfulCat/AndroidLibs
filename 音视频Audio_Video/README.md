@@ -26,6 +26,14 @@ A bunch of scripts you can use to compile FFmpeg with OpenSSL
 
 ---
 
+**PreviewSeekBar**: https://github.com/rubensousa/PreviewSeekBar
+
+支持视频 Preview 效果的 Seekbar
+ 
+<img src = "https://raw.githubusercontent.com/rubensousa/PreviewSeekBar/master/screenshots/sample.gif" width = "600"/>
+
+---
+
 **NiceVieoPlayer**: https://github.com/xiaoyanger0825/NiceVieoPlayer
 
 MediaPlayer+TextureView，完美切换全屏、小窗口的Android视频播放器
