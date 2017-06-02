@@ -205,6 +205,22 @@ TwinklingRefreshLayout 小而强大的刷新控件，自带顺滑的越界回弹
 
 ---
 
+**flexbox-layout**: https://github.com/google/flexbox-layout
+
+FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android
+
+<img src="https://raw.githubusercontent.com/google/flexbox-layout/master/assets/flex-direction.gif" width="270" /> <img src="https://raw.githubusercontent.com/google/flexbox-layout/master/assets/flex-wrap.gif" width="270" /> <img src="https://raw.githubusercontent.com/google/flexbox-layout/master/assets/justify-content.gif" width="270" />
+
+---
+
+**LondonEyeLayoutManager**: https://github.com/danylovolokh/LondonEyeLayoutManager
+
+A Layoutmanager that must be used with RecyclerView
+
+<img src="https://cloud.githubusercontent.com/assets/2686355/11742412/651bc71e-a008-11e5-9a5e-4f10be4adbd8.gif" width="320" />
+
+---
+
 **HiveLayoutManager**: https://github.com/Chacojack/HiveLayoutManager
 
 蜂巢布局管理器
