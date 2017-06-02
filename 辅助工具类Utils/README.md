@@ -1408,6 +1408,14 @@ Android Studio 翻译插件,可以将英文翻译为中文.
 
 ---
 
+**Aria**: https://github.com/AriaLyy/Aria
+
+文件下载管理
+
+<img src="https://github.com/AriaLyy/DownloadUtil/raw/master/img/download_img.gif" width="640" />
+
+---
+
 **lib_download**: https://github.com/wangdanlizhiyun/lib_download
 
 处理异步下载的库
