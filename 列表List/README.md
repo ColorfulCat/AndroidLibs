@@ -213,6 +213,14 @@ TwinklingRefreshLayout 小而强大的刷新控件，自带顺滑的越界回弹
 
 ---
 
+**CarouselLayoutManager**: https://github.com/Azoft/CarouselLayoutManager
+
+让你的RecyclerView秀出传送带效果，支持横向和纵向两种选择
+
+<img src="https://github.com/Azoft/CarouselLayoutManager/raw/master/resources/carousel_double_work_small.gif" width="320" />
+
+---
+
 **ChipsLayoutManager**: https://github.com/BelooS/ChipsLayoutManager
 
 ANDROID. ChipsLayoutManager (SpanLayoutManager). A custom layout manager for RecyclerView which mimicric TextView span behaviour, flow layouts behaviour with support of amazing recyclerView features
