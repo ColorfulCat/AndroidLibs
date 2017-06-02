@@ -18,6 +18,14 @@ kotlin-for-android-developers-zh
 
 ---
 
+**DoubanMovie**: https://github.com/zhoujunjiang/DoubanMovie
+
+豆瓣电影公开接口Android实现
+
+<img src="https://github.com/zhoujunjiang/DoubanMovie/raw/master/screenshot/1.jpg" width="320"/> <img src="https://github.com/zhoujunjiang/DoubanMovie/raw/master/screenshot/2.jpg" width="320"/>
+
+---
+
 **PoiShuhui-Kotlin**: https://github.com/wuapnjie/PoiShuhui-Kotlin
 
 一个用Kotlin写的简单漫画APP
