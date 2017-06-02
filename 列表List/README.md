@@ -93,14 +93,6 @@ A single adapter for the whole project
 
 ---
 
-**vlayout**: https://github.com/alibaba/vlayout
-
-VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题
-
-<img src="https://camo.githubusercontent.com/2b947a15f5502af5a4639a5927d68052ccfb54a3/687474703a2f2f696d67332e746263646e2e636e2f4c312f3436312f312f31623962666234323030393034376637356365653038616537343135303564653263373461633061" width="200" />
-
----
-
 **ExpectAnim**: https://github.com/florent37/ExpectAnim
 
 通过描述来实现动画方案
@@ -210,6 +202,22 @@ TwinklingRefreshLayout 小而强大的刷新控件，自带顺滑的越界回弹
 支持多个方向滑动的 View，类似 Calendar 里的 UI 效果
 
 <img src="https://raw.githubusercontent.com/Kelin-Hong/ScrollablePanel/master/art/ScrollablePanelDemo.gif" width="320" />
+
+---
+
+**HiveLayoutManager**: https://github.com/Chacojack/HiveLayoutManager
+
+蜂巢布局管理器
+
+<img src="https://camo.githubusercontent.com/77f9a87db596da7aced9fa32d32ba5159a5d2244/68747470733a2f2f636861636f6a61636b2e6769746875622e696f2f323031362f30392f32392f52656379636c6572566965772545372539412538342545342542382538302545342542382541412545392541392541432545382539432538322545372541412539442545352542382538332545352542312538302f686f72697a6f6e74616c2e706e67" width="270" />
+
+---
+
+**vlayout**: https://github.com/alibaba/vlayout
+
+VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题
+
+<img src="https://camo.githubusercontent.com/2b947a15f5502af5a4639a5927d68052ccfb54a3/687474703a2f2f696d67332e746263646e2e636e2f4c312f3436312f312f31623962666234323030393034376637356365653038616537343135303564653263373461633061" width="200" />
 
 ---
 
