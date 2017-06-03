@@ -945,6 +945,14 @@ this is a draggable flow layout lib
 
 ---
 
+**PersistentSearchView**: https://github.com/crysehillmes/PersistentSearchView
+
+A library that implements Google Play like PersistentSearch view
+
+<img src="https://raw.githubusercontent.com/crysehillmes/PersistentSearchView/master/screenshots/screenshot1.png" width="320" />
+
+---
+
 **SearchFilter**: https://github.com/Yalantis/SearchFilter
 
 Yalantis 出品：搜索过滤器交互效果
