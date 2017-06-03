@@ -14,6 +14,14 @@ android-ringtone-picker
 
 ---
 
+**CarouselPicker**: https://github.com/GoodieBag/CarouselPicker
+
+图标和文本选择
+
+<img src="https://raw.githubusercontent.com/GoodieBag/CarouselPicker/master/gif/gif_image_480.gif" width="320" /> <img src="https://raw.githubusercontent.com/GoodieBag/CarouselPicker/master/gif/gif_text_480.gif" width="320" />
+
+---
+
 **ScrollChoice**: https://github.com/webianks/ScrollChoice
 
 Scrollable view which can be used to give different choices to user with nice ui
