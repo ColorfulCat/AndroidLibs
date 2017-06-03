@@ -66,6 +66,12 @@ RxJava 实现的主题切换引擎
 
 ---
 
+**rx-scheduler-transformer**: https://github.com/thepacific/rx-scheduler-transformer
+
+rxjava scheduler transformer tools for android
+
+---
+
 **RxAnnotations**: https://github.com/CityVibes/RxAnnotations
 
 Annotations for RxJava
