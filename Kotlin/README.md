@@ -12,6 +12,12 @@ Android Studio template for Kotlin with MVP + Dagger2 + Retrofit2
 
 ---
 
+**KotlinDiscreteMathToolkit**: https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit
+
+KotlinDiscreteMathToolkit
+
+---
+
 **kotlin-for-android-developers-zh**: https://github.com/wangjiegulu/kotlin-for-android-developers-zh
 
 kotlin-for-android-developers-zh
