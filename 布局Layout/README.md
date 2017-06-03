@@ -462,6 +462,14 @@ Android layout with an header image sensible to scroll and touch events
 
 ---
 
+**AdaptableBottomNavigation**: https://github.com/bufferapp/AdaptableBottomNavigation
+
+A simpler way for implementing the Bottom Navigation View on Android
+
+<img src="https://github.com/bufferapp/AdaptableBottomNavigation/raw/master/art/demo.gif" width="320" />
+
+---
+
 **SlidingDrawer**: https://github.com/PierfrancescoSoffritti/SlidingDrawer
 
 Android custom View implementing the bottom sheet pattern
