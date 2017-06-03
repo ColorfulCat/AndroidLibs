@@ -539,6 +539,14 @@ a night model lib for easy change app's night theme
 
 ---
 
+**Colors**: https://github.com/marverenic/Colors
+
+换肤框架
+
+<img src="https://github.com/marverenic/Colors/raw/master/preview.gif" width="320"/>
+
+---
+
 **Android-skin-support**: https://github.com/ximsfei/Android-skin-support
 
 一款用心去做的Android 换肤框架, 极低的学习成本, 极好的用户体验. 只需要两行代码, 就可以实现换肤
