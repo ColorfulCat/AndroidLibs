@@ -1001,6 +1001,14 @@ Easy Font for Android is a Library which makes it easy to use Custom Fonts in An
 
 ---
 
+**AACustomFont**: https://github.com/EngrAhsanAli/AACustomFont
+
+AACustomFont is a lightweight custom font binder in XML directly in TextView, Button, EditText, RadioButton, CheckBox tags
+
+<img src="https://github.com/EngrAhsanAli/AACustomFont/raw/master/Screenshots/demo.png" width="270" />
+
+---
+
 **ontometricsLibrary**: https://github.com/Ishmeetsingh97/FontometricsLibrary
 
 更方便的调整 Android 中的字体，这个库自带了一些第三方英文字体
