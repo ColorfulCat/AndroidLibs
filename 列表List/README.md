@@ -13,6 +13,14 @@ A slim & clean & typeable Adapter without VIEWHOLDER
 
 ---
 
+**admobadapter**: https://github.com/clockbyte/admobadapter
+
+It wraps your Adapter to display Admob native ads in a ListView/RecyclerView data set. It based on the Yahoo fetchr project
+
+<img src="https://raw.githubusercontent.com/clockbyte/admobadapter/master/screenshots/ezgif.com-gif-maker.gif" width="320" />
+
+---
+
 **AutoRecyclerAdapter**: https://github.com/teambition/AutoRecyclerAdapter
 
 Automated configuration RecyclerView.Adapter for Android
