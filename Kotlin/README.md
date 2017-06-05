@@ -24,6 +24,14 @@ kotlin-for-android-developers-zh
 
 ---
 
+**KontinuousSpeechRecognizer**: https://github.com/StephenVinouze/KontinuousSpeechRecognizer
+
+Kotlin 语音识别
+
+<img src="https://github.com/StephenVinouze/KontinuousSpeechRecognizer/raw/master/docs/KontinuousSpeechRecognition.png" width="480"/>
+
+---
+
 **DoubanMovie**: https://github.com/zhoujunjiang/DoubanMovie
 
 豆瓣电影公开接口Android实现
