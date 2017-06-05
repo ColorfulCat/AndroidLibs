@@ -164,6 +164,14 @@ Easily edit your build.prop file on Android
 
 ---
 
+**ResourceInspector**: https://github.com/nekocode/ResourceInspector
+
+从一个大型项目中快速找到当前页面元素用到的布局文件
+
+<img src="https://github.com/nekocode/ResourceInspector/raw/master/img/screenshot.png" width="320"/>
+
+---
+
 **redexer**: https://github.com/plum-umd/redexer
 
 The Redexer binary instrumentation framework for Dalvik bytecode
