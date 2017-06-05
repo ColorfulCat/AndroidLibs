@@ -2207,6 +2207,12 @@ A memory leak detection library for Android and Java.
 
 ---
 
+**AndroidPerformanceTools**: https://github.com/D-clock/AndroidPerformanceTools
+
+检测ANR
+
+---
+
 **ANR-WatchDog**: https://github.com/SalomonBrys/ANR-WatchDog
 
 ANR 卡顿检测
