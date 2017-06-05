@@ -2207,6 +2207,12 @@ A memory leak detection library for Android and Java.
 
 ---
 
+**ANR-WatchDog**: https://github.com/SalomonBrys/ANR-WatchDog
+
+ANR 卡顿检测
+
+---
+
 **BlockCanaryEx**: https://github.com/lqcandqq13/BlockCanaryEx
 
 blockcanary 升级版
