@@ -28,6 +28,14 @@ litho-glide
 
 ---
 
+**InsLoadingAnimation: https://github.com/qintong91/InsLoadingAnimation
+
+头像加载进度
+
+<img src="https://github.com/qintong91/InsLoadingAnimation/raw/master/screenshots/demo.gif" width="270"/>
+
+---
+
 **progress-image-view-android: https://github.com/safetysystemtechnology/progress-image-view-android
 
 progress-image-view-android

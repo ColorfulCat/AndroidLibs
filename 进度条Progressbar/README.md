@@ -42,7 +42,7 @@ An animated Progress Dialog
 
 A 'Google Fit'-like implementation of the circular view
  
-<img src = "https://raw.githubusercontent.com/rjsvieira/circularView/master/circularview.gif" width = "320"/>
+<img src = "https://github.com/rjsvieira/circularView/raw/master/images/periodic.gif" width = "600"/>
 
 ---
 
