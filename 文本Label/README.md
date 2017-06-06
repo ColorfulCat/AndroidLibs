@@ -12,6 +12,14 @@
 
 ---
 
+**CompoundIconTextView**: https://github.com/AAkira/CompoundIconTextView
+
+支持矢量图展示的 TextView
+
+<img src="https://github.com/AAkira/CompoundIconTextView/raw/master/arts/preview.png" width="320"/>
+
+---
+
 **HorizontalScrollSelectedView**: https://github.com/385841539/HorizontalScrollSelectedView
 
 横向滚动的，可以支持大量文本选择的 自定义View ，一行代码 ， 简单易用 ， 无OOM情况
