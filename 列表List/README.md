@@ -471,6 +471,14 @@ Decouple the item(/nested viewholder) from recyclerview's adapter
 
 ---
 
+**MultiViewAdapter**: https://github.com/DevAhamed/MultiViewAdapter
+
+显示recycleview复杂布局
+
+<img src="https://github.com/DevAhamed/MultiViewAdapter/raw/master/images/MultiViewAdapter-gif.gif?raw=true" width="320" />
+
+---
+
 **epoxy**: https://github.com/airbnb/epoxy
 
 又一个显示recycleview复杂效果的库
