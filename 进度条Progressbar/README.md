@@ -62,6 +62,14 @@ Android library with collection of cool progress views
 
 ---
 
+**android-slidr**: https://github.com/florent37/android-slidr
+
+Another android slider / seekbar
+ 
+<img src = "https://raw.githubusercontent.com/florent37/android-slidr/master/medias/slidr2_1.png" width = "320"/> <img src = "https://raw.githubusercontent.com/florent37/android-slidr/master/medias/slidr_region.png" width = "320"/>
+
+---
+
 **SegmentedStepperSeekbar**: https://github.com/harshalbenake/SegmentedStepperSeekbar
 
 SegmentedStepperSeekbar
