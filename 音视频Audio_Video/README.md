@@ -315,6 +315,12 @@ Android音视频相关的Demo
 
 ---
 
+**SimpleRecorder**: https://github.com/lrannn/SimpleRecorder
+
+Android 高质量录音库
+
+---
+
 **AndroidMp3Recorder**: https://github.com/GavinCT/AndroidMP3Recorder
 
 为Android提供MP3录音功能
