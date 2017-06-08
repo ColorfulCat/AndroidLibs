@@ -6,6 +6,14 @@
 
 ---
 
+**snackprogressbar**: https://github.com/tingyik90/snackprogressbar
+
+snackbar扩展，可以显示进度
+ 
+<img src = "https://camo.githubusercontent.com/c6a9e105b36633dca9f8d7129616f63b5b3c76f6/687474703a2f2f692e696d6775722e636f6d2f78474f6e7756702e706e67" width = "400"/>
+
+---
+
 **HueSeekBar**: https://github.com/iammert/HueSeekBar
 
 Yet another android seekbar inspired from Philips Hue app
