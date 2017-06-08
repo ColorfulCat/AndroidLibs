@@ -405,6 +405,14 @@ Awesome app to listen music and audiobooks on the device and online at vk.com. S
 
 ---
 
+**MusicIndicator**: https://github.com/Taishi-Y/MusicIndicator
+
+Android 音乐频谱效果组件
+
+<img src = "https://github.com/Taishi-Y/MusicIndicator/raw/master/art/samplegif.gif?raw=true" width = "300"/>
+
+---
+
 **CameraFragment**: https://github.com/florent37/CameraFragment
 
 Fragment拍照摄像
