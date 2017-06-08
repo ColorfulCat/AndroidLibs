@@ -1003,6 +1003,14 @@ Custom-Typeface is a library to add custom fonts in android
 
 ---
 
+**EasyFont**: https://github.com/natiginfo/EasyFont
+
+Android Library to set font of TextView, Button, EditText, and RadioButton in XML without editing Java code to set Typeface
+
+<img src="https://github.com/natiginfo/EasyFont/blob/master/screenshots/screenshot1.png" width="270" />
+
+---
+
 **EasyFont**: https://github.com/vishal259/EasyFont
 
 Easy Font for Android is a Library which makes it easy to use Custom Fonts in Android Application
