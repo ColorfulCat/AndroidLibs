@@ -221,6 +221,14 @@ FlexboxLayout is a library project which brings the similar capabilities of CSS 
 
 ---
 
+**SpannedGridLayoutManager**: https://github.com/Arasthel/SpannedGridLayoutManager
+
+支持不同形态的 Span Grid Layout
+
+<img src="https://github.com/Arasthel/SpannedGridLayoutManager/raw/master/art/spannedgridlayout.gif" width="320" />
+
+---
+
 **LondonEyeLayoutManager**: https://github.com/danylovolokh/LondonEyeLayoutManager
 
 A Layoutmanager that must be used with RecyclerView
