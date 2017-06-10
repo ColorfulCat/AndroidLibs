@@ -16,6 +16,12 @@
 
 ---
 
+**pesdk-android-demo: https://github.com/imgly/pesdk-android-demo
+
+图片编辑sdk使用demo
+
+---
+
 **litho-glide: https://github.com/pavlospt/litho-glide
 
 litho-glide
