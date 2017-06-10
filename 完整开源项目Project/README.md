@@ -12,6 +12,14 @@
 
 ---
 
+**android-permission-checker-app**: https://github.com/Arjun-sna/android-permission-checker-app
+
+识别应用中的各种权限
+
+<img src = "https://camo.githubusercontent.com/ea2bd2a4d471b587fb1ee28dfc7a5bda208d7f97/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f7065726d697373696f6e5f6170705f73322e706e67" width = "320"/> <img src = "https://camo.githubusercontent.com/48edd1405c89172e9640030c6f4a369f166d2d88/68747470733a2f2f7261776769742e636f6d2f41726a756e2d736e612f41726a756e2d736e612e6769746875622e696f2f6d61737465722f7261772f7065726d697373696f6e5f6170705f73332e706e67" width = "320"/>
+
+---
+
 **CNode-android**: https://github.com/shellljx/CNode-android
 
 https://cnodejs.org/ 非官方客户端
