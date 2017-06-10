@@ -1596,6 +1596,12 @@ apk 反编译工具
 
 ---
 
+**EasySharedPreference**: https://github.com/kingfisherphuoc/EasySharedPreference
+
+简单易用的可存储任意对象的 SharedPreference
+
+---
+
 **CipherSharedPrefs**: https://github.com/Ufkoku/CipherSharedPrefs
 
 Android shared preferences 加解密
