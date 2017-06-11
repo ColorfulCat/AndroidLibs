@@ -1048,6 +1048,14 @@ Blorm is a field validation lib for android
 
 ---
 
+**IpcEventBus**: https://github.com/NewtronLabs/IpcEventBus
+
+进程通信事件总线
+
+<img src="https://github.com/NewtronLabs/IpcEventBus/raw/master/Diagram.png" width="400"/>
+
+---
+
 **Hermes**: https://github.com/Xiaofei-it/Hermes
 
 简单易用的安卓进程间通信IPC框架
