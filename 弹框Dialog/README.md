@@ -22,6 +22,14 @@ Swipe-To-Dismiss-Dialog
 
 ---
 
+**SearchableSpinner**: https://github.com/MdFarhanRaja/SearchableSpinner
+
+支持搜索的spinner
+
+<img src="https://cloud.githubusercontent.com/assets/18304656/23259376/d470d6aa-f9f2-11e6-98f1-679f1e32af8f.gif" width="320" />
+
+---
+
 **SearchableSpinner**: https://github.com/miteshpithadiya/SearchableSpinner
 
 支持搜索的spinner
