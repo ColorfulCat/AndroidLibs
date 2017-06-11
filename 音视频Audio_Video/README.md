@@ -115,6 +115,14 @@ A simple Android wrapper for interfacing with the new Camera2 API for video capt
 
 ---
 
+**ExoPlayerFilter**: https://github.com/MasayukiSuda/ExoPlayerFilter
+
+实时视频滤镜
+
+<img src="https://github.com/MasayukiSuda/ExoPlayerFilter/raw/master/art/art.gif" width="270" />
+
+---
+
 **VidEffects**: https://github.com/krazykira/VidEffects
 
 实时视频滤镜
