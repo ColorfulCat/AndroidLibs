@@ -1219,6 +1219,14 @@ MD 风格的启动引导页面
 
 ---
 
+**IndicatorView**: https://github.com/steelkiwi/IndicatorView
+
+Configurable view for ViewPager
+
+<img src="https://github.com/steelkiwi/IndicatorView/raw/master/assets/indicator_view_hung_down_action.gif" width="320"/>
+
+---
+
 **WoWoViewPager**: https://github.com/Nightonke/WoWoViewPager
 
 WoWo可以优化你的App介绍/引导页面，制作你的App简历
