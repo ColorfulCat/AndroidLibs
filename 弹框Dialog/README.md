@@ -14,6 +14,14 @@ Swipe-To-Dismiss-Dialog
 
 ---
 
+**ViewTooltip**: https://github.com/florent37/ViewTooltip
+
+Android View Tooltips，目前来看做的最漂亮的
+
+<img src="https://raw.githubusercontent.com/florent37/ViewTooltip/master/medias/autoHide.gif" width="320" />
+
+---
+
 **Sneaker**: https://github.com/Hamadakram/Sneaker
 
 自定义弹窗
