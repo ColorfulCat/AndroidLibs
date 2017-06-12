@@ -348,6 +348,14 @@ IOS 风格选择控制
 
 ---
 
+**PinCodeView**: https://github.com/antoxa2584x/PinCodeView
+
+Android PinCode 密码输入效果
+
+<img src="https://github.com/antoxa2584x/PinCodeView/raw/master/images/preview.jpg" width="320" />
+
+---
+
 **PasscodeView**: https://github.com/kevalpatel2106/PasscodeView
 
 pin和指纹识别解锁
