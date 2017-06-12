@@ -30,6 +30,12 @@ Android 开发的一些 Tips 集合
 
 ---
 
+**Magisk**：https://github.com/topjohnwu/Magisk
+
+A Magic Mask to Alter Android System Systemless-ly
+
+---
+
 **Alfonz**：https://github.com/petrnohejl/Alfonz
 
 Mr. Alfonz is here to help you build your Android app, make the development process easier and avoid boilerplate code
