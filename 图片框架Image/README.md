@@ -788,6 +788,12 @@ Android 色彩渐进 ImageView
 
 ---
 
+**CameraFilters**: https://github.com/JessYanCoding/CameraFilters
+
+摄像头实时滤镜处理库,自带10多种滤镜,支持滤镜扩展,并且兼容七牛云直播滤镜处理
+
+---
+
 **CameraFilter**: https://github.com/nekocode/CameraFilter
 
 Realtime camera filters for Android
