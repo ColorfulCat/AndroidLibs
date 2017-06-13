@@ -14,6 +14,14 @@
 
 ---
 
+**DotsLoaderView**: https://github.com/steelkiwi/DotsLoaderView
+
+Simple dots loader view http://steelkiwi.com/
+ 
+<img src = "https://github.com/steelkiwi/DotsLoaderView/raw/master/assets/dots-loader-view.gif" width = "400"/>
+
+---
+
 **snackprogressbar**: https://github.com/tingyik90/snackprogressbar
 
 snackbar扩展，可以显示进度
