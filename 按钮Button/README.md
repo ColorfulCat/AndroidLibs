@@ -36,6 +36,14 @@ Android Holding Button 效果
 
 ---
 
+**swipe-button**: https://github.com/ebanx/swipe-button
+
+可滑动的按钮
+
+<img src="https://camo.githubusercontent.com/ab388bdcecebbf5b9ea7664914a2a6ab525f9e0a/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d704731514266695361496f2f57536273776639545238492f41414141414141414143512f4249545465425679687651484d356f326854573778347173626657334f4a624351434c63422f73302f627574746f6e2b6d6f7669652e676966" width="320" />
+
+---
+
 **slideview**: https://github.com/MAXDeliveryNG/slideview
 
 很有新意的一个滑动效果库
