@@ -1570,3 +1570,23 @@ Mr. lock screen is a simple, cool lock screen software, the ability to provide c
 <img src="https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/00-main.png" width="320" /> <img src="https://github.com/DreaminginCodeZH/Douya/blob/master/screenshot/01-immersive.jpg" width="320" />
 
 ---
+
+**SimpleNews.io**: https://github.com/whiskeyfei/SimpleNews.io
+
+A news App,based on the Material Design and RxJava 、MVP、Component Module. 基于 Material Design 、MVP、RxJava 、Android 组件化的新闻客户端
+
+本代码库借鉴了[SimpleNews](https://github.com/liuling07/SimpleNews)，上面也有原库的介绍，在原来得基础上，修改了较多内容，目前除了一些 tab 切换及 UI 使用原 SimpleNews 逻辑，架构和数据方面基本上已经完全被修改。
+Change as follows:
+
+- [x] change the data interface.
+- [x] change switch fragment mechanism.
+- [x] change mvc mechanism separate ui and logic.
+- [x] clear the useless code and liarary and ui resourses.
+- [x] add gradle build apk release version.
+- [x] add BaseActivity for eventBus.
+
+
+<img src="http://7xol9p.com1.z0.glb.clouddn.com/github_news.gif" width="320" />
+
+---
+
