@@ -6,6 +6,12 @@
 
 ---
 
+**ConfigDroid**: https://github.com/mb-14/ConfigDroid
+
+可生成常量的gradle插件
+
+---
+
 **DataBindingCompat**: https://github.com/MichaelRocks/DataBindingCompat
 
 A Gradle plugin that makes databinding work well with appcompat
