@@ -92,6 +92,12 @@ An android library to create the new Android 7.1 shortcuts easily
 
 ---
 
+**wcdb**: https://github.com/Tencent/wcdb
+
+微信数据库组件
+
+---
+
 **SQLiteToExcel**: https://github.com/li-yu/SQLiteToExcel
 
 SQLiteToExcel 库整合了 Apache POI 和一些基本的数据库查询操作，使得 SQLite 和 Excel 之间相互转换更加便捷
