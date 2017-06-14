@@ -24,6 +24,14 @@ kotlin-for-android-developers-zh
 
 ---
 
+**Renran**: https://github.com/zhoujunjiang/Renran
+
+纯粹的倒计时应用,kotlin实现,永远不添加广告
+ 
+<img src="https://github.com/zhoujunjiang/Renran/raw/master/screenhost/1.png" width="320"/> <img src="https://github.com/zhoujunjiang/Renran/raw/master/screenhost/2.png" width="320"/>
+
+---
+
 **Twobbble**: https://github.com/550609334/Twobbble
 
 一个使用Kotlin开发的Dribbble客户端
