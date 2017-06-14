@@ -861,6 +861,14 @@ A third party app for androidweekly.net
 
 ---
 
+**ganguo**: https://github.com/yanyiqun001/ganguo
+
+干果——简洁易用的gank客户端
+
+<img src="https://github.com/yanyiqun001/ganguo/raw/master/screenshots/Screenshot_20170605-165508_%E7%BC%96%E8%BE%91.png?raw=true" width="320" /> <img src="https://github.com/yanyiqun001/ganguo/raw/master/screenshots/Screenshot_20170605-165525_%E7%BC%96%E8%BE%91.png?raw=true" width="320" />
+
+---
+
 **MyGank**: https://github.com/mask-hao/MyGank
 
 一个具有用户登录注册，干货收藏功能的干货集中营第三方客户端。个人学习项目，前端使用Android展示，后端使用javaee中转，数据来源干货集中营
