@@ -6,6 +6,14 @@
 
 ---
 
+**AnnularMenuView**: https://github.com/DingMouRen/AnnularMenuView
+
+Quick Action is a small android library for easy create Tooltips with some action or just as decoration
+
+<img src="https://github.com/DingMouRen/AnnularMenuView/raw/master/screenshot/demo3.gif" width="320"/>
+
+---
+
 **quickaction**: https://github.com/piruin/quickaction
 
 Quick Action is a small android library for easy create Tooltips with some action or just as decoration
