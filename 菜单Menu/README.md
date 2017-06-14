@@ -8,7 +8,7 @@
 
 **AnnularMenuView**: https://github.com/DingMouRen/AnnularMenuView
 
-Quick Action is a small android library for easy create Tooltips with some action or just as decoration
+基于Material Design设计的环形菜单控件
 
 <img src="https://github.com/DingMouRen/AnnularMenuView/raw/master/screenshot/demo3.gif" width="320"/>
 

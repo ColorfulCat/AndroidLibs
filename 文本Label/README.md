@@ -12,6 +12,14 @@
 
 ---
 
+**TagViewGroup**: https://github.com/shellljx/TagViewGroup
+
+Android 仿小红书图片标签Group
+
+<img src="https://camo.githubusercontent.com/5c7618004034e41b5eea5cca839d23ba3f11da59/687474703a2f2f37767a7066642e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f657a6769662e636f6d2d646339663232313539302e676966" width="320"/>
+
+---
+
 **CompoundIconTextView**: https://github.com/AAkira/CompoundIconTextView
 
 支持矢量图展示的 TextView
