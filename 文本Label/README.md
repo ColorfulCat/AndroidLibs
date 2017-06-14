@@ -12,6 +12,14 @@
 
 ---
 
+**GradientTextView**: https://github.com/livesun/GradientTextView
+
+一个颜色逐渐改变的textview，类似歌词效果
+
+<img src="https://cloud.githubusercontent.com/assets/27534854/26811851/e7ca915a-4aa6-11e7-993a-0f60f53132fa.gif" width="320"/>
+
+---
+
 **TagViewGroup**: https://github.com/shellljx/TagViewGroup
 
 Android 仿小红书图片标签Group
