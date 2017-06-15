@@ -26,6 +26,14 @@ React Native 仿 ofo 共享单车 App
 
 ---
 
+**gitbook-reader-rn**: https://github.com/le0zh/gitbook-reader-rn
+
+使用ReactNative开发的GitBook阅读器
+
+<img src="https://github.com/le0zh/gitbook-reader-rn/raw/master/docs/screen1.png" width="320" /> <img src="https://github.com/le0zh/gitbook-reader-rn/raw/master/docs/screen1.png" width="320" />
+
+---
+
 **react-native-eyepetizer**: https://github.com/MarnoDev/react-native-eyepetizer
 
 React Native 仿开眼3.1.2版本
