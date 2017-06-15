@@ -776,6 +776,14 @@ Usb serial controller for Android
 
 ---
 
+**OkDeepLink**: https://github.com/HongJun2046/OkDeepLink
+
+Android 轻量级 DeepLink 解决方案
+
+<img src="https://raw.githubusercontent.com/HongJun2046/OkDeepLink/master/snapshot/intercept_preview.png" width="320"/>
+
+---
+
 **AntCaves**: https://github.com/themores/AntCaves
 
 Android Router 框架，取名为AntCaves，中文名”蚁穴“
