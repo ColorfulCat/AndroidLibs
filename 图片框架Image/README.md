@@ -162,6 +162,14 @@ Loads images for Bypass using Picasso
 
 ---
 
+**ImageNice9Layout**: https://github.com/wobiancao/ImageNice9Layout
+
+仿Nice首页图片列表9图样式，并实现拖拽效果
+
+<img src = "https://github.com/wobiancao/ImageNice9Layout/raw/master/screenshot/drag9.gif" width = "320"/>
+
+---
+
 **ImageShowPicker**: https://github.com/yaozs/ImageShowPicker
 
 仿微信朋友圈图片选择
