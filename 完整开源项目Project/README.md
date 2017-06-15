@@ -1227,12 +1227,19 @@ An Android App for Github
 
 ---
 
+**Protein**: https://github.com/gejiaheng/Protein
+
+目前最漂亮的一个 Dribbble 客户端
+
+<img src="https://github.com/gejiaheng/Protein/raw/master/image/screenshot_main.png" width="320" /> <img src="https://github.com/gejiaheng/Protein/raw/master/image/screenshot_shot.png" width="320" />
+
+---
+
 **Watch**: https://github.com/tuesda/Watch
 
 dribbble 客户端
 
-<img src="https://github.com/tuesda/Watch/raw/master/animation/home.gif" width="320" />
-<img src="https://github.com/tuesda/Watch/raw/master/animation/page.gif" width="320" />
+<img src="https://github.com/tuesda/Watch/raw/master/animation/home.gif" width="320" /> <img src="https://github.com/tuesda/Watch/raw/master/animation/page.gif" width="320" />
 
 ---
 
