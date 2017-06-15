@@ -37,6 +37,14 @@ Multiple item adapters for RecyclerView
 
 ---
 
+**EasySwipeMenuLayout**: https://github.com/anzaizai/EasySwipeMenuLayout
+
+Android之自定义View：侧滑删除
+
+<img src="https://camo.githubusercontent.com/83da24707ac86667c1410bfa875cd2abe05e5b33/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313831313839332d653161613562326633366631636166352e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="320" />
+
+---
+
 **Swiperoo**: https://github.com/BelkaLab/Swiperoo
 
 滑动删除
