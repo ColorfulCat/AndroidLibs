@@ -953,6 +953,14 @@ this is a draggable flow layout lib
 
 ---
 
+**BilibiliSearchView**: https://github.com/didixyy/BilibiliSearchView
+
+漂亮的波纹展开式搜索效果
+
+<img src="https://github.com/didixyy/BilibiliSearchView/raw/master/test.gif?raw=true" width="600" />
+
+---
+
 **PersistentSearchView**: https://github.com/crysehillmes/PersistentSearchView
 
 A library that implements Google Play like PersistentSearch view
@@ -966,6 +974,22 @@ A library that implements Google Play like PersistentSearch view
 Yalantis 出品：搜索过滤器交互效果
 
 <img src="https://github.com/Yalantis/SearchFilter/raw/master/gif/dribbble.gif" width="640" />
+
+---
+
+**MaterialSearchBar**: https://github.com/mancj/MaterialSearchBar
+
+Material Design Search Bar for Android
+
+<img src="https://raw.githubusercontent.com/mancj/MaterialSearchBar/master/art/ezgif-838715850.gif" width="320" /> <img src="https://raw.githubusercontent.com/mancj/MaterialSearchBar/master/art/device-2016-07-20-170335.png" width="320" />
+
+---
+
+**MaterialSearchView**: https://github.com/Mauker1/MaterialSearchView
+
+Android Search View based on Material design guidelines
+
+<img src="https://camo.githubusercontent.com/6676f599bcaac6b35b57a4c9729c52725b32d4c5/687474703a2f2f692e737461636b2e696d6775722e636f6d2f43354c41342e676966" width="320" />
 
 ---
 
@@ -1249,22 +1273,6 @@ Demo of the onboarding animations of Yahoo News App
 Count down, count up, tick... tock...
 
 <img src="https://camo.githubusercontent.com/a99213ab9cbd3056b71b34d551d984ed422a438c/687474703a2f2f692e67697068792e636f6d2f50647835314a426635663930412e676966" width="320" />
-
----
-
-**MaterialSearchBar**: https://github.com/mancj/MaterialSearchBar
-
-Material Design Search Bar for Android
-
-<img src="https://raw.githubusercontent.com/mancj/MaterialSearchBar/master/art/ezgif-838715850.gif" width="320" /> <img src="https://raw.githubusercontent.com/mancj/MaterialSearchBar/master/art/device-2016-07-20-170335.png" width="320" />
-
----
-
-**MaterialSearchView**: https://github.com/Mauker1/MaterialSearchView
-
-Android Search View based on Material design guidelines
-
-<img src="https://camo.githubusercontent.com/6676f599bcaac6b35b57a4c9729c52725b32d4c5/687474703a2f2f692e737461636b2e696d6775722e636f6d2f43354c41342e676966" width="320" />
 
 ---
 
