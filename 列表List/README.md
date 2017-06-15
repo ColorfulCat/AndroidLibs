@@ -141,6 +141,14 @@ A RecyclerView extension for building list more easily
 
 ---
 
+**StickyDecoration**: https://github.com/Gavin-ZYX/StickyDecoration
+
+利用RecyclerView.ItemDecoration实现顶部悬浮效果
+
+<img src="https://camo.githubusercontent.com/c009cb18e1a2bc01f023cfe19b3ac25da7e0a472/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313633383134372d383939383664373134313734316364662e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="300" />
+
+---
+
 **RecyclerStickyHeaderView**: https://github.com/TellH/RecyclerStickyHeaderView
 
 在RecyclerView上实现吸顶布局
