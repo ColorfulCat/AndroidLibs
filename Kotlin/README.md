@@ -6,6 +6,12 @@
 
 ---
 
+**from-java-to-kotlin**: https://github.com/MindorksOpenSource/from-java-to-kotlin
+
+《From Java To Kotlin》从Java到Kotlin·译 （双语对比）
+
+---
+
 **KotlinMvpTemplateGenerator**: https://github.com/burakeregar/KotlinMvpTemplateGenerator
 
 Android Studio template for Kotlin with MVP + Dagger2 + Retrofit2
