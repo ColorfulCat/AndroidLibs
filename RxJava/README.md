@@ -286,6 +286,12 @@ Easily group RxJava Observables together and tie them to your Android Activity l
 
 ---
 
+**RxComponentLifecycle**: https://github.com/florent37/RxComponentLifecycle
+
+Rx binding of new Android Architecture Component Lifecycle
+
+---
+
 **rxlifecycle**: https://github.com/nekocode/rxlifecycle
 
 非侵入式的 RxLifecycle
