@@ -363,6 +363,14 @@ a better DropDownMenu solution, 完整的筛选器解决方案
 
 ---
 
+**EasyFilePickerDialog**: https://github.com/kingfisherphuoc/EasyFilePickerDialog
+
+EasyFilePickerDialog
+
+<img src="https://cloud.githubusercontent.com/assets/962484/26396277/ee1c9c60-409c-11e7-9354-7112f7032f79.png" width="320"/> <img src="https://cloud.githubusercontent.com/assets/962484/26397011/1b43c6a8-409f-11e7-886d-b3fde933d991.png" width="320"/>
+
+---
+
 **Android-FileBrowser-FilePicker**: https://github.com/adityak368/Android-FileBrowser-FilePicker
 
 文件浏览，选择
