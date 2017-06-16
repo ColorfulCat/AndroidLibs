@@ -1352,10 +1352,10 @@ RecyclerView 分割线
 
 A dividers library for RecyclerView which use GridLayoutManager or LinearLayoutManager ，   
 when the RecyclerView used GridLayoutManager that supports cross-column feature
-
+<p>
 <img src="https://raw.githubusercontent.com/dkzwm/ItemDecorations/master/snapshot1.png" width="320" />
 <img src="https://raw.githubusercontent.com/dkzwm/ItemDecorations/master/snapshot2.png" width="320"/>
-
+<p/>
 ---
 
 **RecyclerView-FlexibleDivider**: https://github.com/yqritc/RecyclerView-FlexibleDivider
