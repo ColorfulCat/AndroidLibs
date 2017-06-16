@@ -6,6 +6,14 @@
 
 ---
 
+**Sequent**: https://github.com/fujiyuu75/Sequent
+
+A simple continuous animation library for Android UI
+
+<img src="https://github.com/fujiyuu75/sequent/raw/res/demo.gif" width="320" />
+
+---
+
 **DividerDrawable**: https://github.com/nekocode/DividerDrawable
 
 不要再新建 View 来画分隔符了，用 Drawable 吧
