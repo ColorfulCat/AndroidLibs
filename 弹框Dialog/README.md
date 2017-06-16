@@ -286,6 +286,14 @@ Magic Toast
 
 ---
 
+**LGSnackbar**: https://github.com/loregr/LGSnackbar
+
+好看的 Snackbar
+
+<img src="https://github.com/loregr/LGSnackbar/raw/master/media/demo.gif" width="320" />
+
+---
+
 **SnackEngage**: https://github.com/ligi/SnackEngage
 
 Engage Users with a Snackbar to e.g. rate or translate the app
