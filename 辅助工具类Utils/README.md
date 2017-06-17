@@ -274,12 +274,6 @@ An android wrapper library to mathjs.org javascript library
 
 ---
 
-**Napkin**: https://github.com/AleksanderMielczarek/Napkin
-
-Common scopes and qualifiers for Dagger 2
-
----
-
 **ThinRPlugin**: https://github.com/mogujie/ThinRPlugin
 
 apk 瘦身之去除android中的R.class
@@ -681,6 +675,18 @@ An anti-bikeshedding Kotlin linter with built-in formatter
 **tiger**: https://github.com/google/tiger
 
 java依赖注入
+
+---
+
+**DaggerAutoInject**: https://github.com/florent37/DaggerAutoInject
+
+DaggerAutoInject
+
+---
+
+**Napkin**: https://github.com/AleksanderMielczarek/Napkin
+
+Common scopes and qualifiers for Dagger 2
 
 ---
 
