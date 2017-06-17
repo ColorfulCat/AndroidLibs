@@ -12,6 +12,14 @@
 
 ---
 
+**ClickDrawableTextView**: https://github.com/matpag/ClickDrawableTextView
+
+ClickDrawableTextView
+
+<img src="https://camo.githubusercontent.com/69019c8c81299b0589652c35353a9fcf5d8559f1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f785541376158716d70704c523761304a66472f67697068792e676966" width="320"/>
+
+---
+
 **GradientTextView**: https://github.com/livesun/GradientTextView
 
 一个颜色逐渐改变的textview，类似歌词效果
