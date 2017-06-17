@@ -108,6 +108,14 @@ Showcase project of Functional Reactive Programming on Android, using RxJava. ht
 
 ---
 
+**Android-Architecture-Components**: https://github.com/KucherenkoIhor/Android-Architecture-Components
+
+The template project that uses Android Architecture Components with Repository pattern. The simple app that uses awesome Fuel library instead of Retrofit for perfoming HTTP request. The app also persists data using the Room library and display data in RecyclerView
+
+<img src="https://camo.githubusercontent.com/0a3e2e91c9ec0d1b759faba9654ebb23744150b8/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3830302f312a575664464d596d456f4364586e697937756c446535672e706e67" width="600"/>
+
+---
+
 **Pluto-Android**: https://github.com/minggo620/Pluto-Android
 
 Android应用开发通用框架
