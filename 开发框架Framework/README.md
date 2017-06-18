@@ -108,6 +108,14 @@ Showcase project of Functional Reactive Programming on Android, using RxJava. ht
 
 ---
 
+**HtmlNative**: https://github.com/hsllany/HtmlNative
+
+Use HTML/CSS to render Android View, Lua to control its logic (Not Webview)
+
+<img src="https://github.com/hsllany/HtmlNative/raw/master/doc/screen2.jpg" width="320"/>
+
+---
+
 **Android-Architecture-Components**: https://github.com/KucherenkoIhor/Android-Architecture-Components
 
 The template project that uses Android Architecture Components with Repository pattern. The simple app that uses awesome Fuel library instead of Retrofit for perfoming HTTP request. The app also persists data using the Room library and display data in RecyclerView
