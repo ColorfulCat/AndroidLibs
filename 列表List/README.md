@@ -1149,6 +1149,14 @@ a custom pull-to-refresh layout which contains a interesting animation.
 
 ---
 
+**SmoothRefreshLayout**: [https://github.com/dkzwm/SmoothRefreshLayout](https://github.com/dkzwm/SmoothRefreshLayout)
+
+A highly efficient refresh library for Android.In theory , Can support all Views.
+
+<img src="https://github.com/dkzwm/SmoothRefreshLayout/blob/master/snapshot/test_two_level_refresh.png" width="320" />
+
+---
+
 **WaveSwipeRefreshLayout**: [https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)
 
 [http://engineer.recruit-lifestyle.co.jp/techblog/2015-08-03-swipe-refresh-layout/](http://engineer.recruit-lifestyle.co.jp/techblog/2015-08-03-swipe-refresh-layout/)
@@ -1337,6 +1345,17 @@ RecyclerView 分割线
 
 <img src="https://raw.githubusercontent.com/Fondesa/RecyclerViewDivider/master/art/screenshot_div_draw.png" width="320" />
 <img src="https://raw.githubusercontent.com/Fondesa/RecyclerViewDivider/master/art/screenshot_grid.png" width="320"/>
+
+---
+
+**ItemDecorations**: [https://github.com/dkzwm/ItemDecorations](https://github.com/dkzwm/ItemDecorations)
+
+A dividers library for RecyclerView which use GridLayoutManager or LinearLayoutManager ，   
+when the RecyclerView used GridLayoutManager that supports cross-column feature
+<p>
+<img src="https://raw.githubusercontent.com/dkzwm/ItemDecorations/master/snapshot1.png" width="320" />
+<img src="https://raw.githubusercontent.com/dkzwm/ItemDecorations/master/snapshot2.png" width="320"/>
+<p/>
 
 ---
 
