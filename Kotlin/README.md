@@ -30,6 +30,14 @@ kotlin-for-android-developers-zh
 
 ---
 
+**FrameView**: https://github.com/EarlOfEgo/FrameView
+
+Custom view written in Kotlin to Display a translucent frame with corners as known from cameras
+
+<img src="https://github.com/EarlOfEgo/FrameView/raw/master/art/sample.gif" width="320" />
+
+---
+
 **Renran**: https://github.com/zhoujunjiang/Renran
 
 纯粹的倒计时应用,kotlin实现,永远不添加广告
