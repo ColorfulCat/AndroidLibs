@@ -12,6 +12,14 @@
 
 ---
 
+**RippleValidatorEditText**: https://github.com/omidheshmatinia/RippleValidatorEditText
+
+RippleValidatorEditText
+
+<img src="https://github.com/omidheshmatinia/RippleValidatorEditText/raw/master/sample/sample1.gif" width="320"/>
+
+---
+
 **ClickDrawableTextView**: https://github.com/matpag/ClickDrawableTextView
 
 ClickDrawableTextView
