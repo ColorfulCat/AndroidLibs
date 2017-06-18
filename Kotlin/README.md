@@ -38,6 +38,14 @@ Custom view written in Kotlin to Display a translucent frame with corners as kno
 
 ---
 
+**RSS-Reader**: https://github.com/uziassantosferreira/RSS-Reader
+
+Simple project with clean architecture RSS-Reader
+ 
+<img src="https://github.com/uziassantosferreira/RSS-Reader/raw/master/showcase/app.gif" width="320"/>
+
+---
+
 **Renran**: https://github.com/zhoujunjiang/Renran
 
 纯粹的倒计时应用,kotlin实现,永远不添加广告
