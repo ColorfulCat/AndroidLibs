@@ -6,6 +6,14 @@
 
 ---
 
+**BoxLoaderView**: https://github.com/nipun-birla/BoxLoaderView
+
+BoxLoaderView
+ 
+<img src = "https://github.com/nipun-birla/BoxLoaderView/raw/master/preview.gif" width = "320"/>
+
+---
+
 **ProgressManager**: https://github.com/JessYanCoding/ProgressManager
 
 一行代码即可监听 App 中所有网络链接的上传以及下载进度,包括 Glide 的图片加载进度
