@@ -1904,6 +1904,12 @@ A simple android library to request permissions in runtime
 
 ---
 
+**EffortlessPermissions**: https://github.com/DreaminginCodeZH/EffortlessPermissions
+
+An Android permission library extending Google's EasyPermissions with convenient additions.
+
+---
+
 **easypermissions**: https://github.com/googlesamples/easypermissions
 
 Simplify Android M system permissions
