@@ -84,6 +84,12 @@ RxAndroidOrm
 
 ---
 
+**rx-contacts2**: https://github.com/mirrajabi/rx-contacts2
+
+rx-contacts2
+
+---
+
 **RxPicker**: https://github.com/imuhao/RxPicker
 
 基于 RxJava 图片选择器
