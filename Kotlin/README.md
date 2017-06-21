@@ -30,6 +30,14 @@ kotlin-for-android-developers-zh
 
 ---
 
+**SkeletonLoadingView**: https://github.com/omjoonkim/SkeletonLoadingView
+
+SkeletonLoadingView with Kotlin
+
+<img src="https://github.com/omjoonkim/SkeletonLoadingView/raw/master/image/sample.gif" width="270" />
+
+---
+
 **FrameView**: https://github.com/EarlOfEgo/FrameView
 
 Custom view written in Kotlin to Display a translucent frame with corners as known from cameras
