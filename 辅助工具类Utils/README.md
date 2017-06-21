@@ -208,6 +208,12 @@ Java实现高阶函数，类似Python，支持串行并行计算，适用于Java
 
 ---
 
+**android-api-SecureKeys**: https://github.com/saantiaguilera/android-api-SecureKeys
+
+简单好用的安卓数据加密存储
+
+---
+
 **scytale**: https://github.com/yakivmospan/scytale
 
 Android Key 生成，存储，加密工具库
