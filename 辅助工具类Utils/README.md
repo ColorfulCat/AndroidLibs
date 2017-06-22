@@ -930,6 +930,12 @@ Stetho-Couchbase is a plugin for Stetho to enable visualizing and debugging Andr
 
 ---
 
+**prefdata**: https://github.com/xelevra/prefdata
+
+Pref Data – the Android SharedPreferences wrapper
+
+---
+
 **ProbeTools**: https://github.com/pavel163/ProbeTools
 
 ProbeTools displays the data from the Database and SharedPreferences in the browser
