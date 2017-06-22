@@ -108,6 +108,14 @@ Showcase project of Functional Reactive Programming on Android, using RxJava. ht
 
 ---
 
+**EliteMvp**: https://github.com/jemshit/EliteMvp
+
+Simple, Tiny, Extendable Android MVP library
+
+<img src="https://raw.githubusercontent.com/jemshit/EliteMvp/master/files/uml.png" width="640"/>
+
+---
+
 **HtmlNative**: https://github.com/hsllany/HtmlNative
 
 Use HTML/CSS to render Android View, Lua to control its logic (Not Webview)
