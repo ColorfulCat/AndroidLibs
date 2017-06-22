@@ -6,6 +6,14 @@
 
 ---
 
+**SectorProgressView**: https://github.com/timqi/SectorProgressView
+
+a simple progress prompt or chart widget of android using circle and a sector
+ 
+<img src = "https://raw.githubusercontent.com/timqi/SectorProgressView/master/art/colorfulringprogressview.demo.gif" width = "200"/> <img src = "https://raw.githubusercontent.com/timqi/SectorProgressView/master/art/sectorprogressview.demo.gif" width = "200"/>
+
+---
+
 **BoxLoaderView**: https://github.com/nipun-birla/BoxLoaderView
 
 BoxLoaderView
