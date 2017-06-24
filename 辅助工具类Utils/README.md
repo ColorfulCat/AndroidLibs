@@ -2128,6 +2128,14 @@ jlog是一款针对Android开发者的日志工具
 
 ---
 
+**Android-PLog**: https://github.com/JumeiRdGroup/Android-PLog
+
+A Pure, Pretty and Powerful logging library for android
+
+<img src="https://github.com/JumeiRdGroup/Android-PLog/raw/master/ScreenShot.png" width="640" />
+
+---
+
 **Android-PLog**: https://github.com/Muyangmin/Android-PLog
 
 Android 专用日志封装库，轻巧易用，高扩展性
