@@ -148,6 +148,12 @@ Login/Signup app which handles boiler plate Validation logics using MVP design p
 
 ---
 
+**AndroidHookStartActivity**: https://github.com/BolexLiu/AndroidHookStartActivity
+
+两行代码实现动态启动未注册的Activity
+
+---
+
 **AppAddUpdate**: https://github.com/kingwang666/AppAddUpdate
 
 Android app 增量更新
