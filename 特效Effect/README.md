@@ -492,6 +492,14 @@ A slider that allows a user to select a value at one of the specified tickmarks
 
 ---
 
+**Konfetti**: https://github.com/DanielMartinus/Konfetti
+
+粒子爆炸节日祝贺效果
+
+<img src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="270" />
+
+---
+
 **Popview-Android**: https://github.com/krishnarb3/Popview-Android
 
 粒子爆炸效果
