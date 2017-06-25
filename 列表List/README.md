@@ -511,6 +511,12 @@ Decouple the item(/nested viewholder) from recyclerview's adapter
 
 ---
 
+**AdapterX**: https://github.com/siper/AdapterX
+
+Simple multiview RecyclerView adapter
+
+---
+
 **groupie**: https://github.com/Genius/groupie
 
 Groupie helps you display and manage complex RecyclerView layouts
