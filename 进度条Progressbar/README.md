@@ -6,6 +6,14 @@
 
 ---
 
+**FunnyLoader**: https://github.com/team-supercharge/FunnyLoader
+
+Loading indicator for android with over 200 random messages
+ 
+<img src = "https://github.com/team-supercharge/FunnyLoader/raw/master/funnyloader.gif" width = "600"/>
+
+---
+
 **SectorProgressView**: https://github.com/timqi/SectorProgressView
 
 a simple progress prompt or chart widget of android using circle and a sector
