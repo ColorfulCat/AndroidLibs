@@ -1,6 +1,6 @@
 # AndroidLibs == 图标 Icon
 
-包含：各种图标资源库
+包含：各种icon, vector 图标资源库
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
@@ -19,6 +19,14 @@
 动态更换app的图标及名称
 
 <img src="https://camo.githubusercontent.com/a0dd4cf89ef43f8ca8abb117bd0703d8a9e32fff/68747470733a2f2f7331392e706f7374696d672e6f72672f7072316573683939662f4170705f49636f6e5f4e616d655f4368616e6765725f6578616d706c655f30312e706e67" width="180" /> <img src="https://camo.githubusercontent.com/738ccebf0acc8795765a9e1944a8b800df76f845/68747470733a2f2f7331392e706f7374696d672e6f72672f686d74616e716d75622f4170705f49636f6e5f4e616d655f4368616e6765725f6578616d706c655f30322e706e67" width="180" /> <img src="https://camo.githubusercontent.com/4b782bb8e0f08dd1c97f61aa605a9818ee897c2e/68747470733a2f2f7331392e706f7374696d672e6f72672f6e63396a383174306a2f4170705f49636f6e5f4e616d655f4368616e6765725f6578616d706c655f30332e706e67" width="180" />
+
+---
+
+**VectorMaster**: https://github.com/harjot-oberai/VectorMaster
+
+Dynamic control over vector drawables
+
+<img src="https://github.com/harjot-oberai/VectorMaster/raw/master/screens/cover_2.gif" width="600" />
 
 ---
 
