@@ -882,36 +882,6 @@ Glide Bitmap Pool is a memory management library for reusing the bitmap memory h
 
 ---
 
-**vectalign**: https://github.com/bonnyfone/vectalign
-
-Tool for create complex morphing animations using VectorDrawables (allows morphing between any pair of SVG images)
-
-<img src="http://s33.postimg.org/qiaafk7xb/vectalign_0_2_demo.gif" width="530px"> 
-
-<img src="http://s4.postimg.org/boxc1zk0p/morph2.gif" width="110px">
-<img src="http://s21.postimg.org/4657b7m0j/morph1.gif" width="110px">
-<img src="http://s28.postimg.org/8mdcxb48t/morph5.gif" width="110px">
-<img src="http://s18.postimg.org/79coo8vid/morph3.gif" width="120px">
-<img src="http://s9.postimg.org/a5tdgfppn/morph4.gif" width="140px">
-
----
-
-**GoogleClock**: https://github.com/lypeer/GoogleClock
-
-纯用SVG做的Google I/O 2016那个炫酷的时钟
-
-<img src="https://raw.githubusercontent.com/lypeer/GoogleClock/master/gif/smallclock.gif" width="320" />
-
----
-
-**AnimatedSvgView**: https://github.com/jrummyapps/AnimatedSvgView
-
-Animated SVG Drawing for Android
-
-<img src="https://raw.githubusercontent.com/jaredrummler/AnimatedSvgView/master/demo/demo.gif" width="320" />
-
----
-
 **android-drag-square**: https://github.com/SwiftyWang/android-drag-square
 
 一个仿探探上传相片的widget，基于xmuSistone的demo, 提供gradle import，添加上传照片功能以及各种回调，api，方便使用

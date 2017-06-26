@@ -936,6 +936,12 @@ Stetho-Couchbase is a plugin for Stetho to enable visualizing and debugging Andr
 
 ---
 
+**binaryprefs**: https://github.com/iamironz/binaryprefs
+
+Rapidly fast implementation of SharedPreferences which stores each preference in files separately, performs disk IO via NIO with memory mapped byte buffers and works IPC (between processes)
+
+---
+
 **prefdata**: https://github.com/xelevra/prefdata
 
 Pref Data – the Android SharedPreferences wrapper
