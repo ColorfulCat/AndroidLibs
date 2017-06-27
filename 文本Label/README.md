@@ -1013,6 +1013,14 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**android-DownloadableFonts**: https://github.com/googlesamples/android-DownloadableFonts
+
+This sample demonstrates how to use the Downloadable Fonts feature introduced in Android O
+
+<img src="https://github.com/googlesamples/android-DownloadableFonts/raw/master/screenshots/screenshot-1.png" width="300" />
+
+---
+
 **Fonty**: https://github.com/MarcinOrlowski/Fonty
 
 Android library allowing you to easily change the typeface of your UI elements
