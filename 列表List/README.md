@@ -21,6 +21,14 @@ It wraps your Adapter to display Admob native ads in a ListView/RecyclerView dat
 
 ---
 
+**greedo-layout-for-android**: https://github.com/500px/greedo-layout-for-android
+
+Full aspect ratio grid LayoutManager for Android's RecyclerView
+
+<img src="https://github.com/500px/greedo-layout-for-android/raw/master/screenshot.png" width="320" />
+
+---
+
 **AutoRecyclerAdapter**: https://github.com/teambition/AutoRecyclerAdapter
 
 Automated configuration RecyclerView.Adapter for Android
