@@ -1148,6 +1148,12 @@ Android optimized event bus that simplifies communication between Activities, Fr
 
 ---
 
+**EasyPay**: https://github.com/xiong-it/EasyPay
+
+简单易用的第三方可扩展支付框架
+
+---
+
 **Android-Pay**: https://github.com/mayubao/Android-Pay
 
 支持微信和支付宝两种主流支付的集成库， 两行代码实现微信支付， 三行代码实现支付宝支付
