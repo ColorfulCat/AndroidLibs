@@ -108,6 +108,14 @@ Showcase project of Functional Reactive Programming on Android, using RxJava. ht
 
 ---
 
+**android-mvp-architecture**: https://github.com/MindorksOpenSource/android-mvp-architecture
+
+This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
+
+<img src="https://camo.githubusercontent.com/6cac1f474b46444878083ea769efa0179318f034/68747470733a2f2f6a616e69736861722e6769746875622e696f2f676966732f6d76702d6170702e676966" width="320"/>
+
+---
+
 **EliteMvp**: https://github.com/jemshit/EliteMvp
 
 Simple, Tiny, Extendable Android MVP library
