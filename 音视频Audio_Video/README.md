@@ -93,6 +93,12 @@ Kotin 写的视频广告库
 
 ---
 
+**SiliCompressor**: https://github.com/Tourenathan-G5organisation/SiliCompressor
+
+稳定强大的图片，视频压缩库
+
+---
+
 **k4l-video-trimmer**: https://github.com/knowledge4life/k4l-video-trimmer
 
 视频裁剪
