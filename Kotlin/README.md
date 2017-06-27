@@ -24,6 +24,12 @@ KotlinDiscreteMathToolkit
 
 ---
 
+**komputation**: https://github.com/sekwiatkowski/komputation
+
+神经网络框架
+
+---
+
 **kotlin-for-android-developers-zh**: https://github.com/wangjiegulu/kotlin-for-android-developers-zh
 
 kotlin-for-android-developers-zh
