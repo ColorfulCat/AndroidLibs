@@ -340,6 +340,14 @@ MD 风格飞出效果菜单选择
 
 ---
 
+**GLRippleView**: https://github.com/r21nomi/GLRippleView
+
+Custom GLSurfaceView for Android to show image with ripple effect using OpenGL
+
+<img src="https://github.com/r21nomi/GLRippleView/raw/master/art/fade.gif" width="270" />
+
+---
+
 **ShapeRipple**: https://github.com/poldz123/ShapeRipple
 
 多种形状波纹特效
