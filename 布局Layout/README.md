@@ -25,6 +25,14 @@ android-constraintlayout-demo
 
 ---
 
+**ImmersiveDetailSample**: https://github.com/matrixxun/ImmersiveDetailSample
+
+A sample application show how to realize immersive parallax effect header like Google Play Store
+
+<img src="https://github.com/matrixxun/ImmersiveDetailSample/raw/master/art/demo.gif" width="320" /> <img src="https://github.com/matrixxun/ImmersiveDetailSample/raw/master/art/demo01.gif" width="320" />
+
+---
+
 **RoundKornerLayouts**: https://github.com/JcMinarro/RoundKornerLayouts
 
 圆角布局
