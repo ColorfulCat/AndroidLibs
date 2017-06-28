@@ -54,6 +54,12 @@ Mr. Alfonz is here to help you build your Android app, make the development proc
 
 ---
 
+**ADAL**：https://github.com/massivedisaster/ADAL
+
+安卓快速开发库
+
+---
+
 **MVPArt**：https://github.com/JessYanCoding/MVPArt
 
 A New Android MVP Architecture http://www.jianshu.com/p/ac51c9b88af3
