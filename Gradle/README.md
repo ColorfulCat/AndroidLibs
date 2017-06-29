@@ -6,6 +6,12 @@
 
 ---
 
+**gradle-api-easy_publish**: https://github.com/saantiaguilera/gradle-api-easy_publish
+
+Publish bintray aar/jar multi-module in a duper easy way
+
+---
+
 **ConfigDroid**: https://github.com/mb-14/ConfigDroid
 
 可生成常量的gradle插件
