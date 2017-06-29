@@ -53,6 +53,14 @@ Android之自定义View：侧滑删除
 
 ---
 
+**DraggableTreeView**: https://github.com/jakebonk/DraggableTreeView
+
+TreeView with drag and drop (n-th level)
+
+<img src="https://camo.githubusercontent.com/2ef015a535f2caba2192de64508f251319894d5a/68747470733a2f2f7468756d62732e6766796361742e636f6d2f436f6e66757365645065726b7944776172666d6f6e676f6f73652d73697a655f726573747269637465642e676966" width="320" />
+
+---
+
 **Swiperoo**: https://github.com/BelkaLab/Swiperoo
 
 滑动删除
