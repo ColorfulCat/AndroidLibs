@@ -1816,6 +1816,14 @@ Simple and effective bug & crash reporting tool for Android apps http://bugtags.
 
 ---
 
+**PermissionManager**:https://github.com/karanchuri/PermissionManager
+
+搜索清单权限并动态申请
+
+<img src="https://github.com/karanchuri/PermissionManager/raw/master/demo.gif?raw=true" width="320" />
+
+---
+
 **PermissionGrantor**: https://github.com/dfqin/PermissionGrantor
 
 一行代码搞定Android6.0动态权限授权
