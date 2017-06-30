@@ -44,6 +44,12 @@ Learning RxJava for Android by example
 
 ---
 
+**android-api-RxFacebook**: https://github.com/saantiaguilera/android-api-RxFacebook
+
+Reactive Extension for Facebook SDK
+
+---
+
 **LifecycleAwareRx**: https://github.com/WaylonBrown/LifecycleAwareRx
 
 Make your RxJava2 streams life-cycle aware with Android Architecture Components
