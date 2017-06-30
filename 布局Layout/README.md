@@ -1543,6 +1543,14 @@ The TileView widget is a subclass of android.view.ViewGroup that asynchronously 
 
 ---
 
+**show-case-card-view**: https://github.com/dimorinny/show-case-card-view
+
+Show case card view
+
+<img src="https://raw.githubusercontent.com/dimorinny/show-case-card-view/master/art/logo.png" width="320" />
+
+---
+
 **FancyShowCaseView**: https://github.com/faruktoptas/FancyShowCaseView
 
 好看的高亮提示库
