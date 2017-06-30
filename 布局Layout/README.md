@@ -372,6 +372,14 @@ Configurable typing indicator for Android
 
 ---
 
+**TooltipIndicator**: https://github.com/huseyinozer/TooltipIndicator
+
+An indicator with preview support that you can use in the ViewPager
+
+<img src="https://github.com/huseyinozer/TooltipIndicator/raw/master/preview.gif" width="320" />
+
+---
+
 **PageIndicatorView**: https://github.com/romandanylyk/PageIndicatorView
 
 Google 风格的 Page Indicator 效果
