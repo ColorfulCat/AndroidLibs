@@ -136,6 +136,14 @@ Android library for Date and Time Picker in same dialog
 
 ---
 
+**DateRangePicker**: https://github.com/savvisingh/DateRangePicker
+
+Date Range Picker is a Calender Picker View to show a Customized Date Range Picker with improved UI
+
+<img src="https://github.com/savvisingh/DateRangePicker/raw/master/device-2017-06-23-154757.png" width="320" />
+
+---
+
 **EasyCalendar**: https://github.com/shichaohui/EasyCalendar
 
 可进行 UI 定制的日历组件，轻松完成签到日历功能
