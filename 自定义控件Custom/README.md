@@ -62,6 +62,14 @@ Android 室内场景构建组件，帮你快速的完成室内场景 View 的展
 
 ---
 
+**AttributionPresenter**: https://github.com/franmontiel/AttributionPresenter
+
+开源库属性展示
+
+<img src = "https://github.com/franmontiel/AttributionPresenter/raw/master/screenshot-dialog.png" width = "320"/> <img src = "https://github.com/franmontiel/AttributionPresenter/raw/master/screenshot-dark-theme.png" width = "320"/>
+
+---
+
 **material-about-library**: https://github.com/daniel-stoneuk/material-about-library
 
 Material Design 风格的 About 页面设计
