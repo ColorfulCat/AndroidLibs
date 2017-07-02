@@ -102,6 +102,14 @@ This dialog can flick and make it easy to dismiss sensuously
 
 ---
 
+**FabulousFilter**: https://github.com/Krupen/FabulousFilter
+
+Android library to animate Floating Action Button to Bottom Sheet Dialog and vice-versa
+
+<img src="https://raw.githubusercontent.com/Krupen/FabulousFilter/master/newDemo1.gif" width="320" /> <img src="https://raw.githubusercontent.com/Krupen/FabulousFilter/master/newDemo2.gif" width="320" />
+
+---
+
 **BottomDialog**: https://github.com/shaohui10086/BottomDialog
 
 BottomDialog 是一个通过 DialogFragment 实现的底部弹窗布局，并且支持弹出动画，支持任意布局 http://shaohui.me
