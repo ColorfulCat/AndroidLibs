@@ -472,20 +472,6 @@ Extended ActionBarDrawerToggle
 
 ---
 
-**material-searchview**: https://github.com/Shahroz16/material-searchview
-
-谷歌风格搜索布局
-
-<img src="https://camo.githubusercontent.com/45668a9d94486df3ab21bff4e05e4c8157550a0b/68747470733a2f2f692e696d67666c69702e636f6d2f786362747a2e676966" width="320"/>
-
----
-
-**Material-SearchView**: https://github.com/VyacheslavShmakin/Material-SearchView
-
-SearchView library based on DialogFragment
-
----
-
 **StickerView**: https://github.com/wuapnjie/StickerView
 
 A view which can add sticker and zoom,drag,delete it
@@ -982,6 +968,20 @@ Login view with material design
 this is a draggable flow layout lib
 
 <img src="https://raw.githubusercontent.com/LightSun/android-drag-FlowLayout/master/art/drag_flowlayout.gif" width="320" />
+
+---
+
+**material-searchview**: https://github.com/Shahroz16/material-searchview
+
+谷歌风格搜索布局
+
+<img src="https://camo.githubusercontent.com/45668a9d94486df3ab21bff4e05e4c8157550a0b/68747470733a2f2f692e696d67666c69702e636f6d2f786362747a2e676966" width="320"/>
+
+---
+
+**Material-SearchView**: https://github.com/VyacheslavShmakin/Material-SearchView
+
+SearchView library based on DialogFragment
 
 ---
 

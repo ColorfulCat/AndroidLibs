@@ -140,6 +140,14 @@ SwipeCardview for listing item or products
 
 ---
 
+**ShimmerRecyclerView**: https://github.com/tabassumLatif/ShimmerRecyclerView
+
+Shimmer effect in RecyclerView
+
+<img src="https://raw.githubusercontent.com/tabassumLatif/ShimmerRecyclerView/master/sample.gif?raw=true" width="320" />
+
+---
+
 **ShimmerRecyclerView**: https://github.com/sharish/ShimmerRecyclerView
 
 ShimmerRecyclerView
