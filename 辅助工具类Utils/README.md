@@ -214,6 +214,12 @@ Java实现高阶函数，类似Python，支持串行并行计算，适用于Java
 
 ---
 
+**r2d2**: https://github.com/moldedbits/r2d2
+
+安卓数据加密解密
+
+---
+
 **android-api-SecureKeys**: https://github.com/saantiaguilera/android-api-SecureKeys
 
 简单好用的安卓数据加密存储
