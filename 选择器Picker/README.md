@@ -38,6 +38,14 @@ Bubble-Picker
 
 ---
 
+**NumberPadTimePicker**: https://github.com/philliphsu/NumberPadTimePicker
+
+时间选择器
+
+<img src="https://github.com/philliphsu/NumberPadTimePicker/raw/master/screenshots/2.png" width="300" /> <img src="https://github.com/philliphsu/NumberPadTimePicker/raw/master/screenshots/4.png" width="300" />
+
+---
+
 **DateTimeRangePicker**: https://github.com/skedgo/DateTimeRangePicker
 
 时间选择器，选择特定间隔时间段
