@@ -578,19 +578,27 @@ Very long text support for Android
 
 ---
 
-**ElegantNumberButton**: https://github.com/ashik94vc/ElegantNumberButton
-
-Brought to you by cepheuen http://www.cepheuen.com
-
-<img src="https://raw.githubusercontent.com/ashik94vc/ElegantNumberButton/master/screens/screen01.gif" width="320" />
-
----
-
 **ElemeShoppingView**: https://github.com/JeasonWong/ElemeShoppingView
 
 仿饿了么点击购物效果
 
 <img src="https://camo.githubusercontent.com/bcf966b31e9d2cb16ad81341fed16627dc2f30e9/687474703a2f2f69322e7069696d672e636f6d2f313037302f303232353766393331366262646362362e676966" width="300" />
+
+---
+
+**IncrementProductView**: https://github.com/steelkiwi/IncrementProductView
+
+有趣的购物车按钮
+
+<img src="https://github.com/steelkiwi/IncrementProductView/raw/master/assets/animation.gif" width="320" />
+
+---
+
+**ElegantNumberButton**: https://github.com/ashik94vc/ElegantNumberButton
+
+Brought to you by cepheuen http://www.cepheuen.com
+
+<img src="https://raw.githubusercontent.com/ashik94vc/ElegantNumberButton/master/screens/screen01.gif" width="320" />
 
 ---
 
