@@ -36,6 +36,14 @@ kotlin-for-android-developers-zh
 
 ---
 
+**RxJavaKotlinSample**: https://github.com/tekinarslan/RxJavaKotlinSample
+
+RxJava2 and Kotlin sample project
+
+<img src="https://camo.githubusercontent.com/1deb5b93a7e2018af097b5ec071bcab83e396352/68747470733a2f2f7261772e6769746875622e636f6d2f74656b696e6172736c616e2f52784a6176614b6f746c696e53616d706c652f6d61737465722f696d616765732f6465766963655f322e706e67" width="320" /> <img src="https://camo.githubusercontent.com/f93029dc3951ac9538136006a11ce1b6ebf70934/68747470733a2f2f7261772e6769746875622e636f6d2f74656b696e6172736c616e2f52784a6176614b6f746c696e53616d706c652f6d61737465722f696d616765732f6465766963655f312e706e67" width="320" />
+
+---
+
 **SkeletonLoadingView**: https://github.com/omjoonkim/SkeletonLoadingView
 
 SkeletonLoadingView with Kotlin
