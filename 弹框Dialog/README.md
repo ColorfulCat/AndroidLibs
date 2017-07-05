@@ -30,6 +30,14 @@ Android View Tooltips，目前来看做的最漂亮的
 
 ---
 
+**PopsTabView**: https://github.com/ccj659/PopsTabView
+
+PopsTabView是个filter容器,他可以快速,构建不同筛选样式,自由组合成一组tab
+
+<img src="https://github.com/ccj659/PopsTabView/raw/master/popsTabview_gif_0.gif" width="320" />
+
+---
+
 **SearchableSpinner**: https://github.com/MdFarhanRaja/SearchableSpinner
 
 支持搜索的spinner
