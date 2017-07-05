@@ -52,6 +52,12 @@ OkHttp 请求和响应日志拦截器
 
 ---
 
+**RetrofitLifecycle**: https://github.com/luckyandyzhang/RetrofitLifecycle
+
+通过注解管理 Retrofit 生命周期
+
+---
+
 **OkCacheControl**: https://github.com/ncornette/OkCacheControl
 
 OkHttp 和 Retrofit 缓存工具
