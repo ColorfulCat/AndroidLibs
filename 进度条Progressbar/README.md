@@ -6,6 +6,14 @@
 
 ---
 
+**FuckingVolumeSlider**: https://github.com/shellljx/FuckingVolumeSlider
+
+android实现的反人类音量滑块
+ 
+<img src = "https://camo.githubusercontent.com/ae16de47ebb1997c40431c6c453ec51e7edd2946/687474703a2f2f37767a7066642e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f6675636b696e67736c696465722e676966" width = "320"/>
+
+---
+
 **FunnyLoader**: https://github.com/team-supercharge/FunnyLoader
 
 Loading indicator for android with over 200 random messages
