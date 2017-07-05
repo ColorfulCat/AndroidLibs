@@ -738,6 +738,14 @@ jakewharton 出品 ，DrawerBehavior
 
 ---
 
+**TabLayout**: https://github.com/stayinxing/TabLayout
+
+TabLayout demo
+
+http://www.jianshu.com/p/be1e8a1da639
+
+---
+
 **ColorFullTabLayout**: https://github.com/MdFarhanRaja/ColorFullTabLayout
 
 Fully Customized TabLayout
