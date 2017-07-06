@@ -566,6 +566,14 @@ VR Player for android
 
 ---
 
+**aurora-imui**：https://github.com/jpush/aurora-imui
+
+通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN
+
+<img src="https://raw.githubusercontent.com/huangminlinux/resource/master/IMUIPick%402x.png" width="600" />
+
+---
+
 **Applozic-Android-SDK**：https://github.com/AppLozic/Applozic-Android-SDK
 
 安卓实时聊天框架
