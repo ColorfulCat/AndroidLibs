@@ -530,6 +530,12 @@ Using Databing and Retrofit to build a fast MVVM framework
 
 ---
 
+**LoveUT**：https://github.com/geniusmart/LoveUT
+
+Robolectric 3.x 的介绍和实战
+
+---
+
 **ConditionWatcher**：https://github.com/AzimoLabs/ConditionWatcher
 
 自动测试框架

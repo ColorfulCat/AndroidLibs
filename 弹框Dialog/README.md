@@ -112,7 +112,7 @@ This dialog can flick and make it easy to dismiss sensuously
 
 **FabulousFilter**: https://github.com/Krupen/FabulousFilter
 
-Android library to animate Floating Action Button to Bottom Sheet Dialog and vice-versa
+选项过滤器，Android library to animate Floating Action Button to Bottom Sheet Dialog and vice-versa
 
 <img src="https://raw.githubusercontent.com/Krupen/FabulousFilter/master/newDemo1.gif" width="320" /> <img src="https://raw.githubusercontent.com/Krupen/FabulousFilter/master/newDemo2.gif" width="320" />
 
