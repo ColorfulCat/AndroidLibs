@@ -106,6 +106,14 @@ Clickable ImageView that expands to full screen and is dismissible by swiping th
 
 ---
 
+**Fotoapparat**: https://github.com/Fotoapparat/Fotoapparat
+
+Android 有两套相机 Api，使用起来很麻烦，好在 Foto 开源了他们在 Android 上的 Camera 封装 Api，力荐
+
+<img src = "https://github.com/Fotoapparat/Fotoapparat/raw/master/sample/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width = "320"/>
+
+---
+
 **CameraKit-Android**: https://github.com/flurgle/CameraKit-Android
 
 一个相机的库
