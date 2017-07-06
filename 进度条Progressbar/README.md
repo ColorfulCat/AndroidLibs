@@ -6,6 +6,14 @@
 
 ---
 
+**IOS11RectProgress**: https://github.com/CuiZhaoHui/IOS11RectProgress
+
+仿iOS11 控制中心 调整亮度
+ 
+<img src = "https://github.com/CuiZhaoHui/IOS11RectProgress/raw/master/img/pic.gif" width = "270"/>
+
+---
+
 **FuckingVolumeSlider**: https://github.com/shellljx/FuckingVolumeSlider
 
 android实现的反人类音量滑块
