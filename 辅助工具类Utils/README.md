@@ -942,6 +942,12 @@ Stetho-Couchbase is a plugin for Stetho to enable visualizing and debugging Andr
 
 ---
 
+**tray**: https://github.com/grandcentrix/tray
+
+多进程安全的SharedPreferences
+
+---
+
 **binaryprefs**: https://github.com/iamironz/binaryprefs
 
 Rapidly fast implementation of SharedPreferences which stores each preference in files separately, performs disk IO via NIO with memory mapped byte buffers and works IPC (between processes)
