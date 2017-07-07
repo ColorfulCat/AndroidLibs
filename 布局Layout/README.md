@@ -1179,6 +1179,14 @@ Expand your view with no problem
 
 ---
 
+**Spotlight**: https://github.com/TakuSemba/Spotlight
+
+支持引导路径高亮的方案
+
+<img src="https://github.com/TakuSemba/Spotlight/raw/master/arts/simpleTarget.gif" width="320" /> <img src="https://github.com/TakuSemba/Spotlight/raw/master/arts/customTarget.gif" width="320" />
+
+---
+
 **Primer**: https://github.com/mohak1712/Primer
 
 Google Primer 引导页
