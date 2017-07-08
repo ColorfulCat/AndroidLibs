@@ -1606,6 +1606,14 @@ The Android Support Library for NFC
 
 ---
 
+**AwesomeKeyboard**: https://github.com/hoanganhtuan95ptit/AwesomeKeyboard
+
+emoticons, sticker, photo and color keyboard
+
+<img src="https://github.com/hoanganhtuan95ptit/AwesomeKeyboard/raw/master/output/Screenshot_2017-07-06-12-54-22.png" width="320" /> <img src="https://github.com/hoanganhtuan95ptit/AwesomeKeyboard/raw/master/output/Screenshot_2017-07-06-12-55-15.png" width="320" />
+
+---
+
 **KeyBoardDemo**: https://github.com/wobiancao/KeyBoardDemo
 
 Android 软键盘和emoji表情切换方案，和微信几乎一样的体验
