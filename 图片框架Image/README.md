@@ -42,6 +42,14 @@ litho-glide
 
 ---
 
+**RubberStamp: https://github.com/vinaygaba/RubberStamp
+
+给图片添加水印
+
+<img src="https://github.com/vinaygaba/RubberStamp/raw/master/images/rubberstamp_sample.gif" width="320"/>
+
+---
+
 **progress-image-view-android: https://github.com/safetysystemtechnology/progress-image-view-android
 
 progress-image-view-android
