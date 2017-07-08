@@ -259,6 +259,12 @@ MJPEG 视频流播放
 
 ---
 
+**audio-analyzer-for-android**: https://github.com/bewantbe/audio-analyzer-for-android
+
+音乐频谱分析
+
+---
+
 **A-MusicView**: https://github.com/north2014/A-MusicView
 
 原创自定义控件之-Canvas实时绘制音乐波形图
