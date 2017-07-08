@@ -50,6 +50,14 @@ litho-glide
 
 ---
 
+**WatermarkCreator**: https://github.com/ashishbhandari/WatermarkCreator
+
+水印
+
+<img src = "https://raw.githubusercontent.com/ashishbhandari/WatermarkCreator/master/screenshots/watermark_creator.gif" width = "320"/>
+
+---
+
 **progress-image-view-android: https://github.com/safetysystemtechnology/progress-image-view-android
 
 progress-image-view-android
@@ -801,14 +809,6 @@ Android 色彩渐进 ImageView
 在Android上结合七牛提供的API，让加载图片更有效、更节流、更简单、更可控、更酷
 
 <img src = "https://raw.githubusercontent.com/lingochamp/QiniuImageLoader/master/art/demo_1.jpg" width = "320"/> <img src = "https://raw.githubusercontent.com/lingochamp/QiniuImageLoader/master/art/demo_2.jpg" width = "320"/>
-
----
-
-**WatermarkCreator**: https://github.com/ashishbhandari/WatermarkCreator
-
-水印
-
-<img src = "https://raw.githubusercontent.com/ashishbhandari/WatermarkCreator/master/screenshots/watermark_creator.gif" width = "320"/>
 
 ---
 

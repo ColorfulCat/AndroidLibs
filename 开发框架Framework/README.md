@@ -30,6 +30,14 @@ Android 开发的一些 Tips 集合
 
 ---
 
+**VirtualAPK**：https://github.com/didi/VirtualAPK
+
+A powerful and lightweight plugin framework for Android
+
+<img src="https://github.com/didi/VirtualAPK/raw/master/imgs/va.png" width="600"/>
+
+---
+
 **Magisk**：https://github.com/topjohnwu/Magisk
 
 A Magic Mask to Alter Android System Systemless-ly
