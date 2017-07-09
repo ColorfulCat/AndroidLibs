@@ -24,6 +24,12 @@ KotlinDiscreteMathToolkit
 
 ---
 
+**Tempo**: https://github.com/AllanHasegawa/Tempo
+
+通过 sntp 或 gps 获取时间
+
+---
+
 **komputation**: https://github.com/sekwiatkowski/komputation
 
 神经网络框架
