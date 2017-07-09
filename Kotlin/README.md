@@ -24,6 +24,12 @@ KotlinDiscreteMathToolkit
 
 ---
 
+**kotlin-preferences-extensions**: https://github.com/mirrajabi/kotlin-preferences-extensions
+
+A set of RxJava2 Extensions to get/set values of SharedPreferences in a super simple way
+
+---
+
 **Tempo**: https://github.com/AllanHasegawa/Tempo
 
 通过 sntp 或 gps 获取时间
