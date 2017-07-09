@@ -30,6 +30,12 @@ A set of RxJava2 Extensions to get/set values of SharedPreferences in a super si
 
 ---
 
+**KotlinMvpEspresso**: https://github.com/sallySalem/KotlinMvpEspresso
+
+This example describes how use Espresso in Android-Kotlin
+
+---
+
 **Tempo**: https://github.com/AllanHasegawa/Tempo
 
 通过 sntp 或 gps 获取时间
