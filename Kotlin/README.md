@@ -54,6 +54,14 @@ kotlin-for-android-developers-zh
 
 ---
 
+**kotlet**: https://github.com/mirrajabi/kotlet
+
+Just another Kotlin sample Android application which uses Dagger2, Retrofit + Okhttp, RxJava etc.. plus some docs I've collected
+
+<img src="https://user-images.githubusercontent.com/8886687/27787345-ace8b946-5ff9-11e7-9717-dbb565907e96.PNG" width="240" />
+
+---
+
 **RxJavaKotlinSample**: https://github.com/tekinarslan/RxJavaKotlinSample
 
 RxJava2 and Kotlin sample project
