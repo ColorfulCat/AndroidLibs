@@ -2072,6 +2072,12 @@ App-local sql logging with viewer activity
 
 ---
 
+**Daffodil**：https://github.com/saymagic/Daffodil
+
+基于注解的日志库
+
+---
+
 **ALog**：https://github.com/Blankj/ALog
 
 一个精简、全面、方便的AndroidLog库--ALog
