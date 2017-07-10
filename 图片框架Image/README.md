@@ -34,6 +34,14 @@ litho-glide
 
 ---
 
+**PaletteImageView: https://github.com/DingMouRen/PaletteImageView-
+
+懂得智能配色的ImageView,还能给自己设置多彩的阴影
+
+<img src="https://github.com/DingMouRen/PaletteImageView/raw/master/screenshot/demo1.gif" width="270"/> <img src="https://github.com/DingMouRen/PaletteImageView/raw/master/screenshot/demo2.gif" width="270"/>
+
+---
+
 **InsLoadingAnimation: https://github.com/qintong91/InsLoadingAnimation
 
 头像加载进度
