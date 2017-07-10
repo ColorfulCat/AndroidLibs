@@ -34,6 +34,12 @@ litho-glide
 
 ---
 
+**ImageLoaderFramework: https://github.com/ladingwu/ImageLoaderFramework
+
+打造统一的图片加载框架，融合Glide，Fresco,不入侵业务代码
+
+---
+
 **GlideImageView: https://github.com/sfsheng0322/GlideImageView
 
 基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度 
