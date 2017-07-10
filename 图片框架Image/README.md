@@ -34,6 +34,14 @@ litho-glide
 
 ---
 
+**GlideImageView: https://github.com/sfsheng0322/GlideImageView
+
+基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度 
+
+<img src="https://github.com/sfsheng0322/GlideImageView/raw/master/screenshot/gif4.gif" width="480"/>
+
+---
+
 **PaletteImageView: https://github.com/DingMouRen/PaletteImageView-
 
 懂得智能配色的ImageView,还能给自己设置多彩的阴影
