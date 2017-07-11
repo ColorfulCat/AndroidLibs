@@ -52,6 +52,14 @@ Android Holding Button 效果
 
 ---
 
+**FABsMenu**: https://github.com/jahirfiquitiva/FABsMenu
+
+效果很棒的 Fab 按钮
+
+<img src="https://github.com/jahirfiquitiva/FABsMenu/raw/master/preview/preview.gif" width="270" />
+
+---
+
 **CounterFab**: https://github.com/andremion/CounterFab
 
 支持计数效果的 FloatingActionButton
