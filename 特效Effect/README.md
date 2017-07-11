@@ -632,6 +632,14 @@ An Android library allowing images to exhibit a parallax effect that reacts to t
 
 ---
 
+**Luhn**: https://github.com/KingsMentor/Luhn
+
+Android 信用卡交易效果 UI 
+
+<img src="https://raw.githubusercontent.com/KingsMentor/Luhn/master/screenshots/add_card_collage.jpg" width="320" />
+
+---
+
 **android-sumbit-credit-card-flow**: https://github.com/adonixis/android-sumbit-credit-card-flow
 
 Android 信用卡提交效果
