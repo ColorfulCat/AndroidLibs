@@ -335,6 +335,12 @@ usb摄像头，library and sample to access to UVC web camera on non-rooted Andr
 
 ---
 
+**PLDroidDemo**: https://github.com/angcyo/PLDroidDemo
+
+YUV-->H264,YUV-->RGB, GL Blur, GPUImage
+
+---
+
 **YUVDroidTools**: https://github.com/Jhuster/YUVDroidTools
 
 安卓预览 YUV 原始数据
