@@ -606,6 +606,14 @@ A simple ViewPager indicator implementation compatible with the from the Android
 
 ---
 
+**android-stepsview**: https://github.com/Canner/android-stepsview
+
+A more complete version of stepsViews in android
+
+<img src="https://github.com/Canner/android-stepsview/raw/master/demo.png" width="300" />
+
+---
+
 **material-stepper**: https://github.com/fcannizzaro/material-stepper
 
 Android Library to create simple stepper activities
