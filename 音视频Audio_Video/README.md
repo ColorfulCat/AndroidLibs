@@ -12,6 +12,12 @@
 
 ---
 
+**FFmpeg4Android**: https://github.com/mabeijianxi/FFmpeg4Android
+
+编译 Android 下可用的 FFmpeg 的项目
+
+---
+
 **FFmpegMediaPlayer**: https://github.com/wseemann/FFmpegMediaPlayer
 
 FFmpegMediaPlayer can be used to control playback of audio/video files and streams
