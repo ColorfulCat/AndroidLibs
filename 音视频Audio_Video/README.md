@@ -6,6 +6,12 @@
 
 ---
 
+**FFmpegMediaPlayer**: https://github.com/wseemann/FFmpegMediaPlayer
+
+FFmpegMediaPlayer can be used to control playback of audio/video files and streams
+
+---
+
 **CompileFFmpegWithOpenSSL**: https://github.com/davinctor/CompileFFmpegWithOpenSSL
 
 A bunch of scripts you can use to compile FFmpeg with OpenSSL
