@@ -18,6 +18,14 @@ Android Studio template for Kotlin with MVP + Dagger2 + Retrofit2
 
 ---
 
+**Charts**: https://github.com/frendyxzc/Charts
+
+Android Kotlin Charts base on ECharts
+
+<img src="https://camo.githubusercontent.com/d54cd3d7305ad4970242402f1a50bfe8bd869a9f/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f363330363737382d326139343964633136616234366132382e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="640" />
+
+---
+
 **KotlinDiscreteMathToolkit**: https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit
 
 KotlinDiscreteMathToolkit
