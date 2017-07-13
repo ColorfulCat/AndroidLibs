@@ -6,6 +6,12 @@
 
 ---
 
+**small-video-record**: https://github.com/mabeijianxi/small-video-record
+
+利用FFmpeg视频录制微信小视频与其压缩处理
+
+---
+
 **FFmpegMediaPlayer**: https://github.com/wseemann/FFmpegMediaPlayer
 
 FFmpegMediaPlayer can be used to control playback of audio/video files and streams
