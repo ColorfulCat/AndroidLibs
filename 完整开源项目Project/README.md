@@ -1404,11 +1404,9 @@ Qiitanium is an unofficial Android application of Qiita
 
 ---
 
-**Launcher3_mx**: https://github.com/yuchuangu85/Launcher3_mx
+**Lawnchair**: https://github.com/Deletescape-Media/Lawnchair
 
-谷歌Launcher3，基于最新launcher3-7.1.1-r38的分支
-
-<img src="https://raw.githubusercontent.com/yuchuangu85/Launcher3_mx/master/art/launcher2.jpg" width="320" /> <img src="https://raw.githubusercontent.com/yuchuangu85/Launcher3_mx/master/art/launcher1.jpg" width="320" />
+一个优雅的 Android Launcher
 
 ---
 
