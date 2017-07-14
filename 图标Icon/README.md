@@ -27,6 +27,14 @@ Tool for create complex morphing animations using VectorDrawables (allows morphi
 
 ---
 
+**RichPath**: https://github.com/tarek360/RichPath
+
+在 Android 轻松绘制 Vector 动画
+
+<img src="https://raw.githubusercontent.com/tarek360/RichPath/master/screenshots/samples.gif" width="320" />
+
+---
+
 **GoogleClock**: https://github.com/lypeer/GoogleClock
 
 纯用SVG做的Google I/O 2016那个炫酷的时钟
