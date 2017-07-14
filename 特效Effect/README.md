@@ -6,6 +6,14 @@
 
 ---
 
+**SlidingUpPanelLayout**: https://github.com/woxingxiao/SlidingUpPanelLayout
+
+一个竖直方向的SlidingPanelLayout，支持加载多个Panel，可以灵活地实现漂亮的的交互效果
+
+<img src="https://github.com/woxingxiao/SlidingUpPanelLayout/raw/master/screenshot/demo1.gif" width="320" /> <img src="https://github.com/woxingxiao/SlidingUpPanelLayout/raw/master/screenshot/demo2.gif" width="320" />
+ 
+---
+
 **MaterialShadows**: https://github.com/harjot-oberai/MaterialShadows
 
 MaterialShadows
