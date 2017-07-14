@@ -277,6 +277,14 @@ FlexboxLayout is a library project which brings the similar capabilities of CSS 
 
 ---
 
+**turn-layout-manager**: https://github.com/cdflynn/turn-layout-manager
+
+RecyclerView 半圆形布局
+
+<img src="https://github.com/cdflynn/turn-layout-manager/raw/master/app/img/turn_demo.gif?raw=true" width="320" />
+
+---
+
 **LondonEyeLayoutManager**: https://github.com/danylovolokh/LondonEyeLayoutManager
 
 A Layoutmanager that must be used with RecyclerView
