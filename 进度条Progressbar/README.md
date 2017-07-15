@@ -14,14 +14,6 @@ Android-ProgressViews
 
 ---
 
-**Android-ProgressViews**: https://github.com/zekapp/Android-ProgressViews
-
-Android-ProgressViews
- 
-<img src = "https://github.com/zekapp/Android-ProgressViews/raw/master/art/pic-1.png" width = "320"/>
-
----
-
 **FuckingVolumeSlider**: https://github.com/shellljx/FuckingVolumeSlider
 
 android实现的反人类音量滑块

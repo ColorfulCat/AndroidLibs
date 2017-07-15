@@ -26,6 +26,14 @@ Android Kotlin Charts base on ECharts
 
 ---
 
+**SegmentedProgressBar**: https://github.com/carlosmuvi/SegmentedProgressBar
+
+Instagram like segmented progress bar for Android, written in Kotlin!
+ 
+<img src = "https://github.com/carlosmuvi/SegmentedProgressBar/raw/master/art/segmented.png" width = "320"/>
+
+---
+
 **KotlinDiscreteMathToolkit**: https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit
 
 KotlinDiscreteMathToolkit
