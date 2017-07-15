@@ -6,11 +6,11 @@
 
 ---
 
-**IOS11RectProgress**: https://github.com/CuiZhaoHui/IOS11RectProgress
+**Android-ProgressViews**: https://github.com/zekapp/Android-ProgressViews
 
-仿iOS11 控制中心 调整亮度
+Android-ProgressViews
  
-<img src = "https://github.com/CuiZhaoHui/IOS11RectProgress/raw/master/img/pic.gif" width = "270"/>
+<img src = "https://github.com/zekapp/Android-ProgressViews/raw/master/art/pic-1.png" width = "320"/>
 
 ---
 
