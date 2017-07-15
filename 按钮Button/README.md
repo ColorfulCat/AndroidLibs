@@ -20,6 +20,14 @@ A Radio Group layout to show radio buttons in more than one line
 
 ---
 
+**SimpleDialog**: https://github.com/BROUDING/SimpleDialog
+
+Android Simple Dialog by BROUDING
+
+<img src="https://github.com/BROUDING/SimpleDialog/raw/master/sample/sample_video.gif?raw=true" width="300" />
+
+---
+
 **CircularImageClick**: https://github.com/ahmed-basyouni/CircularImageClick
 
 A custom ImageButton that invoke onClickListener only when touch is inside the circle not outside (rectangle area of button)
