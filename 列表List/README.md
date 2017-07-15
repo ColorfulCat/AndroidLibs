@@ -7,6 +7,12 @@
 
 ---
 
+**Generic-Adapter**: https://github.com/mohanmanu484/Generic-Adapter
+
+One recycler view adapter for all your project
+
+---
+
 **SlimAdapter**: https://github.com/MEiDIK/SlimAdapter
 
 A slim & clean & typeable Adapter without VIEWHOLDER
