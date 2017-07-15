@@ -44,6 +44,14 @@ Native Android app that can broadcast and play live video via RTMP
 
 ---
 
+**sc-player**: https://github.com/Paroca72/sc-player
+
+A media player button
+ 
+<img src="https://github.com/Paroca72/sc-player/raw/master/raw/1.jpg" width="320" /> <img src="https://github.com/Paroca72/sc-player/raw/master/raw/2.jpg" width="320" />
+
+---
+
 **MusicPickerActivity**: https://github.com/ykAR6Bqy5DeG/MusicPickerActivity
 
 系统音频文件选择
