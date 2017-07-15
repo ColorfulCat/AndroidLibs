@@ -35,6 +35,14 @@ Tool for create complex morphing animations using VectorDrawables (allows morphi
 
 ---
 
+**ProminentColor**: https://github.com/mathiazhagan01/ProminentColor
+
+Android Library to get average/prominent color of bitmap/drawable
+
+<img src="https://raw.githubusercontent.com/mathiazhagan01/ProminentColor/master/1.png" width="110" /><img src="https://github.com/mathiazhagan01/ProminentColor/raw/master/2.png" width="110" /><img src="https://raw.githubusercontent.com/mathiazhagan01/ProminentColor/master/3.png" width="110" />
+
+---
+
 **GoogleClock**: https://github.com/lypeer/GoogleClock
 
 纯用SVG做的Google I/O 2016那个炫酷的时钟
