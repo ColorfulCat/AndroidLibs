@@ -30,9 +30,17 @@ Android 开发的一些 Tips 集合
 
 ---
 
+**MaterialDesignSamples**：https://github.com/pinguo-zhouwei/MaterialDesignSamples
+
+Material Design 系列控件samples,讲了Material Design 系列新控件的使用方法和一些场景示例
+
+<img src="https://github.com/pinguo-zhouwei/MaterialDesignSamples/raw/master/material_design_simples.gif" width="320"/>
+
+---
+
 **VirtualAPK**：https://github.com/didi/VirtualAPK
 
-A powerful and lightweight plugin framework for Android
+滴滴插件化工具，A powerful and lightweight plugin framework for Android
 
 <img src="https://github.com/didi/VirtualAPK/raw/master/imgs/va.png" width="600"/>
 
