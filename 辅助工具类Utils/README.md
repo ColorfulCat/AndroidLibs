@@ -776,6 +776,12 @@ Android 上使用 NDK 编写 OpenGL ES 3.0
 
 ---
 
+**usb-serial-for-android**: https://github.com/mik3y/usb-serial-for-android
+
+Android USB host serial driver library for CDC, FTDI, Arduino and other devices
+
+---
+
 **USB-Device-Info---Android**: https://github.com/alt236/USB-Device-Info---Android
 
 从linux层和android层获取usb设备信息的应用
