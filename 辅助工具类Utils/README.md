@@ -942,6 +942,12 @@ Stetho-Couchbase is a plugin for Stetho to enable visualizing and debugging Andr
 
 ---
 
+**SimpleConfig**: https://github.com/BCsl/SimpleConfig
+
+这是一个基于 SharePreference 简化应用配置信息读取和保存的库, 灵感来自于 retrofit
+
+---
+
 **tray**: https://github.com/grandcentrix/tray
 
 多进程安全的SharedPreferences
