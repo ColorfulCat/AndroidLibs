@@ -30,6 +30,14 @@ Google I/O ‘17新动画特效
 
 ---
 
+**Fish**: https://github.com/Jichensheng/Fish
+
+灵动的红鲤鱼
+
+<img src="https://github.com/Jichensheng/Fish/raw/master/app/gif/fish.gif" width="320" />
+
+---
+
 **Fun**: https://github.com/PHELAT/Fun
 
 一个有趣的展开关闭动画
