@@ -20,6 +20,14 @@ A Radio Group layout to show radio buttons in more than one line
 
 ---
 
+**SeparateShapesView**:https://github.com/steelkiwi/SeparateShapesView
+
+漂亮的二选一按钮效果
+
+<img src="https://github.com/steelkiwi/SeparateShapesView/raw/master/assets/shape_animation_center.gif" width="400" />
+
+---
+
 **SimpleDialog**: https://github.com/BROUDING/SimpleDialog
 
 Android Simple Dialog by BROUDING
