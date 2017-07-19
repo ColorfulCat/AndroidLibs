@@ -26,6 +26,14 @@ Android Kotlin Charts base on ECharts
 
 ---
 
+**MoreType**: https://github.com/Werb/MoreType
+
+new method to build data in RecyclerView with Kotlin
+ 
+<img src = "https://github.com/Werb/MoreType/raw/master/screenshot/type1.png" width = "320"/>
+
+---
+
 **SegmentedProgressBar**: https://github.com/carlosmuvi/SegmentedProgressBar
 
 Instagram like segmented progress bar for Android, written in Kotlin!
