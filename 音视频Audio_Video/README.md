@@ -52,6 +52,14 @@ A media player button
 
 ---
 
+**YuuPlayer**: https://github.com/agusibrahim/YuuPlayer
+
+基于 Webview 实现的 Youtube Player
+ 
+<img src="https://raw.githubusercontent.com/agusibrahim/YuuPlayer/master/img/Screenshot_20170715-112651.png" width="320" />
+
+---
+
 **MusicPickerActivity**: https://github.com/ykAR6Bqy5DeG/MusicPickerActivity
 
 系统音频文件选择
