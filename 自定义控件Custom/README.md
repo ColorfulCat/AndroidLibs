@@ -6,6 +6,14 @@
 
 ---
 
+**SelectorInjection**: https://github.com/tianzhijiexian/SelectorInjection
+
+一个强大的selector注入器，它可以让view自动产生selector状态，免去了写selector文件的麻烦
+
+<img src="https://github.com/tianzhijiexian/SelectorInjection/raw/master/demoPic/demo.gif" width="320" />
+
+---
+
 **Sequent**: https://github.com/fujiyuu75/Sequent
 
 A simple continuous animation library for Android UI
