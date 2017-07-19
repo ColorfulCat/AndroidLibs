@@ -14,6 +14,14 @@ Android-ProgressViews
 
 ---
 
+**SlidingSquareLoaderView**: https://github.com/steelkiwi/SlidingSquareLoaderView
+
+SlidingSquareLoaderView
+ 
+<img src = "https://github.com/steelkiwi/SlidingSquareLoaderView/blob/master/assets/sliding_square_loader_view.gif" width = "320"/>
+
+---
+
 **FuckingVolumeSlider**: https://github.com/shellljx/FuckingVolumeSlider
 
 android实现的反人类音量滑块

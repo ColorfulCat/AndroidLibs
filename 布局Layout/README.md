@@ -27,7 +27,7 @@ android-constraintlayout-demo
 
 **ImmersiveDetailSample**: https://github.com/matrixxun/ImmersiveDetailSample
 
-A sample application show how to realize immersive parallax effect header like Google Play Store
+仿Google Play商店沉侵式样式
 
 <img src="https://github.com/matrixxun/ImmersiveDetailSample/raw/master/art/demo.gif" width="320" /> <img src="https://github.com/matrixxun/ImmersiveDetailSample/raw/master/art/demo01.gif" width="320" />
 
