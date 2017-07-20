@@ -6,6 +6,14 @@
 
 ---
 
+**android-dial-picker**:https://github.com/moldedbits/android-dial-picker
+
+android-dial-picker
+
+<img src="https://github.com/moldedbits/android-dial-picker/raw/master/gif/dial.gif" width="270" />
+
+---
+
 **android-ringtone-picker**: https://github.com/kevalpatel2106/android-ringtone-picker
 
 android-ringtone-picker
