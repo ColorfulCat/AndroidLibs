@@ -457,6 +457,14 @@ Shuttle Music Player
 
 ---
 
+**Orin**: https://github.com/aliumujib/Orin
+
+Fork of @kabouzied Phonograph, I always wanted to try my hands on Tunzo's material design music player
+
+<img src = "https://raw.githubusercontent.com/aliumujib/Orin/master/SCREENDATA/SCREENDATA1.png" width = "600"/>
+
+---
+
 **IdealMedia**: https://github.com/dmllr/IdealMedia
 
 Awesome app to listen music and audiobooks on the device and online at vk.com. Search, download, set as ringtone, sort by albums, authors, folder. Powerful equalizer
