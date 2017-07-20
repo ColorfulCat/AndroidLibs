@@ -216,6 +216,14 @@ Loads images for Bypass using Picasso
 
 ---
 
+**ImagePicker-OLX**: https://github.com/RameshBhupathi/ImagePicker-OLX
+
+Combined both TedBottomPicker and Camera View, to get the View Similar to ImagePickers of Olx.
+
+<img src = "https://github.com/RameshBhupathi/ImagePicker-OLX/raw/master/device-2017-07-16-202724.png" width = "320"/>
+
+---
+
 **ImageShowPicker**: https://github.com/yaozs/ImageShowPicker
 
 仿微信朋友圈图片选择
