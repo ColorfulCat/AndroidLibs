@@ -168,6 +168,14 @@ MD 风格的日历组件
 
 ---
 
+**SuperCalendar**: https://github.com/MagicMashRoom/SuperCalendar
+
+android 自定义日历控件 支持左右无限滑动 周月切换 标记日期显示 自定义显示效果跳转到指定日期
+
+<img src="https://camo.githubusercontent.com/b609928ccdc65c98c1b6f2ab00cf6c46a12e8c81/687474703a2f2f6f736e6674736961652e626b742e636c6f7564646e2e636f6d2f737570657263616c656e6461726578616d706c652e676966" width="320" />
+
+---
+
 **MosaicCalendarView**: https://github.com/tiagohm/MosaicCalendarView
 
 GitHub 贡献图风格日历
