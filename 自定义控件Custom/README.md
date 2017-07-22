@@ -372,6 +372,14 @@ IOS 风格选择控制
 
 ---
 
+**EditCodeView**: https://github.com/Onum/EditCodeView
+
+Simple custom view implementation that allows you to control the input of a numeric code
+
+<img src="https://github.com/Onum/EditCodeView/raw/assets/assets/gif-animations/animation_1.gif?raw=true" width="320" /> <img src="https://github.com/Onum/EditCodeView/raw/assets/assets/gif-animations/animation_3.gif?raw=true" width="320" />
+
+---
+
 **PinCodeView**: https://github.com/antoxa2584x/PinCodeView
 
 Android PinCode 密码输入效果
