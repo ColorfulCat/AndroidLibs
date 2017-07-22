@@ -44,6 +44,14 @@ Native Android app that can broadcast and play live video via RTMP
 
 ---
 
+**android-player-tv**: https://github.com/LUSHDigital/android-player-tv
+
+The Android TV version of LUSH Player
+ 
+<img src="https://github.com/LUSHDigital/android-player-tv/raw/develop/screenshots/tv-search.png" width="600" />
+
+---
+
 **sc-player**: https://github.com/Paroca72/sc-player
 
 A media player button
