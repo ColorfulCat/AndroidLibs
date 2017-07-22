@@ -178,6 +178,12 @@ A gradle plugin for Android projects that allows for dependencies from git repos
 
 ---
 
+**GradleVersion**: https://github.com/menny/GradleVersion
+
+Gradle automatic version builder
+
+---
+
 **gradle-release-plugin**: https://github.com/netzwerg/gradle-release-plugin
 
 Gradle plugin providing very minimal release version numbering (Git-specific)
