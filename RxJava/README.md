@@ -36,6 +36,14 @@ Learning RxJava for Android by example
 
 ---
 
+**RxJava2-RxMarbles-Samples**: https://github.com/tunjos/RxJava2-RxMarbles-Samples
+
+RxJava 2 RxMarbles Samples
+
+<img src="https://github.com/tunjos/RxJava2-RxMarbles-Samples/raw/master/Transforming/operators/flatMap.png" width="320" /> <img src="https://github.com/tunjos/RxJava2-RxMarbles-Samples/raw/master/Combining/operators/merge.png" width="320" />
+
+---
+
 **rxjava-examples**: https://github.com/leeowenowen/rxjava-examples
 
 全面，完整，图文并茂的RxJavaAPI使用示例
