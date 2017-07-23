@@ -58,6 +58,14 @@ OkHttp 请求和响应日志拦截器
 
 ---
 
+**Retorfit_RxJava_Exception**: https://github.com/whaoming/Retorfit_RxJava_Exception
+
+优雅地处理服务器返回的错误和客户端访问网络过程中产生的错误
+
+<img src = "https://camo.githubusercontent.com/cdc58c189e081165471f70da15cf96b825f23b80/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313630363136313333323233393735" width="320"/>
+
+---
+
 **RetrofitLifecycle**: https://github.com/luckyandyzhang/RetrofitLifecycle
 
 通过注解管理 Retrofit 生命周期
