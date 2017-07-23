@@ -411,6 +411,14 @@ a better DropDownMenu solution, 完整的筛选器解决方案
 
 ---
 
+**FileListerDialog**: https://github.com/FirzenYogesh/FileListerDialog
+
+A simple file/ directory picker dialog for android
+
+<img src="https://github.com/FirzenYogesh/FileListerDialog/raw/master/raw/Screenshot_1500726143.png?raw=true" width="320"/> <img src="https://github.com/FirzenYogesh/FileListerDialog/raw/master/raw/Screenshot_1500726185.png?raw=true" width="320"/>
+
+---
+
 **android-file-chooser**: https://github.com/Arjun-sna/android-file-chooser
 
 Android library to provide chooser for files in external storage
