@@ -24,6 +24,14 @@ Android library for OpenWeatherMap API
 
 ---
 
+**SimpleNetworkLibrary**: https://github.com/ahmed-adel-said/SimpleNetworkLibrary
+
+Android Simple Network Library for HTTP and Image Requests with cool features implemented with Simple Demo using some Material Design UI Elements
+
+<img src="https://camo.githubusercontent.com/572f9c08e9f789a44d6b690e953085a40f8e9d6e/68747470733a2f2f7331332e706f7374696d672e6f72672f3673687566727738372f73696d706c655f6e6574776f6b725f6c6962726172792e706e67" width="320" />
+
+---
+
 **AndroidSnooper**: https://github.com/jainsahab/AndroidSnooper
 
 记录网络请求拦截器
