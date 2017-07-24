@@ -698,6 +698,14 @@ Lite Android swipeable deck view
 
 ---
 
+**StackLayout**: https://github.com/fashare2015/StackLayout
+
+Android 层叠卡片控件，仿"探探app"
+
+<img src="https://github.com/fashare2015/StackLayout/raw/master/screen-record/stack_layout.gif" width="320" />
+
+---
+
 **android-swipecards-view**: https://github.com/Arjun-sna/android-swipecards-view
 
 Android library for implement cards stack view with swipe to remove feature
