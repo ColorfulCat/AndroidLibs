@@ -552,6 +552,12 @@ Robolectric 3.x 的介绍和实战
 
 ---
 
+**BakeBread**：https://github.com/bitstadium/BakeBread
+
+A minidump analysis tool. Allows postmortem debugging of Android NDK apps and libraries (inspection of stack frames and variable values).
+
+---
+
 **ConditionWatcher**：https://github.com/AzimoLabs/ConditionWatcher
 
 自动测试框架
