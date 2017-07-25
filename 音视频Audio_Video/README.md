@@ -465,6 +465,14 @@ Shuttle Music Player
 
 ---
 
+**MusicDNA**: https://github.com/harjot-oberai/MusicDNA
+
+A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music
+
+<img src = "https://raw.githubusercontent.com/harjot-oberai/MusicDNA/master/screenshots/albums_artists.png" width = "600"/>
+
+---
+
 **Orin**: https://github.com/aliumujib/Orin
 
 Fork of @kabouzied Phonograph, I always wanted to try my hands on Tunzo's material design music player
