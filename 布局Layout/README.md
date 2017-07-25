@@ -606,6 +606,14 @@ A simple ViewPager indicator implementation compatible with the from the Android
 
 ---
 
+**BreadcrumbsView**: https://github.com/fython/BreadcrumbsView
+
+Android 面包屑导航
+
+<img src="https://github.com/fython/BreadcrumbsView/raw/master/.readme/screenshot-demo.png" width="320" />
+
+---
+
 **android-stepsview**: https://github.com/Canner/android-stepsview
 
 A more complete version of stepsViews in android
