@@ -6,6 +6,14 @@
 
 ---
 
+**SeekBarWithIntervals**: https://github.com/RameshBhupathi/SeekBarWithIntervals
+
+Seekbar with labelled intervals Like Olx FilterView Seekbar
+ 
+<img src = "https://github.com/RameshBhupathi/SeekBarWithIntervals/raw/master/second.png" width = "320"/>
+
+---
+
 **Android-ProgressViews**: https://github.com/zekapp/Android-ProgressViews
 
 Android-ProgressViews
