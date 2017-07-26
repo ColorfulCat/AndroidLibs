@@ -340,11 +340,19 @@ MD 风格飞出效果菜单选择
 
 ---
 
-**Pulsator4Droid**: https://github.com/booncol/Pulsator4Droid
+**WaveView**: https://github.com/1139618418/WaveView
 
-脉动效果，可用于设备查找之类的特效
+仿百度外卖的酷炫水波纹效果
 
-<img src="https://raw.githubusercontent.com/booncol/Pulsator4Droid/master/demo.gif" width="220" />
+<img src="https://raw.githubusercontent.com/booncol/Pulsator4Droid/master/demo.gif" width="320" />
+
+---
+
+**GLRippleView**: https://github.com/r21nomi/GLRippleView
+
+Custom GLSurfaceView for Android to show image with ripple effect using OpenGL
+
+<img src="https://github.com/1139618418/WaveView/raw/master/art/wave_view.gif" width="320" />
 
 ---
 
