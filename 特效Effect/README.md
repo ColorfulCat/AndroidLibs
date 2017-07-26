@@ -348,6 +348,15 @@ MD 风格飞出效果菜单选择
 
 ---
 
+**android-ripple-background**: https://github.com/skyfishjy/android-ripple-background
+
+A beautiful ripple animation for your app
+
+<img src="https://github.com/skyfishjy/android-ripple-background/blob/master/previews/rippleSimple.gif" width="320" />
+<img src="https://github.com/skyfishjy/android-ripple-background/blob/master/previews/rippleFoundDevice.gif" width="320" />
+
+---
+
 **GLRippleView**: https://github.com/r21nomi/GLRippleView
 
 Custom GLSurfaceView for Android to show image with ripple effect using OpenGL

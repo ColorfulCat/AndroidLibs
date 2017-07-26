@@ -150,14 +150,6 @@ A bunch of fun animations for Android
 
 ---
 
-**AnimatedRecordingView**: https://github.com/HeZaiJin/AnimatedRecordingView
-
-一个有趣的Android录音动画
-
-<img src="https://github.com/HeZaiJin/AnimatedRecordingView/raw/master/screen_shot/animated_recording.gif" width="320" />
-
----
-
 **DesertPlaceholder**: https://github.com/JetradarMobile/DesertPlaceholder
 
 Animated placeholder in desert style
@@ -532,15 +524,6 @@ An amazing and convenient Android image slider.
 Backport of Android Transitions API for animations. Animations backported to Android 4.0+. API compatible with Android 2.2+
 
 <img src="https://camo.githubusercontent.com/e7ea7ca41a3a3e03616d0627413e57a0854e2eba/687474703a2f2f686162726173746f726167652e6f72672f67657470726f2f686162722f706f73745f696d616765732f6539332f3337632f3064612f65393333376330646163633335353532336164646466313534356235376535612e676966" width="320" />
-
----
- 
-**android-ripple-background**: [https://github.com/skyfishjy/android-ripple-background](https://github.com/skyfishjy/android-ripple-background)
-
-A beautiful ripple animation for your app
-
-<img src="https://github.com/skyfishjy/android-ripple-background/blob/master/previews/rippleSimple.gif" width="320" />
-<img src="https://github.com/skyfishjy/android-ripple-background/blob/master/previews/rippleFoundDevice.gif" width="320" />
 
 ---
  

@@ -489,6 +489,14 @@ Awesome app to listen music and audiobooks on the device and online at vk.com. S
 
 ---
 
+**AnimatedRecordingView**: https://github.com/HeZaiJin/AnimatedRecordingView
+
+一个有趣的Android录音动画
+
+<img src="https://github.com/HeZaiJin/AnimatedRecordingView/raw/master/screen_shot/animated_recording.gif" width="320" />
+
+---
+
 **MusicWave**: https://github.com/akshay2211/MusicWave
 
 音乐播放频谱波形
