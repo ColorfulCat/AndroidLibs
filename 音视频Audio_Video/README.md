@@ -321,6 +321,14 @@ MJPEG 视频流播放
 
 ---
 
+**ringdroid**: https://github.com/google/ringdroid
+
+安卓音频截取，转换
+
+<img src="https://github.com/google/ringdroid/wiki/images/ringdroid_screenshot_2_small.png" width="600" />
+
+---
+
 **audio-analyzer-for-android**: https://github.com/bewantbe/audio-analyzer-for-android
 
 音乐频谱分析
