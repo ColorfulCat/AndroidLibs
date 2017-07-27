@@ -149,11 +149,17 @@ Kotin 写的视频广告库
 
 ---
 
-**k4l-video-trimmer**: https://github.com/knowledge4life/k4l-video-trimmer
+**media-for-mobile**: https://github.com/INDExOS/media-for-mobile
 
-视频裁剪
+视频录制，编辑，截取等
 
-<img src="https://raw.githubusercontent.com/knowledge4life/k4l-video-trimmer/master/screenshot/screenshot.png" width="320" />
+---
+
+**WxRecoderVideo**: https://github.com/maimingliang/WxRecoderVideo
+
+基于VCamera，仿微信录制短视频
+
+<img src="https://github.com/maimingliang/WxRecoderVideo/raw/master/recoder.gif" width="320" />
 
 ---
 
