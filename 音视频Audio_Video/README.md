@@ -149,17 +149,23 @@ Kotin 写的视频广告库
 
 ---
 
+**k4l-video-trimmer**: https://github.com/knowledge4life/k4l-video-trimmer
+
+视频裁剪
+
+<img src="https://raw.githubusercontent.com/knowledge4life/k4l-video-trimmer/master/screenshot/screenshot.png" width="320" />
+
+---
+
 **media-for-mobile**: https://github.com/INDExOS/media-for-mobile
 
 视频录制，编辑，截取等
 
 ---
 
-**WxRecoderVideo**: https://github.com/maimingliang/WxRecoderVideo
+**PLDroidShortVideo**: https://github.com/pili-engineering/PLDroidShortVideo
 
-基于VCamera，仿微信录制短视频
-
-<img src="https://github.com/maimingliang/WxRecoderVideo/raw/master/recoder.gif" width="320" />
+七牛推出的一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发
 
 ---
 
