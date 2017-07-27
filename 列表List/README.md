@@ -154,6 +154,14 @@ SwipeCardview for listing item or products
 
 ---
 
+**ShimmerLayout**: https://github.com/team-supercharge/ShimmerLayout
+
+Memory efficient shimmering effect for Android applications by Supercharge
+
+<img src="https://github.com/team-supercharge/ShimmerLayout/raw/master/shimmerlayout.gif" width="320" />
+
+---
+
 **ShimmerRecyclerView**: https://github.com/tabassumLatif/ShimmerRecyclerView
 
 Shimmer effect in RecyclerView
