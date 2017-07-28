@@ -163,6 +163,12 @@ Kotin 写的视频广告库
 
 ---
 
+**PLDroidPlayer**: https://github.com/pili-engineering/PLDroidPlayer
+
+PLDroidPlayer 是 Pili 直播 SDK 的安卓播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。
+
+---
+
 **PLDroidShortVideo**: https://github.com/pili-engineering/PLDroidShortVideo
 
 七牛推出的一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发
