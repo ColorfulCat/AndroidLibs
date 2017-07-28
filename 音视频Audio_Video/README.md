@@ -163,6 +163,12 @@ Kotin 写的视频广告库
 
 ---
 
+**PLDroidMediaStreaming**: https://github.com/pili-engineering/PLDroidMediaStreaming
+
+PLDroidMediaStreaming 是 Pili 直播 SDK 的 Android 推流端，支持 RTMP 推流，h.264 和 AAC 编码，硬编、软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。
+
+---
+
 **PLDroidPlayer**: https://github.com/pili-engineering/PLDroidPlayer
 
 PLDroidPlayer 是 Pili 直播 SDK 的安卓播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。
