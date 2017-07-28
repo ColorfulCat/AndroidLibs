@@ -385,6 +385,12 @@ ExoPlayer's wrapper for using with TextureView
 
 ---
 
+**OpenCVwithUVC**: https://github.com/saki4510t/OpenCVwithUVC
+
+usb摄像头 OpenCV
+
+---
+
 **UVCCamera**: https://github.com/saki4510t/UVCCamera
 
 usb摄像头，library and sample to access to UVC web camera on non-rooted Android device
