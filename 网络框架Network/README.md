@@ -74,6 +74,14 @@ OkHttp 请求和响应日志拦截器
 
 ---
 
+**RetrofitUrlManager**: https://github.com/JessYanCoding/RetrofitUrlManager
+
+以最简洁的 Api 让 Retrofit 同时支持多个 BaseUrl 以及动态改变 BaseUrl
+
+<img src = "https://github.com/JessYanCoding/RetrofitUrlManager/raw/master/art/overview.gif" width="320"/>
+
+---
+
 **RetrofitLifecycle**: https://github.com/luckyandyzhang/RetrofitLifecycle
 
 通过注解管理 Retrofit 生命周期
