@@ -6,6 +6,14 @@
 
 ---
 
+**BubbleAlert**: https://github.com/nidhinvv/BubbleAlert
+
+a custome alert dialog for Android
+
+<img src="https://github.com/nidhinvv/BubbleAlert/raw/master/app/screens/device-2017-07-20-150105.png" width="320" /> <img src="https://github.com/nidhinvv/BubbleAlert/raw/master/app/screens/device-2017-07-20-150115.png" width="320" />
+
+---
+
 **Swipe-To-Dismiss-Dialog**: https://github.com/andreilisun/Swipe-To-Dismiss-Dialog
 
 Swipe-To-Dismiss-Dialog
