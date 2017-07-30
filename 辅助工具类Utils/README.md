@@ -1888,6 +1888,12 @@ Permission Manager is easily manage Android Marshmallow and nougat runtime permi
 
 ---
 
+**PermissionsWrapper**: https://github.com/lolucosmin/PermissionsWrapper
+
+PermissionsWrapper is the easiest way to manage Android Marshmallow and Nougat runtime permissions
+
+---
+
 **PermissionManager**: https://github.com/AdamMc331/PermissionsManager
 
 PermissionsManager library that has base activity and fragment that extend from AppCompatActivity to ease with the handling of runtime permissions
