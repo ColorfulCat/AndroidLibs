@@ -411,6 +411,12 @@ YUV-->H264,YUV-->RGB, GL Blur, GPUImage
 
 ---
 
+**viper4android_fx**: https://github.com/vipersaudio/viper4android_fx
+
+ViPER4Android FX Control Panel
+
+---
+
 **LingoRecorder**: https://github.com/lingochamp/LingoRecorder
 
 LingoRecorder is a better recorder for Android, you can easily process pcm from it
