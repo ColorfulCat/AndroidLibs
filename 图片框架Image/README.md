@@ -700,6 +700,14 @@ A small tool to convert your app's png&jpg image files into WebP when possible
 
 ---
 
+**ImageZipper**: https://github.com/amanjeetsingh150/ImageZipper
+
+压缩图片，An image compresssion library in android
+
+<img src="https://user-images.githubusercontent.com/12881364/28280492-83ac5b2a-6b41-11e7-9394-48ad8e8e44f1.jpg" width = "320"/>
+
+---
+
 **CompressHelper**: https://github.com/nanchen2251/CompressHelper
 
 压缩文件，压缩图片，压缩Bitmap，Compress,CompressImage,CompressFile,CompressBitmap
