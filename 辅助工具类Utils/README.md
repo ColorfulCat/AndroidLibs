@@ -540,6 +540,12 @@ SyncIt will call a method implemented in your activity to notify data connection
 
 ---
 
+**FragmentStateManager**: https://github.com/okaybroda/FragmentStateManager
+
+An Android library that holds fragment states for bottom navigation view even when activity rotates
+
+---
+
 **ActivityCommWithFragment**: https://github.com/niuxiaowei/ActivityCommWithFragment
 
 解决activity与fragment之间互相通信的一种方案
