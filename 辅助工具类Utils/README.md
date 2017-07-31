@@ -508,6 +508,12 @@ Fluent design by contract constructs for android
 
 ---
 
+**WiseFy**: https://github.com/isuPatches/WiseFy
+
+Wrapper around WifiManager and ConnectivityManager for Android
+
+---
+
 **LocalNetwork**: https://github.com/itsJoKr/LocalNetwork
 
 两设备通过 Wifi 通信
