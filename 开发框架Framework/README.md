@@ -70,6 +70,12 @@ Mr. Alfonz is here to help you build your Android app, make the development proc
 
 ---
 
+**redux-observable**：https://github.com/dbof10/redux-observable
+
+Redux + View + ViewModel = RVVM
+
+---
+
 **ADAL**：https://github.com/massivedisaster/ADAL
 
 安卓快速开发库
