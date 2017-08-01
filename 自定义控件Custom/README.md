@@ -720,6 +720,14 @@ HorizontalWheelView
 
 ---
 
+**DragPointView**: https://github.com/javonleee/DragPointView
+
+QQ 未读气泡拖拽组件，轻松集成
+
+<img src="https://github.com/javonleee/DragPointView/raw/master/static/example_1.gif" width="320" />
+
+---
+
 **QQBubbleView**: https://github.com/Yasic/QQBubbleView
 
 利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效
