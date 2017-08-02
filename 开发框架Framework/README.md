@@ -631,6 +631,14 @@ a night model lib for easy change app's night theme
 
 ---
 
+**ThemeSkinning**: https://github.com/burgessjp/ThemeSkinning
+
+仿网易云音乐的主题换肤
+
+<img src="https://github.com/burgessjp/ThemeSkinning/raw/master/app/capture/demo.gif" width="320"/>
+
+---
+
 **Colors**: https://github.com/marverenic/Colors
 
 换肤框架
