@@ -26,6 +26,14 @@ React Native 仿 ofo 共享单车 App
 
 ---
 
+**react-native-node**: https://github.com/staltz/react-native-node
+
+在 React Native 环境下，运行一个 Node Server Http 服务
+
+<img src="https://github.com/staltz/react-native-node/raw/master/screenshot.png" width="320" />
+
+---
+
 **gitbook-reader-rn**: https://github.com/le0zh/gitbook-reader-rn
 
 使用ReactNative开发的GitBook阅读器
