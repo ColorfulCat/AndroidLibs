@@ -58,6 +58,12 @@ Reactive Extension for Facebook SDK
 
 ---
 
+**RxRedux**: https://github.com/Zeyad-37/RxRedux
+
+Rxjava2 做状态管理实现的redux库
+
+---
+
 **LifecycleAwareRx**: https://github.com/WaylonBrown/LifecycleAwareRx
 
 Make your RxJava2 streams life-cycle aware with Android Architecture Components
