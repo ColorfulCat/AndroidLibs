@@ -44,6 +44,14 @@ Native Android app that can broadcast and play live video via RTMP
 
 ---
 
+**VRPlayer**: https://github.com/wheat7/VRPlayer
+
+本地VR视频播放器
+
+<img src="https://camo.githubusercontent.com/7518c9c69e645c62325dae836859c388601d0d2d/687474703a2f2f6f677a7766357576302e626b742e636c6f7564646e2e636f6d2f7672706c61796572312e676966" width="300" />
+
+---
+
 **android-player-tv**: https://github.com/LUSHDigital/android-player-tv
 
 The Android TV version of LUSH Player
