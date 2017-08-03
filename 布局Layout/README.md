@@ -995,6 +995,14 @@ this is a draggable flow layout lib
 
 ---
 
+**CardSearchView**: https://github.com/limuyang2/CardSearchView
+
+一款实现的很漂亮的卡片式搜索效果
+
+<img src="https://github.com/limuyang2/CardSearchView/raw/master/appPreview/GIF.gif" width="320"/>
+
+---
+
 **material-searchview**: https://github.com/Shahroz16/material-searchview
 
 谷歌风格搜索布局
