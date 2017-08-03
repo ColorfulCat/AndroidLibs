@@ -6,6 +6,12 @@
 
 ---
 
+**bt**: https://github.com/atomashpolskiy/bt
+
+Java 实现的 DHT 协议，其实就是 BitTorrent，可以轻松在 Android 上实现一个 P2P 下载
+
+---
+
 **samba-documents-provider**: https://github.com/google/samba-documents-provider
 
 Android Samba 协议实现
