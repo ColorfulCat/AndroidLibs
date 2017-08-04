@@ -86,6 +86,14 @@ snackbar扩展，可以显示进度
 
 ---
 
+**terminal-seekbar**: https://github.com/alshell7/terminal-seekbar
+
+A smart seek bar with multiple junction points at random seek position
+ 
+<img src = "https://github.com/alshell7/terminal-seekbar/blob/master/graphics/preview.gif" width = "600"/>
+
+---
+
 **HueSeekBar**: https://github.com/iammert/HueSeekBar
 
 Yet another android seekbar inspired from Philips Hue app
