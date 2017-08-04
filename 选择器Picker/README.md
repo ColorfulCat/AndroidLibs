@@ -6,7 +6,15 @@
 
 ---
 
-**android-dial-picker**:https://github.com/moldedbits/android-dial-picker
+**datepicker-timeline**: https://github.com/badoualy/datepicker-timeline
+
+An infinite scrolling timeline to pick a date
+
+<img src="https://github.com/badoualy/datepicker-timeline/raw/master/ART/demo.gif" width="320" />
+
+---
+
+**android-dial-picker**: https://github.com/moldedbits/android-dial-picker
 
 android-dial-picker
 
