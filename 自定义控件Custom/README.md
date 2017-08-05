@@ -6,6 +6,14 @@
 
 ---
 
+**ChatBar**: https://github.com/CenkGun/ChatBar
+
+自定义聊天 ChatBar
+
+<img src="https://camo.githubusercontent.com/2f2a141b062c8a1b1670fc792ca5d4a5b02099ed/68747470733a2f2f692e68697a6c69726573696d2e636f6d2f31674764476a2e706e67" width="320" />
+
+---
+
 **chameleon**: https://github.com/KNOLSKAPE/chameleon
 
 CSS like framework for Android
