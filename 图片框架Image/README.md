@@ -208,6 +208,14 @@ Loads images for Bypass using Picasso
 
 ---
 
+**MultiPhotoPicker**: https://github.com/nileshpambhar/MultiPhotoPicker
+
+MultiPhotoPicker
+
+<img src = "https://github.com/nileshpambhar/MultiPhotoPicker/raw/master/Screenshots/Screen1.png" width = "320"/> <img src = "https://github.com/nileshpambhar/MultiPhotoPicker/raw/master/Screenshots/Screen2.png" width = "320"/>
+
+---
+
 **ImageNice9Layout**: https://github.com/wobiancao/ImageNice9Layout
 
 仿Nice首页图片列表9图样式，并实现拖拽效果
