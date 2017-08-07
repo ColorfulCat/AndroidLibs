@@ -16,6 +16,12 @@
 
 ---
 
+**CVScanner: https://github.com/Credntia/CVScanner
+
+An OpenCV based library for Android to scan ID documents or Passports
+
+---
+
 **pesdk-android-demo: https://github.com/imgly/pesdk-android-demo
 
 图片编辑sdk使用demo
