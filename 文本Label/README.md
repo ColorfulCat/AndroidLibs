@@ -570,6 +570,14 @@ Very long text support for Android
 
 ---
 
+**BadgeHolderView**: https://github.com/steelkiwi/BadgeHolderView
+
+购物车
+
+<img src="https://github.com/steelkiwi/BadgeHolderView/raw/master/assets/animation.gif" width="320" />
+
+---
+
 **AnimShopButton**: https://github.com/mcxtzhang/AnimShopButton
 
 一个带伸缩位移旋转动画的购物车按钮
