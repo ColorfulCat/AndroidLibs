@@ -92,6 +92,12 @@ rxjava scheduler transformer tools for android
 
 ---
 
+**RxJava2Debug**: https://github.com/akaita/RxJava2Debug
+
+RxJava 2.x extension to provide meaningful Stack Traces
+
+---
+
 **RxAnnotations**: https://github.com/CityVibes/RxAnnotations
 
 Annotations for RxJava
