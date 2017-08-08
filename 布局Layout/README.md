@@ -81,6 +81,14 @@ ViewPager that provides some custom and usefull functionalities, such as, scalli
 
 ---
 
+**android-animated-toolbar**: https://github.com/S64/android-animated-toolbar
+
+android-animated-toolbar
+
+<img src="https://github.com/S64/android-animated-toolbar/raw/master/assets/device-2017-07-30-003837.gif" width="320" />
+
+---
+
 **CollapsingToolbar-With-Webview**: https://github.com/RameshBhupathi/CollapsingToolbar-With-Webview
 
 Webview 伸缩 Toolbar 效果
