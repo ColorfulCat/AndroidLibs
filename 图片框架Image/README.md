@@ -1,6 +1,6 @@
 # AndroidLibs == 图片 Image
 
-包含：图片加载框架ImageLoader、自定义图片、裁剪Crop、形状Shape……
+包含：图片加载框架ImageLoader、自定义图片、裁剪Crop、形状Shape、人脸识别……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
@@ -13,6 +13,12 @@
 | Zhihu Style                    | Dracula Style                     | Preview                          |
 |:------------------------------:|:---------------------------------:|:--------------------------------:|
 |![](https://github.com/zhihu/Matisse/blob/master/image/screenshot_zhihu.png) | ![](https://github.com/zhihu/Matisse/blob/master/image/screenshot_dracula.png) | ![](https://github.com/zhihu/Matisse/blob/master/image/screenshot_preview.png)|
+
+---
+
+**AndroidFaceDetection: https://github.com/lchad/AndroidFaceDetection
+
+Android 平台进行人脸检测的几种方案
 
 ---
 
