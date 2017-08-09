@@ -300,6 +300,14 @@ Implementation of mini navigation drawer for Android
 
 ---
 
+**SuperStateView**: https://github.com/sebacipolat/SuperStateView
+
+SuperStateView
+
+<img src="https://raw.githubusercontent.com/sebacipolat/SuperStateView/master/images/image1.png" width="320" />
+
+---
+
 **DataLoadingLayoutAndroid**: https://github.com/lvleo/DataLoadingLayoutAndroid
 
 A custom view for data loading status on Android
