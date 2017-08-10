@@ -52,6 +52,14 @@ litho-glide
 
 ---
 
+**diagonal-imageview:https://github.com/santalu/diagonal-imageview
+
+A simple imageview which allows you to create diagonal cut views easily
+
+<img src="https://github.com/santalu/diagonal-imageview/raw/master/screens/rv.png" width="320"/>
+
+---
+
 **GlideImageView: https://github.com/sfsheng0322/GlideImageView
 
 基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度 
