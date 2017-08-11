@@ -52,7 +52,7 @@ litho-glide
 
 ---
 
-**diagonal-imageview:https://github.com/santalu/diagonal-imageview
+**diagonal-imageview: https://github.com/santalu/diagonal-imageview
 
 A simple imageview which allows you to create diagonal cut views easily
 
