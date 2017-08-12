@@ -1710,6 +1710,12 @@ Composition over inheritance for Android components like Activity or Fragment
 
 ---
 
+**kstools**: https://github.com/fourbrother/kstools
+
+Android中自动爆破签名工具
+
+---
+
 **android-classyshark**: https://github.com/google/android-classyshark
 
 apk 反编译工具
