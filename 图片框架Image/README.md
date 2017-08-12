@@ -16,6 +16,12 @@
 
 ---
 
+**Rajawali: https://github.com/Rajawali/Rajawali
+
+Android OpenGL ES 2.0/3.0 Engine
+
+---
+
 **AndroidFaceDetection: https://github.com/lchad/AndroidFaceDetection
 
 Android 平台进行人脸检测的几种方案
