@@ -224,6 +224,12 @@ Dynamic-load-view 能够动态加载外部apk中的View以及资源，能够热�
 
 ---
 
+**VasSonic**: https://github.com/Tencent/VasSonic
+
+提升h5首屏加载速度
+
+---
+
 **Robust**: https://github.com/Meituan-Dianping/Robust
 
 美团的新一代热更新系统Robust，对Android版本无差别兼容。无需发版就可以做到随时修改线上bug，快速对重大线上问题作出反应，补丁修补成功率高达99.9%
