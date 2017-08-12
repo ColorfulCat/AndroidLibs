@@ -639,6 +639,14 @@ a night model lib for easy change app's night theme
 
 ---
 
+**Colorful**: https://github.com/hehonghui/Colorful
+
+基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式
+
+<img src="https://github.com/hehonghui/Colorful/blob/master/images/colorful.gif" width="320"/>
+
+---
+
 **Colors**: https://github.com/marverenic/Colors
 
 换肤框架
