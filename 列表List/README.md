@@ -1209,9 +1209,9 @@ a custom pull-to-refresh layout which contains a interesting animation.
 
 ---
 
-**SmoothRefreshLayout**: [https://github.com/dkzwm/SmoothRefreshLayout](https://github.com/dkzwm/SmoothRefreshLayout)
+**SmoothRefreshLayout**: https://github.com/dkzwm/SmoothRefreshLayout
 
-A highly efficient refresh library for Android.In theory , Can support all Views.
+.一个高效的Android刷新库，理论上支持所有的视图，比官方的SwipeRefreshLayout更强大且使用方便
 
 <img src="https://github.com/dkzwm/SmoothRefreshLayout/blob/master/snapshot/test_two_level_refresh.png" width="320" />
 

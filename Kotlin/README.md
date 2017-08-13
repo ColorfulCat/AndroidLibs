@@ -12,6 +12,12 @@
 
 ---
 
+**kotlin-android-utils**: https://github.com/costular/kotlin-android-utils
+
+Android utilities for easier and faster Kotlin programming
+
+---
+
 **KotlinMvpTemplateGenerator**: https://github.com/burakeregar/KotlinMvpTemplateGenerator
 
 Android Studio template for Kotlin with MVP + Dagger2 + Retrofit2
