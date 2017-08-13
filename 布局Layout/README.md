@@ -332,6 +332,14 @@ An extension of RelativeLayout that helps show loading, empty and error layout
 
 ---
 
+**emptyview**: https://github.com/santalu/emptyview
+
+A view that displays state of screen like loading, error, empty
+
+<img src="https://github.com/santalu/emptyview/raw/master/screens/loading.png" width="320" /> <img src="https://github.com/santalu/emptyview/raw/master/screens/error.png" width="320" />
+
+---
+
 **stateLayout**: https://github.com/fingdo/stateLayout
 
 优雅的切换布局的方法
