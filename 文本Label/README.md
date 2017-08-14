@@ -486,14 +486,6 @@ represent any prices in Russian rouble currency
 
 ---
 
-**input-mask-android**: https://github.com/RedMadRobot/input-mask-android
-
-给用户输入自动加上特定格式
-
-<img src="https://raw.githubusercontent.com/RedMadRobot/input-mask-android/assets/assets/gif-animations/direct-input.gif" width="320" />
-
----
-
 **FormattEditText**: https://github.com/PaXLiCh/FormattEditText
 
 支持自动格式化的 EditText，比如货币、电话号码等等
@@ -1010,6 +1002,22 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 <img src="https://raw.github.com/ayltai/Android-Lib-VerticalMarqueeTextView/master/screenshots/device-2014-02-22-000150.png" width="270" height="400" alt="Screenshot-1" />&nbsp;
 <img src="https://raw.github.com/ayltai/Android-Lib-VerticalMarqueeTextView/master/screenshots/device-2014-02-22-000158.png" width="270" height="400" alt="Screenshot-2" />&nbsp;
 <img src="https://raw.github.com/ayltai/Android-Lib-VerticalMarqueeTextView/master/screenshots/device-2014-02-22-000208.png" width="270" height="400" alt="Screenshot-3" />
+
+---
+
+**mask-edittext**: https://github.com/santalu/mask-edittext
+
+支持格式自动识别和展示的 EditBox
+
+<img src="https://github.com/santalu/mask-edittext/raw/master/screens/sample.png" width="320" />
+
+---
+
+**input-mask-android**: https://github.com/RedMadRobot/input-mask-android
+
+给用户输入自动加上特定格式
+
+<img src="https://raw.githubusercontent.com/RedMadRobot/input-mask-android/assets/assets/gif-animations/direct-input.gif" width="320" />
 
 ---
 
