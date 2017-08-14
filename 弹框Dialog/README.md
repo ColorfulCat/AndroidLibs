@@ -6,6 +6,13 @@
 
 ---
 
+**Morphing-Material-Dialogs**: https://github.com/AdityaAnand1/Morphing-Material-Dialogs
+
+变化过度效果的 Dialog Box，动画效果很棒
+
+<img src="https://github.com/AdityaAnand1/Morphing-Material-Dialogs/raw/master/screenies/1.gif" width="320" />
+---
+
 **BubbleAlert**: https://github.com/nidhinvv/BubbleAlert
 
 a custome alert dialog for Android
