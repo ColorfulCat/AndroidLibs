@@ -6,6 +6,14 @@
 
 ---
 
+**PlayPauseView**: https://github.com/Lauzy/PlayPauseView
+
+PlayPauseView 让播放、暂停按钮优雅的过渡
+
+<img src="https://github.com/Lauzy/PlayPauseView/raw/master/Screenshot/20170812PlayPauseViewSR.gif" width="300" />
+
+---
+
 **small-video-record**: https://github.com/mabeijianxi/small-video-record
 
 利用FFmpeg视频录制微信小视频与其压缩处理
