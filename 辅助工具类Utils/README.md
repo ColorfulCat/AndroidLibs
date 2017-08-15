@@ -326,6 +326,14 @@ Simple implementation of ForceTouch on Android
 
 ---
 
+**soter**: https://github.com/Tencent/soter
+
+腾讯开源的可信指纹认证，获得与微信指纹支付一致的安全快捷认证体验
+
+<img src="https://github.com/WeMobileDev/article/raw/master/assets/soter/SoterFramework.png" width="600"/>
+
+---
+
 **FingerprintIdentify**: https://github.com/uccmawei/FingerprintIdentify
 
 APP一秒接入指纹识别SDK，0奔溃，0闪退，炒鸡稳定！额外支持三星和魅族6.0以下系统
