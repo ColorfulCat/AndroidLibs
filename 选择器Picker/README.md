@@ -443,6 +443,14 @@ EasyFilePickerDialog
 
 ---
 
+**AppChooser**: https://github.com/JulianAndroid/AppChooser
+
+自定义打开指定文件的应用选择器
+
+<img src="https://github.com/JulianAndroid/AppChooser/raw/master/screenshots/Gif_20170624_154149.gif" width="320"/>
+
+---
+
 **Android-FileBrowser-FilePicker**: https://github.com/adityak368/Android-FileBrowser-FilePicker
 
 文件浏览，选择
