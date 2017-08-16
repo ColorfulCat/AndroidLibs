@@ -12,6 +12,14 @@
 
 ---
 
+**ProgressTextView**: https://github.com/JackDinealKIM/ProgressTextView
+
+ProgressTextView
+
+<img src="https://github.com/JackDinealKIM/ProgressTextView/raw/master/first.png" width="320"/>
+
+---
+
 **RippleValidatorEditText**: https://github.com/omidheshmatinia/RippleValidatorEditText
 
 RippleValidatorEditText
