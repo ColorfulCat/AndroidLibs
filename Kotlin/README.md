@@ -32,6 +32,14 @@ Android Kotlin Charts base on ECharts
 
 ---
 
+**Eyepetizer-in-Kotlin**: https://github.com/LRH1993/Eyepetizer-in-Kotlin
+
+Kotlin 100% 仿真实现 开眼视频
+ 
+<img src = "https://github.com/Werb/MoreType/raw/master/screenshot/type1.png" width = "320"/>
+
+---
+
 **MoreType**: https://github.com/Werb/MoreType
 
 new method to build data in RecyclerView with Kotlin
