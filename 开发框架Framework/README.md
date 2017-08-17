@@ -651,6 +651,12 @@ a night model lib for easy change app's night theme
 
 ---
 
+**DayNightModeSwitch**: https://github.com/WuLiFei/DayNightModeSwitch
+
+基于Theme的Android动态换肤库
+
+---
+
 **Colorful**: https://github.com/hehonghui/Colorful
 
 基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式
