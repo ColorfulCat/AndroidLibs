@@ -12,6 +12,12 @@ Publish bintray aar/jar multi-module in a duper easy way
 
 ---
 
+**ClassPlugin**: https://github.com/dinuscxj/ClassPlugin
+
+致Android开发 —— 灵活的Class替换插件
+
+---
+
 **gradlr**: https://github.com/cesarferreira/gradlr
 
 Fastest auto complete for gradle tasks
