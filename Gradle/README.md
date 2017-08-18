@@ -24,6 +24,12 @@ Fastest auto complete for gradle tasks
 
 ---
 
+**TinyPIC_Gradle_Plugin**: https://github.com/meili/TinyPIC_Gradle_Plugin
+
+一个批量tiny处理res图片的gradle插件
+
+---
+
 **webpcompress**: https://github.com/chuyun923/webpcompress
 
 webp图片压缩插件
