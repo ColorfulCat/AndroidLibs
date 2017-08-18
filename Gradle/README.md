@@ -24,6 +24,12 @@ Fastest auto complete for gradle tasks
 
 ---
 
+**webpcompress**: https://github.com/chuyun923/webpcompress
+
+webp图片压缩插件
+
+---
+
 **ConfigDroid**: https://github.com/mb-14/ConfigDroid
 
 可生成常量的gradle插件
