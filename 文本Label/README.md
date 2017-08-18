@@ -1163,11 +1163,11 @@ A library to help with custom fonts and text sizes
 
 ---
 
-**RichEditText**: https://github.com/chen-xiao-dong/RichEditText
+**HRichEditor**: https://github.com/huangdali/HRichEditor
 
-可替换 EditText 的富文本 View
+Android端富文本编辑器HEichEditor
 
-<img src="https://raw.githubusercontent.com/eastearly/RichEditText/master/raw/screen-shot/addlink.png" width="320" />
+<img src="https://github.com/huangdali/HRichEditor/raw/master/images/changitem.gif" width="320" />
 
 ---
 
