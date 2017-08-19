@@ -1045,6 +1045,14 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**CustomFontView**: https://github.com/anitaa1990/CustomFontView
+
+CustomFontView
+
+<img src="https://user-images.githubusercontent.com/22608780/29374593-9d9f71d4-82cf-11e7-915d-dcead8093d40.png" width="320" />
+
+---
+
 **fonttools**: https://github.com/fonttools/fonttools
 
 A library to manipulate font files from Python
