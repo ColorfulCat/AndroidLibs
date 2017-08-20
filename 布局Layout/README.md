@@ -512,6 +512,14 @@ Android layout with an header image sensible to scroll and touch events
 
 ---
 
+**BottomNavigation-RichPath-Sample**: https://github.com/tarek360/BottomNavigation-RichPath-Sample
+
+BottomNavigation-RichPath-Sample
+
+<img src="https://github.com/tarek360/BottomNavigation-RichPath-Sample/raw/master/gifs/demo.gif" width="600" />
+
+---
+
 **AdaptableBottomNavigation**: https://github.com/bufferapp/AdaptableBottomNavigation
 
 A simpler way for implementing the Bottom Navigation View on Android
