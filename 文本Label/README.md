@@ -168,6 +168,14 @@ EditText 一键清空
 
 ---
 
+**MRichEditor**: https://github.com/Even201314/MRichEditor
+
+Android 富文本（HTML）解析库，渲染的非常漂亮
+
+<img src="https://github.com/Even201314/MRichEditor/raw/master/gif/Screenshot_2.gif" width="320"/> <img src="https://github.com/Even201314/MRichEditor/raw/master/gif/Screenshot_3.png" width="320"/>
+
+---
+
 **dante**: https://github.com/fourlastor/dante
 
 Android 富文本（HTML）解析库，渲染的非常漂亮
