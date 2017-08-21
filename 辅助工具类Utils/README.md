@@ -522,6 +522,12 @@ Fluent design by contract constructs for android
 
 ---
 
+**WifiConnHelper**: https://github.com/BirdGuo/WifiConnHelper
+
+Wifi扫描和连接
+
+---
+
 **WiseFy**: https://github.com/isuPatches/WiseFy
 
 Wrapper around WifiManager and ConnectivityManager for Android
