@@ -168,6 +168,14 @@ Date Range Picker is a Calender Picker View to show a Customized Date Range Pick
 
 ---
 
+**Android-Week-View**: https://github.com/alamkanak/Android-Week-View
+
+Android 周日历视图组件
+
+<img src="https://github.com/alamkanak/Android-Week-View/raw/develop/images/screen-shot.png" width="600" />
+
+---
+
 **Material-Calendar-View**: https://github.com/Applandeo/Material-Calendar-View
 
 MD 风格的日历组件
