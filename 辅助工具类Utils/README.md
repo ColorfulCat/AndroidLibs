@@ -970,6 +970,14 @@ Endoscope - RTSP live video streamer for android devices via Wi-Fi
 
 ---
 
+**ResourceInspector**: https://github.com/nekocode/ResourceInspector
+
+类似 Stetho 的 Layout 资源视察工具
+
+<img src="https://camo.githubusercontent.com/fca4d6ebedcef761b39f3f4fda56c5cbef1a45ac/68747470733a2f2f6f6f6f2e306f302e6f6f6f2f323031362f31322f31332f353834663761303434653166612e706e67" width="600"/>
+
+---
+
 **Dream-Catcher**: https://github.com/misakuo/Dream-Catcher
 
 在Chrome DevTools内查看Android设备上所有HTTP(S)流量
