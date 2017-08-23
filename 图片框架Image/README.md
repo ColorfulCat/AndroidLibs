@@ -58,6 +58,14 @@ litho-glide
 
 ---
 
+**AiyaEffectsAndroid: https://github.com/aiyaapp/AiyaEffectsAndroid
+
+宝宝特效 SDK Android Demo，支持美颜，3D特效，3D动画特效，2D特效等，免费使用
+
+<img src="https://raw.githubusercontent.com/aiyaapp/AiyaEffectsAndroid/master/doc/summarize2.jpg" width="600"/>
+
+---
+
 **diagonal-imageview: https://github.com/santalu/diagonal-imageview
 
 A simple imageview which allows you to create diagonal cut views easily
