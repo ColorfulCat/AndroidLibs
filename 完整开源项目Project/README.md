@@ -6,6 +6,12 @@
 
 ---
 
+**iosched**: https://github.com/google/iosched
+
+Google I/O 大会 App 的最新源代码
+
+---
+
 **NoticeDog**: https://github.com/bunnyblue/NoticeDog
 
 一个基于NotificationListenerService 的Android通知管理app，可以防止微信消息撤回
