@@ -12,6 +12,14 @@
 
 ---
 
+**Android-WordToSpan**: https://github.com/bachors/Android-WordToSpan
+
+TextView 上显示链接，@某人，标签等
+
+<img src="https://camo.githubusercontent.com/7a6d4ab6371248bc1ae5e04e11204f05fe5182d5/687474703a2f2f692e67697068792e636f6d2f336f377169567a76347047416242614355552e676966" width="320"/>
+
+---
+
 **ProgressTextView**: https://github.com/JackDinealKIM/ProgressTextView
 
 ProgressTextView
