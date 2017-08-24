@@ -58,6 +58,14 @@ litho-glide
 
 ---
 
+**ContinuousScrollableImageView: https://github.com/Cutta/ContinuousScrollableImageView
+
+支持持续性滑动动画的图片组件，用来做背景效果 应该不错
+
+<img src="https://raw.githubusercontent.com/Cutta/ContinuousScrollableImageView/master/gifs/plane.gif?token=AGY3KeydGmvTnBrToMTTuw4wsIpyS9Dzks5ZpH9hwA%3D%3D" width="300"/>
+
+---
+
 **AiyaEffectsAndroid: https://github.com/aiyaapp/AiyaEffectsAndroid
 
 宝宝特效 SDK Android Demo，支持美颜，3D特效，3D动画特效，2D特效等，免费使用
