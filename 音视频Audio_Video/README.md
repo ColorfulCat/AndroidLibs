@@ -555,6 +555,14 @@ Awesome app to listen music and audiobooks on the device and online at vk.com. S
 
 ---
 
+**audio-recorder-button**: https://github.com/safetysystemtechnology/audio-recorder-button
+
+audio-recorder-button
+
+<img src="https://github.com/safetysystemtechnology/audio-recorder-button/raw/master/etc/audio-button.gif" width="320" />
+
+---
+
 **AnimatedRecordingView**: https://github.com/HeZaiJin/AnimatedRecordingView
 
 一个有趣的Android录音动画
