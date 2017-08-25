@@ -58,6 +58,14 @@ litho-glide
 
 ---
 
+**CameraView: https://github.com/natario1/CameraView
+
+A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing most of the common issues and needs
+
+<img src="https://github.com/natario1/CameraView/raw/master/art/screen1.png" width="300"/> <img src="https://github.com/natario1/CameraView/raw/master/art/screen2.png" width="300"/>
+
+---
+
 **ContinuousScrollableImageView: https://github.com/Cutta/ContinuousScrollableImageView
 
 支持持续性滑动动画的图片组件，用来做背景效果 应该不错
