@@ -1129,6 +1129,14 @@ Material Design 风格的 Tag （Chip） 标签组件，漂亮，实用
 
 ---
 
+**DroidTag**: https://github.com/LorenzoZaccagnini/DroidTag
+
+Android tag group widget
+
+<img src="https://camo.githubusercontent.com/0bbba8169b05853edd9b3cdaca8eeae7b4e9f338/68747470733a2f2f707265766965772e6962622e636f2f62426f6250352f6e6f726d616c7461675f43726f702e706e67" width="320" />
+
+---
+
 **FlowTag**: https://github.com/hanhailong/FlowTag
 
 Android流式布局，支持点击、单选、多选等，适合用于产品标签等
