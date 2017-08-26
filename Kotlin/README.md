@@ -32,6 +32,14 @@ Android Kotlin Charts base on ECharts
 
 ---
 
+**AsciiPanelView**: https://github.com/Prokky/AsciiPanelView
+
+Port of AsciiPanel library to Android View on Kotlin
+
+<img src="https://raw.githubusercontent.com/Prokky/AsciiPanelView/master/screenshots/cavy.png" width="600" />
+
+---
+
 **Eyepetizer-in-Kotlin**: https://github.com/LRH1993/Eyepetizer-in-Kotlin
 
 Kotlin 100% 仿真实现 开眼视频
