@@ -32,6 +32,12 @@ Android Kotlin Charts base on ECharts
 
 ---
 
+**ksoup**: https://github.com/fcannizzaro/ksoup
+
+Kotlin Wrapper for Jsoup
+
+---
+
 **AsciiPanelView**: https://github.com/Prokky/AsciiPanelView
 
 Port of AsciiPanel library to Android View on Kotlin
