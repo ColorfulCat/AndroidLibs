@@ -6,6 +6,14 @@
 
 ---
 
+**CheckBoxGroup**: https://github.com/xeoh/CheckBoxGroup
+
+Android library for handling multiple checkbox
+
+<img src="https://github.com/xeoh/CheckBoxGroup/raw/master/images/CheckBoxGroup.gif" width="320" />
+
+---
+
 **CompoundButtonGroup**: https://github.com/llollox/CompoundButtonGroup
 
 An Android library to easily implement compound buttons
