@@ -38,6 +38,12 @@ Android Kotlin Charts base on ECharts
 
 ---
 
+**SampleAppKotlin**: https://github.com/saveendhiman/SampleAppKotlin
+
+Android Project Structure
+
+---
+
 **ksoup**: https://github.com/fcannizzaro/ksoup
 
 Kotlin Wrapper for Jsoup
