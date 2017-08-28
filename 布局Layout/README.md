@@ -388,6 +388,14 @@ PageStateLayout could let you show [Loading][Empty][Error][Succeed][Requesting] 
 
 ---
 
+**TriangularCustomView**: https://github.com/Jhuku/TriangularCustomView
+
+A Custom View to indicate multiple fragments with a triangular indicator
+
+<img src="https://github.com/Jhuku/TriangularCustomView/raw/master/screenshot.gif" width="320" />
+
+---
+
 **widgetlab**: https://github.com/uDevel/widgetlab
 
 Configurable typing indicator for Android
