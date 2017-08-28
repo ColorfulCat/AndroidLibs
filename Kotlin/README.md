@@ -18,6 +18,12 @@ Android utilities for easier and faster Kotlin programming
 
 ---
 
+**ObservableFlow**: https://github.com/rakshakhegde/ObservableFlow
+
+Functional Constructs for Databinding + Kotlin + RxJava
+
+---
+
 **KotlinMvpTemplateGenerator**: https://github.com/burakeregar/KotlinMvpTemplateGenerator
 
 Android Studio template for Kotlin with MVP + Dagger2 + Retrofit2
