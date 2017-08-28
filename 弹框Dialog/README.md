@@ -13,6 +13,14 @@
 <img src="https://github.com/AdityaAnand1/Morphing-Material-Dialogs/raw/master/screenies/1.gif" width="320" />
 ---
 
+**AwesomeDialog**: https://github.com/blennerSilva/AwesomeDialog
+
+AwesomeDialog
+
+<img src="https://github.com/blennerSilva/AwesomeDialog/raw/master/awesomedialoglib/extras/screenshots/info.png" width="270" /> <img src="https://github.com/blennerSilva/AwesomeDialog/raw/master/awesomedialoglib/extras/screenshots/progress.png" width="270" /> <img src="https://github.com/blennerSilva/AwesomeDialog/raw/master/awesomedialoglib/extras/screenshots/success.png" width="270" />
+
+---
+
 **BubbleAlert**: https://github.com/nidhinvv/BubbleAlert
 
 a custome alert dialog for Android
