@@ -6,11 +6,20 @@
 
 ---
 
+**android-loadingdialog**: https://github.com/ravindu1024/android-loadingdialog
+
+android-loadingdialog
+
+<img src="https://raw.githubusercontent.com/ravindu1024/android-loadingdialog/master/media/video.gif" width="320" />
+
+---
+
 **Morphing-Material-Dialogs**: https://github.com/AdityaAnand1/Morphing-Material-Dialogs
 
 变化过度效果的 Dialog Box，动画效果很棒
 
 <img src="https://github.com/AdityaAnand1/Morphing-Material-Dialogs/raw/master/screenies/1.gif" width="320" />
+
 ---
 
 **AwesomeDialog**: https://github.com/blennerSilva/AwesomeDialog
