@@ -6,6 +6,22 @@
 
 ---
 
+**CBRatingBar**: https://github.com/CB-ysx/CBRatingBar
+
+等级评分控件，支持填充渐变，支持设置颜色、调整大小等，支持监听点击事件
+ 
+<img src = "https://github.com/CB-ysx/CBRatingBar/raw/master/raw/ratingbar.gif" width = "320"/>
+
+---
+
+**CBEmotionsKeyBoard**: https://github.com/CB-ysx/CBEmotionsKeyBoard
+
+表情键盘
+ 
+<img src = "https://github.com/CB-ysx/CBEmotionsKeyBoard/raw/master/screenshot/showGif.gif" width = "320"/>
+
+---
+
 **ChatBar**: https://github.com/CenkGun/ChatBar
 
 自定义聊天 ChatBar
