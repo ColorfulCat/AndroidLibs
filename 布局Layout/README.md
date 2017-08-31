@@ -988,6 +988,14 @@ Navigation tab strip with smooth interaction
 
 ---
 
+**argus-android**: https://github.com/moldedbits/argus-android
+
+登录注册布局
+
+<img src="https://github.com/moldedbits/argus-android/raw/master/images/ArgusLogin.png" width="320" />
+
+---
+
 **OnePageSigninSignup**: https://github.com/irfaan008/OnePageSigninSignup
 
 很赞的登录注册布局
