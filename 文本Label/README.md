@@ -1069,6 +1069,14 @@ BubbleView是带箭头的气泡控件/容器类，支持在布局中通过自定
 
 ---
 
+**MultiFontView-Android**: https://github.com/shashkiranr/MultiFontView-Android
+
+Multifont library can be used to select custom fonts for the view dynamically in your XML
+
+<img src="https://github.com/shashkiranr/MultiFontView-Android/raw/master/Screenshot.png?raw=true" width="320" />
+
+---
+
 **CustomFontView**: https://github.com/anitaa1990/CustomFontView
 
 CustomFontView
