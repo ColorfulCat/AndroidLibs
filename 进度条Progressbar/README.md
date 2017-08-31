@@ -6,6 +6,14 @@
 
 ---
 
+**android-material-app-rating**: https://github.com/stepstone-tech/android-material-app-rating
+
+好看的评分库
+ 
+<img src = "https://github.com/stepstone-tech/android-material-app-rating/raw/master/gifs/firstDialog.gif" width = "320"/> <img src = "https://github.com/stepstone-tech/android-material-app-rating/raw/master/gifs/secondDialog.gif" width = "320"/>
+
+---
+
 **SeekBarWithIntervals**: https://github.com/RameshBhupathi/SeekBarWithIntervals
 
 Seekbar with labelled intervals Like Olx FilterView Seekbar
