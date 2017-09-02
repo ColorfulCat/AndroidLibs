@@ -112,8 +112,7 @@ MediaPlayer+TextureView，完美切换全屏、小窗口的Android视频播放�
 
 android-PictureInPicture 画中画功能
 
-<img src="https://raw.githubusercontent.com/googlesamples/android-PictureInPicture/master/screenshots/1-main.png" width="270" /> 
-<img src="https://raw.githubusercontent.com/googlesamples/android-PictureInPicture/master/screenshots/2-pip.png" width="540" />
+<img src="https://raw.githubusercontent.com/googlesamples/android-PictureInPicture/master/screenshots/1-main.png" width="320" /> <img src="https://raw.githubusercontent.com/googlesamples/android-PictureInPicture/master/screenshots/2-pip.png" width="320" />
 
 ---
 
@@ -671,11 +670,7 @@ Apollo 音乐播放器，Android Studio 版本
 
 Hide音乐播放器
 
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/3.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/5.5.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/9.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/10.jpg?raw=true" width="160" />
-<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/12.jpg?raw=true" width="160" />
+<img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/3.jpg?raw=true" width="160" /> <img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/5.5.jpg?raw=true" width="160" /> <img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/9.jpg?raw=true" width="160" /> <img src="https://github.com/w9xhc/Hide-Music-Player/blob/master/Screenshots/10.jpg?raw=true" width="160" />
 
 ---
 
