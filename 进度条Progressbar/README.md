@@ -30,6 +30,14 @@ Seekbar with labelled intervals Like Olx FilterView Seekbar
 
 ---
 
+**circle-time-view**: https://github.com/CROSP/circle-time-view
+
+An android custom view for displaying time in a pretty format, use for timers and stopwatches
+ 
+<img src = "https://camo.githubusercontent.com/acf54566dc6948ad03f6d2692c3866c41b3e87a6/68747470733a2f2f63726f73702e6e65742f77702d636f6e74656e742f75706c6f6164732f323031372f30392f53637265656e73686f745f313530343337303432382e706e67" width = "320"/> <img src = "https://camo.githubusercontent.com/95a0fb9cfc8fc4aa07f08019e1063a1d544dd806/68747470733a2f2f63726f73702e6e65742f77702d636f6e74656e742f75706c6f6164732f323031372f30392f53637265656e73686f745f313530343337303335372e706e67" width = "320"/>
+
+---
+
 **Android-ProgressViews**: https://github.com/zekapp/Android-ProgressViews
 
 Android-ProgressViews
