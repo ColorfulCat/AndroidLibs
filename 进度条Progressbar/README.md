@@ -14,6 +14,14 @@
 
 ---
 
+**android-circular-progress-view**: https://github.com/GuilhE/android-circular-progress-view
+
+A fancy CircularProgressView
+ 
+<img src = "https://github.com/GuilhE/android-circular-progress-view/raw/master/sample1.png" width = "600"/>
+
+---
+
 **SeekBarWithIntervals**: https://github.com/RameshBhupathi/SeekBarWithIntervals
 
 Seekbar with labelled intervals Like Olx FilterView Seekbar
