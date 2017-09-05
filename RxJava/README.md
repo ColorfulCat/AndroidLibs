@@ -152,12 +152,6 @@ RxDiffUtil is an Rx wrapper around the Android DiffUtil library for the Recycler
 
 ---
 
-**RxActivityResult**: https://github.com/nekocode/RxActivityResult
-
-Receive results from startActivityForResult() as an Observable
-
----
-
 **RxRetroJsoup**: https://github.com/florent37/RxRetroJsoup
 
 A simple API-like from html website (scrapper) for Android
@@ -371,6 +365,18 @@ A reactive cache for Android and Java which honors the Observable chain
 **RxCache**: https://github.com/VictorAlbertos/RxCache
 
 Reactive caching library for Android and Java
+
+---
+
+**RxActivityResults**: https://github.com/mohamad-amin/RxActivityResults
+
+Android onActivityResult wrapper powered by RxJava
+
+---
+
+**RxActivityResult**: https://github.com/nekocode/RxActivityResult
+
+Receive results from startActivityForResult() as an Observable
 
 ---
 
