@@ -22,6 +22,14 @@ A fancy CircularProgressView
 
 ---
 
+**CircularProgressbar**: https://github.com/sparrow007/CircularProgressbar
+
+CircularProgressbar
+ 
+<img src = "https://user-images.githubusercontent.com/22986571/29291388-0aa337e0-8161-11e7-945c-1394dc9bcc1c.jpg" width = "600"/>
+
+---
+
 **SeekBarWithIntervals**: https://github.com/RameshBhupathi/SeekBarWithIntervals
 
 Seekbar with labelled intervals Like Olx FilterView Seekbar

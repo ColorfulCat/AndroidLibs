@@ -372,6 +372,8 @@ Reactive caching library for Android and Java
 
 Android onActivityResult wrapper powered by RxJava
 
+<img src="https://github.com/mohamad-amin/RxActivityResults/raw/master/art/demo.gif" width="320"/>
+
 ---
 
 **RxActivityResult**: https://github.com/nekocode/RxActivityResult
