@@ -57,6 +57,14 @@ Carousel Effect with ViewPager
 
 ---
 
+**AutoImageFlipper**: https://github.com/therealshabi/AutoImageFlipper
+
+Auto Scrolling Image Pager with Pager Indicator and Text
+
+<img src="https://github.com/therealshabi/AutoImageFlipper/raw/dev/gif/demo.gif" width="320" />
+
+---
+
 **UltraViewPager**: https://github.com/alibaba/UltraViewPager
 
 一个封装多种特性的ViewPager
