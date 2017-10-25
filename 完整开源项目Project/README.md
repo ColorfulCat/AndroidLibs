@@ -537,14 +537,6 @@ React Native app (Android / iOS) 阅读
 
 ---
 
-**ifanr**: https://github.com/iCodeForever/ifanr
-
-高仿 爱范儿
-
-<img src="https://github.com/iCodeForever/ifanr/raw/master/ifanr/ifanr/Resources/1.gif" width="270" /> <img src="https://github.com/iCodeForever/ifanr/raw/master/ifanr/ifanr/Resources/2.gif" width="270" /> <img src="https://github.com/iCodeForever/ifanr/raw/master/ifanr/ifanr/Resources/3.gif" width="270" />
-
----
-
 **simplenote-android**: https://github.com/Automattic/simplenote-android
 
 Simplenote for Android http://simplenote.com
