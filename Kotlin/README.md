@@ -50,6 +50,14 @@ Kotlin Wrapper for Jsoup
 
 ---
 
+**GankClient-Kotlin**: https://github.com/githubwing/GankClient-Kotlin
+
+gank.io kotlin实现的干货集中营Android客户端 Kotlin Dagger Databinding Rxjava Retrofit Okhttp3
+
+<img src="https://github.com/githubwing/GankClient-Kotlin/raw/master/img/pic1.png" width="320" />
+
+---
+
 **Simple-File-Manager**: https://github.com/SimpleMobileTools/Simple-File-Manager
 
 文件管理器
