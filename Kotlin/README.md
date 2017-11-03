@@ -50,6 +50,14 @@ Kotlin Wrapper for Jsoup
 
 ---
 
+**Simple-File-Manager**: https://github.com/SimpleMobileTools/Simple-File-Manager
+
+文件管理器
+
+<img src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/screenshots/app.png" width="320" />　<img src="hhttps://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/screenshots/app_2.png" width="320" />
+
+---
+
 **AsciiPanelView**: https://github.com/Prokky/AsciiPanelView
 
 Port of AsciiPanel library to Android View on Kotlin
