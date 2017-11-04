@@ -6,6 +6,12 @@
 
 ---
 
+**kotlinconf-app**: https://github.com/JetBrains/kotlinconf-app
+
+official KotlinConf App
+
+---
+
 **kotlin-guides**: https://github.com/android/kotlin-guides
 
 A set of guides for writing Kotlin for Android. https://android.github.io/kotlin-guides/
