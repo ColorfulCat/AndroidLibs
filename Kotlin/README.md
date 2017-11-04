@@ -62,6 +62,14 @@ Kotlin Wrapper for Jsoup
 
 ---
 
+**Eyepetizer-in-Kotlin**: https://github.com/LRH1993/Eyepetizer-in-Kotlin
+
+使用Kotlin撸一款Eyepetizer，学习Kotlin语言
+
+<img src="https://camo.githubusercontent.com/688be82151a9ddcbaac5f9a9c68b01a324f1868c/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333938353536332d346166623164396338353933643566322e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="600" />
+
+---
+
 **PoiShuhui-Kotlin**: https://github.com/wuapnjie/PoiShuhui-Kotlin
 
 一个用Kotlin写的简单漫画APP
