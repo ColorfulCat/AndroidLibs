@@ -30,6 +30,14 @@ Google I/O ‘17新动画特效
 
 ---
 
+**lottie-android**: https://github.com/airbnb/lottie-android
+
+Lottie是Airbnb开源的一个支持 Android、iOS 以及 ReactNative,利用json文件的方式快速实现动画效果的库
+
+<img src="https://github.com/airbnb/lottie-android/raw/master/gifs/Example1.gif" width="400" /> <img src="https://github.com/airbnb/lottie-android/raw/master/gifs/Example2.gif" width="400" />
+
+---
+
 **Fish**: https://github.com/Jichensheng/Fish
 
 灵动的红鲤鱼
