@@ -22,6 +22,12 @@ ENViews, 一个华丽丽的动效控件库
 
 ---
 
+**SVGAPlayer-Android**: https://github.com/yyued/SVGAPlayer-Android
+
+使用 SVGAPlayer 在 Android、iOS、Web中播放 After Effects / Animate CC (Flash) 动画
+
+---
+
 **PhysicsBasedAnimation**: https://github.com/Rkhcy/PhysicsBasedAnimation
 
 Google I/O ‘17新动画特效
