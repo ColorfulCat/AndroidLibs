@@ -6,6 +6,12 @@
 
 ---
 
+**kotlin-guides**: https://github.com/android/kotlin-guides
+
+A set of guides for writing Kotlin for Android. https://android.github.io/kotlin-guides/
+
+---
+
 **from-java-to-kotlin**: https://github.com/MindorksOpenSource/from-java-to-kotlin
 
 《From Java To Kotlin》从Java到Kotlin·译 （双语对比）
