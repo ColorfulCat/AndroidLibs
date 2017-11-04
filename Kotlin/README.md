@@ -62,6 +62,14 @@ Kotlin Wrapper for Jsoup
 
 ---
 
+**PoiShuhui-Kotlin**: https://github.com/wuapnjie/PoiShuhui-Kotlin
+
+一个用Kotlin写的简单漫画APP
+
+<img src="https://camo.githubusercontent.com/b61b119488c632328092f60ecb600ecf79643527/687474703a2f2f377872716d6a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f5336303331302d3232323033372e6a70673f696d616765566965772f322f772f3330302f712f3930" width="320" /> <img src="https://camo.githubusercontent.com/ba6f0785a37e76bfbcd5c0dc5d71326ebb509a60/687474703a2f2f377872716d6a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f5336303331302d3232323032392e6a70673f696d616765566965772f322f772f3330302f712f3930" width="320" />
+
+---
+
 **GankClient-Kotlin**: https://github.com/githubwing/GankClient-Kotlin
 
 gank.io kotlin实现的干货集中营Android客户端 Kotlin Dagger Databinding Rxjava Retrofit Okhttp3
