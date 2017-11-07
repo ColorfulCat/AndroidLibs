@@ -136,6 +136,14 @@ Amazing Dynamic Time UI :clock1030: :hourglass: and More
 
 ---
 
+**RangeSliderWithNumber**: https://github.com/freecats/RangeSliderWithNumber
+
+A digital selector with bubbles and ruler
+
+<img src="https://github.com/freecats/Resources/blob/master/NumberSelect.gif" width="320"/>
+
+---
+
 **TagSelectorView**: https://github.com/Rock610/TagSelectorView
 
 TagSelectorView
