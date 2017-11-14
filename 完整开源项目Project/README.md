@@ -1426,6 +1426,14 @@ Qiitanium is an unofficial Android application of Qiita
 
 ---
 
+**LaunchEnr**: https://github.com/enricocid/LaunchEnr
+
+一个简单好看的 Android Launcher
+
+<img src="https://raw.githubusercontent.com/enricocid/LaunchEnr/master/art2_0.png" width="600"/>
+
+---
+
 **KISS**: https://github.com/Neamar/KISS
 
 轻量的安卓桌面
