@@ -1,6 +1,6 @@
 # AndroidLibs == 图片 Image
 
-包含：图片加载框架ImageLoader、自定义图片、裁剪Crop、形状Shape、人脸识别……
+包含：图片加载框架ImageLoader、自定义图片、裁剪Crop、形状Shape、人脸识别、相机……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
@@ -199,6 +199,14 @@ Clickable ImageView that expands to full screen and is dismissible by swiping th
 二代身份证信息识别
 
 <img src = "https://camo.githubusercontent.com/84165b0a30c3bfa248518a1f3715433b9d0bb942/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313530393037313635313233343033" width = "320"/>
+
+---
+
+**ProCamera**: https://github.com/18Gray/ProCamera
+
+ProCamera是一款基于Camera2 API的相机，实现了相机的常用功能，力求不断挖掘Camera2的巨大潜力，锻造一款在功能和设计上完美的相机产品
+
+<img src = "https://github.com/18Gray/ProCamera/raw/master/screenshot/camera2.jpg" width = "320"/> <img src = "https://github.com/18Gray/ProCamera/raw/master/screenshot/modeselect.jpg" width = "320"/>
 
 ---
 
