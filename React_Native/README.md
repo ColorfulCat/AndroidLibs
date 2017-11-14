@@ -26,6 +26,14 @@ React Native 仿 ofo 共享单车 App
 
 ---
 
+**reading**: https://github.com/attentiveness/reading
+
+阅读应用
+
+<img src="https://github.com/attentiveness/reading/raw/master/screenshot/iReading_Main.png" width="320" /> <img src="https://github.com/attentiveness/reading/raw/master/screenshot/iReading_Article.png" width="320" />
+
+---
+
 **react-native-node**: https://github.com/staltz/react-native-node
 
 在 React Native 环境下，运行一个 Node Server Http 服务
