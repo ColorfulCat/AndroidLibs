@@ -5,6 +5,13 @@
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
 ---
+**yjPlay**: https://github.com/yangchaojiang/yjPlay
+
+PlayPauseView 一个支持自定义布局, 多种加密算法,直播 ,亮度,音量,快进等手势 ,广告视频预览 ,清晰度切换 , 自定义数据源,列表播放,倍数播放 神奇的播放器
+
+<img src="https://github.com/yangchaojiang/yjPlay/blob/master/test.gif" width="300" />
+
+---
 
 **PlayPauseView**: https://github.com/Lauzy/PlayPauseView
 
