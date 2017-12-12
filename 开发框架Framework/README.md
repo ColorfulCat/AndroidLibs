@@ -12,6 +12,12 @@
 
 ---
 
+**CC**：https://github.com/luckybilly/CC
+
+可关联生命周期的组件化开发框架，让组件间的调用像直接依赖一样方便
+
+---
+
 **android-tips-tricks**：https://github.com/nisrulz/android-tips-tricks
 
 Android 开发的一些 Tips 集合
