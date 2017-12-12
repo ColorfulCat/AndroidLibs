@@ -12,6 +12,12 @@ Publish bintray aar/jar multi-module in a duper easy way
 
 ---
 
+**AutoRegister**: https://github.com/luckybilly/AutoRegister
+
+编译期自动扫描子类或接口实现类并生成代码将对象注册到其管理类中(如：组件化框架中的组件自动注册)
+
+---
+
 **ClassPlugin**: https://github.com/dinuscxj/ClassPlugin
 
 致Android开发 —— 灵活的Class替换插件
