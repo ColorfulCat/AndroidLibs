@@ -20,6 +20,14 @@ TextView 上显示链接，@某人，标签等
 
 ---
 
+**HTextView: https://github.com/hanks-zyh/HTextView
+
+给文本加上动画
+
+<img src="https://github.com/hanks-zyh/HTextView/blob/master/screenshot/demo3.gif" width="320"/>
+
+---
+
 **ProgressTextView**: https://github.com/JackDinealKIM/ProgressTextView
 
 ProgressTextView
