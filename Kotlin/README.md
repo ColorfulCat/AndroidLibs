@@ -6,6 +6,12 @@
 
 ---
 
+**Design-Patterns-In-Kotlin**: https://github.com/dbacinski/Design-Patterns-In-Kotlin
+
+Kotlin实现的设计模式
+
+---
+
 **Scarlet**: https://github.com/Tinder/Scarlet
 
 A Retrofit inspired WebSocket client for Kotlin, Java, and Android
