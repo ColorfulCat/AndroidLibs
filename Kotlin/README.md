@@ -6,6 +6,12 @@
 
 ---
 
+**Scarlet**: https://github.com/Tinder/Scarlet
+
+A Retrofit inspired WebSocket client for Kotlin, Java, and Android
+
+---
+
 **kotlinconf-app**: https://github.com/JetBrains/kotlinconf-app
 
 official KotlinConf App
