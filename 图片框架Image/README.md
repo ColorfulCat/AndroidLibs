@@ -106,7 +106,7 @@ A simple imageview which allows you to create diagonal cut views easily
 
 ---
 
-**PaletteImageView: https://github.com/DingMouRen/PaletteImageView-
+**PaletteImageView: https://github.com/DingMouRen/PaletteImageView
 
 懂得智能配色的ImageView,还能给自己设置多彩的阴影
 
@@ -119,6 +119,14 @@ A simple imageview which allows you to create diagonal cut views easily
 头像加载进度
 
 <img src="https://github.com/qintong91/InsLoadingAnimation/raw/master/screenshots/demo.gif" width="270"/>
+
+---
+
+**AndroidWM: https://github.com/huangyz0918/AndroidWM
+
+轻量级安卓水印框架，支持隐形数字水印
+
+<img src="https://camo.githubusercontent.com/ee10fde843f5050abbb3424ad9470d17150f1102/68747470733a2f2f692e6c6f6c692e6e65742f323031382f30392f30352f356238663565623161376662302e706e67" width="400"/> <img src="https://camo.githubusercontent.com/42a674fdf9e49c7e774c205063427e1b863a2f90/68747470733a2f2f692e6c6f6c692e6e65742f323031382f30392f30352f356238663565623234643066642e706e67" width="400"/>
 
 ---
 
