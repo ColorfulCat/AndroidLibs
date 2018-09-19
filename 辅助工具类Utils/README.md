@@ -96,6 +96,12 @@ Android 晃动检测小工具
 
 ---
 
+**ScreenAdaptation**: https://github.com/wildma/ScreenAdaptation
+
+一种非常好用的Android屏幕适配
+
+---
+
 **AndroidAutoSize**: https://github.com/JessYanCoding/AndroidAutoSize
 
 今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案
