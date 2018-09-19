@@ -96,6 +96,14 @@ Android 晃动检测小工具
 
 ---
 
+**AndroidAutoSize**: https://github.com/JessYanCoding/AndroidAutoSize
+
+今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案
+
+<img src="https://github.com/JessYanCoding/AndroidAutoSize/blob/master/art/1440x2880_width.png" width="320"/>
+
+---
+
 **shortcut-helper**: https://github.com/marcoscgdev/shortcut-helper
 
 An android library to create the new Android 7.1 shortcuts easily
