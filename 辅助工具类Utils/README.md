@@ -1008,6 +1008,14 @@ Stetho-Couchbase is a plugin for Stetho to enable visualizing and debugging Andr
 
 ---
 
+**MMKV**: https://github.com/Tencent/MMKV
+
+腾讯出品的MMKV——基于 mmap 的高性能通用 key-value 组件
+
+<img src="https://raw.githubusercontent.com/wiki/Tencent/MMKV/assets/profile_android_mini.jpg" width="480"/>
+
+---
+
 **SessionManager-Android**: https://github.com/Chingiz/SessionManager-Android
 
 Small Shared Preference Library for Android
