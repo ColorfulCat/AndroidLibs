@@ -5,6 +5,8 @@
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
 ---
+
+
 **yjPlay**: https://github.com/yangchaojiang/yjPlay
 
 PlayPauseView 一个支持自定义布局, 多种加密算法,直播 ,亮度,音量,快进等手势 ,广告视频预览 ,清晰度切换 , 自定义数据源,列表播放,倍数播放 神奇的播放器
@@ -358,6 +360,14 @@ YouTube 控制播放
 MJPEG 视频流播放
 
 <img src="https://raw.githubusercontent.com/niqdev/ipcam-view/master/images/screenshot-default.png" width="320" /> <img src="https://raw.githubusercontent.com/niqdev/ipcam-view/master/images/screenshot-settings.png" width="320" />
+
+---
+
+**YCAudioPlayer**: https://github.com/yangchong211/YCAudioPlayer
+
+音频播放器，基础播放功能有：播放，暂停，下一首，上一首；可以设置多种播放类型：顺序播放，随机播放，单曲循环；可以设置播放进度快慢，参考混沌大学APP；支持后台播放，可以扫描本地音频，有效处理了捕获/丢弃音频焦点逻辑，支持耳机线控。通知栏，底部音频播放控制栏，音频List页面和播放详情页数据同步
+
+<img src="https://camo.githubusercontent.com/daba1df3bc050be29c8d4dca049e8cfa35bfe4eb/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f343433323334372d313261663334363231376231623263352e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="320" />
 
 ---
 
