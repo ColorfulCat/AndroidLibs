@@ -6,6 +6,14 @@
 
 ---
 
+**android-sku**: https://github.com/wuhenzhizao/android-sku
+
+Android Sku属性选择器, 类似于淘宝，天猫，京东，支持MVVM
+
+<img src="https://raw.githubusercontent.com/wuhenzhizao/android-sku/master/screenshots/20171201_131516.gif" width="320" />
+
+---
+
 **datepicker-timeline**: https://github.com/badoualy/datepicker-timeline
 
 An infinite scrolling timeline to pick a date
