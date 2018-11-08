@@ -18,6 +18,14 @@ Google I/O 大会 App 的最新源代码
 
 ---
 
+**LifeHelper**: https://github.com/yangchong211/LifeHelper
+
+综合案例训练，包含新闻，视频，图片，音乐，记事本等等模块。架构模式：采用MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5+腾讯bugly
+
+<img src = "https://camo.githubusercontent.com/674dcb17dd8230923c657902077535bb10fc6002/687474703a2f2f70307536326730306e2e626b742e636c6f7564646e2e636f6d2f53637265656e73686f745f323031372d30392d33302d31372d31322d35362e706e67" width = "270"/> <img src = "https://camo.githubusercontent.com/7caa6c4e3a7d109489986e693ca71d65b80f6af1/687474703a2f2f70307536326730306e2e626b742e636c6f7564646e2e636f6d2f53637265656e73686f745f323031372d30392d33302d31372d31332d35322e706e67" width = "270"/>
+
+---
+
 **android-permission-checker-app**: https://github.com/Arjun-sna/android-permission-checker-app
 
 识别应用中的各种权限
