@@ -6,6 +6,13 @@
 
 ---
 
+**YCVideoPlayer**: https://github.com/yangchong211/YCVideoPlayer
+
+视频播放器封装库案例，仿照优酷，爱奇艺视频播放器，可以添家视频观看权限，试看模式，类似优酷试看功能。基于ijkplayer，支持网络视频或者本地视频播放，滑动调节亮度或者音量，快进快退，记录播放位置。可以设置边观看变缓存，支持全屏播放，小窗口，正常播放等模式；还支持列表播放，切换分辨率，还可以自定义视频播放器，拓展性强
+
+<img src="https://camo.githubusercontent.com/aa54342a03398a4afe0e9ae3f0257137cdce6bee/687474703a2f2f70326d71737a706a662e626b742e636c6f7564646e2e636f6d2f53637265656e73686f745f32303138303131362d3131333434362e706e67" width="300" />
+
+---
 
 **yjPlay**: https://github.com/yangchaojiang/yjPlay
 
