@@ -381,3 +381,9 @@ Netroid是一个基于Volley 实现的Android Http库。提供执行网络请求
 A demo show how to use Volley with OkHttp and https.同步发于[简书](http://www.jianshu.com/p/e58161cbc3a4)
 
 ---
+
+**ksoap2-android**:[https://github.com/simpligility/ksoap2-android](https://github.com/simpligility/ksoap2-android)
+在Android平台上调用Webservice
+jar包下载地址:[https://oss.sonatype.org/content/repositories/ksoap2-android-releases/com/google/code/ksoap2-android/](https://oss.sonatype.org/content/repositories/ksoap2-android-releases/com/google/code/ksoap2-android/)
+
+---
