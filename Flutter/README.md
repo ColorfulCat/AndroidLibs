@@ -6,6 +6,14 @@
 
 ---
 
+**zhihu-flutter**: https://github.com/HackSoul/zhihu-flutter
+
+Flutter 高仿知乎 UI，非常漂亮，也非常流畅，flutter build apk 或 flutter build ios 之后更流畅
+
+<img src="https://github.com/HackSoul/zhihu-flutter/blob/master/image/1.png" width="320"/>
+
+---
+
 **Vadaski-flutter_note_book**: https://github.com/Vadaski/Vadaski-flutter_note_book
 
 Vadaski-flutter_note_book, 每个demo文件代码在100行左右，十分适合 Flutter 新手阅读
