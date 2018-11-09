@@ -12,6 +12,14 @@ Google I/O 大会 App 的最新源代码
 
 ---
 
+**android-sunflower**: https://github.com/googlesamples/android-sunflower
+
+A gardening app illustrating Android development best practices with Android Jetpack
+
+<img src = "https://github.com/googlesamples/android-sunflower/blob/master/screenshots/jetpack_donut.png" width = "480"/>
+
+---
+
 **NoticeDog**: https://github.com/bunnyblue/NoticeDog
 
 一个基于NotificationListenerService 的Android通知管理app，可以防止微信消息撤回
