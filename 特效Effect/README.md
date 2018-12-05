@@ -6,6 +6,14 @@
 
 ---
 
+**ASCII-Art-Generator**: https://github.com/zelin/ASCII-Art-Generator
+
+ASCII艺术生成器
+
+<img src="https://github.com/zelin/ASCII-Art-Generator/blob/master/Screenshots/image_1.jpg" width="320" /> <img src="https://github.com/zelin/ASCII-Art-Generator/blob/master/Screenshots/image_2.jpg" width="320" />
+
+---
+
 **SlidingUpPanelLayout**: https://github.com/woxingxiao/SlidingUpPanelLayout
 
 一个竖直方向的SlidingPanelLayout，支持加载多个Panel，可以灵活地实现漂亮的的交互效果
