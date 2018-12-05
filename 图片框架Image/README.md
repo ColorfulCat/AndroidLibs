@@ -22,6 +22,14 @@ Android OpenGL ES 2.0/3.0 Engine
 
 ---
 
+**android-face-detector: https://github.com/husaynhakeem/android-face-detector
+
+实时人脸检测
+
+<img src="https://github.com/husaynhakeem/android-face-detector/blob/master/app/art/demo.jpg" width="400"/>
+
+---
+
 **AndroidFaceDetection: https://github.com/lchad/AndroidFaceDetection
 
 Android 平台进行人脸检测的几种方案
