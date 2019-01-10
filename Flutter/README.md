@@ -6,6 +6,14 @@
 
 ---
 
+**flutter-common-widgets-app**: https://github.com/alibaba/flutter-common-widgets-app
+
+flutter 菜鸟 APP，包含常用 flutter 组件的中文文档与 demo 演示
+
+<img src="https://camo.githubusercontent.com/9fda71677b2f0ec7602d8a9442804b07b32ab2af/68747470733a2f2f696d672e616c6963646e2e636f6d2f7466732f5442316f65696342686a614b31526a535a4641585862644c4658612d3334352d3731372e676966" width="320"/> <img src="https://camo.githubusercontent.com/b65b06d4c09cef5b04a5db48ec4c7f45a772f5fe/68747470733a2f2f696d672e616c6963646e2e636f6d2f7466732f544231574a4e75426d7a714b31526a535a506358586254657058612d3334352d3731372e676966" width="320"/>
+
+---
+
 **zhihu-flutter**: https://github.com/HackSoul/zhihu-flutter
 
 Flutter 高仿知乎 UI，非常漂亮，也非常流畅，flutter build apk 或 flutter build ios 之后更流畅
