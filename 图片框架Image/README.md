@@ -532,6 +532,14 @@ An implementation of High Pass Skin Smoothing on Android Bitmap 美颜
 
 ---
 
+**LargeImage**: https://github.com/LuckyJayce/LargeImage
+
+Android 加载大图 可以高清显示10000*10000像素的图片，轻松实现微博长图功能
+
+<img src = "https://github.com/LuckyJayce/LargeImage/blob/master/raw/demo.gif" width = "320"/>
+
+---
+
 **BigImageViewer**: https://github.com/Piasy/BigImageViewer
 
 大图查看加载库，支持拖动和缩放，利用 fresco 加载，超级方便，但是内存占用超级低，一点也不卡
