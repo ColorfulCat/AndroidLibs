@@ -14,6 +14,14 @@ flutter 菜鸟 APP，包含常用 flutter 组件的中文文档与 demo 演示
 
 ---
 
+**Flutter-learning**: https://github.com/AweiLoveAndroid/Flutter-learning
+
+Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。
+
+<img src="https://github.com/AweiLoveAndroid/Flutter-learning/raw/master/pics/logo.png?raw=true" width="320"/>
+
+---
+
 **HistoryOfEverything**: https://github.com/2d-inc/HistoryOfEverything
 
 Flutter Launch Timeline Demo
