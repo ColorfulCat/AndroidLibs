@@ -30,6 +30,14 @@ Flutter Launch Timeline Demo
 
 ---
 
+**Flutter-CuriosityApp**: https://github.com/xumaohuai/Flutter-CuriosityApp
+
+Flutter高仿好奇心日报
+
+<img src="https://camo.githubusercontent.com/ab569934d15c7e2884af113c6fe3cc861360181c/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313232303332392d643961656239306663323535373439652e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="320"/>
+
+---
+
 **zhihu-flutter**: https://github.com/HackSoul/zhihu-flutter
 
 Flutter 高仿知乎 UI，非常漂亮，也非常流畅，flutter build apk 或 flutter build ios 之后更流畅
