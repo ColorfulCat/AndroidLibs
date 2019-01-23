@@ -14,6 +14,12 @@ Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和�
 
 ---
 
+**flutter-study**: https://github.com/yang7229693/flutter-study
+
+持续更新Flutter学习过程中的总结
+
+---
+
 **flutter-common-widgets-app**: https://github.com/alibaba/flutter-common-widgets-app
 
 flutter 菜鸟 APP，包含常用 flutter 组件的中文文档与 demo 演示
