@@ -36,6 +36,14 @@ Flutter Launch Timeline Demo
 
 ---
 
+**ycflutter**: https://github.com/yangchong211/ycflutter
+
+一个体验好的flutter版本的玩android客户端
+
+<img src="https://github.com/yangchong211/ycflutter/raw/master/iamge/3.jpg" width="320"/> <img src="https://github.com/yangchong211/ycflutter/raw/master/iamge/7.jpg" width="320"/>
+
+---
+
 **Flutter-CuriosityApp**: https://github.com/xumaohuai/Flutter-CuriosityApp
 
 Flutter高仿好奇心日报
