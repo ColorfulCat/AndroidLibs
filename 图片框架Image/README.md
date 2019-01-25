@@ -22,6 +22,12 @@ Android OpenGL ES 2.0/3.0 Engine
 
 ---
 
+**sketch: https://github.com/panpf/sketch
+
+Sketch 是 Android 上一个强大且全面的图片加载器，支持 GIF，手势缩放以及分块显示超大图片
+
+---
+
 **android-face-detector: https://github.com/husaynhakeem/android-face-detector
 
 实时人脸检测
@@ -1126,7 +1132,7 @@ A library to take picture easy, trasnfrom your data and save photos in your devi
 
 **android-gif-drawable**: https://github.com/koral--/android-gif-drawable
 
-Views and Drawable for displaying animated GIFs on Android
+安卓 Gif 图片加载
 
 ---
 
