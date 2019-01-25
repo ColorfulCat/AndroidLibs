@@ -17,6 +17,14 @@ Flutter 完整项目大全
 
 ---
 
+**flutter_file_manager**: https://github.com/huang-weilong/flutter_file_manager
+
+一个flutter版本的文件管理器，查看SD卡内的文件
+
+<img src="https://github.com/huang-weilong/flutter_file_manager/raw/master/assets/images/image.jpg" width="320"/>
+
+---
+
 **Flutter-learning**: https://github.com/AweiLoveAndroid/Flutter-learning
 
 Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。
