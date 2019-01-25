@@ -28,6 +28,14 @@ Sketch 是 Android 上一个强大且全面的图片加载器，支持 GIF，手
 
 ---
 
+**https://github.com/moyokoo/Diooto: https://github.com/moyokoo/Diooto
+
+微博,微信图库效果,微信视频拖放效果,适配状态栏 、屏幕旋转 、全屏 、长图、GIF、视频
+
+<img src="https://github.com/moyokoo/Media/raw/master/diooto3.gif?raw=true" width="320"/> <img src="https://github.com/moyokoo/Media/raw/master/diooto1.gif?raw=true" width="320"/>
+
+---
+
 **android-face-detector: https://github.com/husaynhakeem/android-face-detector
 
 实时人脸检测
