@@ -12,6 +12,14 @@ Google I/O 大会 App 的最新源代码
 
 ---
 
+**giffun**: https://github.com/guolindev/giffun
+
+一款开源的GIF在线分享App，乐趣就要和世界分享
+
+<img src = "https://github.com/guolindev/giffun/raw/master/screenshots/screenshot3.gif" width = "320"/> <img src = "https://github.com/guolindev/giffun/raw/master/screenshots/giffun_demo.gif" width = "320"/>
+
+---
+
 **Todo**: https://github.com/xujiaji/Todo
 
 简洁清爽的Todo清单工具，MVP+okhttp3+retrofit+gson，Api来自玩Android
