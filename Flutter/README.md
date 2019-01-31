@@ -17,6 +17,14 @@ Flutter 完整项目大全
 
 ---
 
+**flutter_luban**: https://github.com/crazecoder/flutter_luban
+
+一个flutter版本的图片压缩工具
+
+<img src="https://github.com/crazecoder/flutter_luban/raw/62bae66c5d067db82117038c6bb8bac2d54e14f9/screenshot/test.png?raw=true" width="480"/>
+
+---
+
 **flutter_file_manager**: https://github.com/huang-weilong/flutter_file_manager
 
 一个flutter版本的文件管理器，查看SD卡内的文件
