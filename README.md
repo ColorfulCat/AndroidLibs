@@ -31,9 +31,7 @@
 - [Gradle](https://github.com/XXApple/AndroidLibs/tree/master/Gradle)
 - [ReactNative](https://github.com/XXApple/AndroidLibs/tree/master/React_Native)
 - [Kotlin](https://github.com/XXApple/AndroidLibs/tree/master/Kotlin)
-- [Flutter](https://github.com/XXApple/AndroidLibs/tree/master/Flutter)
-
-
+- :fire:[Flutter](https://github.com/XXApple/AndroidLibs/tree/master/Flutter)
 
 
 ---
