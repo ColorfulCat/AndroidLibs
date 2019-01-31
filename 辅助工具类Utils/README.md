@@ -1910,36 +1910,6 @@ Router activities
 
 ---
 
-**Sherlock**: https://github.com/ajitsing/Sherlock
-
-异常捕获
-
-<img src="https://github.com/ajitsing/ScreenShots/blob/master/sherlock/sherlock_demo.gif" width="320" />
-
----
-
-**AutoCrashReporter**: https://github.com/devsideal/AutoCrashReporter
-
-ACR is an android library to simplify crash detection while your app is under development, crash will be automatically detect by the library then app tester/user can easily send the crash report on one click to developer that will help him to fix the issue
-
-<img src="https://raw.githubusercontent.com/devsideal/AutoCrashReporter/master/assets/acr_demo.gif" width="280" />
-
----
-
-**android-easy-crash-handle**: https://github.com/Mauiie/android-easy-crash-handle
-
-一个很容易使用的Android异常捕获、收集、提交的组件
-
----
-
-**Bugtags-Android**: https://github.com/bugtags/Bugtags-Android
-
-Simple and effective bug & crash reporting tool for Android apps http://bugtags.com/
-
-<img src="https://github.com/bugtags/Bugtags-Android/blob/master/screenshot/usage.gif" width="320" />
-
----
-
 **PermissionManager**:https://github.com/karanchuri/PermissionManager
 
 搜索清单权限并动态申请
@@ -2341,6 +2311,12 @@ Screaming fast JSON parsing and serialization library for Android.
 
 ---
 
+**Cockroach**: https://github.com/android-notes/Cockroach
+
+降低Android非必要crash
+
+---
+
 **SpiderMan**: https://github.com/simplepeng/SpiderMan
 
 崩溃日志手机端显示 ，测试妹妹的最爱，开发哥哥的小棉袄
@@ -2368,6 +2344,36 @@ FireCrasher is a Uncaught Exceptions handler library for android
 Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
 
 <img src="https://github.com/Ereza/CustomActivityOnCrash/blob/master/images/frontpage.png" width="640" />
+
+---
+
+**Sherlock**: https://github.com/ajitsing/Sherlock
+
+异常捕获
+
+<img src="https://github.com/ajitsing/ScreenShots/blob/master/sherlock/sherlock_demo.gif" width="320" />
+
+---
+
+**AutoCrashReporter**: https://github.com/devsideal/AutoCrashReporter
+
+ACR is an android library to simplify crash detection while your app is under development, crash will be automatically detect by the library then app tester/user can easily send the crash report on one click to developer that will help him to fix the issue
+
+<img src="https://raw.githubusercontent.com/devsideal/AutoCrashReporter/master/assets/acr_demo.gif" width="280" />
+
+---
+
+**android-easy-crash-handle**: https://github.com/Mauiie/android-easy-crash-handle
+
+一个很容易使用的Android异常捕获、收集、提交的组件
+
+---
+
+**Bugtags-Android**: https://github.com/bugtags/Bugtags-Android
+
+Simple and effective bug & crash reporting tool for Android apps http://bugtags.com/
+
+<img src="https://github.com/bugtags/Bugtags-Android/blob/master/screenshot/usage.gif" width="320" />
 
 ---
 
