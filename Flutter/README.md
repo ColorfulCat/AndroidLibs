@@ -17,6 +17,14 @@ Flutter 完整项目大全
 
 ---
 
+**flutter_shuqi**: https://github.com/huanxsd/flutter_shuqi
+
+高仿书旗小说 Flutter版，支持iOS、Android
+
+<img src="https://github.com/huanxsd/flutter_shuqi/raw/master/screenshot/ios_2.png" width="480"/>
+
+---
+
 **flutter_luban**: https://github.com/crazecoder/flutter_luban
 
 一个flutter版本的图片压缩工具
