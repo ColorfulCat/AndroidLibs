@@ -17,6 +17,14 @@ Flutter 完整项目大全
 
 ---
 
+**flutter-go**: https://github.com/alibaba/flutter-go
+
+flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
+
+<img src="https://camo.githubusercontent.com/9fda71677b2f0ec7602d8a9442804b07b32ab2af/68747470733a2f2f696d672e616c6963646e2e636f6d2f7466732f5442316f65696342686a614b31526a535a4641585862644c4658612d3334352d3731372e676966" width="320"/> <img src="https://camo.githubusercontent.com/b65b06d4c09cef5b04a5db48ec4c7f45a772f5fe/68747470733a2f2f696d672e616c6963646e2e636f6d2f7466732f544231574a4e75426d7a714b31526a535a506358586254657058612d3334352d3731372e676966" width="320"/>
+
+---
+
 **flutter_shuqi**: https://github.com/huanxsd/flutter_shuqi
 
 高仿书旗小说 Flutter版，支持iOS、Android
