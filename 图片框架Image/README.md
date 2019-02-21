@@ -1,6 +1,6 @@
 # AndroidLibs == 图片 Image
 
-包含：图片加载框架ImageLoader、自定义图片、裁剪Crop、形状Shape、人脸识别……
+包含：图片加载框架ImageLoader、自定义图片、裁剪Crop、形状Shape、人脸识别、相机……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
@@ -19,6 +19,28 @@
 **Rajawali: https://github.com/Rajawali/Rajawali
 
 Android OpenGL ES 2.0/3.0 Engine
+
+---
+
+**sketch: https://github.com/panpf/sketch
+
+Sketch 是 Android 上一个强大且全面的图片加载器，支持 GIF，手势缩放以及分块显示超大图片
+
+---
+
+**Diooto: https://github.com/moyokoo/Diooto
+
+微博,微信图库效果,微信视频拖放效果,适配状态栏 、屏幕旋转 、全屏 、长图、GIF、视频
+
+<img src="https://github.com/moyokoo/Media/raw/master/diooto3.gif?raw=true" width="320"/> <img src="https://github.com/moyokoo/Media/raw/master/diooto1.gif?raw=true" width="320"/>
+
+---
+
+**android-face-detector: https://github.com/husaynhakeem/android-face-detector
+
+实时人脸检测
+
+<img src="https://github.com/husaynhakeem/android-face-detector/blob/master/app/art/demo.jpg" width="400"/>
 
 ---
 
@@ -106,7 +128,7 @@ A simple imageview which allows you to create diagonal cut views easily
 
 ---
 
-**PaletteImageView: https://github.com/DingMouRen/PaletteImageView-
+**PaletteImageView: https://github.com/DingMouRen/PaletteImageView
 
 懂得智能配色的ImageView,还能给自己设置多彩的阴影
 
@@ -119,6 +141,14 @@ A simple imageview which allows you to create diagonal cut views easily
 头像加载进度
 
 <img src="https://github.com/qintong91/InsLoadingAnimation/raw/master/screenshots/demo.gif" width="270"/>
+
+---
+
+**AndroidWM: https://github.com/huangyz0918/AndroidWM
+
+轻量级安卓水印框架，支持隐形数字水印
+
+<img src="https://camo.githubusercontent.com/ee10fde843f5050abbb3424ad9470d17150f1102/68747470733a2f2f692e6c6f6c692e6e65742f323031382f30392f30352f356238663565623161376662302e706e67" width="400"/> <img src="https://camo.githubusercontent.com/42a674fdf9e49c7e774c205063427e1b863a2f90/68747470733a2f2f692e6c6f6c692e6e65742f323031382f30392f30352f356238663565623234643066642e706e67" width="400"/>
 
 ---
 
@@ -199,6 +229,14 @@ Clickable ImageView that expands to full screen and is dismissible by swiping th
 二代身份证信息识别
 
 <img src = "https://camo.githubusercontent.com/84165b0a30c3bfa248518a1f3715433b9d0bb942/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313530393037313635313233343033" width = "320"/>
+
+---
+
+**ProCamera**: https://github.com/18Gray/ProCamera
+
+ProCamera是一款基于Camera2 API的相机，实现了相机的常用功能，力求不断挖掘Camera2的巨大潜力，锻造一款在功能和设计上完美的相机产品
+
+<img src = "https://github.com/18Gray/ProCamera/raw/master/screenshot/camera2.jpg" width = "320"/> <img src = "https://github.com/18Gray/ProCamera/raw/master/screenshot/modeselect.jpg" width = "320"/>
 
 ---
 
@@ -508,6 +546,14 @@ An implementation of High Pass Skin Smoothing on Android Bitmap 美颜
 
 ---
 
+**LargeImage**: https://github.com/LuckyJayce/LargeImage
+
+Android 加载大图 可以高清显示10000*10000像素的图片，轻松实现微博长图功能
+
+<img src = "https://github.com/LuckyJayce/LargeImage/blob/master/raw/demo.gif" width = "320"/>
+
+---
+
 **BigImageViewer**: https://github.com/Piasy/BigImageViewer
 
 大图查看加载库，支持拖动和缩放，利用 fresco 加载，超级方便，但是内存占用超级低，一点也不卡
@@ -791,6 +837,14 @@ A small tool to convert your app's png&jpg image files into WebP when possible
 **Luban**: https://github.com/Curzibn/Luban
 
 Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法
+
+---
+
+**zBarLibary**: https://github.com/bertsir/zBarLibary
+
+zbar扫描快，zxing可以生成和识别本地，So,我就把他们结合在了一起
+
+<img src="https://camo.githubusercontent.com/9eec49996c71fef00e117356beb8ee91bc2ed7c8/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333032393032302d623030343430373562323162326637632e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f333633" width="320" /> <img src="https://camo.githubusercontent.com/d6372d677c6dae51ae7d8228b797223e0ff2a35f/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333032393032302d633763373962366166346461363936302e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f333630" width="320" />
 
 ---
 
@@ -1086,7 +1140,7 @@ A library to take picture easy, trasnfrom your data and save photos in your devi
 
 **android-gif-drawable**: https://github.com/koral--/android-gif-drawable
 
-Views and Drawable for displaying animated GIFs on Android
+安卓 Gif 图片加载
 
 ---
 

@@ -16,7 +16,7 @@ android-loadingdialog
 
 **Morphing-Material-Dialogs**: https://github.com/AdityaAnand1/Morphing-Material-Dialogs
 
-变化过度效果的 Dialog Box，动画效果很棒
+变化过渡效果的 Dialog Box，动画效果很棒
 
 <img src="https://github.com/AdityaAnand1/Morphing-Material-Dialogs/raw/master/screenies/1.gif" width="320" />
 

@@ -12,9 +12,41 @@ Google I/O 大会 App 的最新源代码
 
 ---
 
+**giffun**: https://github.com/guolindev/giffun
+
+一款开源的GIF在线分享App，乐趣就要和世界分享
+
+<img src = "https://github.com/guolindev/giffun/raw/master/screenshots/screenshot3.gif" width = "320"/> <img src = "https://github.com/guolindev/giffun/raw/master/screenshots/giffun_demo.gif" width = "320"/>
+
+---
+
+**Todo**: https://github.com/xujiaji/Todo
+
+简洁清爽的Todo清单工具，MVP+okhttp3+retrofit+gson，Api来自玩Android
+
+<img src = "https://raw.githubusercontent.com/xujiaji/xujiaji.github.io/pictures/todo/screen/20181203103804.png" width = "320"/>
+
+---
+
+**android-sunflower**: https://github.com/googlesamples/android-sunflower
+
+A gardening app illustrating Android development best practices with Android Jetpack
+
+<img src = "https://github.com/googlesamples/android-sunflower/blob/master/screenshots/jetpack_donut.png" width = "480"/>
+
+---
+
 **NoticeDog**: https://github.com/bunnyblue/NoticeDog
 
 一个基于NotificationListenerService 的Android通知管理app，可以防止微信消息撤回
+
+---
+
+**LifeHelper**: https://github.com/yangchong211/LifeHelper
+
+综合案例训练，包含新闻，视频，图片，音乐，记事本等等模块。架构模式：采用MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5+腾讯bugly
+
+<img src = "https://camo.githubusercontent.com/674dcb17dd8230923c657902077535bb10fc6002/687474703a2f2f70307536326730306e2e626b742e636c6f7564646e2e636f6d2f53637265656e73686f745f323031372d30392d33302d31372d31322d35362e706e67" width = "270"/> <img src = "https://camo.githubusercontent.com/7caa6c4e3a7d109489986e693ca71d65b80f6af1/687474703a2f2f70307536326730306e2e626b742e636c6f7564646e2e636f6d2f53637265656e73686f745f323031372d30392d33302d31372d31332d35322e706e67" width = "270"/>
 
 ---
 
@@ -1423,6 +1455,14 @@ Material Design Notes App
 Qiitanium is an unofficial Android application of Qiita
 
 <img src="https://raw.githubusercontent.com/ogaclejapan/Qiitanium/master/art/qiitanium.gif" width="320" />
+
+---
+
+**LaunchEnr**: https://github.com/enricocid/LaunchEnr
+
+一个简单好看的 Android Launcher
+
+<img src="https://raw.githubusercontent.com/enricocid/LaunchEnr/master/art2_0.png" width="600"/>
 
 ---
 

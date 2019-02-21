@@ -96,6 +96,20 @@ Android 晃动检测小工具
 
 ---
 
+**ScreenAdaptation**: https://github.com/wildma/ScreenAdaptation
+
+一种非常好用的Android屏幕适配
+
+---
+
+**AndroidAutoSize**: https://github.com/JessYanCoding/AndroidAutoSize
+
+今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案
+
+<img src="https://github.com/JessYanCoding/AndroidAutoSize/blob/master/art/1440x2880_width.png" width="320"/>
+
+---
+
 **shortcut-helper**: https://github.com/marcoscgdev/shortcut-helper
 
 An android library to create the new Android 7.1 shortcuts easily
@@ -994,6 +1008,14 @@ Stetho-Couchbase is a plugin for Stetho to enable visualizing and debugging Andr
 
 ---
 
+**MMKV**: https://github.com/Tencent/MMKV
+
+腾讯出品的MMKV——基于 mmap 的高性能通用 key-value 组件
+
+<img src="https://raw.githubusercontent.com/wiki/Tencent/MMKV/assets/profile_android_mini.jpg" width="480"/>
+
+---
+
 **SessionManager-Android**: https://github.com/Chingiz/SessionManager-Android
 
 Small Shared Preference Library for Android
@@ -1888,36 +1910,6 @@ Router activities
 
 ---
 
-**Sherlock**: https://github.com/ajitsing/Sherlock
-
-异常捕获
-
-<img src="https://github.com/ajitsing/ScreenShots/blob/master/sherlock/sherlock_demo.gif" width="320" />
-
----
-
-**AutoCrashReporter**: https://github.com/devsideal/AutoCrashReporter
-
-ACR is an android library to simplify crash detection while your app is under development, crash will be automatically detect by the library then app tester/user can easily send the crash report on one click to developer that will help him to fix the issue
-
-<img src="https://raw.githubusercontent.com/devsideal/AutoCrashReporter/master/assets/acr_demo.gif" width="280" />
-
----
-
-**android-easy-crash-handle**: https://github.com/Mauiie/android-easy-crash-handle
-
-一个很容易使用的Android异常捕获、收集、提交的组件
-
----
-
-**Bugtags-Android**: https://github.com/bugtags/Bugtags-Android
-
-Simple and effective bug & crash reporting tool for Android apps http://bugtags.com/
-
-<img src="https://github.com/bugtags/Bugtags-Android/blob/master/screenshot/usage.gif" width="320" />
-
----
-
 **PermissionManager**:https://github.com/karanchuri/PermissionManager
 
 搜索清单权限并动态申请
@@ -2319,6 +2311,20 @@ Screaming fast JSON parsing and serialization library for Android.
 
 ---
 
+**Cockroach**: https://github.com/android-notes/Cockroach
+
+降低Android非必要crash
+
+---
+
+**SpiderMan**: https://github.com/simplepeng/SpiderMan
+
+崩溃日志手机端显示 ，测试妹妹的最爱，开发哥哥的小棉袄
+
+<img src="https://camo.githubusercontent.com/710f18aa8b5248c33100e74b03cd25c6f4743371/68747470733a2f2f73696d706c652d6275636b65742d313235373034343336352e636f732e61702d63686f6e6771696e672e6d7971636c6f75642e636f6d2f64656275672e676966" width="320" />
+
+---
+
 **Recovery**: https://github.com/Sunzxyong/Recovery
 
 App 崩溃后，帮助你恢复现场并查看崩溃信息的库，在开发阶段相当实用，建议大家集成进去节省些开发时间
@@ -2338,6 +2344,36 @@ FireCrasher is a Uncaught Exceptions handler library for android
 Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog.
 
 <img src="https://github.com/Ereza/CustomActivityOnCrash/blob/master/images/frontpage.png" width="640" />
+
+---
+
+**Sherlock**: https://github.com/ajitsing/Sherlock
+
+异常捕获
+
+<img src="https://github.com/ajitsing/ScreenShots/blob/master/sherlock/sherlock_demo.gif" width="320" />
+
+---
+
+**AutoCrashReporter**: https://github.com/devsideal/AutoCrashReporter
+
+ACR is an android library to simplify crash detection while your app is under development, crash will be automatically detect by the library then app tester/user can easily send the crash report on one click to developer that will help him to fix the issue
+
+<img src="https://raw.githubusercontent.com/devsideal/AutoCrashReporter/master/assets/acr_demo.gif" width="280" />
+
+---
+
+**android-easy-crash-handle**: https://github.com/Mauiie/android-easy-crash-handle
+
+一个很容易使用的Android异常捕获、收集、提交的组件
+
+---
+
+**Bugtags-Android**: https://github.com/bugtags/Bugtags-Android
+
+Simple and effective bug & crash reporting tool for Android apps http://bugtags.com/
+
+<img src="https://github.com/bugtags/Bugtags-Android/blob/master/screenshot/usage.gif" width="320" />
 
 ---
 

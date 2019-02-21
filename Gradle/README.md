@@ -12,6 +12,18 @@ Publish bintray aar/jar multi-module in a duper easy way
 
 ---
 
+**android-build-filter-gradle-plugin**: https://github.com/yanbober/android-build-filter-gradle-plugin
+
+一个小众需求下移除 Android 构建中 Jar 包、AAR 包、构建冗余 class 文件的 Gradle 插件
+
+---
+
+**AutoRegister**: https://github.com/luckybilly/AutoRegister
+
+编译期自动扫描子类或接口实现类并生成代码将对象注册到其管理类中(如：组件化框架中的组件自动注册)
+
+---
+
 **ClassPlugin**: https://github.com/dinuscxj/ClassPlugin
 
 致Android开发 —— 灵活的Class替换插件
