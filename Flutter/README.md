@@ -123,7 +123,7 @@ Vadaski-flutter_note_book, 每个demo文件代码在100行左右，十分适合 
 
 ---
 
-**Flutter仿写网易云音乐:quiet-flutter**: https://github.com/Binaryify/NeteaseCloudMusicApi
+**Flutter仿写网易云音乐:quiet-flutter**: https://github.com/boyan01/quiet-flutter
 
 仿网易云音乐，一边学习一边开发。希望能多点star，给予动力完成此项目。
 
