@@ -343,6 +343,18 @@ An extension of RelativeLayout that helps show loading, empty and error layout
 
 ---
 
+**Gloading**: https://github.com/luckybilly/Gloading
+
+深度解耦Android App中全局加载中、加载失败及空数据视图
+
+Wrap activity page
+
+Load success|Load failed and click retry|Load success with empty data|This loading status UI is special
+:---:|:---:|:---:|:---:
+<img src="https://github.com/luckybilly/Gloading/raw/master/image/en_load_success.gif" width="200" />|<img src="https://github.com/luckybilly/Gloading/raw/master/image/en_load_failed.gif" width="200" />|<img src="https://github.com/luckybilly/Gloading/raw/master/image/en_load_empty_data.gif" width="200" />|<img src="https://github.com/luckybilly/Gloading/raw/master/image/en_load_special_loading.gif" width="200" />
+
+---
+
 **presenter-layout**: https://github.com/CROSP/presenter-layout
 
 安卓覆盖的 View， 可显示成功，错误，加载，文本等
