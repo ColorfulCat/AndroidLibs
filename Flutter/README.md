@@ -31,6 +31,12 @@ flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与
 
 ---
 
+**hybrid_router**: https://github.com/weidian/hybrid_router
+
+一个 Flutter 的混合开发解决方案，无需修改业务中 Navigator 相关代码，可以帮你轻松的将 Flutter 混合栈能力加入到现有的 flutter 工程，你可以像开发原生 flutter app 一样开发混合栈 app
+
+---
+
 **Flutter-InfiniteCards**: https://github.com/BakerJQ/Flutter-InfiniteCards
 
 自定义实现神奇动效的卡片切换视图
@@ -38,7 +44,6 @@ flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与
 | Android | iOS |
 | :------: | :------: |
 | ![](https://raw.githubusercontent.com/BakerJQ/Flutter-InfiniteCards/master/screenshot/android.gif) | ![](https://raw.githubusercontent.com/BakerJQ/Flutter-InfiniteCards/master/screenshot/ios.gif) |
-
 
 ---
 
