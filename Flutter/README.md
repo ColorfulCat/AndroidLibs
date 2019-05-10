@@ -31,6 +31,17 @@ flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与
 
 ---
 
+**Flutter-InfiniteCards**: https://github.com/BakerJQ/Flutter-InfiniteCards
+
+自定义实现神奇动效的卡片切换视图
+
+| Android | iOS |
+| :------: | :------: |
+| ![](https://raw.githubusercontent.com/BakerJQ/Flutter-InfiniteCards/master/screenshot/android.gif) | ![](https://raw.githubusercontent.com/BakerJQ/Flutter-InfiniteCards/master/screenshot/ios.gif) |
+
+
+---
+
 **flutter_shuqi**: https://github.com/huanxsd/flutter_shuqi
 
 高仿书旗小说 Flutter版，支持iOS、Android
