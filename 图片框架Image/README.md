@@ -970,6 +970,14 @@ Android 色彩渐进 ImageView
 
 ---
 
+**CainCamera**: https://github.com/CainKernel/CainCamera
+
+CainCamera是一个集美颜相机、图片编辑、短视频编辑等功能的综合性开源APP，目前主要介绍美颜相机、短视频编辑功能的实现，图片编辑功能暂时还没时间处理。 本人编写该项目主要用于学习如何实现相机的实时美颜、动态滤镜、动态贴纸、彩妆、拍照、短视频分段录制与回删、图片编辑、短时频编辑与合成等功能。
+
+<img src="https://github.com/CainKernel/CainCamera/blob/master/screenshot/sticker_and_filter.jpg" width="480" />
+
+---
+
 **CameraFilters**: https://github.com/JessYanCoding/CameraFilters
 
 摄像头实时滤镜处理库,自带10多种滤镜,支持滤镜扩展,并且兼容七牛云直播滤镜处理
