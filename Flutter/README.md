@@ -15,6 +15,14 @@ https://itsallwidgets.com/: flutter 项目集合
 
 ---
 
+**flutter-challenges**: https://github.com/javico2609/flutter-challenges
+
+Flutter UI examples
+
+<img src="https://raw.githubusercontent.com/javico2609/flutter-challenges/master/ss6.png" width="320"/> <img src="https://raw.githubusercontent.com/javico2609/flutter-challenges/master/ss8.gif" width="320"/>
+
+---
+
 **FlutterExampleApps**: https://github.com/iampawan/FlutterExampleApps
 
 Flutter 完整项目大全
