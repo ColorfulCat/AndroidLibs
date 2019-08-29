@@ -9,6 +9,12 @@
 
 ---
 
+**flutter-tutorials**: https://github.com/FilledStacks/flutter-tutorials
+
+The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
+
+---
+
 **https://itsallwidgets.com**: https://itsallwidgets.com/
 
 https://itsallwidgets.com/: flutter 项目集合
