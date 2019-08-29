@@ -207,6 +207,14 @@ Flutter 练习项目。包括完整UI设计图，更贴近真实项目的练习
 
 ---
 
+**flutter_app**: https://github.com/shichunlei/flutter_app
+
+本项目包括各种基本控件使用（Text、TextField、Icon、Image、Listview、Gridview、Picker、Stepper、Dialog、Slider、Row、Appbar、Sizebox、BottomSheet、Chip、Dismissible、FlutterLogo、Check、Switch、TabBar、BottomNavigationBar、Sliver等）、豆瓣电影、每日一文、和天气、百姓生活、随机诗词、联系人、句子迷、好奇心日报、有道精品课、高德定位、追书神器等板块
+
+<img src="https://github.com/shichunlei/flutter_app/raw/master/screenshots/Screenshot_2019-02-28-09-40-04-052.png" width="320"/> <img src="https://github.com/shichunlei/flutter_app/raw/master/screenshots/Screenshot_2019-04-26-15-38-33-468.jpg" width="320"/>
+
+---
+
 **alice**: https://github.com/jhomlala/alice
 
 HTTP Inspector for Flutter
