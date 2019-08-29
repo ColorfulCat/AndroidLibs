@@ -15,6 +15,13 @@ https://itsallwidgets.com/: flutter 项目集合
 
 ---
 
+**flutter_device_preview**: https://github.com/aloisdeniel/flutter_device_preview
+
+Flutter 屏幕适配
+
+<img src="https://github.com/aloisdeniel/flutter_device_preview/raw/master/device_preview.gif" width="600"/>
+---
+
 **flutter-challenges**: https://github.com/javico2609/flutter-challenges
 
 Flutter UI examples
@@ -151,6 +158,6 @@ Vadaski-flutter_note_book, 每个demo文件代码在100行左右，十分适合 
 
 仿网易云音乐，一边学习一边开发。希望能多点star，给予动力完成此项目。
 
-<img src="https://raw.githubusercontent.com/boyan01/boyan01.github.io/master/quiet/play_interaction.gif" width="320"/><img src="https://camo.githubusercontent.com/9e82c8cb1b67d3bbd9bf0f3890b93101af373a3e/68747470733a2f2f626f79616e30312e6769746875622e696f2f71756965742f696e7465726174696f6e5f706c61796c6973742e676966" width="320"/><img src="https://camo.githubusercontent.com/abf169c2128fd8e6307904e20c300bea3b5d7ddf/68747470733a2f2f626f79616e30312e6769746875622e696f2f71756965742f6c797269632e676966" width="320"/>
+<img src="https://raw.githubusercontent.com/boyan01/boyan01.github.io/master/quiet/play_interaction.gif" width="270"/><img src="https://camo.githubusercontent.com/9e82c8cb1b67d3bbd9bf0f3890b93101af373a3e/68747470733a2f2f626f79616e30312e6769746875622e696f2f71756965742f696e7465726174696f6e5f706c61796c6973742e676966" width="270"/><img src="https://camo.githubusercontent.com/abf169c2128fd8e6307904e20c300bea3b5d7ddf/68747470733a2f2f626f79616e30312e6769746875622e696f2f71756965742f6c797269632e676966" width="270"/>
 ---
 
