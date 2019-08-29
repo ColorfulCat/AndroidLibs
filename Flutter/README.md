@@ -15,6 +15,12 @@ https://itsallwidgets.com/: flutter 项目集合
 
 ---
 
+**trans2fw**: https://github.com/ryan730/trans2fw
+
+自动化 flutter native 项目转化成 flutter-web 项目
+
+---
+
 **alice**: https://github.com/jhomlala/alice
 
 HTTP Inspector for Flutter
