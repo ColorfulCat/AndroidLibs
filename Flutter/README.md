@@ -15,11 +15,20 @@ https://itsallwidgets.com/: flutter 项目集合
 
 ---
 
+**bezier-chart**: https://github.com/aeyrium/bezier-chart
+
+A beautiful bezier line chart widget for flutter that is highly interactive and configurable.
+
+<img src="https://camo.githubusercontent.com/32ff499304f1dec97780c0289806d051ea0449c5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f34546b63774533436d4931783775517450702f67697068792e676966" width="320"/> <img src="https://camo.githubusercontent.com/294b1cab8fd43b61b20fc7e8445f66e430c786af/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6e6937735451395a306872775073563238372f67697068792e676966" width="320"/>
+
+---
+
 **flutter_device_preview**: https://github.com/aloisdeniel/flutter_device_preview
 
 Flutter 屏幕适配
 
 <img src="https://github.com/aloisdeniel/flutter_device_preview/raw/master/device_preview.gif" width="600"/>
+
 ---
 
 **flutter-challenges**: https://github.com/javico2609/flutter-challenges
