@@ -199,6 +199,14 @@ https://itsallwidgets.com/: flutter 项目集合
 
 ---
 
+**Flutter_Bubble**: https://github.com/ACE-YANGCE/Flutter_Bubble
+
+Flutter_Bubble
+
+<img src="https://raw.githubusercontent.com/ACE-YANGCE/Flutter_Bubble/master/bubble_chat.jpg" width="320"/>
+
+---
+
 **flutter_deer**: https://github.com/simplezhli/flutter_deer
 
 Flutter 练习项目。包括完整UI设计图，更贴近真实项目的练习
