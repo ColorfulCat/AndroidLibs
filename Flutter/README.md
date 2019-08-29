@@ -15,6 +15,14 @@ https://itsallwidgets.com/: flutter 项目集合
 
 ---
 
+**alice**: https://github.com/jhomlala/alice
+
+HTTP Inspector for Flutter
+
+<img src="https://github.com/jhomlala/comptf2/raw/master/media/appsmaller.gif" width="320"/>
+
+---
+
 **bezier-chart**: https://github.com/aeyrium/bezier-chart
 
 A beautiful bezier line chart widget for flutter that is highly interactive and configurable.
