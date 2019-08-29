@@ -199,6 +199,14 @@ https://itsallwidgets.com/: flutter 项目集合
 
 ---
 
+**flutter_deer**: https://github.com/simplezhli/flutter_deer
+
+Flutter 练习项目。包括完整UI设计图，更贴近真实项目的练习
+
+<img src="https://github.com/simplezhli/flutter_deer/raw/master/preview/Screenshot_3.png" width="320"/> <img src="https://github.com/simplezhli/flutter_deer/raw/master/preview/Screenshot_21.png" width="320"/>
+
+---
+
 **alice**: https://github.com/jhomlala/alice
 
 HTTP Inspector for Flutter
