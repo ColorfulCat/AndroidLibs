@@ -205,6 +205,12 @@ https://itsallwidgets.com/: flutter 项目集合
 
 ---
 
+**flutter-hackernews**: https://github.com/alfianlosari/flutter-hackernews
+
+Hacker News client implemented using Flutter
+
+---
+
 **Flutter_Bubble**: https://github.com/ACE-YANGCE/Flutter_Bubble
 
 Flutter_Bubble
