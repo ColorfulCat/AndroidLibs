@@ -15,6 +15,12 @@ The repo contains the source code for all the tutorials on the FilledStacks Yout
 
 ---
 
+**fluttercandies**: https://github.com/fluttercandies
+
+flutter糖果集合，包含extended_image， extended_text_field等
+
+---
+
 **https://itsallwidgets.com**: https://itsallwidgets.com/
 
 https://itsallwidgets.com/: flutter 项目集合
