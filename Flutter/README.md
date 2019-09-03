@@ -213,6 +213,14 @@ Flutter_Bubble
 
 ---
 
+**fubble**: https://github.com/cimplesid/fubble
+
+A flutter app to implement canvas
+
+<img src="https://raw.githubusercontent.com/cimplesid/fubble/master/home.png" width="320"/>
+
+---
+
 **flutter_deer**: https://github.com/simplezhli/flutter_deer
 
 Flutter 练习项目。包括完整UI设计图，更贴近真实项目的练习
