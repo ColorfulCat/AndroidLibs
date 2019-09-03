@@ -211,6 +211,14 @@ Hacker News client implemented using Flutter
 
 ---
 
+**today**: https://github.com/LinXiaoTao/today
+
+仿即刻Flutter版本
+
+<img src="https://github.com/LinXiaoTao/today/raw/master/gif/jike.gif" width="320"/>
+
+---
+
 **Flutter_Bubble**: https://github.com/ACE-YANGCE/Flutter_Bubble
 
 Flutter_Bubble
