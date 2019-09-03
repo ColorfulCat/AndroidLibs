@@ -219,6 +219,14 @@ Flutter_Bubble
 
 ---
 
+**bookshare**: https://github.com/MarcioQuimbundo/bookshare
+
+bookshare
+
+<img src="https://github.com/MarcioQuimbundo/bookshare/raw/master/preview.png" width="600"/>
+
+---
+
 **fubble**: https://github.com/cimplesid/fubble
 
 A flutter app to implement canvas
