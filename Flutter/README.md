@@ -9,6 +9,12 @@
 
 ---
 
+**https://flutterawesome.com/**: https://flutterawesome.com/
+
+https://flutterawesome.com/
+
+---
+
 **flutter-tutorials**: https://github.com/FilledStacks/flutter-tutorials
 
 The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
