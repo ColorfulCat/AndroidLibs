@@ -33,6 +33,14 @@ https://itsallwidgets.com/: flutter 项目集合
 
 ---
 
+**GZXTaoBaoAppFlutter**: https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter
+
+Flutter淘宝App，支持iOS、Android
+
+<img src="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter/blob/master/preview_images/%E9%A6%96%E9%A1%B5.gif" width="320"/>
+
+---
+
 **trans2fw**: https://github.com/ryan730/trans2fw
 
 自动化 flutter native 项目转化成 flutter-web 项目
