@@ -10,7 +10,7 @@
 
 Collection of Jetpack Compose example code
 
-<img https://github.com/Foso/Jetpack-Compose-Playground/raw/master/docs/screenshots/selectiondemo.png" width="270" /> <img src="https://github.com/Foso/Jetpack-Compose-Playground/raw/master/docs/screenshots/MainPage.png" width="270" />
+<img src="https://github.com/Foso/Jetpack-Compose-Playground/raw/master/docs/screenshots/selectiondemo.png" width="270" /> <img src="https://github.com/Foso/Jetpack-Compose-Playground/raw/master/docs/screenshots/MainPage.png" width="270" />
 
 ---
 
