@@ -52,7 +52,6 @@ ad:  阿里巴巴淘系技术部招客户端开发、前端开发、后端JAVA�
 Thanks to :
 
 - http://gank.io/
-- http://www.23code.com/
 - https://github.com/wasabeef/awesome-android-ui
 - http://www.jcodecraeer.com/
 
